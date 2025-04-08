@@ -1,0 +1,1868 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_main_button0",
+      "content": "Cửa Sổ"
+    },
+    {
+      "id": "mainui_main_button1",
+      "content": "Tội Nhân"
+    },
+    {
+      "id": "mainui_main_button2",
+      "content": "Phòng Chiếu"
+    },
+    {
+      "id": "mainui_main_button3",
+      "content": "Lên Đường"
+    },
+    {
+      "id": "mainui_main_button4",
+      "content": "Trích Xuất"
+    },
+    {
+      "id": "mainui_main_button5",
+      "content": "Phân Tách"
+    },
+    {
+      "id": "mainui_main_exp",
+      "content": "EXP"
+    },
+    {
+      "id": "mainui_main_stamina",
+      "content": "Stamina"
+    },
+    {
+      "id": "mainui_main_enkephalin",
+      "content": "Enkephalin"
+    },
+    {
+      "id": "mainui_main_madness",
+      "content": "Lunacy"
+    },
+    {
+      "id": "mainui_battleselection_everydungeon",
+      "content": "Mirror Dungeons"
+    },
+    {
+      "id": "mainui_stageinfo_recommendlevel",
+      "content": "Difficulty"
+    },
+    {
+      "id": "mainui_stageinfo_enemyinfo",
+      "content": "Enemy Info"
+    },
+    {
+      "id": "mainui_stageinfo_exclearcondition",
+      "content": "EX Objectives"
+    },
+    {
+      "id": "mainui_stageinfo_statinfo",
+      "content": "Thông Số"
+    },
+    {
+      "id": "mainui_stageinfo_resistinfo",
+      "content": "Sức Kháng Cự"
+    },
+    {
+      "id": "mainui_stageinfo_enterbutton",
+      "content": "Vào"
+    },
+    {
+      "id": "mainui_stageinfo_dungeonclear",
+      "content": "Mục Tiêu Chính"
+    },
+    {
+      "id": "mainui_sinners_battleannouncer",
+      "content": "Bình Luận Viên"
+    },
+    {
+      "id": "mainui_sinners_dante",
+      "content": "Dante"
+    },
+    {
+      "id": "mainui_sinners_decklist",
+      "content": "DECK LIST"
+    },
+    {
+      "id": "mainui_sinners_deck",
+      "content": "Deck"
+    },
+    {
+      "id": "mainui_sinners_passive",
+      "content": "NỘI TẠI"
+    },
+    {
+      "id": "mainui_sinners_egoresource",
+      "content": "NGUYÊN TỘI"
+    },
+    {
+      "id": "mainui_sinners_participant",
+      "content": "Select Participants"
+    },
+    {
+      "id": "mainui_sinners_startbattle",
+      "content": "Chiến!"
+    },
+    {
+      "id": "mainui_common_personality",
+      "content": "Danh Tính"
+    },
+    {
+      "id": "mainui_common_filter",
+      "content": "Filter"
+    },
+    {
+      "id": "mainui_common_state",
+      "content": "Current"
+    },
+    {
+      "id": "mainui_common_sort",
+      "content": "Sort"
+    },
+    {
+      "id": "mainui_sinners_unequipego",
+      "content": "Unequipped"
+    },
+    {
+      "id": "mainui_skip_desc",
+      "content": "Are you sure you want to skip?"
+    },
+    {
+      "id": "mainui_battleresult_reward",
+      "content": "Phần Thưởng"
+    },
+    {
+      "id": "mainui_battleresult_exclearreward",
+      "content": "EX Rewards"
+    },
+    {
+      "id": "mainui_battleresult_statistics",
+      "content": "Thông Số"
+    },
+    {
+      "id": "mainui_ok",
+      "content": "Xác Nhận"
+    },
+    {
+      "id": "mainui_battleresult_victory",
+      "content": "Chiến Thắng"
+    },
+    {
+      "id": "mainui_battleresult_defeat",
+      "content": "Thất Bại"
+    },
+    {
+      "id": "mainui_battleresult_return",
+      "content": "Return"
+    },
+    {
+      "id": "mainui_battleresult_hint",
+      "content": "Hint"
+    },
+    {
+      "id": "mainui_page",
+      "content": "Pg. {0}"
+    },
+    {
+      "id": "mainui_cancel",
+      "content": "Cancel"
+    },
+    {
+      "id": "mainui_select",
+      "content": "Select"
+    },
+    {
+      "id": "mainui_select_finished",
+      "content": "Finalize"
+    },
+    {
+      "id": "mainui_grade",
+      "content": "Stage {0}"
+    },
+    {
+      "id": "mainui_floor",
+      "content": "Floor {0}"
+    },
+    {
+      "id": "mainui_main_enkephalin_Box",
+      "content": "Enkephalin Box"
+    },
+    {
+      "id": "mainui_main_own_count",
+      "content": "Owned"
+    },
+    {
+      "id": "mainui_mirror_entrance_entry",
+      "content": "Will you enter {0}?"
+    },
+    {
+      "id": "mainui_mirror_entrance_progressing",
+      "content": "{0} is in progress."
+    },
+    {
+      "id": "mainui_mirror_entrance_re_entry",
+      "content": "Will you reenter the dungeon?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit",
+      "content": "Quit exploring the dungeon?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit_former",
+      "content": "Forfeit previous exploration progress?"
+    },
+    {
+      "id": "mainui_mirror_entrance_warning",
+      "content": "※ Spent Enkephalin Modules will not be refunded."
+    },
+    {
+      "id": "mainui_proress",
+      "content": "Tiến Hành"
+    },
+    {
+      "id": "mainui_stop",
+      "content": "Dừng"
+    },
+    {
+      "id": "mainui_next",
+      "content": "Tiếp"
+    },
+    {
+      "id": "mainui_ego_list",
+      "content": "Danh Sách E.G.O"
+    },
+    {
+      "id": "mainui_personality_list",
+      "content": "Danh Sách Danh Tính"
+    },
+    {
+      "id": "mainui_acquired_reward",
+      "content": "Đã Nhận Thưởng"
+    },
+    {
+      "id": "mainui_dungeon_finished",
+      "content": "Ngừng Thám Hiểm"
+    },
+    {
+      "id": "mainui_category",
+      "content": "Huyền Thoại"
+    },
+    {
+      "id": "mainui_stats_hp",
+      "content": "HP"
+    },
+    {
+      "id": "mainui_stats_speed",
+      "content": "SPD"
+    },
+    {
+      "id": "mainui_stats_defense",
+      "content": "Defense Level"
+    },
+    {
+      "id": "mainui_upgrade",
+      "content": "Power-up"
+    },
+    {
+      "id": "mainui_mirror_select_ego",
+      "content": "Tới E.G.O"
+    },
+    {
+      "id": "mainui_mirror_opening",
+      "content": "Đang Mở"
+    },
+    {
+      "id": "mainui_simulation",
+      "content": "Mô Phỏng"
+    },
+    {
+      "id": "mainui_untill",
+      "content": "Hết Hạn"
+    },
+    {
+      "id": "mainui_free",
+      "content": "M.Phí"
+    },
+    {
+      "id": "mainui_paid",
+      "content": "Mua"
+    },
+    {
+      "id": "mainui_support",
+      "content": "Hỗ Trợ"
+    },
+    {
+      "id": "mainui_gacha_rateinfo",
+      "content": "Tỉ Lệ"
+    },
+    {
+      "id": "mainui_gacha_history",
+      "content": "Lịch Sử Trích Xuất"
+    },
+    {
+      "id": "mainui_gacha_daliynotice",
+      "content": "Đặt lại mỗi ngày vào {0}:00"
+    },
+    {
+      "id": "mainui_gacha_alreadyusedgacha",
+      "content": "Đạt Ngưỡng Giới Hạn Ngày"
+    },
+    {
+      "id": "mainui_gacha_extract1",
+      "content": "Trích Xuất 1"
+    },
+    {
+      "id": "mainui_gacha_extract10",
+      "content": "Trích Xuất 10"
+    },
+    {
+      "id": "mainui_open_battlepass",
+      "content": "The Battle Pass is unlocked!"
+    },
+    {
+      "id": "mainui_grade_without_space",
+      "content": "Step {0}"
+    },
+    {
+      "id": "mainui_type",
+      "content": "Loại"
+    },
+    {
+      "id": "mainui_level_unit",
+      "content": "{0}★"
+    },
+    {
+      "id": "mainui_Change_lobby_illust",
+      "content": "Change Lobby Art"
+    },
+    {
+      "id": "mainui_lobby_illust_acquisition_method",
+      "content": "To Unlock:"
+    },
+    {
+      "id": "mainui_networkingerror_content",
+      "content": "Không thể kết nối mạng.\nXin hãy kiểm tra đường truyền Internet."
+    },
+    {
+      "id": "mainui_networkingerror_close",
+      "content": "Đóng"
+    },
+    {
+      "id": "mainui_networkingerror_retry",
+      "content": "Thử Lại"
+    },
+    {
+      "id": "mainui_event_notice",
+      "content": "Thông Báo Sự Kiện"
+    },
+    {
+      "id": "mainui_system_notice",
+      "content": "Thông Báo Từ Hệ Thống"
+    },
+    {
+      "id": "mainui_team",
+      "content": "Đội"
+    },
+    {
+      "id": "mainui_cost",
+      "content": "Giá Trị"
+    },
+    {
+      "id": "mainui_dungeon_progress_rate",
+      "content": "Tiến Trình Hầm Ngục"
+    },
+    {
+      "id": "mainui_guaranteed_reward",
+      "content": "Phần Thưởng"
+    },
+    {
+      "id": "mainui_select_reward",
+      "content": "Optional Rewards"
+    },
+    {
+      "id": "mainui_battle_pass_exp",
+      "content": "Điểm Vé Limbus"
+    },
+    {
+      "id": "mainui_enforce_ticket",
+      "content": "Upgrade Tickets"
+    },
+    {
+      "id": "mainui_reward_random_box",
+      "content": "Egoshard Crates"
+    },
+    {
+      "id": "mainui_reward_select_box",
+      "content": "Nominable Egoshard Crates"
+    },
+    {
+      "id": "mainui_manaUsage",
+      "content": "Tinh Thần Tiêu Tốn"
+    },
+    {
+      "id": "mainui_abnormality_analysis_level",
+      "content": "Mức Độ Hiện Tại"
+    },
+    {
+      "id": "mainui_analysis",
+      "content": "Thêu Dệt"
+    },
+    {
+      "id": "mainui_abnormality_analysis",
+      "content": "Thêu Dệt"
+    },
+    {
+      "id": "mainui_receive",
+      "content": "Nhận"
+    },
+    {
+      "id": "mainui_dungeon_finished_reward",
+      "content": "Exploration Reward"
+    },
+    {
+      "id": "mainui_passive",
+      "content": "Nội Tại"
+    },
+    {
+      "id": "mainui_support_passive",
+      "content": "Hỗ Trợ"
+    },
+    {
+      "id": "mainui_synchronization",
+      "content": "Đồng Bộ"
+    },
+    {
+      "id": "mainui_personality_synchronization_level",
+      "content": "Cấp Đồng Bộ"
+    },
+    {
+      "id": "mainui_owned",
+      "content": "Đã Sở Hữu"
+    },
+    {
+      "id": "mainui_growth_level_limited",
+      "content": "Không thể dùng ở cấp độ {0}+"
+    },
+    {
+      "id": "mainui_stats_attack",
+      "content": "ATK"
+    },
+    {
+      "id": "mainui_mailbox_receive_all",
+      "content": "Nhận Tất Cả"
+    },
+    {
+      "id": "mainui_mailbox_receive_history",
+      "content": "Lịch Sử"
+    },
+    {
+      "id": "mainui_remain_days",
+      "content": "Còn {0} ngày"
+    },
+    {
+      "id": "mainui_mail_remains_count",
+      "content": "Trong Kho"
+    },
+    {
+      "id": "mainui_mail_warning",
+      "content": "※ Chỉ lưu trữ được tối đa 100 thư; thư đã hết hạn sẽ bị <color=#990000>xóa bỏ</color>."
+    },
+    {
+      "id": "mainui_mail_warning2",
+      "content": "※ Items claimed at the mailbox may be subject to cancellation restrictions."
+    },
+    {
+      "id": "main_information",
+      "content": "T.Tin"
+    },
+    {
+      "id": "main_until",
+      "content": "Hết Hạn"
+    },
+    {
+      "id": "mainui_synchronization_grade",
+      "content": "Cấp Đồng Bộ"
+    },
+    {
+      "id": "mainui_organization",
+      "content": "ĐỘI"
+    },
+    {
+      "id": "story_ui_log_popup",
+      "content": "Log"
+    },
+    {
+      "id": "mail_box_attachments",
+      "content": "Content"
+    },
+    {
+      "id": "mail_box_unseal_result",
+      "content": "Parcel Received"
+    },
+    {
+      "id": "item_use_result",
+      "content": "Item Used"
+    },
+    {
+      "id": "giving_up_story_dungeon_title",
+      "content": "Rút Lui Khỏi Hầm Ngục Cốt Truyện"
+    },
+    {
+      "id": "giving_up_story_dungeon_content",
+      "content": "You’re currently exploring Episode {0}’s Story Dungeon.\nForfeit your progress and enter a new dungeon?"
+    },
+    {
+      "id": "mainui_all",
+      "content": "TẤT CẢ"
+    },
+    {
+      "id": "mainui_opened",
+      "content": "Mở"
+    },
+    {
+      "id": "mainui_not_opened",
+      "content": "Đã Khóa"
+    },
+    {
+      "id": "mainui_buy",
+      "content": "Xác Nhận"
+    },
+    {
+      "id": "mainui_use",
+      "content": "Sử Dụng"
+    },
+    {
+      "id": "mainui_consume",
+      "content": "Consumable"
+    },
+    {
+      "id": "mainui_currencies",
+      "content": "Currency"
+    },
+    {
+      "id": "mainui_inventory",
+      "content": "Inventory"
+    },
+    {
+      "id": "mainui_awaken_requirement_amount",
+      "content": "Currency Req."
+    },
+    {
+      "id": "mainui_passive_skill_addition",
+      "content": "Mở Khóa Nội Tại"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_reinforcement",
+      "content": "E.G.O Awakening Upgraded"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_reinforcement",
+      "content": "E.G.O Corrosion Upgraded"
+    },
+    {
+      "id": "mainui_lack_of_material_amount",
+      "content": "Not enough Thread."
+    },
+    {
+      "id": "mainui_move",
+      "content": "Đi"
+    },
+    {
+      "id": "mainui_move_to_twine_store",
+      "content": "Shard::Thread Exchange"
+    },
+    {
+      "id": "mainui_move_to_twine_store_question",
+      "content": "Insufficient Thread.\nGo to the Shard::Thread Exchange?"
+    },
+    {
+      "id": "mainui_confirm_of_purchased_twine",
+      "content": "Convert to {0} Thread?"
+    },
+    {
+      "id": "mainui_result_of_purchased_twine",
+      "content": "Acquired {0} Thread."
+    },
+    {
+      "id": "mainui_personality_awaken_completion",
+      "content": "Identity Uptied"
+    },
+    {
+      "id": "mainui_ego_awaken_completion",
+      "content": "E.G.O Threadspun"
+    },
+    {
+      "id": "mainui_new_skill_acquisition",
+      "content": "New Skill: [{0}]"
+    },
+    {
+      "id": "mainui_new_passive_skill_acquisition",
+      "content": "New Passive: [{0}]"
+    },
+    {
+      "id": "mainui_new_battle_passive_acquisition",
+      "content": "New Combat Passive: [{0}]"
+    },
+    {
+      "id": "mainui_new_support_passive_acquisition",
+      "content": "New Support Passive: [{0}]"
+    },
+    {
+      "id": "mainui_skill_reinforcement",
+      "content": "Skill Enhanced: [{0}]"
+    },
+    {
+      "id": "mainui_unlock_personality_story",
+      "content": "Story of [{0}] Unlocked"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_name_reinforcement",
+      "content": "E.G.O Awakening [{0}] Upgraded"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_name_reinforcement",
+      "content": "E.G.O Corrosion [{0}] Upgraded"
+    },
+    {
+      "id": "mainui_specific_level_achievement",
+      "content": "Đạt c.độ {0}"
+    },
+    {
+      "id": "mainui_personality_awaken_level_up_condition",
+      "content": "Uptie Tier {0} Requirements"
+    },
+    {
+      "id": "mainui_battle_passsive_addition",
+      "content": "Combat Passives Unlocked"
+    },
+    {
+      "id": "mainui_support_passsive_addition",
+      "content": "Support Passives Unlocked"
+    },
+    {
+      "id": "mainui_check_purchase",
+      "content": "Confirm Purchase"
+    },
+    {
+      "id": "mainui_acquire_banner",
+      "content": "Banner Acquired"
+    },
+    {
+      "id": "mainui_purchase_complete",
+      "content": "Đã Mua"
+    },
+    {
+      "id": "mainui_activation",
+      "content": "ĐÃ KÍCH HOẠT"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin",
+      "content": "Insufficient Enkephalin.\nWould you like to recharge your Enkephalin?"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_box",
+      "content": "You don’t have enough Enkephalin Boxes.\nWould you like to go purchase some?"
+    },
+    {
+      "id": "mainui_rewatching-stage-story",
+      "content": "Xem Lại Cốt Truyện"
+    },
+    {
+      "id": "mainui_before_battle",
+      "content": "Trước Trận"
+    },
+    {
+      "id": "mainui_after_battle",
+      "content": "Sau Trận"
+    },
+    {
+      "id": "mainui_story",
+      "content": "Cốt Truyện"
+    },
+    {
+      "id": "Get_Reward",
+      "content": "Nhận Được Phần Thưởng"
+    },
+    {
+      "id": "mainui_user_exp",
+      "content": "EXP Của Quản Lý"
+    },
+    {
+      "id": "mainui_chapter_progress",
+      "content": "Tiến Trình"
+    },
+    {
+      "id": "mainui_ex_clear_progress",
+      "content": "Hoàn Thành Xuất Sắc"
+    },
+    {
+      "id": "mainui_notice_spend_free_lunacy_first",
+      "content": "※ Free Lunacy is used first."
+    },
+    {
+      "id": "mainui_notice_require_lunacy",
+      "content": "※ Not enough Lunacy."
+    },
+    {
+      "id": "mainui_progress_of_spend",
+      "content": "Spend {0} to proceed with {1}?"
+    },
+    {
+      "id": "game_setting",
+      "content": "Cấu Hình"
+    },
+    {
+      "id": "level",
+      "content": "Cấp Độ"
+    },
+    {
+      "id": "name",
+      "content": "Tên"
+    },
+    {
+      "id": "order_of_acquisition",
+      "content": "Recent"
+    },
+    {
+      "id": "tolerance",
+      "content": "T.Số Kháng Cự"
+    },
+    {
+      "id": "outstanding_staff",
+      "content": "Nhân Viên Ưu Tú Nhất"
+    },
+    {
+      "id": "total_damage_contribution",
+      "content": "Tổng Sát Thương"
+    },
+    {
+      "id": "deal_damage",
+      "content": "S.Thương Gây Ra"
+    },
+    {
+      "id": "taken_damage",
+      "content": "S.Thương Đã Nhận"
+    },
+    {
+      "id": "user_level_up_notice",
+      "content": "Cấp Độ Quản Lý Đã Tăng!"
+    },
+    {
+      "id": "increase_maxium_enkephalin",
+      "content": "Giới Hạn Trữ Enkephalin Đã Tăng!"
+    },
+    {
+      "id": "recharge_enkephalin_notice",
+      "content": "Đã Nạp Đầy Enkephalin."
+    },
+    {
+      "id": "gacha_extract_multiple",
+      "content": "Trích Xuất {0}"
+    },
+    {
+      "id": "number_of_times",
+      "content": "Lần"
+    },
+    {
+      "id": "number_of_remain_extract_times",
+      "content": "Lượt Trích Xuất Còn Lại"
+    },
+    {
+      "id": "notice_of_remain_extract_chance",
+      "content": "Danh Tính 3★ hoặc E.G.O chắc chắn ra trong {0} lượt Trích Xuất nữa"
+    },
+    {
+      "id": "mainui_settings",
+      "content": "Cài Đặt"
+    },
+    {
+      "id": "mainui_environment_settings",
+      "content": "Cài Đặt"
+    },
+    {
+      "id": "mainui_back",
+      "content": "Trở Lại"
+    },
+    {
+      "id": "mainui_quit_game",
+      "content": "Thoát Trò Chơi"
+    },
+    {
+      "id": "mainui_acquisition",
+      "content": "Owned"
+    },
+    {
+      "id": "mainui_not_acquisition",
+      "content": "Unowned"
+    },
+    {
+      "id": "mainui_no_record",
+      "content": "No Acquisition Records"
+    },
+    {
+      "id": "resume",
+      "content": "Tiếp Tục"
+    },
+    {
+      "id": "mainui_entering",
+      "content": "Vào Trận"
+    },
+    {
+      "id": "mainui_open_after_clear",
+      "content": "Clear Ch. {0} to Unlock"
+    },
+    {
+      "id": "mainui_organization_sharp",
+      "content": "Đội #{0}"
+    },
+    {
+      "id": "mainui_participant_count",
+      "content": "Chỉnh Đội"
+    },
+    {
+      "id": "mainui_edit",
+      "content": "Điều Chỉnh"
+    },
+    {
+      "id": "mainui_unlock_condition_by_personality_awaken_level",
+      "content": "Unlocked at Tier {0}"
+    },
+    {
+      "id": "skill_growth_value",
+      "content": "Growth"
+    },
+    {
+      "id": "gacha_history_notice",
+      "content": "※ Up to {1} cases over the last {0} days are displayed."
+    },
+    {
+      "id": "gacha_history_empty",
+      "content": "No extraction record to display."
+    },
+    {
+      "id": "own",
+      "content": "Owned"
+    },
+    {
+      "id": "gacha_category",
+      "content": "Category"
+    },
+    {
+      "id": "gacha_time",
+      "content": "Date"
+    },
+    {
+      "id": "used_currencies",
+      "content": "Currency Used"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_module",
+      "content": "Không đủ Mô-đun Enkephalin.\nNén thêm một ít chứ?"
+    },
+    {
+      "id": "list",
+      "content": "Danh Sách"
+    },
+    {
+      "id": "rank",
+      "content": "Độ Hiếm"
+    },
+    {
+      "id": "probability",
+      "content": "Tỉ Lệ"
+    },
+    {
+      "id": "gacha_rate_label",
+      "content": "Tỉ Lệ Trích Xuất"
+    },
+    {
+      "id": "gacha_rate_title_ten1",
+      "content": "[10 Extractions (1st-9th)]: Same rates as [1 Extraction]"
+    },
+    {
+      "id": "gacha_rate_title_ten2",
+      "content": "[10 Extractions (10th)]"
+    },
+    {
+      "id": "gacha_rate_info_intro1",
+      "content": "In compliance with the 「Voluntary Restraint Guidelines of Korea Association of Game Industry」, detailed rates for chance-based items are disclosed here.\n\nIndividual rates are rounded up from the fifth digit after the decimal point. The actual sum is applied as 100%."
+    },
+    {
+      "id": "gacha_rate_info_intro2",
+      "content": "In [10 Extractions], at least 1 Identity with a rarity of 2★ or higher will be extracted.\n\nThe table for the 10th Extraction is as follows:"
+    },
+    {
+      "id": "gacha_rate_info_ego1",
+      "content": "Below is the list of Identities and E.G.O you can obtain following the aforementioned rates.\n\nThe list may change in certain seasons; upcoming changes to the reward tables will be announced in advance."
+    },
+    {
+      "id": "gacha_rate_info_ego2",
+      "content": "<b>E.G.O is extracted non-repetitively; E.G.O acquired through any means, including Extraction, Dispenser, and redemption from the mailbox, will be excluded from the Extraction table.</b>\n\nAs long as there is E.G.O remaining in the table of possible results, the chance of extracting E.G.O in Extraction does not change. Therefore, the chance of acquiring specific E.G.O will increase as more extractions are performed."
+    },
+    {
+      "id": "gacha_rate_info_complete1",
+      "content": "If there is no E.G.O remaining in the table due to the user acquiring all of them, the rates for [1 Extraction] and [10 Extraction] will change accordingly to the following:"
+    },
+    {
+      "id": "gacha_rate_info_complete2",
+      "content": "In Target Extractions, certain Identities and E.G.O have higher extraction rates.\n\nTarget Identities account for 50% of the probabilities for their respective rarities; the rates are evenly shared among them.\n\nThe other 50% of probabilities are evenly distributed between the non-targeted Identities in the table."
+    },
+    {
+      "id": "gacha_rate_info_complete3",
+      "content": "The same applies to Target E.G.O.\n\nChanges in probabilities for Target Extractions do not affect the chances of items of certain types and rarities appearing."
+    },
+    {
+      "id": "gacha_rate_info_piece1",
+      "content": "★ Egoshards\nWhen you extract an Identity or E.G.O you already own, you will get Egoshards of the character, its quantity depending on the item’s type and rarity."
+    },
+    {
+      "id": "gacha_rate_info_piece2",
+      "content": "Egoshards can only be used for a set period. When the expiration date arrives, 50% of the Egoshards in possession are carried over to the next season.\n\nThe remaining Egoshards are converted to Thread."
+    },
+    {
+      "id": "gacha_rate_info_piece3",
+      "content": "The same applies to Egoshard Crates.\n\nPlayers will be notified of the upcoming season change and expiration of Egoshards and Egoshard Crates sometime before the expiration date."
+    },
+    {
+      "id": "personality_preview_notice",
+      "content": "Thông số của Danh Tính ở cấp độ tối đa và từng cấp Đồng Bộ được hiển thị ở đây."
+    },
+    {
+      "id": "ego_preview_notice",
+      "content": "Cấp độ tối đa của E.G.O sẽ được hiển thị ở đây."
+    },
+    {
+      "id": "season_1",
+      "content": "Mùa 1"
+    },
+    {
+      "id": "commonly",
+      "content": "Thường"
+    },
+    {
+      "id": "notice_external_website",
+      "content": "Move to an external website."
+    },
+    {
+      "id": "pass_level",
+      "content": "C.Độ Vé Limbus"
+    },
+    {
+      "id": "normal_reward",
+      "content": "Thưởng"
+    },
+    {
+      "id": "limbus_pass_reward",
+      "content": "Thưởng Vé Limbus"
+    },
+    {
+      "id": "loading_battlehint",
+      "content": "Mẹo Chiến Đấu"
+    },
+    {
+      "id": "status_up",
+      "content": "Tăng Thông Số"
+    },
+    {
+      "id": "active_skill_acquired",
+      "content": "Đã Nhận Thêm Kĩ Năng"
+    },
+    {
+      "id": "active_skill_reinforcement",
+      "content": "Kĩ Năng Được Nâng Cấp"
+    },
+    {
+      "id": "progress_ego_gacksung",
+      "content": "Tiến Hành\nThêu Dệt"
+    },
+    {
+      "id": "skill_with_index",
+      "content": "Kĩ Năng {0}"
+    },
+    {
+      "id": "mail_date",
+      "content": "Ngày"
+    },
+    {
+      "id": "mail_sender",
+      "content": "Người Gửi"
+    },
+    {
+      "id": "mail_history_notice",
+      "content": "※ Hiển thị tối đa {0} vật phẩm đã nhận ở phần lịch sử."
+    },
+    {
+      "id": "cant_receive_mail_all_tilte",
+      "content": "Không Thể Nhận"
+    },
+    {
+      "id": "cant_receive_mail_all_main",
+      "content": "Không có thư khả dụng để xài “Nhận Tất Cả”"
+    },
+    {
+      "id": "attached_item",
+      "content": "Đính Kèm"
+    },
+    {
+      "id": "inventory_category_all",
+      "content": "Tất Cả"
+    },
+    {
+      "id": "inventory_category_normal",
+      "content": "Cơ Bản"
+    },
+    {
+      "id": "inventory_category_consumable",
+      "content": "Tiêu Thụ"
+    },
+    {
+      "id": "inventory_category_pieces",
+      "content": "Mảnh EGO"
+    },
+    {
+      "id": "enkephalin_injection_complete",
+      "content": "Đã Nạp Lại Enkephalin"
+    },
+    {
+      "id": "purchase_impossible",
+      "content": "Không Thể Mua"
+    },
+    {
+      "id": "notice_not_enough_pieces",
+      "content": "※ Không đủ mảnh EGO."
+    },
+    {
+      "id": "buy_personaliy",
+      "content": "Mua Danh Tính"
+    },
+    {
+      "id": "buy_ego",
+      "content": "Mua E.G.O"
+    },
+    {
+      "id": "not_enough_pieces",
+      "content": "Không đủ mảnh EGO"
+    },
+    {
+      "id": "basis",
+      "content": "Cơ Bản"
+    },
+    {
+      "id": "skip_tutorial",
+      "content": "Bỏ Qua Hướng Dẫn"
+    },
+    {
+      "id": "skip_tutorial_description",
+      "content": "Chắc chắn bỏ qua hướng dẫn chứ?"
+    },
+    {
+      "id": "min_speed_upgrade",
+      "content": "Tăng T.Độ Tối Thiểu"
+    },
+    {
+      "id": "max_speed_upgrade",
+      "content": "Tăng T.Độ Tối Đa"
+    },
+    {
+      "id": "min_max_speed_upgrade",
+      "content": "Tăng T.Độ Tối Đa và Tối Thiểu"
+    },
+    {
+      "id": "mailbox",
+      "content": "Hòm Thư"
+    },
+    {
+      "id": "remain_days_label",
+      "content": "Due Date"
+    },
+    {
+      "id": "extract_again",
+      "content": "Tái Trích Xuất"
+    },
+    {
+      "id": "ego_gift",
+      "content": "Quà Tặng E.G.O"
+    },
+    {
+      "id": "classification",
+      "content": "Loại"
+    },
+    {
+      "id": "quantity",
+      "content": "Số Lượng"
+    },
+    {
+      "id": "appearance_probability",
+      "content": "Tỉ Lệ"
+    },
+    {
+      "id": "Individual_appearance_probability",
+      "content": "Tỉ Lệ Riêng Biệt"
+    },
+    {
+      "id": "notice_sold_out",
+      "content": "Hết Hàng Rồi Nha"
+    },
+    {
+      "id": "select_piece",
+      "content": "Chọn Mảnh EGO"
+    },
+    {
+      "id": "mail_item_warning",
+      "content": "※ Không hoàn trả lại sau khi đổi vật phẩm này."
+    },
+    {
+      "id": "mainui_unlock_condition_by_ego_awaken_level",
+      "content": "Unlocked at Tier {0}"
+    },
+    {
+      "id": "empty_mailbox_notice",
+      "content": "Không có thư mới."
+    },
+    {
+      "id": "gacha_rate_detail",
+      "content": "Tỉ Lệ Chi Tiết"
+    },
+    {
+      "id": "gacha_alarm_title",
+      "content": "Tiến Hành Trích Xuất"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "Hoàn Thành {0}"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "Hoàn Thành Hồi {0}"
+    },
+    {
+      "id": "ingredients",
+      "content": "Vật Phẩm"
+    },
+    {
+      "id": "remote_download_return_title",
+      "content": "Phát hiện tài nguyên cần tải xuống\nĐang trở về màn hình chính."
+    },
+    {
+      "id": "battle_skip",
+      "content": "Đánh Nhanh"
+    },
+    {
+      "id": "ask_battle_skip",
+      "content": "Đánh nhanh, bỏ qua tiến trình và nhận thưởng?"
+    },
+    {
+      "id": "notice_consumption_multiples",
+      "content": "{0} cost x {1}"
+    },
+    {
+      "id": "notice_additional_rewards",
+      "content": "Additional rewards {0} earned"
+    },
+    {
+      "id": "gacha_notice_exclude_ego",
+      "content": "Banner Trích Xuất này không bao gồm E.G.O."
+    },
+    {
+      "id": "gacha_notice_single_season",
+      "content": "The 2★ and 3★ Identities in this extraction banner belong to Season {0}."
+    },
+    {
+      "id": "error_and_return_to_main",
+      "content": "Có lỗi xảy ra.\nĐang trở về màn hình chính."
+    },
+    {
+      "id": "to_window",
+      "content": "Về Cửa Sổ"
+    },
+    {
+      "id": "completion",
+      "content": "Hoàn Thành"
+    },
+    {
+      "id": "event_in_progress",
+      "content": "Sự Kiện Đang Mở"
+    },
+    {
+      "id": "end_of_event",
+      "content": "Đã Đóng Sự Kiện"
+    },
+    {
+      "id": "gacha_rate_info_intro1_1a",
+      "content": "The rates for a single Extraction are as follows."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1b",
+      "content": "The table for one use of {0} is as follows."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1c",
+      "content": "When you use {0}, you can choose one currency from the following."
+    },
+    {
+      "id": "package_info_detail1",
+      "content": "When you have selected the currency, the table for acquiring different quantities of the set currency by using one {0} is as follows."
+    },
+    {
+      "id": "package_info_detail2",
+      "content": "※ “{0}” in the lower table is an example for selecting one of the currencies from the table above."
+    },
+    {
+      "id": "acquired_quantity",
+      "content": "Amount"
+    },
+    {
+      "id": "name_of_currencies",
+      "content": "Currency"
+    },
+    {
+      "id": "package_info_title",
+      "content": "Detailed Currency Appearance Rates"
+    },
+    {
+      "id": "used_once",
+      "content": "Xài Một Lần"
+    },
+    {
+      "id": "probability_details",
+      "content": "Tỉ Lệ"
+    },
+    {
+      "id": "be_in_use",
+      "content": "Đang Kích Hoạt"
+    },
+    {
+      "id": "season_information",
+      "content": "Hướng Dẫn Mùa"
+    },
+    {
+      "id": "announcer_selection_description",
+      "content": "※ Nếu bạn chọn từ 2 Bình Luận Viên trở lên, lời thoại sẽ được phát ngẫu nhiên. (Tối đa: 10)"
+    },
+    {
+      "id": "panic_type",
+      "content": "Phân Loại Hoảng Loạn"
+    },
+    {
+      "id": "mental_strength",
+      "content": "Tinh Thần"
+    },
+    {
+      "id": "mental_increase_condition",
+      "content": "Base factors increasing Sanity"
+    },
+    {
+      "id": "mental_decrease_condition",
+      "content": "Base factors decreasing Sanity"
+    },
+    {
+      "id": "mental_low_morale_effect",
+      "content": "Hiệu Ứng Chiến Ý Thấp"
+    },
+    {
+      "id": "mental_panic_effect",
+      "content": "Hiệu Ứng Hoảng Loạn"
+    },
+    {
+      "id": "open_scheduled_date_month_day",
+      "content": "Mở từ Ngày {1}, Tháng {0}"
+    },
+    {
+      "id": "mainui_acquire_user_ticker_deco",
+      "content": "(Vài Chữ Ngẫu Nhiên)"
+    },
+    {
+      "id": "last_battlepass_season_level",
+      "content": "Cấp Độ Vé"
+    },
+    {
+      "id": "season_end_notification",
+      "content": "Thông Báo Kết Thúc Mùa"
+    },
+    {
+      "id": "season_start_notification",
+      "content": "Thông Báo Bắt Đầu Mùa"
+    },
+    {
+      "id": "new_story_appeared_by_new_season",
+      "content": "Cốt Truyện Chính Tuyến Mới"
+    },
+    {
+      "id": "collection_rate",
+      "content": "Đã Sưu Tầm"
+    },
+    {
+      "id": "season_n_personality",
+      "content": "Danh Tính Mùa {0}"
+    },
+    {
+      "id": "season_n_ego",
+      "content": "E.G.O Mùa {0}"
+    },
+    {
+      "id": "season_n",
+      "content": "Mùa {0}"
+    },
+    {
+      "id": "new_season_former_piece_to_current_piece_desc",
+      "content": "A portion of the Egoshards you own will be carried over to the current season."
+    },
+    {
+      "id": "new_season_former_piece_to_thread_desc",
+      "content": "The Egoshards that have not been carried over are converted into Thread."
+    },
+    {
+      "id": "new_season_former_box_to_current_box_desc",
+      "content": "A portion of the Egoshard Crates (both random & nominable) you own will be carried over to the current season."
+    },
+    {
+      "id": "new_season_former_box_to_thread_box",
+      "content": "The Egoshard Crates that have not been carried over are converted into Thread Crates."
+    },
+    {
+      "id": "new_pass_appeared",
+      "content": "Vé Limbus Mới Ra Lò"
+    },
+    {
+      "id": "get_not_acquired_rewards",
+      "content": "Unclaimed Rewards Delivered"
+    },
+    {
+      "id": "items_changed_by_season_changed_desc",
+      "content": "Currencies from the previous season will be converted into the current season."
+    },
+    {
+      "id": "exchange",
+      "content": "Đổi"
+    },
+    {
+      "id": "notice_of_pity_system",
+      "content": "During a banner, you can gain ‘Yisang’ [Ideality] based on the number of extractions you’ve done.\nAfter collecting a certain amount, you can exchange it for a 3★ Identity or E.G.O represented on the banner.\n\n※ Ideality is not shared between banners; Ideality in each is considered its own currency.\n※ After the banner is over, the remaining Ideality is converted into Thread."
+    },
+    {
+      "id": "twine_store",
+      "content": "Trao Đổi Mảnh-Sợi"
+    },
+    {
+      "id": "pass",
+      "content": "Vé"
+    },
+    {
+      "id": "event",
+      "content": "Sự Kiện"
+    },
+    {
+      "id": "notice_of_pity_point_expiration",
+      "content": "{1} Yisang [Ideality] from {0} has been converted to Thread."
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not",
+      "content": "Spend 200 Yisang [Ideality] and make this exchange?"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have",
+      "content": "You already own the selected Identity. Exchange 200 Yisang [Ideality] for this Sinner's 50 Identity Shards?"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone",
+      "content": "Unlocked after {0}/{1} ({2}) update"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_date",
+      "content": "{0}/{1} ({2})"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_desc",
+      "content": "Unlocked after Update"
+    },
+    {
+      "id": "enkephalin_desc",
+      "content": "Used for entering stages."
+    },
+    {
+      "id": "not_exchangeable",
+      "content": "Không Thể Đổi"
+    },
+    {
+      "id": "ego_already_have",
+      "content": "Đã Có E.G.O Này"
+    },
+    {
+      "id": "shortage_number_of_extractions",
+      "content": "Not Enough Extractions Done"
+    },
+    {
+      "id": "lack_of_formation_participation",
+      "content": "Ở trận chiến này, số lượng Tội Nhân có thể tham gia chiến đấu <color=#990000>lên tới {0}</color>."
+    },
+    {
+      "id": "tutorial_formation_participation_add_title",
+      "content": "More Participants"
+    },
+    {
+      "id": "tutorial_formation_participation_add_desc",
+      "content": "Khác với những màn thông thường, một số màn cho phép nhiều Tội Nhân tham gia. Những màn trên sẽ khiến nút 'Chỉnh Đội' bị nhấp nháy."
+    },
+    {
+      "id": "could_not_select_friend_support_in_this_dungeon",
+      "content": "Bạn không thể mượn Danh Tính của {0} từ Hỗ Trợ (của bạn bè) trong hầm ngục này."
+    },
+    {
+      "id": "formation_force_participation_on",
+      "content": "Khóa"
+    },
+    {
+      "id": "formation_force_participation_off",
+      "content": "Đã Khóa Tội Nhân Được Yêu Cầu"
+    },
+    {
+      "id": "formation_must_participate_specific_character",
+      "content": "{0} phải vào trận."
+    },
+    {
+      "id": "cannot_exit_node_after_enter_by_force_alice_character",
+      "content": "Khi vào đây, bạn sẽ không thể quay về các cột mốc khác trong hầm ngục; {0} sẽ hồi phục toàn bộ HP đặt lại SP về 0.\nVẫn tiến hành chứ?"
+    },
+    {
+      "id": "story_dungeon_4_first_open_popup_desc",
+      "content": "Ở hầm ngục này, bạn không thể sử dụng Danh Tính Yi Sang từ Hỗ Trợ (mượn từ bạn bè). Yi Sang phải tham gia chiến đấu ở mọi mặt trận."
+    },
+    {
+      "id": "attack_level",
+      "content": "Offense Level"
+    },
+    {
+      "id": "defense_level",
+      "content": "Defense Level"
+    },
+    {
+      "id": "personality_level",
+      "content": "Identity Level"
+    },
+    {
+      "id": "enemy_level",
+      "content": "Cấp Độ Kẻ Địch"
+    },
+    {
+      "id": "cannot_enter",
+      "content": "Không Thể Vào"
+    },
+    {
+      "id": "lack_of_item_amount",
+      "content": "Không Đủ {0}"
+    },
+    {
+      "id": "required_count",
+      "content": "Yêu Cầu"
+    },
+    {
+      "id": "on_event_reward_grace_period",
+      "content": "Đợt Đổi Thưởng"
+    },
+    {
+      "id": "user_level_maximum_notice",
+      "content": "Đạt Cấp Độ Tối Đa."
+    },
+    {
+      "id": "user_level_limit_increase_notice",
+      "content": "※ Cấp Độ Tối Đa của Quản Lý có thể tăng vào những bản cập nhật trong tương lai."
+    },
+    {
+      "id": "level_up",
+      "content": "Lên Cấp"
+    },
+    {
+      "id": "summary",
+      "content": "Tổng Quan"
+    },
+    {
+      "id": "abnormality_part_skill",
+      "content": "Kĩ Năng Của Bộ Phận"
+    },
+    {
+      "id": "awaken",
+      "content": "Giác Ngộ"
+    },
+    {
+      "id": "erosion",
+      "content": "Xâm Thực"
+    },
+    {
+      "id": "formation_panel_detail",
+      "content": "Chi Tiết"
+    },
+    {
+      "id": "ego_cost",
+      "content": "Tài Nguyên E.G.O"
+    },
+    {
+      "id": "enable_count_for_battle",
+      "content": "Giới Hạn Tham Gia"
+    },
+    {
+      "id": "select_for_formation",
+      "content": "Triển Khai Danh Tính"
+    },
+    {
+      "id": "edit_for_formation",
+      "content": "Chỉnh Sửa Đội Hình"
+    },
+    {
+      "id": "full_participated",
+      "content": "Số Người Tối Đa"
+    },
+    {
+      "id": "select_for_delete_participation",
+      "content": "Hủy Bỏ Danh Tính"
+    },
+    {
+      "id": "clear_reward",
+      "content": "Thưởng Hoàn Thành"
+    },
+    {
+      "id": "event_information",
+      "content": "Thông Tin Sự Kiện."
+    },
+    {
+      "id": "notice_not_on_sales_period",
+      "content": "※ Không thể đổi vào thời gian này."
+    },
+    {
+      "id": "pc_shortcut",
+      "content": "PC Keyboard Shortcuts"
+    },
+    {
+      "id": "shortcut_manual_popup_title",
+      "content": "Keyboard Shortcuts Guide"
+    },
+    {
+      "id": "new_dungeon_update_alarm",
+      "content": "BACKDOOR VOLATILITY DETECTED"
+    },
+    {
+      "id": "buy_announcer",
+      "content": "Mua Bình Luận Viên"
+    },
+    {
+      "id": "label_require_paid_lunacy",
+      "content": "※You don’t have enough paid Lunacy."
+    },
+    {
+      "id": "notice_require_paid_lunacy",
+      "content": "Insufficient Paid Lunacy"
+    },
+    {
+      "id": "mainui_original",
+      "content": "Before"
+    },
+    {
+      "id": "open_after_clear_node",
+      "content": "Clear {0}-{1} to Unlock"
+    },
+    {
+      "id": "effect_list_to_applied_level",
+      "content": "Active Level Effects"
+    },
+    {
+      "id": "choice_event_effect",
+      "content": "Choice Effect"
+    },
+    {
+      "id": "ego_gift_effect_format",
+      "content": "E.G.O Gift 「{0}」 Effect"
+    },
+    {
+      "id": "mainui_previous",
+      "content": "Previous"
+    },
+    {
+      "id": "formation_force_abstain",
+      "content": "Không Thể Triển Khai"
+    },
+    {
+      "id": "formation_view_detail",
+      "content": "Chi Tiết"
+    },
+    {
+      "id": "only_hyphen",
+      "content": "-"
+    },
+    {
+      "id": "first_time",
+      "content": "First-time"
+    },
+    {
+      "id": "formation_Announcer_fixed",
+      "content": "Khoá"
+    },
+    {
+      "id": "gacha_rate_info_wa1",
+      "content": "★ Thread Crate"
+    },
+    {
+      "id": "gacha_rate_info_wa2",
+      "content": "Obtaining a duplicate of an already-owned Announcer will convert it to Thread Crates.\n\nThese Thread Crates will be carried over as-is to the next Season."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "This story takes place after the Main Story Chapter {0}. Would you like to view the story anyway?"
+    },
+    {
+      "id": "notice_of_pity_point_already_have_announcer",
+      "content": "You already own the selected Announcer. Exchange 200 Yisang [Ideality] for 50 Thread Crates?"
+    },
+    {
+      "id": "gacha_rate_info_announcer1",
+      "content": "Below is the list of Identities, E.G.O, and Announcers you can obtain following the aforementioned rates.\n\nThe list may change in certain seasons; upcoming changes to the reward tables will be announced in advance."
+    },
+    {
+      "id": "mainui_battleresult_ordeal_victory",
+      "content": "Suppression Complete"
+    },
+    {
+      "id": "mainui_battleresult_ordeal_defeat",
+      "content": "Suppression Failed"
+    },
+    {
+      "id": "remain_exchange_count",
+      "content": "Remaining Stock"
+    },
+    {
+      "id": "remains",
+      "content": "Remaining"
+    },
+    {
+      "id": "everyday",
+      "content": "Daily"
+    },
+    {
+      "id": "for_n_days",
+      "content": "{0} Days"
+    },
+    {
+      "id": "all_personalities",
+      "content": "All Identities"
+    },
+    {
+      "id": "leap_up_ticket_title",
+      "content": "Select Identity to Takeoff"
+    },
+    {
+      "id": "leap_up_able_uptie_tier_and_level",
+      "content": "Can raise Uptie Tier & Identity Level"
+    },
+    {
+      "id": "leap_up_able_uptie_tier",
+      "content": "Can raise Uptie Tier"
+    },
+    {
+      "id": "leap_up_able_level",
+      "content": "Can raise Identity Level"
+    },
+    {
+      "id": "leap_up_confim_title",
+      "content": "Select Identity"
+    },
+    {
+      "id": "leap_up_confim_main",
+      "content": "[{0}] Identity's Uptie Tier & Level will be changed as follows."
+    },
+    {
+      "id": "leap_up_confim_caution_uptie",
+      "content": "The selected Identity's Uptie Tier cannot be raised further."
+    },
+    {
+      "id": "leap_up_confim_caution_level",
+      "content": "The selected Identity's Level cannot be raised further."
+    },
+    {
+      "id": "leap_up_confim_last_question",
+      "content": "Use <color=#F8C200>{0}</color>?"
+    },
+    {
+      "id": "expiration_date",
+      "content": "Available Period"
+    },
+    {
+      "id": "unlink_account_title",
+      "content": "Select Account to Unlink"
+    },
+    {
+      "id": "unlink_account_current_account",
+      "content": "Current Account"
+    },
+    {
+      "id": "unlink_account_linked_account",
+      "content": "Linked Accounts"
+    },
+    {
+      "id": "unlink_account_desc",
+      "content": "Once you unlink, you will not be able to unlink again for {0} days."
+    },
+    {
+      "id": "unlink_account_desc_unable_by_day",
+      "content": "Can be unlinked after {0}."
+    },
+    {
+      "id": "unlink_account_complete_title",
+      "content": "Account Unlinked"
+    },
+    {
+      "id": "unlink_account_complete_desc",
+      "content": "Account unlinking complete.\nReturning to the title screen."
+    },
+    {
+      "id": "mainui_stageinfo_effectiveAttribute",
+      "content": "Effective Affinities"
+    },
+    {
+      "id": "personality_level_limit_release_title",
+      "content": "Identity Max Lv. Expanded"
+    },
+    {
+      "id": "personality_level_limit_release_desc",
+      "content": "The level cap for your Identities have been raised."
+    },
+    {
+      "id": "mainui_sinners_startSuppress",
+      "content": "Suppress"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_victory",
+      "content": "Abnormality Suppression Successful"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_defeat",
+      "content": "Abnormality Suppression Failed"
+    },
+    {
+      "id": "ui_text_unknown",
+      "content": "Unknown"
+    },
+    {
+      "id": "buff_effect_for_level_format",
+      "content": "「{0}」"
+    },
+    {
+      "id": "unit_keyword",
+      "content": "Trait Keywords"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "Reset Deployment Order?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(Owned : {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Paid : {0}, Free : {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Paid : {0}, Free : {1})"
+    },
+    {
+      "id": "mainui_ask_use_personality_level_ticket_disadvantage",
+      "content": "Using this ticket at your current story progress will raise your selected Identity's level to {1} instead of {0}, and any unused EXP in that process will be lost.\n\nWill you use this ticket anyway?"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "H.Ngục Tiếng Vọng - EXP #7 (Chém)"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "H.Ngục Tiếng Vọng - EXP #7 (Chém) mở vào T2, T3 và CN."
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "H.Ngục Tiếng Vọng - EXP #7 (Đâm)"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "H.Ngục Tiếng Vọng - EXP #7 (Đâm) mở vào T4, T5 và CN."
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "H.Ngục Tiếng Vọng - EXP #7 (Đập)"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "H.Ngục Tiếng Vọng - EXP #7 (Đập) mở vào T6, T7 và CN."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "Cannot\nDeploy\nBase\nIdentity"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "Cannot proceed with this {0} Identity. Support Identities added."
+    },
+    {
+      "id": "caution",
+      "content": "WARNING"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "This Announcer contains spoilers for Chapter <color=#990000><{0}-{1}></color>.\n\nView anyway?\""
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "One of the rewards you are about to claim\nincludes an Announcer who may contain spoilers\nfor a Chapter you haven't cleared yet.\n\nClaim them anyway?"
+    },
+    {
+      "id": "select_all",
+      "content": "Select All"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Deselect All"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
+    },
+    {
+      "id": "vending_machine_item_available_date_label",
+      "content": "Dispenser Unlock:\n{0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date",
+      "content": "Seasonal Identities can be Dispensed from the Dispenser starting from {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v2",
+      "content": "Seasonal E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v3",
+      "content": "Seasonal ID & E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "Don't see this message again"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "Notification Settings"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "Paid Lunacy"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "This story cannot be skipped."
+    },
+    {
+      "id": "remote_download_quit_game",
+      "content": "A new download has been added.\nThe game will be closed; please restart the game to download the update."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[replacement_map]
+repo = "NDTrung20215249/LimbusFonts"
+# local path if repo is not set, else asset name in repo releases
+path = "replacement_map.json"
+
+[reference]
+repo = "LocalizeLimbusCompany/LocalizeLimbusCompany"
+branch = "main"
+path = "./EN"
+
+[priority]
+order = [
+  "StoryData/*.json"
+]
+
+[keyword_shorthands]
+# \[(?P<keyword_id>[^|]+)\|(?P<text>(?:\\[\[\]]|[^\]])*)\](?:\((?P<color>#[0-9a-fA-F]{6})\))?
+regex = "\\[(?P<keyword_id>[^|]+)\\|(?P<text>(?:\\\\[\\[\\]]|[^\\]])*)\\](?:\\((?P<color>#[0-9a-fA-F]{6})\\))?"
+apply_for = [
+  "Skills*.json",
+  "Passive*.json",
+  "EGOgift_*.json",
+  "PanicInfo*.json",
+  "MentalCondition.json",
+  "BattleKeywords.json",
+  "Bufs.json",
+]
+
+[[font_rules."MainUIText.json"]]
+font = "mikodacs"
+path = '$.dataList[?(@.id =~ "mainui_main_button.*")].content'
+
+[[font_rules."Announcer*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."BattleKeywords*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."Bufs*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."Characters.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."EGOgift_*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."EgoGiftCategory.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."Egos.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."Items*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."Enemies*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].name'
+
+[[font_rules."Enemies*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].desc'
+
+[[font_rules."DungeonArea*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].content'
+
+[[font_rules."DungeonArea*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].content'
+
+[[font_rules."DungeonNode*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].stageList.[*].title'
+
+[[font_rules."FormationNameFilterUI*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].content'
+
+[[font_rules."RewardDungeonUI.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].content'
+
+[[font_rules."LoginUIText.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].content'
+
+[[font_rules."SuccessRate.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].content'
+
+[[font_rules."StageNode*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].title'
+
+[[font_rules."StageNode*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].place'
+
+[[font_rules."ScenarioModelCodes-AutoCreated.json"]]
+font = "mikodacs"
+path = "$.dataList.[*].name"
+
+[[font_rules."ScenarioModelCodes-AutoCreated.json"]]
+font = "mikodacs"
+path = "$.dataList.[*].nickName"
+
+[[font_rules."Personalities.json"]]
+font = "mikodacs"
+path = "$.dataList.[*].title"

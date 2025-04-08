@@ -1,0 +1,454 @@
+{
+  "dataList": [
+    {
+      "id": 20101,
+      "name": "Cảnh Qua Mắt Quạ",
+      "desc": "E.G.O Gốc - Yi Sang"
+    },
+    {
+      "id": 20102,
+      "name": "Que Diêm Thứ 4",
+      "desc": "E.G.O - Yi Sang"
+    },
+    {
+      "id": 20103,
+      "name": "Mộ Đá Nguyện Ước",
+      "desc": "E.G.O - Yi Sang"
+    },
+    {
+      "id": 20201,
+      "name": "Thuật Giải Trình",
+      "desc": "EGO Gốc - Faust"
+    },
+    {
+      "id": 20202,
+      "name": "Túi Dịch",
+      "desc": "EGO - Faust"
+    },
+    {
+      "id": 20203,
+      "name": "Đinh Nguyền Rủa",
+      "desc": "EGO - Faust"
+    },
+    {
+      "id": 20301,
+      "name": "Huyết Mạch của Sancho",
+      "desc": "E.G.O Gốc - Don Quixote"
+    },
+    {
+      "id": 20302,
+      "name": "Túi Dịch",
+      "desc": "E.G.O - Don Quixote"
+    },
+    {
+      "id": 20401,
+      "name": "Lâm La Diệm Tượng",
+      "desc": "E.G.O Gốc - Ryōshū"
+    },
+    {
+      "id": 20402,
+      "name": "Que Diêm Thứ 4",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20501,
+      "name": "Ràng Buộc của Tha Nhân",
+      "desc": "E.G.O Gốc - Meursault"
+    },
+    {
+      "id": 20502,
+      "name": "Cú Móc Xoáy Cuồng Loạn",
+      "desc": "E.G.O - Meursault"
+    },
+    {
+      "id": 20503,
+      "name": "Chấp Hành",
+      "desc": "E.G.O - Meursault"
+    },
+    {
+      "id": 20601,
+      "name": "Hư Huyễn Cảnh",
+      "desc": "E.G.O Gốc - Hong Lu"
+    },
+    {
+      "id": 20602,
+      "name": "Khát Vọng Hồng Đào",
+      "desc": "E.G.O - Hong Lu"
+    },
+    {
+      "id": 20701,
+      "name": "Bao Xác",
+      "desc": "E.G.O Gốc - Heathcliff"
+    },
+    {
+      "id": 20702,
+      "name": "Điện Lang",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 20801,
+      "name": "Lao Móc",
+      "desc": "E.G.O Gốc - Ishmael"
+    },
+    {
+      "id": 20802,
+      "name": "Khát Vọng Hồng Đào",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 20803,
+      "name": "Tinh Hoa Hỏa Điệp",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 20901,
+      "name": "Điều Đã Xảy Ra",
+      "desc": "E.G.O Gốc - Rodion"
+    },
+    {
+      "id": 20902,
+      "name": "Que Diêm Thứ 4",
+      "desc": "E.G.O - Rodion"
+    },
+    {
+      "id": 20903,
+      "name": "Chân Băng",
+      "desc": "E.G.O - Rodion"
+    },
+    {
+      "id": 21001,
+      "name": "Cành Tri Thức",
+      "desc": "E.G.O Gốc - Sinclair"
+    },
+    {
+      "id": 21002,
+      "name": "Ngày Tận Thế",
+      "desc": "E.G.O - Sinclair"
+    },
+    {
+      "id": 21101,
+      "name": "Khổ Hạnh Khắc Cốt Ghi Tâm",
+      "desc": "E.G.O Gốc - Outis"
+    },
+    {
+      "id": 21102,
+      "name": "Gỗ Mun",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 21103,
+      "name": "Không Tức Thị Sắc",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 21201,
+      "name": "Đột Nhiên, Đến Một Ngày",
+      "desc": "E.G.O Gốc - Gregor"
+    },
+    {
+      "id": 21202,
+      "name": "Legerdemain",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 21203,
+      "name": "Huỳnh Đăng",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 20303,
+      "name": "Điện Lang",
+      "desc": "E.G.O - Don Quixote"
+    },
+    {
+      "id": 20204,
+      "name": "Điện Lang",
+      "desc": "EGO - Faust"
+    },
+    {
+      "id": 20304,
+      "name": "Món Hầm Để Đời",
+      "desc": "E.G.O - Don Quixote"
+    },
+    {
+      "id": 21003,
+      "name": "Món Hầm Để Đời",
+      "desc": "E.G.O - Sinclair"
+    },
+    {
+      "id": 20104,
+      "name": "Xé Rách Không Gian",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20603,
+      "name": "Xé Rách Không Gian",
+      "desc": "E.G.O - Hong Lu"
+    },
+    {
+      "id": 20504,
+      "name": "Capote",
+      "desc": "E.G.O - Meursault"
+    },
+    {
+      "id": 20804,
+      "name": "Capote",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 21104,
+      "name": "Cáo Đi Mưa",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 21204,
+      "name": "AEDD",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 20703,
+      "name": "AEDD",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 20105,
+      "name": "Cáo Đi Mưa",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20403,
+      "name": "Xích Nhãn",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20404,
+      "name": "Xích Nhãn (Khai)",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20405,
+      "name": "Nước Có Ga",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20604,
+      "name": "Nước Có Ga",
+      "desc": "E.G.O - Hong Lu"
+    },
+    {
+      "id": 21004,
+      "name": "Huỳnh Đăng",
+      "desc": "E.G.O - Sinclair"
+    },
+    {
+      "id": 20704,
+      "name": "Không Tức Thị Sắc",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 20505,
+      "name": "Đau Đớn Hối Hận",
+      "desc": "E.G.O - Meursault"
+    },
+    {
+      "id": 20605,
+      "name": "Ăn Mòn Sục Sôi",
+      "desc": "E.G.O - Hong Lu"
+    },
+    {
+      "id": 20205,
+      "name": "9:2",
+      "desc": "EGO - Faust"
+    },
+    {
+      "id": 20406,
+      "name": "Ám Ảnh Mù Quáng",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20805,
+      "name": "Ám Ảnh Mù Quáng",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 20904,
+      "name": "Ăn Mòn Sục Sôi",
+      "desc": "E.G.O - Rodion"
+    },
+    {
+      "id": 21005,
+      "name": "9:2",
+      "desc": "E.G.O - Sinclair"
+    },
+    {
+      "id": 20905,
+      "name": "Chấp Hành",
+      "desc": "E.G.O - Rodion"
+    },
+    {
+      "id": 20705,
+      "name": "Ngày Lễ Hội",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 21105,
+      "name": "Ngày Lễ Hội",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 20305,
+      "name": "Mộ Đã Nguyện Ước",
+      "desc": "E.G.O - Don Quixote"
+    },
+    {
+      "id": 21205,
+      "name": "Vườn Hồng Gai Góc",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 21206,
+      "name": "Tháng Ngày Đã Qua",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 20106,
+      "name": "Tháng Ngày Đã Qua",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20306,
+      "name": "Sấm Sét Oán Than",
+      "desc": "E.G.O - Don Quixote"
+    },
+    {
+      "id": 20506,
+      "name": "Sấm Sét Oán Than",
+      "desc": "E.G.O - Meursault"
+    },
+    {
+      "id": 21106,
+      "name": "Trói Buộc",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 20706,
+      "name": "Trói Buộc",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 20806,
+      "name": "Cánh Tiên Lam Sắc",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 20906,
+      "name": "Khát Vọng Đẫm Máu",
+      "desc": "E.G.O - Rodion"
+    },
+    {
+      "id": 20606,
+      "name": "Kêu Khóc Đáy Hang",
+      "desc": "E.G.O - Hong Lu"
+    },
+    {
+      "id": 21006,
+      "name": "Kêu Khóc Đáy Hang",
+      "desc": "E.G.O - Sinclair"
+    },
+    {
+      "id": 20206,
+      "name": "Vĩnh Hằng",
+      "desc": "EGO - Faust"
+    },
+    {
+      "id": 20407,
+      "name": "Khinh, Lẫm",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20707,
+      "name": "Đạn Xạ",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 21107,
+      "name": "Xé Rách Không Gian",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 21207,
+      "name": "Âm Vang Tiễn Biệt",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 20807,
+      "name": "Tháng Ngày Đã Qua",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 20207,
+      "name": "Thòng Lọng Gai",
+      "desc": "EGO - Faust"
+    },
+    {
+      "id": 20607,
+      "name": "Thòng Lọng Gai",
+      "desc": "E.G.O - Hong Lu"
+    },
+    {
+      "id": 21007,
+      "name": "Đinh Nguyền Rủa",
+      "desc": "E.G.O - Sinclair"
+    },
+    {
+      "id": 20907,
+      "name": "Đinh Nguyền Rủa",
+      "desc": "E.G.O - Rodion"
+    },
+    {
+      "id": 20507,
+      "name": "Yearning-Mircalla",
+      "desc": "E.G.O - Meursault"
+    },
+    {
+      "id": 20307,
+      "name": "Yearning-Mircalla",
+      "desc": "E.G.O - Don Quixote"
+    },
+    {
+      "id": 20107,
+      "name": "Đạn Xạ",
+      "desc": "E.G.O - Yi Sang"
+    },
+    {
+      "id": 20708,
+      "name": "Quán Tính Mất Cân Đối",
+      "desc": "E.G.O - Heathcliff"
+    },
+    {
+      "id": 20808,
+      "name": "Ác Mộng Đêm Giáng Sinh",
+      "desc": "E.G.O - Ishmael"
+    },
+    {
+      "id": 21208,
+      "name": "Ác Mộng Đêm Giáng Sinh",
+      "desc": "E.G.O - Gregor"
+    },
+    {
+      "id": 21108,
+      "name": "Ma Đạn",
+      "desc": "E.G.O - Outis"
+    },
+    {
+      "id": 20408,
+      "name": "Đau Thành Ngực",
+      "desc": "E.G.O - Ryōshū"
+    },
+    {
+      "id": 20208,
+      "name": "Đau Thành Ngực",
+      "desc": "E.G.O - Faust"
+    }
+  ]
+}
