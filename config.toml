@@ -14,21 +14,58 @@ order = [
 ]
 
 [keyword_shorthands]
-# \[(?P<keyword_id>[^|]+)\|(?P<text>(?:\\[\[\]]|[^\]])*)\](?:\((?P<color>#[0-9a-fA-F]{6})\))?
-regex = "\\[(?P<keyword_id>[^|]+)\\|(?P<text>(?:\\\\[\\[\\]]|[^\\]])*)\\](?:\\((?P<color>#[0-9a-fA-F]{6})\\))?"
+# \[(?P<keyword_id>[^:\[]+):(?P<text>(?:\\[\[\]]|[^\]])*)\](?:\((?P<color>#[0-9a-fA-F]{6})\))?
+regex = "\\[(?P<keyword_id>[^:\\]]+):`(?P<text>[^`]*)`\\](?:\\((?P<color>#[0-9a-fA-F]{6})\\))?"
 apply_for = [
   "Skills*.json",
   "Passive*.json",
   "EGOgift_*.json",
   "PanicInfo*.json",
-  "MentalCondition.json",
-  "BattleKeywords.json",
-  "Bufs.json",
+  "MentalCondition*.json",
+  "BattleKeywords*.json",
+  "Bufs*.json",
+]
+
+[xml_escape]
+singular_keywords = [
+  "sprite"
 ]
 
 [[font_rules."MainUIText.json"]]
 font = "mikodacs"
-path = '$.dataList[?(@.id =~ "mainui_main_button.*")].content'
+path = '$.dataList[*].content'
+
+[[font_rules."UserInfo_Friends.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."kr_settings-ui-donttranslate.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."MirrorDungeonUI.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."MirrorDungeonName.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."MirrorDungeonUI_3.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."MirrorDungeonUI_4.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."BattleUIText.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
+
+[[font_rules."RailwayDungeonUI.json"]]
+font = "mikodacs"
+path = '$.dataList[*].content'
 
 [[font_rules."Announcer*.json"]]
 font = "mikodacs"
@@ -70,9 +107,13 @@ path = '$.dataList.[*].name'
 font = "mikodacs"
 path = '$.dataList.[*].desc'
 
-[[font_rules."DungeonArea*.json"]]
+[[font_rules."Skills*.json"]]
 font = "mikodacs"
-path = '$.dataList.[*].content'
+path = '$.dataList.[*].levelList.[*].name'
+
+[[font_rules."Skills*.json"]]
+font = "mikodacs"
+path = '$.dataList.[*].levelList.[*].abName'
 
 [[font_rules."DungeonArea*.json"]]
 font = "mikodacs"
@@ -115,5 +156,13 @@ font = "mikodacs"
 path = "$.dataList.[*].nickName"
 
 [[font_rules."Personalities.json"]]
+font = "mikodacs"
+path = "$.dataList.[*].title"
+
+[[font_rules."StoryData/*.json"]]
+font = "mikodacs"
+path = "$.dataList.[*].teller"
+
+[[font_rules."StoryData/*.json"]]
 font = "mikodacs"
 path = "$.dataList.[*].title"
