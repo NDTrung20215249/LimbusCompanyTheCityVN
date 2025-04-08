@@ -226,6 +226,9 @@ def apply_font_rule(
     singular_keywords: list[str],
 ) -> None:
     def do_update(value: str, *_) -> str:
+        if not isinstance(value, str):
+            return value
+
         markup_positions = get_markup_positions(
             value, singular_keywords, rule.escape_short_keywords, rule.escape_keywords
         )
@@ -353,11 +356,11 @@ def main():
             shutil.copy(file, dist_file)
             continue
 
-        # print(f"Processing {file}")
         reference = json.loads(
             file.read_text(encoding="utf-8-sig"),
             object_pairs_hook=collections.OrderedDict,
         )
+
         localize = json.loads(
             corresponding_file.read_text(encoding="utf-8-sig"),
             object_pairs_hook=collections.OrderedDict,
