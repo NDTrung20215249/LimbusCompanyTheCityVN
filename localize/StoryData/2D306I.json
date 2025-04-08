@@ -1,116 +1,144 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Within the Ice Castle",
-      "content": "THOOM!"
-    },
-    {
-      "id": 1,
-      "model": "단테",
-      "content": "<What the…?>"
-    },
-    {
-      "id": 2,
-      "content": "The castle trembles intensely as frosty rubble falls around us from above."
-    },
-    {
-      "id": 3,
-      "model": "단테",
-      "content": "<Wait, if this keeps up…>"
-    },
-    {
-      "id": 4,
-      "content": "A foreboding idea flashes in my head."
-    },
-    {
-      "id": 5,
-      "content": "The ticking of my clock was like a reminder of how much time we had left."
-    },
-    {
-      "id": 6,
-      "model": "단테",
-      "content": "<Out… Outside, now!>"
-    },
-    {
-      "id": 7,
-      "place": "Ice Castle Where Neighbors Lie",
-      "content": "We evacuated from it in a hurry."
-    },
-    {
-      "id": 8,
-      "model": "이스마엘",
-      "content": "…Am I seeing this right?"
-    },
-    {
-      "id": 9,
-      "model": "이스마엘",
-      "content": "The castle isn’t falling apart, it’s like…"
-    },
-    {
-      "id": 10,
-      "model": "파우스트",
-      "content": "Indeed, it’s most certainly rising to its feet."
-    },
-    {
-      "id": 11,
-      "model": "그레고르",
-      "content": "Don’t look back! Just run!"
-    },
-    {
-      "id": 12,
-      "model": "단테",
-      "content": "<Hoogh… Gahh… I, we ran quite a bit, but what now…?>"
-    },
-    {
-      "id": 13,
-      "model": "뫼르소",
-      "content": "Footfalls. Not of a human. Rather slow and heavy."
-    },
-    {
-      "id": 14,
-      "model": "이스마엘",
-      "content": "…You could just say that something mammoth is after us!"
-    },
-    {
-      "id": 15,
-      "model": "뫼르소",
-      "content": "That may have served better."
-    },
-    {
-      "id": 16,
-      "model": "로쟈",
-      "content": "D—Dante! Our job here’s done, so we can just book it! Cool?"
-    },
-    {
-      "id": 17,
-      "model": "단테",
-      "content": "<G-Gimme a second! I never considered what to do after getting down here…>"
-    },
-    {
-      "id": 18,
-      "model": "로쟈",
-      "content": "Oh, really! Does this look like the time for dopey plans?!"
-    },
-    {
-      "id": 19,
-      "model": "그레고르",
-      "content": "The bus… Where’s the bus?"
-    },
-    {
-      "id": 20,
-      "model": "히스클리프",
-      "content": "Stop yapping useless rubbish! We’re running the hell away!"
-    },
-    {
-      "id": 21,
-      "model": "파우스트",
-      "content": "That might be the first logical statement I’ve heard leave your mouth, Heathcliff."
-    },
-    {
-      "id": 22,
-      "model": "히스클리프",
-      "content": "…I’m smashing your skull to pieces later."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Ở Bên trong Lâu Đài Băng",
+                "content":"ẦMMM!",
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"<Cái gì thế...?>",
+                "model":"단테"
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Cả lâu đài rung chấn dữ dội làm cho các cột băng rơi từ trên xuống.",
+                "model":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"<Đợi đã, nếu chuyện này tiếp diễn thì...>",
+                "model":"단테"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Một ý nghĩ xui rủi thoáng qua trong tâm trí.",
+                "model":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Tiếng tích tắc từ đồng hồ như đang nhắc chúng tôi về số thời gian ít ỏi còn lại.",
+                "model":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"<Chạy... Chạy ra ngoài, ngay bây giờ!>",
+                "model":"단테"
+            },
+            {
+                "id":7,
+                "place":"Nơi An Nghỉ Lạnh Lẽo Của Những Người Hàng Xóm",
+                "content":"Chúng tôi vội vã thoái lui ra khỏi đó.",
+                "model":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"...Tôi không nhìn nhầm chứ?",
+                "model":"이스마엘"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Tòa lâu đài đang cử động, cứ như thể nó đang...",
+                "model":"이스마엘"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Đúng thế, nó đang đứng lên.",
+                "model":"파우스트"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Đừng quay đầu lại! Cứ vắt chân lên cổ mà chạy đi!",
+                "model":"그레고르"
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"<Ốiii...Oáiii... Tôi, chúng ta đã chạy được một lúc rồi, nhưng giờ thì sao...?>",
+                "model":"단테"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Tiếng bước chân lớn. Không giống con người. Nghe nặng nề và chậm chạp.",
+                "model":"뫼르소"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"…Anh cứ bảo nó như con voi ma-mút hay gì đấy dí theo sau là được rồi!",
+                "model":"이스마엘"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Cách nói đó xem ra hợp lý hơn.",
+                "model":"뫼르소"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"D-Dante! Việc của chúng ta xong rồi, giờ chạy là thượng sách! Ổn không?",
+                "model":"로쟈"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"<Đ-Đợi tôi một chút! Tôi chưa nghĩ ra sẽ làm gì tiếp theo sau khi xuống đây...>",
+                "model":"단테"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Ồ, đùa đấy á?! Giờ có phải là lúc để làm mấy cái kế hoạch đần độn không?!",
+                "model":"로쟈"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Xe buýt... Xe buýt đâu rồi?",
+                "model":"그레고르"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Ngưng sủa bậy đi! Chúng ta phải dốc sức ra mà chạy!",
+                "model":"히스클리프"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Đó là điều có lý đầu tiên tôi nghe từ cậu đấy, Heathcliff.",
+                "model":"파우스트"
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"...Tao sẽ đập nát hộp sọ mày sau...",
+                "model":"히스클리프"
+            }
+        ]
     }
-  ]
-}
+

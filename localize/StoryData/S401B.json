@@ -1,370 +1,468 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "content": "<color=#d4e1e8>We were neither highfliers nor greedy vultures; we were merely children who loved technology.</color>"
-        },
-        {
-            "id": 1,
-            "content": "<color=#d4e1e8>Do you remember the day when we first felt that we were breathing?</color>"
-        },
-        {
-            "id": 2,
-            "content": "<color=#d4e1e8>Back then…</color>"
-        },
-        {
-            "id": 3,
-            "content": "<color=#d4e1e8>That breath alone would suffice.</color>"
-        },
-        {
-            "id": 4,
-            "content": "<color=#d4e1e8>Or perhaps…</color>"
-        },
-        {
-            "id": 5,
-            "content": "<color=#d4e1e8>It was the air that was exceptionally clear that day.</color>"
-        },
-        {
-            "id": 6,
-            "place": "Nest K’s Ruined Streets",
-            "content": "The view is obscured by smoke and dust."
-        },
-        {
-            "id": 7,
-            "content": "Terrified screams, hopeless outcries, pained moans, and the sounds of hard objects breaking create a cacophony."
-        },
-        {
-            "id": 8,
-            "model": "이상",
-            "content": "It is time… to turn the clock."
-        },
-        {
-            "id": 9,
-            "content": "I can hear Yi Sang, the only conscious Sinner at the moment, muster up his remaining strength to speak."
-        },
-        {
-            "id": 10,
-            "content": "The others are on the floor among dismembered corpses like powerless puppets."
-        },
-        {
-            "id": 11,
-            "content": "Fatal injuries were left by an Abnormality."
-        },
-        {
-            "id": 12,
-            "content": "Yet, we are in the middle of a Nest."
-        },
-        {
-            "id": 13,
-            "content": "Weren’t Abnormalities… supposed to be confined within Lobotomy Corp’s branch facilities or dungeons?"
-        },
-        {
-            "id": 14,
-            "content": "Meanwhile, the Abnormality pierced Yi Sang’s abdomen as I wondered."
-        },
-        {
-            "id": 15,
-            "content": "I had no one else to share this question with."
-        },
-        {
-            "id": 16,
-            "place": "Aboard Mephistopheles",
-            "model": "홍루",
-            "content": "Where are we going this time?"
-        },
-        {
-            "id": 17,
-            "content": "The Sinners seemed to grow quite accustomed to this work."
-        },
-        {
-            "id": 18,
-            "content": "As if we were on a roadtrip, some were far less hesitant to ask about our next destination."
-        },
-        {
-            "id": 19,
-            "model": "파우스트",
-            "content": "That’s not quite the right question. This mission begins with a person, rather than a place."
-        },
-        {
-            "id": 20,
-            "model": "이상",
-            "content": "A person, you say?"
-        },
-        {
-            "id": 21,
-            "model": "파우스트",
-            "content": "We happen to have a client."
-        },
-        {
-            "id": 22,
-            "model": "이스마엘",
-            "content": "You mean… We take requests from outside like we’re a Fixer Office or something?"
-        },
-        {
-            "id": 23,
-            "model": "돈키호테",
-            "content": "Oho, hath our carriage begun to be frequented by requests already? ¡Excelente! It may take little time at all to become a renowned Fixer!"
-        },
-        {
-            "id": 24,
-            "model": "베르길리우스",
-            "content": "Quiet. I’ll be answering questions."
-        },
-        {
-            "id": 25,
-            "model": "베르길리우스",
-            "content": "As you all know, the Golden Boughs are a relatively recent discovery."
-        },
-        {
-            "id": 26,
-            "model": "베르길리우스",
-            "content": "Fortunately, J Corp. and D Corp. didn’t have much interest when we visited their districts."
-        },
-        {
-            "id": 27,
-            "model": "베르길리우스",
-            "content": "That is why those facilities were populated by no more than Backstreets miscreants or ragtag Syndicates."
-        },
-        {
-            "id": 28,
-            "model": "베르길리우스",
-            "content": "However…There are Wings that have caught wind of their existence and value early, like K Corp, whose turf we’re in right now."
-        },
-        {
-            "id": 29,
-            "model": "그레고르",
-            "content": "Hmm? But I thought we’d already taken the Golden Bough here in K Corp’s Nest?"
-        },
-        {
-            "id": 30,
-            "model": "베르길리우스",
-            "content": "I never said that there were any rules that say only one Bough may exist in a District."
-        },
-        {
-            "id": 31,
-            "model": "베르길리우스",
-            "content": "The distribution of Lobotomy Corp’s branch facilities is more complicated than you’d expect. They can be found everywhere… spread quite literally like tree branches."
-        },
-        {
-            "id": 32,
-            "model": "싱클레어",
-            "content": "Like how one was connected to our estate’s basement…"
-        },
-        {
-            "id": 33,
-            "model": "베르길리우스",
-            "content": "There also haven’t been any clear definitions about who owns the Boughs."
-        },
-        {
-            "id": 34,
-            "model": "베르길리우스",
-            "content": "Which is why everyone’s been playing by the primitive rule that “the first finders of a Bough are its keepers”."
-        },
-        {
-            "id": 35,
-            "model": "로쟈",
-            "content": "Well, that’s how it usually goes with slumbering treasures~"
-        },
-        {
-            "id": 36,
-            "model": "그레고르",
-            "content": "In that case… Are you telling us that we’ve accepted the request to earn ownership of a Golden Bough?"
-        },
-        {
-            "id": 37,
-            "model": "베르길리우스",
-            "content": "To be exact, they made the offer first."
-        },
-        {
-            "id": 38,
-            "model": "베르길리우스",
-            "content": "Since a Golden Bough is on the line, we have…"
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "No choice… I get it now."
-        },
-        {
-            "id": 40,
-            "model": "베르길리우스",
-            "content": "Thus… Haaa, I don’t know how many times I have to remind you of this, but do not do anything to aggravate the client."
-        },
-        {
-            "id": 41,
-            "model": "단테",
-            "content": "<By the way…>"
-        },
-        {
-            "id": 42,
-            "model": "베르길리우스",
-            "content": "Now then, keep your mouths shut until you’re there. All as usual."
-        },
-        {
-            "id": 43,
-            "model": "단테",
-            "content": "<……>"
-        },
-        {
-            "id": 44,
-            "model": "파우스트",
-            "content": "Dante seemed to have something to say."
-        },
-        {
-            "id": 45,
-            "model": "단테",
-            "content": "<…Thank you, Faust.>"
-        },
-        {
-            "id": 46,
-            "model": "베르길리우스",
-            "content": "Ah, sorry about that, Dante. I do hope you understand that it’s quite cumbersome to grow used to the concept that the ticking of a clock can be something to respond to."
-        },
-        {
-            "id": 47,
-            "model": "단테",
-            "content": "<…So what are Golden Boughs used for, anyway?>"
-        },
-        {
-            "id": 48,
-            "model": "단테",
-            "content": "<When I think about it, all we were told was a vague order to collect them… And nothing about what the company plans to do with them.>"
-        },
-        {
-            "id": 49,
-            "model": "파우스트",
-            "content": "……"
-        },
-        {
-            "id": 50,
-            "model": "파우스트",
-            "content": "They’re asking about the purpose of the Golden Boughs."
-        },
-        {
-            "id": 51,
-            "model": "베르길리우스",
-            "content": "…Uh-huh."
-        },
-        {
-            "id": 52,
-            "model": "베르길리우스",
-            "content": "I see you’ve finally begun to ruminate on subjects, Manager Dante. Here you are, growing curious about the company’s plans."
-        },
-        {
-            "id": 53,
-            "model": "베르길리우스",
-            "content": "Then I ought to aid your management as a guide by providing kind explanation."
-        },
-        {
-            "id": 54,
-            "model": "베르길리우스",
-            "content": "The Golden Boughs…"
-        },
-        {
-            "id": 55,
-            "model": "베르길리우스",
-            "content": "They are branches, as their name suggests. That’s what we call stems growing from the trunk of a tree. These ones happen to have a golden glow."
-        },
-        {
-            "id": 56,
-            "model": "돈키호테",
-            "content": "Ohoooo… Forsooth…"
-        },
-        {
-            "id": 57,
-            "content": "Don Quixote was the only one responding passionately to this information."
-        },
-        {
-            "id": 58,
-            "content": "Thanks to this exchange, he painted me as an ignorant bloke who doesn’t even know what a branch is."
-        },
-        {
-            "id": 59,
-            "content": "Rodya shrugs at me as if to chaff me for expecting a real answer."
-        },
-        {
-            "id": 60,
-            "model": "카론",
-            "content": "Verg, the road is blocked. Should I go around it?"
-        },
-        {
-            "id": 61,
-            "model": "베르길리우스",
-            "content": "……"
-        },
-        {
-            "id": 62,
-            "model": "이스마엘",
-            "content": "It’s blocked?"
-        },
-        {
-            "id": 63,
-            "model": "이스마엘",
-            "content": "Strange that there’s a blocked road. This is in the middle of K Corp’s Nest, too; it’s unlikely that there’s a scene—"
-        },
-        {
-            "id": 64,
-            "content": "Before Ishmael could finish her sentence, a dull thud at the window interrupted her."
-        },
-        {
-            "id": 65,
-            "model": "로쟈",
-            "content": "…Something just got flung at the bus and boinked off… That was a person, wasn’t it?"
-        },
-        {
-            "id": 66,
-            "model": "뫼르소",
-            "content": "A male individual who appears to be in his early 40s. There seems to be a serious injury in his occipital region. He had already died before the impact."
-        },
-        {
-            "id": 67,
-            "model": "베르길리우스",
-            "content": "Yeah, sure doesn’t seem like the average scuffle."
-        },
-        {
-            "id": 68,
-            "model": "베르길리우스",
-            "content": "Pitstop. If it’s a problem you can handle, come back after you’re done."
-        },
-        {
-            "id": 69,
-            "model": "로쟈",
-            "content": "…And what about if it isn’t?"
-        },
-        {
-            "id": 70,
-            "model": "베르길리우스",
-            "content": "The clock’ll have to spin until it’s been dealt with."
-        },
-        {
-            "id": 71,
-            "model": "단테",
-            "content": "<That’s one elegant way to tell us to go die a thousand deaths…>"
-        },
-        {
-            "id": 72,
-            "model": "로쟈",
-            "content": "Hm, now then…"
-        },
-        {
-            "id": 73,
-            "model": "로쟈",
-            "content": "Off the bus."
-        },
-        {
-            "id": 74,
-            "model": "베르길리우스",
-            "content": "……"
-        },
-        {
-            "id": 75,
-            "model": "로쟈",
-            "content": "What? Weren’t you about to say the same thing anyway? Saved you the trouble~"
-        },
-        {
-            "id": 76,
-            "model": "홍루",
-            "content": "I just can’t wait, what adventures are in store for us this time?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "content":"<color=#d4e1e8>Chúng tôi chẳng phải những kẻ mơ xa hay lũ kền kền háu đói; chúng tôi chỉ là những đứa trẻ yêu công nghệ.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":1,
+                "content":"<color=#d4e1e8>Cậu còn nhớ cái ngày mà ta nhận ra mình có hơi thở chứ?<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":2,
+                "content":"<color=#d4e1e8>Ngày đó...<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":3,
+                "content":"<color=#d4e1e8>Chỉ hơi thở đấy thôi cũng đã là đủ rồi.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":4,
+                "content":"<color=#d4e1e8>Hay có thể...<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":5,
+                "content":"<color=#d4e1e8>Hôm ấy, không khí đặc biệt trong lành.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":6,
+                "content":"Khung cảnh xung quanh chìm ngập trong khói bụi.",
+                "place":"Đường Phố Bị Phá Huỷ Nest K",
+                "model":null
+            },
+            {
+                "id":7,
+                "content":"Những tiếng thét kinh hoàng, những tiếng khóc ai oán, những tiếng rên bi thương, và âm thanh của những vật thể cứng đổ vỡ ra tạo nên đám tạp âm vô cùng hỗn loạn.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":8,
+                "content":"Tới lúc... quay ngược đồng hồ rồi.",
+                "place":null,
+                "model":"이상"
+            },
+            {
+                "id":9,
+                "content":"Tôi có thể nghe thấy lời của Yi Sang, Tội Nhân duy nhất còn tỉnh táo lúc này, đang cố gắng hết sức bình sinh để cất tiếng nói.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":10,
+                "content":"Những người khác đã bị phanh thây và nằm bất động trên đất như những con rối vô hồn và bất lực.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":11,
+                "content":"Các vết thương chí tử do một Dị Thể gây ra.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":12,
+                "content":"Ấy nhưng, chúng tôi lại đang ở giữa trung tâm của một Nest.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":13,
+                "content":"Chẳng phải các Dị Thể... đáng ra phải bị quản thúc trong các chi nhánh cơ sở của Tập Đoàn Lobotomy hay hầm ngục gì đó sao?",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":14,
+                "content":"Trong lúc tôi đang tự hỏi bản thân thì Dị Thể đó đã đâm thủng bụng của Yi Sang.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":15,
+                "content":"Không còn ai để tôi có thể đặt câu hỏi nữa.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":16,
+                "content":"Lần này đoàn mình đi đâu thế ạ?",
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"홍루"
+            },
+            {
+                "id":17,
+                "content":"Các Tội Nhân dường như đã quá quen với công việc này rồi.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":18,
+                "content":"Như thể chúng tôi đang trên một chuyến đi đường dài vậy, sẽ luôn có một số người hỏi về đích đến tiếp theo.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":19,
+                "content":"Đó không phải là một câu nên hỏi. Nhiệm vụ này bắt đầu từ một người thay vì từ một nơi.",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":20,
+                "content":"Cô nói một người à?",
+                "place":null,
+                "model":"이상"
+            },
+            {
+                "id":21,
+                "content":"Tình cờ thay, chúng ta lại có một khách hàng.",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":22,
+                "content":"Ý cô là... Chúng ta nhận ủy thác từ bên ngoài như một Văn Phòng Fixer hay gì à?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":23,
+                "content":"Ồ, cỗ xe của chúng ta đã dần nhận được các yêu cầu rồi sao? Thật tuyệt vời! Chẳng mấy chốc mà ta sẽ trở thành một Fixer có tiếng tăm!",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":24,
+                "content":"Im lặng. Để ta trả lời từng câu một.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":25,
+                "content":"Như các cô cậu đều biết, Cành Vàng vẫn còn là phát hiện khá mới.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":26,
+                "content":"Cũng may, khi ta đến quận của tập đoàn J và D thì bên phía họ không quan tâm lắm.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":27,
+                "content":"Nhờ đó, những cơ sở chứa Cành chỉ có bọn loi nhoi đến từ các Băng Đảng hoặc chui ra từ Backstreets.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":28,
+                "content":"Ấy vậy... Vẫn có vài Wing biết đến sự tồn tại và giá trị Cành mang lại, chẳng hạn như ở đây, chỗ địa phận của Tập Đoàn K.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":29,
+                "content":"Hửm? Tôi tưởng là chúng ta đã thu thập xong Cành Vàng ở Nest Tập Đoàn K rồi mà?",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":30,
+                "content":"Ta chưa bao giờ chắc nịch \"một Quận phải có một Cành\" cả.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":31,
+                "content":"Cách phân bố các nhánh cơ sở của Tập Đoàn Lobotomy phức tạp hơn các cô cậu tưởng nhiều. Chúng chằng chịt khắp nơi... hệt như những nhánh cây vậy.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":32,
+                "content":"Như cách nó được nối với tầng hầm dinh thự nhà tôi...",
+                "place":null,
+                "model":"싱클레어"
+            },
+            {
+                "id":33,
+                "content":"Cũng chính vì thế mà những luật lệ liên quan tới quyền sở hữu nó vẫn còn khá mơ hồ.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":34,
+                "content":"Cho nên ai cũng đều tuân theo luật ngầm \"trâu chậm uống nước đục\" khi tranh giành nó.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":35,
+                "content":"Thì \"luật chơi\" thường là như vậy với mấy cái kho báu ngầm mà~",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":36,
+                "content":"Nếu vậy thì... Ý ông là chúng ta nhận ủy thác này để được nhượng quyền sở hữu một Cành Vàng sao?",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":37,
+                "content":"Nói đúng hơn, họ mới là bên đưa ra lời đề nghị trước.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":38,
+                "content":"Bởi vì Cành Vàng đã được đưa ra làm vật giao kèo, nên chúng ta...",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":39,
+                "content":"...Không còn lựa chọn nào khác. Hiểu rồi.",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":40,
+                "content":"Nói đi cũng phải nói lại... Hàaa, không biết phải nói bao nhiêu lần mới thấm nổi vào đầu các cô các cậu, nhưng đừng có dại dột mà đi chọc giận khách hàng.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":41,
+                "content":"<Nhân tiện...>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":42,
+                "content":"Giờ thì, cứ làm như mọi khi. Vui lòng be bé cái mồm lại cho tới địa điểm tiếp theo.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":43,
+                "content":"<......>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":44,
+                "content":"Ngài Dante muốn phát biểu đôi lời.",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":45,
+                "content":"<...Cảm ơn cô, Faust.>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":46,
+                "content":"À, xin thứ lỗi, Dante à. Ta mong cậu thông cảm, cái thân già này vẫn còn chưa quen với việc phản hồi lại cái tiếng \"tích tắc\" kia.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":47,
+                "content":"<...Thế Cành Vàng được dùng cho mục đích gì vậy?>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":48,
+                "content":"<Theo như tôi nhớ, những gì mà chúng tôi được bảo chỉ là đi thu thập chúng... Ngoài ra chẳng còn gì khác về mục đích sử dụng Cành Vàng của công ty.>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":49,
+                "content":".......",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":50,
+                "content":"Ngài ấy hỏi về mục đích của Cành Vàng.",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":51,
+                "content":"...Ờ.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":52,
+                "content":"Gần đây ta thấy cậu bắt đầu biết suy ngẫm rồi đấy, Quản Lý Dante. Chao ôi, lại còn đi thắc mắc về những kế hoạch của công ty nữa cơ.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":53,
+                "content":"Thế thì với tư cách là người dẫn đường, ta phải đáp lại cho cậu một lời giải thích thật ân cần và hữu ích rồi.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":54,
+                "content":"Cành Vàng...",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":55,
+                "content":"Như tên gọi, chúng là cành cây. Thứ được gọi là những bộ phận mọc ra từ thân cây. Và vô tình toả ra ánh sáng màu vàng kim.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":56,
+                "content":"Oaaaaa... Quả thực...",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":57,
+                "content":"Don Quixote là người duy nhất phản ứng nhiệt liệt với thông tin này.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":58,
+                "content":"Nhờ chuyện này, ông ấy đã biến tôi thành một kẻ dốt nát thậm chí một nhánh cây là gì cũng không biết.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":59,
+                "content":"Rodya nhún vai như để trêu chọc tôi vì đã mong chờ một câu trả lời tử tế.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":60,
+                "content":"Chú Verg, đường đi bị chặn rồi. Con có đi vòng qua không?",
+                "place":null,
+                "model":"카론"
+            },
+            {
+                "id":61,
+                "content":"……",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":62,
+                "content":"Bị chặn?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":63,
+                "content":"Tới tận đây mà cũng bị chắn đường thì lạ đấy. Đang ở giữa một nơi văn minh như Nest K thế này thì làm gì có chuyện...",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":64,
+                "content":"Trước khi Ishmael có thể nói hết câu thì một tiếng 'cộp' đập vào kính cửa sổ đã cắt ngang lời của cô ấy.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":65,
+                "content":"...Có gì đó vừa va vào cái xe rồi bay vút luôn thì phải... Mong đó không phải là người ha?",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":66,
+                "content":"Một người đàn ông trông tầm bốn mươi. Xem ra ông ta bị chấn thương nặng ở vùng chẩm, và đã tử vong trước cú đâm vừa rồi.",
+                "place":null,
+                "model":"뫼르소"
+            },
+            {
+                "id":67,
+                "content":"Ờ, trông không giống mấy cuộc ẩu đả thông thường đâu.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":68,
+                "content":"Tạm dừng xe. Nếu đây là vấn đề mà cô cậu giải quyết được, nhớ quay lại xe sau khi xử lý xong.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":69,
+                "content":"...Còn nếu không xong thì sao?",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":70,
+                "content":"Vậy thì đồng hồ cứ quay tới khi nào xong thì về.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":71,
+                "content":"<Quả là một cách tao nhã khi bảo chúng tôi đi chết trăm ngàn lần đi đấy...>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":72,
+                "content":"Hừm, giờ thì...",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":73,
+                "content":"Ra khỏi xe đi.",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":74,
+                "content":"……",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":75,
+                "content":"Sao? Chẳng phải ông định nói câu đó mà? Tôi phụ ông rồi nhá~",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":76,
+                "content":"Háo hức quá à, không biết lần này sẽ có chuyến hành trình nào chờ đợi chúng ta đây?",
+                "place":null,
+                "model":"홍루"
+            }
+        ]
+    }
+

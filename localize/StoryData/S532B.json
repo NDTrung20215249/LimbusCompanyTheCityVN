@@ -1,618 +1,886 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Lobotomy Corp. Drilling Ship Entrance",
-            "model": "단테2",
-            "content": "<We're fending them off somehow, but...>"
-        },
-        {
-            "id": 1,
-            "model": "홍루",
-            "content": "That ship in the middle sure is eye-catching."
-        },
-        {
-            "id": 2,
-            "model": "홍루",
-            "content": "Things are usually that gaudy for a reason, you know?"
-        },
-        {
-            "id": 3,
-            "model": "로쟈",
-            "content": "...! Uh... oh..."
-        },
-        {
-            "id": 4,
-            "model": "로쟈",
-            "content": "T-that guy, standing there at the center..."
-        },
-        {
-            "id": 5,
-            "content": "Rodya rarely ever showed this much fear and anxiety."
-        },
-        {
-            "id": 6,
-            "model": "단테2",
-            "content": "<That weird guy up there? He's been posing like that over there ever since this whole mess started.>"
-        },
-        {
-            "id": 7,
-            "model": "로쟈",
-            "content": "Posing? That's not what I'm talking about, Dante..."
-        },
-        {
-            "id": 8,
-            "model": "로쟈",
-            "content": "Don't you recognize his tattoos? He's..."
-        },
-        {
-            "id": 9,
-            "model": "료슈",
-            "content": "Hmph. A B.B. of the Middle."
-        },
-        {
-            "id": 10,
-            "model": "싱클레어",
-            "content": "What's... a B**ch Brother...?"
-        },
-        {
-            "id": 11,
-            "model": "로쟈",
-            "content": "... I think she meant 'Big Brother'...?"
-        },
-        {
-            "id": 12,
-            "model": "히스클리프",
-            "content": "…!"
-        },
-        {
-            "id": 13,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 14,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 15,
-            "model": "단테2",
-            "content": "<Sorry about bringing this up now, but...>"
-        },
-        {
-            "id": 16,
-            "model": "단테2",
-            "content": "<What's... the Middle?>"
-        },
-        {
-            "id": 17,
-            "model": "단테2",
-            "content": "<Just a mere mention, or a mere sight of them alone seems to... shock and intimidate a lot of people. Remember how they pretty much traumatized Pilot?...>"
-        },
-        {
-            "id": 18,
-            "model": "싱클레어",
-            "content": "I heard that, the Fingers, which the Middle is a part of..."
-        },
-        {
-            "id": 19,
-            "model": "싱클레어",
-            "content": "... are... on a completely different level from your average Syndicates. I've never met any of them face-to-face before, but..."
-        },
-        {
-            "id": 20,
-            "model": "로쟈",
-            "content": "No. People like us... We're never supposed to meet them like this."
-        },
-        {
-            "id": 21,
-            "model": "료슈",
-            "content": "We're all going to be F.U.B.A.R."
-        },
-        {
-            "id": 22,
-            "model": "료슈",
-            "content": "Time for my one last cig. This is a good day to die, isn't it?"
-        },
-        {
-            "id": 23,
-            "model": "단테2",
-            "content": "<... Ryōshū, even you...?>"
-        },
-        {
-            "id": 24,
-            "model": "이상",
-            "content": "... If a trial must be weathered, we will weather it with dignity and tenacity, Dante."
-        },
-        {
-            "id": 25,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "All right. How was the warmup?"
-        },
-        {
-            "id": 26,
-            "teller": "Little Brother",
-            "title": "The Middle",
-            "content": "Big Bro's givin' y'all time for a warmup! Appreciate it!"
-        },
-        {
-            "id": 27,
-            "model": "단테2",
-            "content": "<He's wearing Sunglasses? In this gloomy weather...?>"
-        },
-        {
-            "id": 28,
-            "model": "오티스",
-            "content": "All hands. Prepare for battle."
-        },
-        {
-            "id": 29,
-            "model": "오티스",
-            "content": "Executive Manager, this battle... this foe... will not be like any other we have encountered before. Under such dire circumstances, ensuring the safety of the commanding officer has to be our primary objective."
-        },
-        {
-            "id": 30,
-            "model": "오티스",
-            "content": "Please, find a safe place to hide. Make sure to stay out of his sight..."
-        },
-        {
-            "id": 31,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Boring. Didn't think you would take this long for a warm-up."
-        },
-        {
-            "id": 32,
-            "model": "오티스",
-            "content": "Let us negotiate! If you're seeking to negotiate... we're more than ready to listen."
-        },
-        {
-            "id": 33,
-            "model": "돈키호테",
-            "content": "Negotiate with a villain such as he...? How..."
-        },
-        {
-            "id": 34,
-            "model": "그레고르",
-            "content": "Well, looks like we're the ones begging for our lives now..."
-        },
-        {
-            "id": 35,
-            "model": "로쟈",
-            "content": "I-I didn't think that a Big Brother of the Middle would be here, in person..."
-        },
-        {
-            "id": 36,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Yeah. But I am."
-        },
-        {
-            "id": 37,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "So... In all those years I've spent as a part of the Middle..."
-        },
-        {
-            "id": 38,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "I had this ONE iron rule that I never broke."
-        },
-        {
-            "id": 39,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "... Until today, that is."
-        },
-        {
-            "id": 40,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Your raid of my personal safe has forced my hand!"
-        },
-        {
-            "id": 41,
-            "model": "작은아우",
-            "teller": "Little Brother",
-            "title": "The Middle",
-            "content": "Hot damn... Unbelievable! What awful mind thinks of doin' something so heinous...?"
-        },
-        {
-            "id": 42,
-            "model": "히스클리프",
-            "content": "... What? Ain't this about what happened back at the Twinhooks' club?"
-        },
-        {
-            "id": 43,
-            "content": "A bulky, ancient book hung from his waist, secured in place by thick chains. He lifted it with his hand."
-        },
-        {
-            "id": 44,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "So here on this day, I declare your sins, o guilty ones."
-        },
-        {
-            "id": 45,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Your unforgivable sins...!"
-        },
-        {
-            "id": 46,
-            "model": "로쟈",
-            "content": "Look, we had a little kerfuffle with Ms. Smee, but..."
-        },
-        {
-            "id": 47,
-            "model": "이상",
-            "content": "... Your subordinate, she... remains safe and unharmed."
-        },
-        {
-            "id": 48,
-            "model": "그레고르",
-            "content": "W-wait, no! Stop—"
-        },
-        {
-            "id": 49,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "......"
-        },
-        {
-            "id": 50,
-            "model": "작은형님안경",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Smee? Who's that?"
-        },
-        {
-            "id": 51,
-            "model": "작은아우",
-            "teller": "Little Brother",
-            "title": "The Middle",
-            "content": "Oh, uh... whisper, whisper..."
-        },
-        {
-            "id": 52,
-            "model": "단테2",
-            "content": "<... No way. He didn't know...?>"
-        },
-        {
-            "id": 53,
-            "model": "이상",
-            "content": "... My interjection may have been unnecessary."
-        },
-        {
-            "id": 54,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Well then... uh, okay. Let's see... With that sin piled on top..."
-        },
-        {
-            "id": 55,
-            "content": "The Big Brother began flipping through the pages, taking time to wet his fingers..."
-        },
-        {
-            "id": 56,
-            "model": "료슈",
-            "content": "That's 'The Book of Vengeance'. Once your name's written on that book... F.U.B.A.R is also written into your fate. Hilarious. So hilarious that I might go mad... Ha ha."
-        },
-        {
-            "id": 57,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Listen. We live in a binary world. The world that is luscious... and the world that is bristly. Are you aware of their differences?"
-        },
-        {
-            "id": 58,
-            "content": "Silence."
-        },
-        {
-            "id": 59,
-            "content": "The urge to blurt out \"what the hell are you talking about?\" was palpable, yet it was suppressed by an unknown, incredibly patient, force."
-        },
-        {
-            "id": 60,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "The luscious..."
-        },
-        {
-            "id": 61,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Is what flows and wraps gently around your hand when your fingers comb through it..."
-        },
-        {
-            "id": 62,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "And the bristly... is what roughly stabs and pokes out between your fingers."
-        },
-        {
-            "id": 63,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Patience, perseverance, and a delicate pair of talented hands are crucial to becoming the most luscious that one can be."
-        },
-        {
-            "id": 64,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 65,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Do you understand?"
-        },
-        {
-            "id": 66,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Do you understand now, the incredible amount of effort that goes into maintaining this hair in the right shape and the perfect lusciousness?"
-        },
-        {
-            "id": 67,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "There once was a coupon. A coupon to get the coveted personal hands-on hair care..."
-        },
-        {
-            "id": 68,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "... from the director of a top-level luxury hair salon on one of the richest ports of U Corp., the Stingray Portship! Continuously, for FIVE HOURS!"
-        },
-        {
-            "id": 69,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "It is said that, with that coupon, anyone could enter the world of the luscious! And anyone with a coupon had the privilege of an appointment-free visit!"
-        },
-        {
-            "id": 70,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 71,
-            "model": "히스클리프",
-            "content": "Oh."
-        },
-        {
-            "id": 72,
-            "model": "단테2",
-            "content": "<So... we're being accused of taking his... coupons for a hair salon?>"
-        },
-        {
-            "id": 73,
-            "model": "싱클레어",
-            "content": "So when you called him a B**ch Brother..."
-        },
-        {
-            "id": 74,
-            "model": "료슈",
-            "content": "I meant that he can be a real Bitch to get rid of once you piss him off."
-        },
-        {
-            "id": 75,
-            "model": "료슈",
-            "content": "Damnit... We should've steered clear of these bastards..."
-        },
-        {
-            "id": 76,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "They were to be my first steps into the world of the luscious."
-        },
-        {
-            "id": 77,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Yet, the coupon thief..."
-        },
-        {
-            "id": 78,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "... has left me stranded indefinitely in the world of the bristly..."
-        },
-        {
-            "id": 79,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Behold. Behold the testament to your heinous sins."
-        },
-        {
-            "id": 80,
-            "content": "The Big Brother tossed a piece of paper before us."
-        },
-        {
-            "id": 81,
-            "content": "On it was... a picture."
-        },
-        {
-            "id": 82,
-            "model": "단테2",
-            "content": "<... Heathcliff?>"
-        },
-        {
-            "id": 83,
-            "model": "히스클리프",
-            "content": "I-I didn't know the safe was his! Look! It's got colorful kitty stickers on it! You've got to be absolutely barmy to assume that it's the safe of the Middle's Big Brother, right?!"
-        },
-        {
-            "id": 84,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Everyone has... different tastes, just like the numerous, colorful Lakes of the Great Lake."
-        },
-        {
-            "id": 85,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Your blatant lack of respect for diverse, differing tastes will have to be added to the Book of Vengeance as well."
-        },
-        {
-            "id": 86,
-            "model": "로쟈",
-            "content": "Someone, please shut Heath up before he adds anything more to that book..."
-        },
-        {
-            "id": 87,
-            "model": "히스클리프",
-            "content": "Hup..."
-        },
-        {
-            "id": 88,
-            "model": "단테2",
-            "content": "<Heathcliff... Did you even know who, what, or where these coupons were for?>"
-        },
-        {
-            "id": 89,
-            "model": "히스클리프",
-            "content": "Of course not... Bloody hell..."
-        },
-        {
-            "id": 90,
-            "model": "돈키호테",
-            "content": "Sob... We are the villains in this tale, then? Have we become naught but little thieving rascals? Wherefore hast thou committed such villainy, Heathcliff..."
-        },
-        {
-            "id": 91,
-            "model": "돈키호테",
-            "content": "Thou hast not once given a second look at a hair salon, yet why..."
-        },
-        {
-            "id": 92,
-            "model": "히스클리프",
-            "content": "I-I've got my reasons..."
-        },
-        {
-            "id": 93,
-            "model": "뫼르소",
-            "content": "There is one good news, however..."
-        },
-        {
-            "id": 94,
-            "model": "뫼르소",
-            "content": "The chance of your absolution, even if you were to return the coupons, is infinitesimal. Infinitely close to nil, in fact."
-        },
-        {
-            "id": 95,
-            "model": "뫼르소",
-            "content": "Thus, keeping the coupons will make no difference to the outcome of this encounter, Heathcliff. They are now yours."
-        },
-        {
-            "id": 96,
-            "model": "뫼르소",
-            "content": "The bad news..."
-        },
-        {
-            "id": 97,
-            "model": "싱클레어",
-            "content": "... is that we'll all be O.O.F.-ed before Heathcliff even gets the chance to use them..."
-        },
-        {
-            "id": 98,
-            "content": "With his extended, passionate speech coming to an end, the Big Brother of the Middle and Don Quixote both wiped the tears from their eyes."
-        },
-        {
-            "id": 99,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "And the price of your sins..."
-        },
-        {
-            "id": 100,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Uh... Let's see. Title 8, Section 20 says..."
-        },
-        {
-            "id": 101,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "On row A... Line 6... Hair Salon Coupons..."
-        },
-        {
-            "id": 102,
-            "model": "단테2",
-            "content": "<That book has instructions in case someone steals their hair salon coupons?!>"
-        },
-        {
-            "id": 103,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Aha! I've found it."
-        },
-        {
-            "id": 104,
-            "model": "작은형님책",
-            "teller": "Big Brother",
-            "title": "The Middle",
-            "content": "Complete and total extermination of all involved parties; execute the coupon thief and any and all of their affiliates. Effective immediately."
-        },
-        {
-            "id": 105,
-            "model": "료슈",
-            "content": "Hmph. Truly, a B.B."
-        },
-        {
-            "id": 106,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "My name's Ricardo, a Big Brother of the Middle. Let my name be the last thing you remember before you perish. Memories are important, after all."
-        },
-        {
-            "id": 107,
-            "content": "Ryōshū threw her one last cig to the ground, smoked down to the butt..."
-        },
-        {
-            "id": 108,
-            "model": "료슈",
-            "content": "Unsatisfying... I'll get a proper luxury cig next time. ... If there is a next time."
-        },
-        {
-            "id": 109,
-            "content": "And the Big Brother quite literally soared into the air."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lối Vào Tàu Khoan Của T.Đoàn Lobotomy",
+                "model":"단테2",
+                "content":"<Bằng cách nào đó chúng ta đang chống đỡ được chúng, nhưng mà...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"홍루",
+                "content":"Con tàu ở chính giữa trông bắt mắt thật đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"홍루",
+                "content":"Nó cố tình trang hoàng bóng bẩy như vậy, hẳn là phải có lý do cụ thể chứ nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"로쟈",
+                "content":"...! Ớ... ồ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"로쟈",
+                "content":"C-có người đang đứng ở giữa bên kia kìa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Rodya hiếm khi bộc lộ ra sự sợ hãi và lo lắng nhiều như lúc này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"단테2",
+                "content":"<Cái tên kỳ lạ trên đó ư? Hắn ta đã đứng tạo dáng như thế kể từ lúc mớ hỗn độn này xảy ra rồi.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"로쟈",
+                "content":"Tạo dáng sao? Đó không phải là ý của tôi đang nói đâu, Dante...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"로쟈",
+                "content":"Không nhận ra cái hình xăm đấy sao? Anh ta là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"료슈",
+                "content":"Hừm. Một thằng A.L của đám Middle.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Anh L*n... nghĩa là gì vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Hình như ý chị ta là \"Anh Lớn\" nhỉ..?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프",
+                "content":"...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"단테2",
+                "content":"<Xin lỗi vì giờ này mới hỏi, nhưng mà...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테2",
+                "content":"<Băng Middle... là gì thế?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테2",
+                "content":"<Chỉ mới nhắc tới, hoặc là nhìn thấy họ thôi mà mọi người... đã tỏ vẻ sợ hãi và kinh ngạc rồi. Còn nhớ cách bọn họ gần như làm Pilot sang chấn không?...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ừ thì... Tôi nghe nói... Bao gồm cả Băng Middle nữa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Các Băng của Fingers nằm ở một đẳng cấp hoàn toàn khác so với các Băng Đảng thường thấy... Tôi chưa gặp trực tiếp bất kỳ ai trong số đó bao giờ, nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"로쟈",
+                "content":"Không. Mấy người như mình... đáng lẽ không nên gặp họ như thế này đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"료슈",
+                "content":"Chịu, A.N.C.A.C.C.M.N.Đ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"료슈",
+                "content":"Hút điếu cuối cho đời sáng hơn rồi. Hôm nay quả là một ngày đẹp trởi để chết, phải không nào?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Ryoshu, kể cả cô nữa sao...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이상",
+                "content":"... Nếu ta phải gánh chịu một thử thách, ta sẽ đối mặt với nó cùng lòng danh dự và sự kiên cường, Dante à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Được rồi. Khởi động như nào?",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Lo mà biết ơn đi! Anh Đại còn cho bọn bây thời gian khởi động rồi đấy!",
+                "teller":"Em Trai",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테2",
+                "content":"<Hắn ta đeo Kính râm ư? Trong cái thời tiết âm u này sao...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"오티스",
+                "content":"Tất cả. Chuẩn bị chiến đấu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"오티스",
+                "content":"Quản Lý Điều Hành, trận chiến này... địch thủ này... sẽ khác hẳn những kẻ ta từng đụng độ từ trước tới nay. Trong hoàn cảnh thảm khốc như này, bảo đảm an toàn cho người chỉ huy phải là ưu tiên số một của chúng ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"오티스",
+                "content":"Xin ngài, hãy tìm nơi an toàn mà trốn. Phải né khỏi tầm nhìn của hắn...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Chán phèo. Không nghĩ các ngươi sẽ tốn nhiều thời gian như vậy chỉ để khởi động thôi đấy.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"오티스",
+                "content":"Hãy thương lượng đi! Nếu ngươi đang muốn dùng biện pháp đấy... chúng ta sẵn sàng để nghe.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Đàm phán với một tên ác nhân như hắn sao...? Vì lẽ gì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chà, có vẻ như chúng ta mới là bên phải cầu xin tha mạng rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"로쟈",
+                "content":"T-tôi không nghĩ là mình sẽ gặp Anh Lớn từ Băng Middle ngoài đời chứ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Đúng. Nhưng ta đã ở đây rồi.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Thế... Suốt bao năm ta dành thời gian như là một phần của Middle...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Ta có MỘT quy tắc bất di bất dịch mà bản thân không bao giờ phá vỡ nó.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"...Đó là cho đến hôm nay.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Ta buộc phải ra tay đối với những kẻ dám xâm phạm đến cái két sắt bé nhỏ của mình!",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"작은아우",
+                "content":"Ôi mạ ơi... Vãi cả thiên địa! Thứ súc sinh gì lại có thể làm ra cái hành động tày trời đó chứ...?",
+                "teller":"Em Trai",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Hả? Này không phải về vụ ở hộp đêm của bọn Twinhook à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Một cuốn sách cổ và cồng kềnh treo lơ lửng bên eo hắn ta, được bao phủ bởi những sợi xích dày. Hắn dùng tay nhấc nó lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Vậy nên hôm nay, ta tuyên bố tội lỗi của các ngươi, hỡi những kẻ tội đồ.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Tội bất dung thứ của các ngươi...!",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"로쟈",
+                "content":"Anh nghe này, đúng là chúng tôi đã vật lộn với Smee một chút, nhưng mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이상",
+                "content":"... Cấp dưới của anh, cô ta... vẫn an toàn và không bị hại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"그레고르",
+                "content":"C-chờ đã, khoan nào! Dừng lại chút—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"......",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"작은형님안경",
+                "content":"Smee? Là nhỏ nào?",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"작은아우",
+                "content":"À, ờ... xì xào, xì xào....",
+                "teller":"Em Trai",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Không thể nào. Hắn ta không biết sao...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"이상",
+                "content":"... Sự xen vào của tôi có lẽ là không cần thiết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Vậy thì...ờm, được rồi. Để xem nào... Cùng tội lỗi đó chất lên thêm...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "content":"Tên Anh Lớn bắt đầu lật những trang giấy, từ tốn làm ướt đầu ngón tay...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"료슈",
+                "content":"Đó là ‘Cuốn Sách Báo Thù (The Book of Vengeance)’. Một khi tên ngươi được vào trong đó... thì chỉ có A.N.C.A.C.C.M.N.Đ chứ cứu đéo gì nữa? Rất hài hước. Hài hước đến nỗi ta phát điên con mẹ nó mất... Ha ha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Nghe này. Chúng ta sống trong một thế giới hai mặt rõ ràng. Một bên ngọt ngào... và nửa kia thì lông lá. Các ngươi có nhìn rõ được khác biệt của chúng không?",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"Sự im lặng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "content":"Cảm giác thôi thúc thốt ra câu 'ngươi nói cái quái gì thế hả?' thấy rõ, nhưng bị kìm nén bởi một thế lực vô hình và đầy tính kiên nhẫn nào đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Sự ngọt ngào...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Là thứ uốn chảy và quấn quanh tay ngươi khi ngón tay ngươi chải chuốt qua nó một cách nhẹ nhàng...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Và sự lông lá...là thứ đâm xuyên và thò ra giữa kẽ tay của ngươi.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Kiên nhẫn, bền bỉ, và một đôi tay tài năng đầy tinh tế là những yếu tố quan trọng để trở thành một con người quyến rũ nhất có thể.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Các ngươi có hiểu không?",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Các ngươi có hiểu, bao nhiêu nỗ lực phải bỏ ra để duy trì mái tóc này ở hình dáng phù hợp và vẻ đẹp hoàn hảo là như thế nào không hả?",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Đã từng có một phiếu khuyến mại. Một phiếu khuyến mại để nhận được dịch vụ chăm sóc tóc cá nhân mà bất kỳ ai cũng mơ ước...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"작은형님책",
+                "content":"...từ quản lý tiệm làm tóc thượng hạng sang trọng hàng đầu của một trong số những cảng tàu giàu có nhất của Tập Đoàn U, Cảng Stingray! Liên tục, trong NĂM TIẾNG ĐỒNG HỒ!",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Người ta bảo rằng, với phiếu đổi thưởng đó, bất kỳ ai cũng đều có thể bước chân vào thế giới của sự ngọt ngào! Và bất kỳ ai với phiếu khuyến mãi đều có được đặc quyền đến làm tóc ngay lập tức mà không cần phải đặt lịch hẹn trước!",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"히스클리프",
+                "content":"À.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"단테2",
+                "content":"<Vậy...chúng ta đang bị buộc tội vì đã lấy đi... phiếu khuyến mãi đến tiệm làm tóc ư?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Vậy ý của cô khi gọi anh ta là Anh L*n...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"료슈",
+                "content":"Ý ta là việc xử lí hắn sẽ như Đĩ Lồn một khi ngươi chọc tức hắn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"료슈",
+                "content":"Khốn kiếp... Chúng ta lẽ ra phải tránh xa lũ khốn này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Đấy lẽ ra phải là bước đầu tiên của ta để tiến vào thế giới của sự ngọt ngào.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Ấy nhưng, con chuột nhắt thích ăn trộm phiếu làm tóc...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"작은형님책",
+                "content":"...đã khiến ta mắc kẹt mãi mãi trong thế giới đầy lông lá...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Mở to mắt ra mà nhìn. Bằng chứng cho tội lỗi ghê tởm của các ngươi.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "content":"Tên Anh Lớn vứt một miếng giấy đến trước mặt chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Trên đó là... một bức ảnh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"단테2",
+                "content":"<... Heathcliff?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"히스클리프",
+                "content":"S-sao tao biết cái két là của ổng? Nhìn này! Nó còn có cả hình dán mèo con trên đó! Thằng điên nào nhìn cái này xong nghĩ rằng nó là của Anh Lớn bên Middle?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Mọi người đều...có khẩu vị khác nhau, giống như vô số Hồ sặc sỡ màu sắc của Hồ Lớn vậy.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Sự thiếu tôn trọng trắng trợn của ngươi cho những khẩu vị đa dạng khác nhau cũng sẽ được thêm vào Cuốn Sách Báo Thù.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"로쟈",
+                "content":"Làm ơn, ai đó ngậm cái mồm của Heath lại trước khi anh kia ghi thêm cái gì vào cuốn đó đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hụp...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"단테2",
+                "content":"<Heathcliff... Anh thậm chí có biết những phiếu giảm giá này dành cho ai, cái gì, hay ở đâu không vậy?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Dĩ nhiên là không... Con mẹ nó...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ứ hức... Thực vậy, đoàn ta chính là kẻ xấu trong câu chuyện đây? Chúng ta đã bần cùng đến nỗi tha hoá thành lũ trộm cắp bất lương sao? Vì lẽ gì mà anh lại phạm phải tội ác tày trời thế này, hỡi Heathcliff...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Anh thậm chí còn chẳng thèm để tâm đến tiệm làm tóc mà, hà cớ gì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"히스클리프",
+                "content":"T-tao có nỗi khổ riêng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Có một tin tốt cho anh đây...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Con số phần trăm cơ hội được tha mạng của anh, kể cả khi đã trả lại phiếu giảm giá, là không phẩy không không có. Thậm chí có cũng bằng không.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Như vậy, giữ lại phiếu giảm giá cũng sẽ không thay đổi kết cục của tình huống này, Heathcliff. Cho nên giờ chúng là của anh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Còn về tin xấu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Chúng ta sẽ bị N.T.N. hết trước khi anh Heathcliff có được cơ hội để dùng chúng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":null,
+                "content":"Khi bài phát biểu đầy nhiệt huyết kéo dài của hắn ta đã kết thúc, tên Anh Lớn của Băng Đảng Middle và Don Quixote đều lau nước mắt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Và cái giá cho tội lỗi của các ngươi...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Ờm... Để xem nào. Chương 8, Mục 20 viết...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Trên hàng A... Dòng 6... Phiếu Khuyến Mại Tiệm Làm Tóc...",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"단테2",
+                "content":"<Cuốn sách đó có cả hướng dẫn trong trường hợp ai đó trộm phiếu khuyến mại của tiệm làm tóc luôn ư?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Aha! Thấy rồi.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"작은형님책",
+                "content":"Xoá sổ toàn bộ các bên có có liên quan; thủ tiêu tên trộm phiếu khuyến mại và bất kỳ lẫn toàn bộ cá nhân lẫn tổ chức của chúng. Có hiệu lực ngay lập tức.",
+                "teller":"Anh Lớn",
+                "title":"Băng Đảng Middle"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"료슈",
+                "content":"Hừm. Đúng thật là, một thằng A.L.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"작은형님발광",
+                "content":"Tên ta là Ricardo, một Anh Lớn của băng đảng Middle. Hãy để cái tên của ta chính là thứ cuối cùng mà các ngươi nhớ lấy trước khi cả đám đi chầu ông bà. Suy cho cùng, kí ức cũng rất quan trọng đấy.",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle"
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":null,
+                "content":"Ryoshu ném điếu thuốc cuối cùng của cô ấy xuống đất, hút đến khi chỉ còn đầu thuốc mà thôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"료슈",
+                "content":"Không thoả mãn... Ta sẽ kiếm một điếu thuốc thượng hạng vào lần tới... Đó là nếu như có lần tới.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":null,
+                "content":"Và tên Anh Lớn phi thẳng lên trời cao.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

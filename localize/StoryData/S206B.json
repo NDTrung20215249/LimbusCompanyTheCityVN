@@ -1,154 +1,222 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino Entrance",
-      "model": "돈키호테",
-      "content": "Ohh…? Come hither, fellows, and lend me your gazes!"
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "…What is all this?"
-    },
-    {
-      "id": 2,
-      "model": "이상",
-      "content": "Cars are heaped upon each other as if to form a tower."
-    },
-    {
-      "id": 3,
-      "model": "뫼르소",
-      "content": "Sombre."
-    },
-    {
-      "id": 4,
-      "content": "The structures that seemed towerlike at a distance were actually cars stacked upon each other."
-    },
-    {
-      "id": 5,
-      "model": "싱클레어",
-      "content": "Why are so many piled up like this…?"
-    },
-    {
-      "id": 6,
-      "model": "돈키호테",
-      "content": "Oho, some have scripts upon their wind-shields! It must have been their families’ writing!"
-    },
-    {
-      "id": 7,
-      "model": "싱클레어",
-      "content": "This one says… “I miss you.” The owners… are coming back soon for them, right…?"
-    },
-    {
-      "id": 8,
-      "model": "로쟈",
-      "content": "Not a chance."
-    },
-    {
-      "id": 9,
-      "model": "로쟈",
-      "content": "Even if they did return from the casino, they wouldn’t be in the right state to happily reunite with their loving families~"
-    },
-    {
-      "id": 10,
-      "model": "오티스",
-      "content": "……"
-    },
-    {
-      "id": 11,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Well… To play the auxiliary role of your tour guide, this here is the hidden landmark of the street."
-    },
-    {
-      "id": 12,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "The bitter end of gamblers."
-    },
-    {
-      "id": 13,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "And this served as a stepping stone for the Tingtang Gang to amass wealth and power by dealing used cars."
-    },
-    {
-      "id": 14,
-      "model": "그레고르",
-      "content": "So Rodya, you’ve been to places like this pretty often, right? Got anything to add? Bet you could tell us some pretty interesting trivia."
-    },
-    {
-      "id": 15,
-      "model": "로쟈",
-      "content": "Gah~ Dunno, dunno. Don’t ‘member a thing. I decided to forget all about the past and focus on what’s in front."
-    },
-    {
-      "id": 16,
-      "model": "로쟈",
-      "content": "…And I would be able to keep to that self-promise if not for irritants like them. Heh."
-    },
-    {
-      "id": 17,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Oi, bohnen! Who do ya think you are to goof around our turf?"
-    },
-    {
-      "id": 18,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Or what, ya here to sell ya car?"
-    },
-    {
-      "id": 19,
-      "model": "돈키호테",
-      "content": "Nay! We mount an omnibus!"
-    },
-    {
-      "id": 20,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "We don’t deal in organs, though? Hmm, well, I guess a pair of eyes with pupils as specially-colored as yours might sell…"
-    },
-    {
-      "id": 21,
-      "model": "돈키호테",
-      "content": "So we have come to the right place! We are here for your leader!"
-    },
-    {
-      "id": 22,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ya pretty bold in facing a gang. Who do ya work for?"
-    },
-    {
-      "id": 23,
-      "model": "돈키호테",
-      "content": "We serve under Limb—!"
-    },
-    {
-      "id": 24,
-      "model": "돈키호테",
-      "content": "Kehm…"
-    },
-    {
-      "id": 25,
-      "content": "An awkward silence passed."
-    },
-    {
-      "id": 26,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "I asked you a question! Don’t stop midway!"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sảnh Vào Sòng Bạc",
+                "model":"돈키호테",
+                "content":"Ồồ...? Mau đến đây, các chiến hữu của ta, và nhìn kìa!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"싱클레어",
+                "content":"...Những thứ này là sao đây?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이상",
+                "content":"Xe cộ chồng chất lên nhau như xây dựng một tòa tháp vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Thật ảm đạm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Tòa kiến trúc nhìn như tháp ở đằng xa kia thực ra chỉ là một đống xe chồng lên nhau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tại sao những chiếc xe lại chất chồng lên nhau thế này...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ô, một vài chiếc còn gắn thêm mấy mẩu giấy trên kính chắn gió này! Hẳn chúng là từ người thân của họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tờ này ghi là... 'Em nhớ anh.' Những người chủ xe... sẽ sớm quay về và đoàn tụ với gia đình của họ mà, phải không...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"로쟈",
+                "content":"Mơ đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ngay cả khi họ trở về khu sòng bạc đó, họ chắc không còn bình thường để gặp lại người nhà thân thiết của họ đâu~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"오티스",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"소드",
+                "content":"Thì là... Để làm đúng vai trò là một hướng dẫn viên phụ trợ, chỗ này đây là một cột mốc ẩn trong các con hẻm.",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"에피",
+                "content":"Kết cục đắng cay của các con bạc.",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"소드",
+                "content":"Và nơi này phục vụ như bàn đạp của Băng Tình Tang để tích lũy tiền tài và quyền lực bằng cách giao dịch xe đã qua sử dụng.",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"그레고르",
+                "content":"À Rodya, cô từng hay lui tới mấy nơi kiểu này rồi nhỉ? Cô có muốn nói thêm gì không? Dám cá rằng cô có biết vài thông tin thú vị đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hà~ Chả biết, chả biết. Tui chả nhớ được gì đâu. Tôi đã quyết là sẽ bỏ qua quá khứ mà đối mặt với thực tại rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"로쟈",
+                "content":"...Và tôi đã giữ được lời hứa đó nếu không có những kẻ phiền phức kia. Hừm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "content":"Này, bọn đậu tây! Chúng mày nghĩ mình là ai mà dám động vào địa bàn của bọn tao?",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "content":"Hay là bọn mày đến để bán xe?",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Không! Bọn ta cưỡi trên chiếc xe buýt vạn năng!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "content":"Bọn tao đâu có buôn bán nội tạng đâu nhỉ? Hừm, để xem, tao nghĩ màu cặp mắt của mày chắc sẽ bán được giá...",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy là chúng ta đến đúng nơi rồi! Bọn ta đến đây để gặp thủ lĩnh của các ngươi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "content":"Bọn mày cũng gan đấy khi dám đụng chạm băng bọn tao. Bọn nhãi tụi bây làm việc cho thằng nào?",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Bọn ta phục vụ dưới trướng Công Ty Limb—!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"돈키호테",
+                "content":"E-hèm...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Không một âm thanh nào cất lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "content":"Tao đang hỏi đấy! Đừng có mà dừng giữa chừng!",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Băng Tình Tang"
+            }
+        ]
     }
-  ]
-}
+

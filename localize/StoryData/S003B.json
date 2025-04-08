@@ -2,29 +2,29 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "베르길리우스",
-      "content": "You’re looking much more useful than before, Dante."
+      "content": "Cậu trông hữu dụng hơn trước rồi đấy, Dante."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<They all got away save for one, though. Shouldn’t we go after them?>"
+      "content": "<Bọn chúng đều trốn thoát hết ngoại trừ một tên. Chúng ta có nên đuổi theo không?>"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "They’re worried over the foes we lost."
+      "content": "Người ấy lo lắng cho đám kẻ thù chạy đi."
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "No need for concern… That’s the direction we were heading anyway. Charon?"
+      "content": "Không cần phải bận tâm... Đằng nào đấy cũng là nơi ta cần đến. Charon?"
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "Pedal touches metal. Up for an exciting ride."
+      "content": "Tăng tốc hết cỡ. Chuẩn bị cho chuyến hành trình thú vị."
     }
   ]
 }

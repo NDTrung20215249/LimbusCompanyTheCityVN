@@ -1,112 +1,190 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "District 11 - LC Branch Interior",
-      "model": "히스클리프",
-      "content": "…You hear beasts crawling around somewhere?"
-    },
-    {
-      "id": 1,
-      "content": "There certainly is the sound of something moving along the floor."
-    },
-    {
-      "id": 2,
-      "model": "침식직원1",
-      "teller": "???",
-      "title": "???",
-      "content": "Nnh… Ghhhgn…"
-    },
-    {
-      "id": 3,
-      "model": "그레고르",
-      "content": "Are those Abnormalities?"
-    },
-    {
-      "id": 4,
-      "model": "이스마엘",
-      "content": "Take a closer look—they aren’t Abnormalities. See that emblem…"
-    },
-    {
-      "id": 5,
-      "content": "Ishmael whispered softly to us."
-    },
-    {
-      "id": 6,
-      "content": "Upon closer inspection, I could spot the emblems she mentioned. They were the ones worn by the Inquisitors."
-    },
-    {
-      "id": 7,
-      "model": "파우스트",
-      "content": "E.G.O Corrosion has wrested them."
-    },
-    {
-      "id": 8,
-      "model": "그레고르",
-      "content": "You mean that nauseating state…?"
-    },
-    {
-      "id": 9,
-      "model": "이스마엘",
-      "content": "I think it happened to me in battle once when I was on the verge of a breakdown… It was like I was being devoured."
-    },
-    {
-      "id": 10,
-      "model": "파우스트",
-      "content": "Although it’s not quite like consumption in the conventional sense… I do suppose that it is a serviceable analogy, seeing as it eats away at your essence."
-    },
-    {
-      "id": 11,
-      "model": "파우스트",
-      "content": "…And in observation, unlike the last floor, this place does not seem to be exclusively for torturing prosthesis users."
-    },
-    {
-      "id": 12,
-      "model": "파우스트",
-      "content": "It would be fair to say that its purpose is to induce Corrosion unto oneself."
-    },
-    {
-      "id": 13,
-      "model": "침식직원1",
-      "teller": "Corroded Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Urg… Ghh… Arrh…"
-    },
-    {
-      "id": 14,
-      "content": "Staring at those beings stumbling about…"
-    },
-    {
-      "id": 15,
-      "content": "It evoked complex feelings that made me sigh."
-    },
-    {
-      "id": 16,
-      "content": "Is my artificial head really worth raging over, so much so that they would transform themselves into something far more hideous than having a clock for a head?"
-    },
-    {
-      "id": 17,
-      "content": "Choosing to lose themselves, being possessed…"
-    },
-    {
-      "id": 18,
-      "content": "What about when they claim the Golden Bough after going to these lengths…?"
-    },
-    {
-      "id": 19,
-      "content": "Will it even be used for their benefit?"
-    },
-    {
-      "id": 20,
-      "content": "Then, it occurred to me."
-    },
-    {
-      "id": 21,
-      "content": "Am I really so different from those unsightly zealots…"
-    },
-    {
-      "id": 22,
-      "content": "…when I’m searching for the Golden Boughs without even knowing what they’ll be used for?"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Chi Nhánh Nội Bộ Công Ty L - Quận 11",
+                "model":"히스클리프",
+                "content":"…Bọn mày nghe tiếng quái thú vòng vòng quanh đây không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":null,
+                "content":"Chắc chắn có tiếng thứ gì đó đang chuyển động trên mặt đất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"침식직원1",
+                "content":"Khực… Gừừừ…",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"그레고르",
+                "content":"Đám đó là Dị Thể à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhìn kỹ hơn thì, chúng không phải Dị Thể. Thấy cái huy hiệu đó không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Ishmael thì thầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Khi quan sát kỹ hơn, tôi có thể nhìn thấy biểu tượng mà cô ấy nhắc đến. Chúng là thứ được các Phán Quan đeo lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"파우스트",
+                "content":"Xâm Thực E.G.O đã chiếm lấy họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ý cô là cái trạng thái khó chịu đó…?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hình như tôi cùng từng trải qua cảm giác đó một lần trên chiến trường khi mà bản thân đang trên bờ vực gục ngã… Cảm giác cứ như tôi sắp bị ăn tươi nuốt sống vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mặc dù nó không hoàn toàn giống với xâm thực theo nghĩa thông thường… Tôi vẫn cho rằng đó là một phép so sánh hữu ích, vì nó ăn mòn bản chất của cô.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"파우스트",
+                "content":"…Và theo quan sát, không như tầng vừa nãy, nơi này không giống việc phục vụ tra tấn người sử dụng bộ phận nhân tạo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mục đích chính của nơi này như thể để Xâm Thực chiếm lấy họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"침식직원1",
+                "content":"Gừ… Khặc… Grààà…",
+                "teller":"Phán Quan Bị Ăn Mòn",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Nhìn những thứ đang lăn lộn đó…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Trong lòng tôi dấy lên những cảm giác phức tạp khiến tôi chỉ có thể thở dài.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Liệu cái đầu nhân tạo của tôi có đáng làm họ thấy phẫn nộ không, có thật sự đáng đến nỗi bọn họ phải tự biến đổi bản thân thành một thứ gì đó gớm ghiếc hơn cả việc phải chấp nhận một cái đồng hồ thay thế cho cái đầu không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "content":"Phải lựa chọn giữa việc đánh mất chính mình, bị kiểm soát…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Vậy còn lúc họ chiếm lấy Cành Vàng sau khi đã trải qua vô vàn chuyện đó thì sao…?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"Liệu nó có được dùng cho lợi ích của họ không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "content":"Rồi, tôi chợt nghĩ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "content":"Rằng tôi có thật sự khác biệt với những kẻ cuồng tín điên loạn ấy không…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "content":"…khi mà tôi đang tìm kiếm những Cành Vàng mà không hề biết chúng sẽ được dùng cho mục đích gì?",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

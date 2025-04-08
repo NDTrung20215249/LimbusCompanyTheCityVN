@@ -1,35 +1,42 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pallid Whale's Heart",
-            "model": "다친이스마엘",
-            "content": "You could've given your crew a chance!"
-        },
-        {
-            "id": 1,
-            "model": "다친이스마엘",
-            "content": "A chance to see for themselves where they stood...!"
-        },
-        {
-            "id": 2,
-            "model": "에이해브",
-            "content": "Always in my wake... are pallid, opaque traces."
-        },
-        {
-            "id": 3,
-            "model": "에이해브",
-            "content": "You say that I stole their chances? Wrong. They merely followed in my wake, setting their course to the same destination as mine."
-        },
-        {
-            "id": 4,
-            "model": "에이해브",
-            "content": "Because had they not done so, they could not have endured this world. Because they were weak! I was their lighthouse in this world of tempest... I gave them an unambiguous path to follow!"
-        },
-        {
-            "id": 5,
-            "model": "에이해브그림자",
-            "content": "The last of my sailors! By me! Heed my orders! Pursue them!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Quả Tim của Cá Voi Trắng",
+                "model":"다친이스마엘",
+                "content":"Bà vốn đã có thể cho họ một cơ hội!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"다친이스마엘",
+                "content":"Một cơ hội để thủy thủ đoàn nhìn lại xem họ đang đứng ở đâu...!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"에이해브",
+                "content":"Đằng sau lưng ta...luôn là những vết tích trắng đục."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ngươi nói ta cướp đi cơ hội của chúng ư? Sai rồi. Chúng chỉ đơn thuần là bước sau lưng ta, định hướng con đường của chúng chung với đích đến của ta."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"에이해브",
+                "content":"Bởi vì nếu chúng không làm như thế, chúng đã không thể chịu đựng được thế giới này. Bởi vì chúng yếu đuối! Ta chính là ngọn hải đăng của chúng trong cái thế giới đầy sóng gió này... Ta đã vạch ra con đường rõ ràng cho chúng để đi theo!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"에이해브그림자",
+                "content":"Những thuỷ thủ đoàn cuối cùng của ta! Bởi chính ta! Nghe lệnh ta! Truy lùng chúng!"
+            }
+        ]
+    }
+

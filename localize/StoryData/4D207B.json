@@ -1,74 +1,110 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Emptied League of Nine Littérateurs",
-            "model": "이상",
-            "content": "The explosion of the League of Nine shattered everything there was, and everything came to a halt for me as well."
-        },
-        {
-            "id": 1,
-            "model": "이상",
-            "content": "To stop means to cease caring... It is a state of indifference."
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "In other words..."
-        },
-        {
-            "id": 3,
-            "model": "이상",
-            "content": "It no longer mattered if I was weathered and stomped."
-        },
-        {
-            "id": 4,
-            "model": "이상",
-            "content": "But that was when someone held me by the arm."
-        },
-        {
-            "id": 5,
-            "model": "과거구보",
-            "teller": "Gubo",
-            "title": "???",
-            "content": "Are you going to stand still and let T Corp's tech agency take you away? Someone like you? Have you finally gone mad, Yi Sang?"
-        },
-        {
-            "id": 6,
-            "model": "과거구보",
-            "teller": "Gubo",
-            "title": "???",
-            "content": "You must come with me."
-        },
-        {
-            "id": 7,
-            "model": "이상",
-            "content": "What could I have done other than nod?"
-        },
-        {
-            "id": 8,
-            "model": "이상",
-            "content": "If he told me to be apprehended by the tech agency employees, I would have nodded all the same."
-        },
-        {
-            "id": 9,
-            "model": "이상",
-            "content": "If he told me to put all of the mirror technology into a concept incinerator, I would have done so."
-        },
-        {
-            "id": 10,
-            "model": "이상",
-            "content": "If he told me to hide on the spot and pretend I know nothing, I would have followed it."
-        },
-        {
-            "id": 11,
-            "model": "이상",
-            "content": "How many of the nine survived and ran away..."
-        },
-        {
-            "id": 12,
-            "model": "이상",
-            "content": "I do not know."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cửu Nhân Hội Trống Rỗng",
+                "model":"이상",
+                "content":"Vụ nổ xé toạc Cửu Nhân Hội cũng đã đập tan mọi thứ, và với tôi vạn vật cũng chững lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이상",
+                "content":"Dừng lại tức là ngừng quan tâm... Nó là một trạng thái hờ hững.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이상",
+                "content":"Nói khác đi là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이상",
+                "content":"Việc tôi chịu đựng và bị chà đạp bao nhiêu chẳng còn quan trọng nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이상",
+                "content":"Nhưng đó là lúc có người nắm lấy tay tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"과거구보",
+                "content":"Cậu định đứng yên và để mặc cơ quan công nghệ của Tập Đoàn T bắt cậu đi à? Một người như cậu? Cậu bị điên rồi sao, Yi Sang?",
+                "teller":"Gubo",
+                "title":"???"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"과거구보",
+                "content":"Cậu phải đi với tôi.",
+                "teller":"Gubo",
+                "title":"???"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi biết làm gì ngoài gật đầu bây giờ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이상",
+                "content":"Nếu cậu ấy nói tôi hãy để mình bị đám nhân viên cơ quan công nghệ lôi đi, tôi cũng sẽ gật như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이상",
+                "content":"Nếu cậu ấy bảo tôi quăng hết tất cả công nghệ gương vào lò đốt khái niệm, tôi cũng sẽ làm thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이상",
+                "content":"Nếu cậu ấy bảo tôi trốn tại đó và vờ như chẳng biết gì, tôi cũng sẽ nghe lời cậu ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이상",
+                "content":"Trong chín người, bao nhiêu sống sót và thoát đi được...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi cũng chẳng biết.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

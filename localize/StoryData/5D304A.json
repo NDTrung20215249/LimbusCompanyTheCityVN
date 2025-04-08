@@ -1,580 +1,918 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pallid Whale's Heart",
-            "model": "에이해브다침",
-            "content": "You should have stabbed me! That harpoon should have pierced my heart! How! Why were you the one to—!"
-        },
-        {
-            "id": 1,
-            "model": "에이해브다침",
-            "content": "We must find the Pallid Whale! Look alive, men! Spring! Roar!"
-        },
-        {
-            "id": 2,
-            "model": "에이해브다침",
-            "content": "Harpooneers, tighten the ropes around your harpoons! Helmsman, set course to the Whale!"
-        },
-        {
-            "id": 3,
-            "model": "에이해브다침",
-            "content": "Full sail! Full sail, my first mate! Row! To the Pallid Whale from which the all evils of the world spout, we sail!"
-        },
-        {
-            "id": 4,
-            "model": "에이해브다침",
-            "content": "Navigators, chart course…! We set sail! We set… sail…"
-        },
-        {
-            "id": 5,
-            "content": "Ahab roars. She cries out to her crew, but they will never return."
-        },
-        {
-            "id": 6,
-            "content": "Her voice scatters to nothingness."
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "I will watch you live. Because you are the proof of my wandering years."
-        },
-        {
-            "id": 8,
-            "model": "이스마엘",
-            "content": "So that I may endlessly struggle against the devouring seas. The testament to my sins. My Whale."
-        },
-        {
-            "id": 9,
-            "model": "에이해브다침",
-            "content": "No, you will not look down at me…!"
-        },
-        {
-            "id": 10,
-            "model": "에이해브다침",
-            "content": "I am Captain Ahab. I, I…!"
-        },
-        {
-            "id": 11,
-            "content": "Pale blood explodes from the gaping rupture in the Whale’s heart."
-        },
-        {
-            "id": 12,
-            "content": "As though the Pequod’s crew were raising a toast to victory."
-        },
-        {
-            "id": 13,
-            "content": "Drink to the Pallid Whale's death."
-        },
-        {
-            "id": 14,
-            "content": "Drink to the downfall of Captain Ahab."
-        },
-        {
-            "id": 15,
-            "content": "Thus the voyage came to an end."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "Oi... The Whale's not letting us out, it's caving in on itself...!"
-        },
-        {
-            "id": 17,
-            "model": "싱클레어",
-            "content": "So what she said about destroying the heart and escaping..."
-        },
-        {
-            "id": 18,
-            "model": "그레고르",
-            "content": "Of course... Full of lies to the end."
-        },
-        {
-            "id": 19,
-            "model": "오티스",
-            "content": "Well, it technically wasn't a lie. We will eventually end up outside the Whale."
-        },
-        {
-            "id": 20,
-            "model": "로쟈",
-            "content": "She didn't say anything about being outside the Whale in one piece, I guess. Ugh, I shoulda seen this coming~"
-        },
-        {
-            "id": 21,
-            "content": "THUMP!"
-        },
-        {
-            "id": 22,
-            "content": "Someone, something dropped a large, sturdy rope from above us."
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "…!"
-        },
-        {
-            "id": 24,
-            "model": "단테",
-            "content": "<Who dropped that rope...?>"
-        },
-        {
-            "id": 25,
-            "model": "로쟈",
-            "content": "Doesn't matter, let's take it!"
-        },
-        {
-            "id": 26,
-            "content": "Ishmael stared at that rope for a moment."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프",
-            "content": "What are you standing around there for? Let's go."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "This rope..."
-        },
-        {
-            "id": 29,
-            "model": "이스마엘",
-            "content": "I have a feeling that this rope won't snap."
-        },
-        {
-            "id": 30,
-            "model": "에이해브다침",
-            "content": "You... You should have killed me..."
-        },
-        {
-            "id": 31,
-            "model": "에이해브다침",
-            "content": "I should have been the one to kill the Whale...!"
-        },
-        {
-            "id": 32,
-            "model": "히스클리프",
-            "content": "What... about her?"
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "... We'll let her watch as this place crumbles around her."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "The Captain must go down with the ship, after all."
-        },
-        {
-            "id": 35,
-            "content": "We all grabbed onto the rope and climbed."
-        },
-        {
-            "id": 36,
-            "content": "Like Ishmael said, this rope did not snap. We felt the cool breeze blowing in from the outside."
-        },
-        {
-            "id": 37,
-            "content": "We never once looked back at the abyss that was the Whale."
-        },
-        {
-            "id": 38,
-            "content": "Never."
-        },
-        {
-            "id": 39,
-            "content": "After some time..."
-        },
-        {
-            "id": 40,
-            "place": "Cabins of Mephistopheles",
-            "model": "로쟈",
-            "content": "Apparently the Whale's hide's too thick and tough for most things to puncture..."
-        },
-        {
-            "id": 41,
-            "model": "로쟈",
-            "content": "... So how'd ya do it? Hmm? Hmmm?"
-        },
-        {
-            "id": 42,
-            "content": "The Indigo Elder did not seem to mind Rodya's persistent, somewhat rude questioning; he replied patiently."
-        },
-        {
-            "id": 43,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I do not know if it is because the Pallid Whale swallowed the Golden Bough... or because it swallowed you and your friends. But its behaviors changed in ways that I had never seen before. I presume that something had gone wrong with its brain."
-        },
-        {
-            "id": 44,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "So I punctured a hole in it with my anchor. That is all."
-        },
-        {
-            "id": 45,
-            "model": "베르길리우스",
-            "content": "Now... two of the five Calamities of the Lake have met their end by your hands."
-        },
-        {
-            "id": 46,
-            "model": "베르길리우스",
-            "content": "Will you remain here, Indigo Elder?"
-        },
-        {
-            "id": 47,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Why would I leave? The sea still harbors three Calamities."
-        },
-        {
-            "id": 48,
-            "model": "베르길리우스",
-            "content": "Hm."
-        },
-        {
-            "id": 49,
-            "model": "싱클레어",
-            "content": "Oh... That butterfly..."
-        },
-        {
-            "id": 50,
-            "place": "Aboard Mephistopheles's Deck",
-            "content": "A solitary butterfly takes a moment to rest, before fluttering over the Lake's surface."
-        },
-        {
-            "id": 51,
-            "model": "싱클레어",
-            "content": "That butterfly looks similar to the one we saw in the Lobotomy Corp. Branch."
-        },
-        {
-            "id": 52,
-            "model": "뫼르소",
-            "content": "It appears to be the exact same Butterfly."
-        },
-        {
-            "id": 53,
-            "model": "홍루",
-            "content": "I'm envious. To be able to cross the Lakes so unbound, so freely like that."
-        },
-        {
-            "id": 54,
-            "model": "단테",
-            "content": "<What do you think his deal was? Rim...>"
-        },
-        {
-            "id": 55,
-            "model": "단테",
-            "content": "<He did help us at the end of the day, but...>"
-        },
-        {
-            "id": 56,
-            "model": "파우스트",
-            "content": "He has certain expectations of us. I expect that he will return."
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "I don't like being a pawn in some dodgy bloke's games."
-        },
-        {
-            "id": 58,
-            "model": "싱클레어",
-            "content": "I think... he was watching us from a short distance away. Maybe a step away."
-        },
-        {
-            "id": 59,
-            "content": "Ishmael was gazing beyond the Lake's horizons."
-        },
-        {
-            "id": 60,
-            "content": "She no longer casts her gaze into its waters."
-        },
-        {
-            "id": 61,
-            "model": "단테",
-            "content": "<Ishmael.>"
-        },
-        {
-            "id": 62,
-            "model": "이스마엘",
-            "content": "Oh, I was reading the winds."
-        },
-        {
-            "id": 63,
-            "model": "오티스",
-            "content": "We're cutting it close. I expect to see the Waves rushing in our direction at any minute."
-        },
-        {
-            "id": 64,
-            "model": "이스마엘",
-            "content": "... Heh."
-        },
-        {
-            "id": 65,
-            "content": "Ishmael chuckled lightly."
-        },
-        {
-            "id": 66,
-            "model": "이스마엘",
-            "content": "Then let's face it head-on this time. Ready, Dante?"
-        },
-        {
-            "id": 67,
-            "model": "단테",
-            "content": "<I... don't know how to sail.>"
-        },
-        {
-            "id": 68,
-            "model": "이스마엘",
-            "content": "Haah... Don't you understand? After all that? It doesn't matter how good of a sailor you are."
-        },
-        {
-            "id": 69,
-            "model": "이스마엘",
-            "content": "What's important... is that someone is there to help steer you right."
-        },
-        {
-            "id": 70,
-            "model": "이스마엘",
-            "content": "And as the first mate of this ship, I'll trust and follow your directions."
-        },
-        {
-            "id": 71,
-            "model": "이스마엘",
-            "content": "So... you're my Captain. For now."
-        },
-        {
-            "id": 72,
-            "model": "이스마엘",
-            "content": "My skiff will go on an adventure of its own one day. But for now, I've tied that skiff to a bigger ship called Limbus Company and you."
-        },
-        {
-            "id": 73,
-            "model": "이스마엘",
-            "content": "Because I really want to find out what's waiting for me at the end of this voyage."
-        },
-        {
-            "id": 74,
-            "model": "이스마엘",
-            "content": "... Besides, you guys are the only friends I have left."
-        },
-        {
-            "id": 75,
-            "model": "단테",
-            "content": "<Ishmael...>"
-        },
-        {
-            "id": 76,
-            "model": "이스마엘",
-            "content": "I'll trust your decisions and your orders, Captain. But I'm not going to just accept them at a face value. I'll constantly question and try to understand them."
-        },
-        {
-            "id": 77,
-            "model": "이스마엘",
-            "content": "So that when I see that my compass no longer aligns with yours, I can take my skiff and sail away."
-        },
-        {
-            "id": 78,
-            "model": "이스마엘",
-            "content": "So that I won't let anything consume me again. So that I won't lose myself again."
-        },
-        {
-            "id": 79,
-            "content": "I can see the Waves rushing toward us from a distance."
-        },
-        {
-            "id": 80,
-            "content": "The Waves are as colossal as always. There is a little fear in my heart."
-        },
-        {
-            "id": 81,
-            "content": "Yet..."
-        },
-        {
-            "id": 82,
-            "model": "단테",
-            "content": "<Well, I think we can manage that.>"
-        },
-        {
-            "id": 83,
-            "model": "이스마엘",
-            "content": "Heh."
-        },
-        {
-            "id": 84,
-            "place": "Cabins of Mephistopheles",
-            "model": "오티스",
-            "content": "Waves incoming in 15 seconds. Get to the helm, Swab— No."
-        },
-        {
-            "id": 85,
-            "model": "오티스",
-            "content": "First mate Ishmael."
-        },
-        {
-            "id": 86,
-            "model": "이스마엘",
-            "content": "You're not even the Captain, Outis. Come on."
-        },
-        {
-            "id": 87,
-            "model": "카론",
-            "content": "Sorry for intruding."
-        },
-        {
-            "id": 88,
-            "model": "카론",
-            "content": "But Charon's got the helm. Hold on, everyone."
-        },
-        {
-            "id": 89,
-            "model": "오티스",
-            "content": "Khm..."
-        },
-        {
-            "id": 90,
-            "model": "이스마엘",
-            "content": "Haaah..."
-        },
-        {
-            "id": 91,
-            "content": "Now that's a proper Ishmael sigh. I haven't heard her do that in a long while."
-        },
-        {
-            "id": 92,
-            "content": "With it, she tightly gripped a handle of the bus, her gaze fixed on the approaching Waves."
-        },
-        {
-            "id": 93,
-            "content": "Determined to never allow herself to be swept up by the tempest that the waves bring."
-        },
-        {
-            "id": 94,
-            "content": "Her hair, the color of sunset, flows and flutters in the wind."
-        },
-        {
-            "id": 95,
-            "model": "이스마엘",
-            "content": "The wind feels... nice."
-        },
-        {
-            "id": 96,
-            "model": "이스마엘",
-            "content": "It's a perfect breeze to push us toward a new voyage."
-        },
-        {
-            "id": 97,
-            "model": "카론",
-            "content": "Mhm. Voyage to ice cream. Splish splash."
-        },
-        {
-            "id": 98
-        },
-        {
-            "id": 99,
-            "place": "The Great Lake",
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "My, what a mess..."
-        },
-        {
-            "id": 100,
-            "teller": "Ahab",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 101,
-            "teller": "Ahab",
-            "title": "???",
-            "content": "Is it still... not in your sights...?"
-        },
-        {
-            "id": 102,
-            "teller": "Ahab",
-            "title": "???",
-            "content": "That cannot be... We must continue our search... Comb... every corner..."
-        },
-        {
-            "id": 103,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Sorry that the Whale died."
-        },
-        {
-            "id": 104,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "But you don't have to completely give up on life, do you? What you've lost is but a 'single' Whale."
-        },
-        {
-            "id": 105,
-            "teller": "Ahab",
-            "title": "???",
-            "content": "You... You're here to point and jeer at this Captain Ahab, have you...?"
-        },
-        {
-            "id": 106,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Captain. In this world of infinite possibilities... Do you really think that there is but a single Pallid Whale?"
-        },
-        {
-            "id": 107,
-            "model": "에이해브",
-            "content": "……."
-        },
-        {
-            "id": 108,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Yes, now there's a spark in your eyes. I think we're starting to understand each other."
-        },
-        {
-            "id": 109,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "I'll help you kill that Whale. And I'll make sure that you're the one who gets to do it this time."
-        },
-        {
-            "id": 110,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "So that you may hunt every Pallid Whale in every world."
-        },
-        {
-            "id": 111,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "All I require from you is your staunch determination and conviction."
-        },
-        {
-            "id": 112,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "So, is that more than enough reason for you to come aboard my ship?"
-        },
-        {
-            "id": 113,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Let's make this voyage a good one."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Quả Tim của Cá Voi Trắng",
+                "model":"에이해브다침",
+                "content":"Lẽ ra mày nên đâm chết ta! Cây lao đó lẽ ra phải đâm xuyên qua trái tim ta! Làm thế nào! Tại sao mày lại là kẻ—!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Chúng ta phải đi tìm Cá Voi Trắng! Tỉnh táo lên, người của ta! Tiến lên! Gào lên!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Lũ phóng lao, thắt chặt dây thừng quanh lao móc đi! Tay lái thuyền, hướng thẳng về phía con Cá Voi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Hết tốc lực! Hết tốc lực đi, thuyền phó của ta! Chèo đi! Chúng ta tiến thẳng đến chỗ Cá Voi Trắng nơi toàn bộ cái ác trên thế giới phun trào ra!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Hoa tiêu, vạch lộ trình...! Chúng ta sẽ khởi hành! Chúng ta sẽ...khởi hành...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Ahab gào lên. Bà ta gọi thuỷ thủ đoàn của mình, nhưng họ sẽ không bao giờ có thể trở về được nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Giọng của bà ấy tan biến vào hư vô.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi sẽ để bà sống tiếp. Vì bà chính là minh chứng cho những năm tháng phiêu bạt của tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Vì một ngày mai tôi sẽ lại tiếp tục chống chọi với biển cả hung tàn. Là minh chứng cho tội lỗi của tôi. Con Cá Voi của tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Không, mày sẽ không coi thường ta...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Ta là Thuyền Trưởng Ahab. Ta, ta...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Máu trắng nổ ra từ những vết thương hở trong tim của Cá Voi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Như thể các thuỷ thủ đoàn Tàu Pequod đang ăn mừng thắng lợi vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Nâng ly ăn mừng cái chết của Cá Voi Trắng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Nâng ly ăn mừng sự sụp đổ của Thuyền Trưởng Ahab.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Và thế là cuộc hành trình này đã đến hồi kết thúc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ê... Con Cá Voi không chịu thả ta ra kìa, cái thây của nó sắp sụp đổ rồi...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Vậy khi bà ta nói rằng nếu phá hủy trái tim thì có thể thoát ra...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"그레고르",
+                "content":"Biết ngay mà... Đến cuối cùng vẫn chỉ toàn dối trá.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"오티스",
+                "content":"Chà, nếu xét kĩ thì nó cũng không phải lời nói dối. Chúng ta sẽ ra bên ngoài Cá Voi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"로쟈",
+                "content":"Bà ta không nhắc tới ra khỏi Con Voi là còn nguyên vẹn cái xác không mà. Hà, đáng lẽ tôi nên biết sớm chứ~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "content":"THÙNG!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "content":"Ai đó, cái gì đó thả xuống một sợi dây thừng khổng lồ và vững chắc từ bên trên chỗ chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테",
+                "content":"<Ai thả sợi dây thừng đó xuống thế...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"로쟈",
+                "content":"Cứ mặc kệ, nắm lên nó đi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Ishmael nhìn sợi dây thừng một lúc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày đứng đó làm gì thế? Đi thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Sợi dây này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi có một linh cảm là nó sẽ không đứt đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Mày... Mày lẽ ra nên giết chết ta...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"에이해브다침",
+                "content":"Ta lẽ ra phải là người giết chết con Cá Voi...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ả... thì sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Ta sẽ để ả suy tàn cùng nơi này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Dù sao thì, Thuyền Trưởng phải chìm cùng con tàu mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi đều bám vào sợi dây thừng và bắt đầu trèo lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Đúng như Ishmael nói, sợi dây này không hề đứt ra. Chúng tôi cảm nhận được gió biển mát mẻ thổi vào từ bên ngoài.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi không hề nhìn lại cái vực sâu đã từng là con Cá Voi nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"Không bao giờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"Sau một khoảng thời gian...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":"Cabin của Mephistopheles",
+                "model":"로쟈",
+                "content":"Thực ra là lớp da của con Cá Voi đó quá dày và cứng cáp để có thể đâm xuyên qua...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Thế mà mấy người làm sao hay dữ vậy? Hửm? Hửmmm?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Lão không biết là do Cá Voi Trắng đã nuốt Cành Vàng... hay vì nuốt các cô cậu. Nhưng lão chưa từng thấy hành vi như thế trước đây. Lão đoán thứ gì đó đã xảy ra trong não nó.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Nên lão đã đâm một lỗ với mỏ neo của lão. Vậy thôi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Giờ thì... hai trong số Ngũ Đại Hoạ đã bị hạ bởi chính tay già rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Liệu già vẫn sẽ ở lại đây chứ, Lão Chàm?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Sao lão phải rời? Vẫn còn 3 Đại Họa ngoài kia.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Hừm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ồ... Con bướm đó...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":"Boong Thuyền Buýt Mephistopheles",
+                "model":null,
+                "content":"Một con bướm đơn độc dành ra một khoảnh khắc để nghỉ ngơi, trước khi đập cánh bay qua mặt Hồ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Con bướm đó trông giống như con bướm mà chúng ta thấy tại chi nhánh của Tập Đoàn Lobotomy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Có vẻ chính xác vẫn là con Bướm đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"홍루",
+                "content":"Nhìn nó tự do giang cánh bay qua Hồ như vậy, tôi lại thấy hơi ghen tị đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"단테",
+                "content":"<Mọi người nghĩ mục đích của anh ta là gì? Rim ấy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"단테",
+                "content":"<Anh ta thật sự đã có giúp đỡ chúng ta, nhưng...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có vẻ như cậu ấy kỳ vọng vào ta. Và tôi đoán rằng cậu ta sẽ quay lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao không thích làm quân cờ của mấy thằng tinh ranh như thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi có cảm giác... anh ta đã dõi theo chúng ta từ một khoảng cách ngắn thôi. Có thể chỉ cách một bước chân.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "content":"Ishmael đang ngắm nhìn đường chân trời của cái Hồ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy không còn nhìn xuống mặt nước nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"단테",
+                "content":"<Ishmael.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"이스마엘",
+                "content":"À, tôi đang đọc hướng gió.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"오티스",
+                "content":"Ta đang tới rất gần. Có lẽ sẽ có một Cơn Sóng ập thẳng vào ta bất cứ lúc nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Ha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Ishmael chợt cười.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế thì đương đầu trực tiếp thôi. Sẵn sàng chưa, Dante?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi...không biết cách lái tàu.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hầy... Ngài chưa hiểu sao? Sau ngần ấy chuyện? Không quan trọng việc ngài có là thủy thủ cừ khôi cỡ nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cái quan trọng... là có ai đó giúp ngài xoay bánh lái đúng hướng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Và với tư cách là thuyền phó của con tàu này, tôi sẽ tin tưởng đi theo chỉ dẫn của ngài.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cho nên... ngài là Thuyền Trưởng của tôi. Tạm thời thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chiếc bè của tôi sẽ đơn độc dong buồm ra khơi vào một ngày nào đó. Nhưng lúc này đây tôi đã buộc nó vào con tàu lớn hơn mang tên Công Ty Limbus rồi, và cả ngài nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Bởi vì tôi thực sự muốn tìm hiểu xem điều gì sẽ chờ đợi mình ở cuối cuộc hải trình này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Với cả, mọi người ở đây là những người bạn duy nhất còn lại mà tôi có.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"단테",
+                "content":"<Ishmael...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi sẽ tin vào mệnh lệnh và quyết định của ngài, thưa Thuyền Trưởng. Nhưng tôi sẽ không nghe lời rập khuôn như một cái máy thôi đâu. Tôi sẽ liên tục đặt câu hỏi và cố gắng nắm cho rõ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Để một khi tôi thấy rằng chiếc la bàn của mình đã không còn đồng điệu với của ngài nữa, thì tôi có thể hạ xuồng của mình và chèo đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Để không một ai hay bất cứ thứ gì có thể tiêu hóa được tôi nữa. Để không một lần nào tôi lại đánh mất chính mình nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":null,
+                "content":"Tôi có thể nhìn thấy Con Sóng đang lao thẳng đến chúng tôi từ đằng xa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "content":"Con Sóng khổng lồ như mọi khi. Trong tim tôi có hơi chút sợ hãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"단테",
+                "content":"<Ừa, tôi nghĩ chúng ta có thể xoay sở nó.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hê.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":"Cabin của Mephistopheles",
+                "model":"오티스",
+                "content":"Sóng tới trong 15 giây. Lên lái đi, nhóc lau dọ- Không.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"오티스",
+                "content":"Thuyền phó Ishmael.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cô còn chả phải là Thuyền Trưởng nữa là. Thôi nào Outis.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"카론",
+                "content":"Xin lỗi vì chen ngang.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"카론",
+                "content":"Nhưng Charon cầm lái rồi. Mọi người, bám chắc vào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"오티스",
+                "content":"Hưm...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hầy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":null,
+                "content":"Giờ thì đó mới đúng là tiếng thở dài đàng hoàng của Ishmael. Tôi đã không nghe cô ấy làm thế trong một khoảng thời gian dài rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":null,
+                "content":"Rồi, cô ấy bám thật chặt một bên tay nắm của xe buýt, ánh mắt của cô ấy nhìn thẳng vào Con Sóng đang ập đến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":null,
+                "content":"Với quyết tâm sẽ không bao giờ cho phép bản thân mình bị cuốn trôi đi bởi những con sóng cuồng nộ mang đến nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":null,
+                "content":"Mái tóc của cô ấy, màu sắc của hoàng hôn, tung bay trong gió.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Gió hôm nay... thật dễ chịu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Một luồng gió hoàn hảo để căng buồm trên chuyến hải trình mới.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"카론",
+                "content":"Ừm hứm. Giông thuyền ra kem. Bì bõm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":"The Great Lake",
+                "model":"헤르만",
+                "content":"Trời ạ, thật lộn xộn...",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":null,
+                "content":"…….",
+                "teller":"Ahab",
+                "title":"???"
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":null,
+                "content":"Nó vẫn...không nằm trong tầm mắt của các ngươi sao...?",
+                "teller":"Ahab",
+                "title":"???"
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":null,
+                "content":"Đó không thể nào... Chúng ta phải tiếp tục tìm kiếm... Tìm...khắp mọi ngóc ngách...",
+                "teller":"Ahab",
+                "title":"???"
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"헤르만",
+                "content":"Rất tiếc vì con Cá Voi đã chết rồi.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"헤르만",
+                "content":"Nhưng bà không cần phải hoàn toàn vứt bỏ mạng sống của mình, đúng không? Thứ bà đã mất chỉ là “một” con Cá Voi mà thôi.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":null,
+                "content":"Ngươi... Ngươi đến đây để chỉ thẳng mặt và chế nhạo Thuyền Trưởng Ahab này, phải không...?",
+                "teller":"Ahab",
+                "title":"???"
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"헤르만",
+                "content":"Thuyền Trưởng. Trong cái thế giới của những khả năng có thể xảy ra vô hạn này... Bà thật sự nghĩ rằng chỉ có duy nhất một con Cá Voi Trắng không?",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"에이해브",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"헤르만",
+                "content":"Đúng rồi, giờ đó mới là tia sáng loé lên trong mắt bà. Tôi nghĩ chúng ta đã bắt đầu thấu hiểu nhau rồi.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"헤르만",
+                "content":"Tôi sẽ giúp bà giết con Cá Voi đó. Và tôi sẽ đảm bảo rằng lần này bà sẽ là người giết chết nó.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"헤르만",
+                "content":"Để bà có thể săn mọi con Cá Voi Trắng trong mọi thế giới.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"헤르만",
+                "content":"Thứ duy nhất tôi yêu cầu từ bà chính là quyết tâm kiên định và niềm tin mãnh liệt thôi.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"헤르만",
+                "content":"Thế, bao nhiêu đó lý do đủ để bà lên tàu của tôi chưa?",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"헤르만",
+                "content":"Hãy biến hành trình này thành một chuyến đi thật tốt đẹp nào.",
+                "teller":"Hermann",
+                "title":"Tập đoàn N"
+            }
+        ]
+    }
+

@@ -1,199 +1,199 @@
 {
   "dataList": [
     {
-      "id": -1,
-      "content": "Episode S0_8"
+        "id": -1,
+        "content": "Episode S0_8"
     },
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "카론",
-      "content": "We’re here. Charon knew the way all along."
-    },
-    {
+      "content": "Ta đến nơi rồi. Charon biết đường đi mà."
+  },
+  {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, no you didn’t! Sinclair and I had to steer you from both sides nonstop."
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Không! Không hề! Sinclair và chị đã phải ở bên chỉ đạo suốt từ nãy đến giờ."
+  },
+  {
       "id": 2,
       "model": "싱클레어",
-      "content": "I’m glad that at least you learned to tell the difference between southeast and northeast, Charon."
-    },
-    {
+      "content": "Anh mừng là ít nhất giờ em cũng biết phân biệt đông nam và đông bắc rồi, Charon."
+  },
+  {
       "id": 3,
       "model": "단테",
-      "content": "<So this is… the old L Corp?>"
-    },
-    {
+      "content": "<Vậy đây là... Tập Đoàn L cũ sao?>"
+  },
+  {
       "id": 4,
       "model": "이스마엘",
-      "content": "This is my first time seeing it with my own eyes, too… It can’t have been long since ‘that’ happened."
-    },
-    {
+      "content": "Đây cũng là lần đầu tôi được tận mắt nhìn thấy nó... Từ lúc “sự kiện đó” xảy ra tới giờ chắc chắn là không lâu lắm."
+  },
+  {
       "id": 5,
       "model": "홍루",
-      "content": "My goodness… How can a building be in such a derelict state?"
-    },
-    {
+      "content": "Ôi trời ơi... Sao tòa nhà đó lại trông tan hoang đến thế?"
+  },
+  {
       "id": 6,
       "model": "히스클리프",
-      "content": "Hah, this is a surprising scene for our rich boy, is it."
-    },
-    {
+      "content": "Hah, anh bạn nhà giàu thấy lạ lắm nhỉ."
+  },
+  {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Cut the chatter. Time to step off."
-    },
-    {
+      "content": "Nói chuyện đủ rồi. Đến lúc mấy cô cậu đi xuống xe giùm."
+  },
+  {
       "id": 10,
-      "place": "District 4 - LC Branch Entrance",
+      "place": "Cổng vào Nhánh Mở Rộng công ty L - Quận 4",
       "model": "단테",
-      "content": "<Huh, there are people over there…>"
-    },
-    {
+      "content": "<Hờ, đằng kia có người kìa...>"
+  },
+  {
       "id": 11,
       "model": "파우스트",
-      "content": "They’re Fixers from the same Office as Miss Yuri."
-    },
-    {
+      "content": "Họ là Fixer đến cùng văn phòng với cô Yuri."
+  },
+  {
       "id": 12,
       "model": "파우스트",
-      "content": "They’re experienced explorers who have visited the branches of L Corp. a number of times."
-    },
-    {
+      "content": "Họ là những nhà khám phá có kinh nghiệm đã thăm dò nhánh của Tập Đoàn L. nhiều lần."
+  },
+  {
       "id": 13,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Give your greetings. The person on the left is Hopkins, and the one on the right is Aya."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Chào hỏi họ đi. Người bên trái này là Hopkins, còn người bên phải là Aya."
+  },
+  {
       "id": 14,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Greetings~"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Xin chào~"
+  },
+  {
       "id": 15,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "Th… The… The—"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Ng... Ngài... Ngài-"
+  },
+  {
       "id": 16,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "The Red Gaze! It’s—it’s such an honor to meet you…! I’ve heard so many stories of your deeds, and to see you in person…"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Ngài Xích Mục! Thật là vinh dự khi được gặp ngài...! Tôi đã nghe rất nhiều về chiến tích của ngài, và giờ được gặp ngài trực tiếp thế này..."
+  },
+  {
       "id": 17,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Myeah."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "À ừ."
+  },
+  {
       "id": 18,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "See the shabby warehouse there? That’s where the stairs leading down to the branch facility are."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Thấy nhà kho cũ kỹ kia không? Ở trong đó có cầu thang dẫn các cô cậu xuống chi nhánh cơ sở này."
+  },
+  {
       "id": 19,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "From there, Yuri here will be your guide."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Kể từ đây, Yuri sẽ dẫn đường cho các cô cậu."
+  },
+  {
       "id": 20,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…Yeah."
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "...Vâng."
+  },
+  {
       "id": 21,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "These Fixers have been around a bit. Count on them to handle complications."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Mấy người Fixer này cũng từng đi nơi này rồi. Nếu gặp khó khăn cứ nhờ họ giúp cho."
+  },
+  {
       "id": 22,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "That should be enough, yeah? This is as far as I can accompany you. I’ll be waiting back at the bus."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Ta đoán vậy là đủ rồi nhỉ? Ta chỉ có thể đi cùng các cô cậu tới đây thôi. Ta sẽ đợi các cô cậu trên xe buýt."
+  },
+  {
       "id": 23,
       "model": "단테",
-      "content": "<Huh? Wait, what?>"
-    },
-    {
+      "content": "<Hả? Khoan đã, gì cơ?>"
+  },
+  {
       "id": 24,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "You’re sorely mistaken if you expect me to babysit you forever, Dante."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Nếu cậu nghĩ rằng ta sẽ trông chừng cậu cả đời thì cậu sai rồi, Dante."
+  },
+  {
       "id": 25,
       "model": "히스클리프",
-      "content": "So you’ll take a back seat and idle away all alone?"
-    },
-    {
+      "content": "Thế là ông về xe ngồi không à?"
+  },
+  {
       "id": 26,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "If I get myself involved, the expedition would be a little too free of challenge, wouldn’t it? It’d turn into more of a tour."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Nếu ta cứ phải đụng tay vào thì chuyến hành trình này dễ quá rồi phải không? Thế nó cũng không khác gì chuyến du lịch cả."
+  },
+  {
       "id": 27,
       "model": "그레고르",
-      "content": "…In other words, you want us to come back red, black, and blue."
-    },
-    {
+      "content": "....Nói cách khác thì, ông muốn chúng tôi phải lăn lộn dưới đó trước khi trở về."
+  },
+  {
       "id": 28,
       "model": "이스마엘",
-      "content": "That’s the kind of line people with ulterior motives say…"
-    },
-    {
+      "content": "Đúng kiểu nói của một người có động cơ mờ ám đấy..."
+  },
+  {
       "id": 29,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Think whatever you want."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Anh chị nghĩ sao thì nghĩ."
+  },
+  {
       "id": 30,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "I’ve gotten you guides and everything, so do your best down there."
-    },
-    {
+      "title": "Người dẫn đường",
+      "content": "Ta cũng thuê cho các anh chị hướng dẫn viên rồi, làm tốt lên nhé."
+  },
+  {
       "id": 31,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "Yes! I certainly won’t disappoint you, Mister Red Gaze!"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Vâng! Tôi chắc chắn sẽ không làm ngài thất vọng, Ngài Xích Mục!"
+  },
+  {
       "id": 32,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "I’ll try my best, I think~"
-    }
+      "title": "Fixer Cấp 8",
+      "content": "Tui nghĩ tui cũng sẽ cố hết sức~"
+  }
   ]
 }

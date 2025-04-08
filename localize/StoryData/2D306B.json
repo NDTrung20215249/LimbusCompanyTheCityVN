@@ -1,736 +1,998 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Ice Castle Where Neighbors Lie",
-      "content": "Before us stood a monumental castle of ice, and frozen pillars that seemed unbreakable."
-    },
-    {
-      "id": 1,
-      "content": "And there stood a person…"
-    },
-    {
-      "id": 2,
-      "content": "A man with hyaline hair, clear as ice, waiting for us."
-    },
-    {
-      "id": 3,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "I came here often whenever I felt the need to clear my thoughts, even though there’s no rocking chairs or whisky you like…"
-    },
-    {
-      "id": 4,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "The chill dominating this place pierces even the thickest coat. It helps me restore a lucid mind."
-    },
-    {
-      "id": 5,
-      "content": "While the rest of us were frozen stiff, stuck watching, Rodya made a slow step forward to face him."
-    },
-    {
-      "id": 6,
-      "model": "로쟈",
-      "content": "Didn’t expect you to be here first."
-    },
-    {
-      "id": 7,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "My men and I knew of a shortcut leading here."
-    },
-    {
-      "id": 8,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "It was something we learned through the local ruffians, all in search of the whereabouts of a buried, great power, waiting to be used for the greater good."
-    },
-    {
-      "id": 9,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Alas, this… area surrounding the Golden Bough was as far as we could go; we didn’t see any way to get closer."
-    },
-    {
-      "id": 10,
-      "model": "로쟈",
-      "content": "Thought you’d never leave District 25, but seeing you now—resorting to the tactics gangsters would use—maybe you should’ve stayed a country boy."
-    },
-    {
-      "id": 11,
-      "model": "로쟈",
-      "content": "Sonya, your lackeys have been taking from shopkeeps who weren’t even rich to begin with."
-    },
-    {
-      "id": 12,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "…Did you know, Rodya? This was little more than a somewhat eccentric hollow with frosty walls."
-    },
-    {
-      "id": 13,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Yet look at this. Now there’s a giant castle and thick columns of ice."
-    },
-    {
-      "id": 14,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "This change happened the instant you walked in."
-    },
-    {
-      "id": 15,
-      "model": "로쟈",
-      "content": "…You sound like you figured this would happen on my arrival. How’d you know?"
-    },
-    {
-      "id": 16,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "I have many sources… But that’s none of your business, Rodya."
-    },
-    {
-      "id": 17,
-      "model": "로쟈",
-      "content": "What makes you so sure that I made this happen in the first place? I’m not some kinda Backstreets witch or anything."
-    },
-    {
-      "id": 18,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "It’s not hard at all to figure out. Observing those faces encased in ice says enough."
-    },
-    {
-      "id": 19,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Take a peek. They’re ones you loved yet looked down on, are they not?"
-    },
-    {
-      "id": 20,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "Two-fifty thousand Ahn."
-    },
-    {
-      "id": 21,
-      "teller": "Resident",
-      "title": "District 25",
-      "content": "That’s all it’s worth? It’s not possible…"
-    },
-    {
-      "id": 22,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "You said precisely why, though? Its age is showing in all the scratches and lack of polish."
-    },
-    {
-      "id": 23,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "To be frank, others wouldn’t pay any more than two hundred thousand for this."
-    },
-    {
-      "id": 24,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "And the rest… All worthless garbage."
-    },
-    {
-      "id": 25,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "That makes the taxes you owe four hundred thousand Ahn in total."
-    },
-    {
-      "id": 26,
-      "model": "로쟈",
-      "content": "Why do the poor only grow poorer the harder they work?"
-    },
-    {
-      "id": 27,
-      "model": "로쟈",
-      "content": "It’s ridiculous, isn’t it? While stacks of cash piled up in the pawnbroker’s vault…"
-    },
-    {
-      "id": 28,
-      "model": "로쟈",
-      "content": "Our neighborhood was being wrung dry, heirlooms weighed for what little monetary value they had."
-    },
-    {
-      "id": 29,
-      "model": "로쟈",
-      "content": "Sonya rallied people, delivering speeches using big words."
-    },
-    {
-      "id": 30,
-      "model": "로쟈",
-      "content": "They organized a group under the name of the ‘Yurodiviye’."
-    },
-    {
-      "id": 31,
-      "model": "로쟈",
-      "content": "It went okay at first. Even the thickest folks were inspired by Sonya’s words to help the impoverished in the Backstreets."
-    },
-    {
-      "id": 32,
-      "model": "로쟈",
-      "content": "But, Sonya still had a dissatisfied expression."
-    },
-    {
-      "id": 33,
-      "model": "로쟈",
-      "content": "Ultimately, the Yurodiviye warped into an organization that cared more for debating about how best to change the streets and the Nest, rather than going out to help those in need."
-    },
-    {
-      "id": 34,
-      "model": "로쟈",
-      "content": "That’s why I left them."
-    },
-    {
-      "id": 35,
-      "model": "로쟈",
-      "content": "Being an armchair revolutionary wasn’t going to feed our starving neighbors!"
-    },
-    {
-      "id": 36,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "But I told you time and time again, Rodya. That we must wait for the right moment."
-    },
-    {
-      "id": 37,
-      "model": "로쟈",
-      "content": "Sonya, I’m sorry, but that “moment” you kept talking about…"
-    },
-    {
-      "id": 38,
-      "model": "로쟈",
-      "content": "It didn’t come when the Yurodiviye’s youngest… when little Ivan had to sate his hunger with food from the garbage."
-    },
-    {
-      "id": 39,
-      "model": "로쟈",
-      "content": "Nor did it arrive after he suffocated to death."
-    },
-    {
-      "id": 40,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "To achieve a monumental task, well-thought policies and a great power to carry them are required. All to make the redistribution of wealth happen."
-    },
-    {
-      "id": 41,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "And in the process of moving towards progress, such minor troubles on a personal level are inevitable."
-    },
-    {
-      "id": 42,
-      "model": "로쟈",
-      "content": "That’s minor to you? The whole thing was personal, we started this to help others."
-    },
-    {
-      "id": 43,
-      "model": "로쟈",
-      "content": "What you and the Yurodiviye were doing wasn’t what I’d hoped for."
-    },
-    {
-      "id": 44,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Is that why you decided to take matters into your own hands?"
-    },
-    {
-      "id": 45,
-      "model": "로쟈",
-      "content": "Absolutely. What our town needed…"
-    },
-    {
-      "id": 46,
-      "model": "로쟈",
-      "content": "Wasn’t an empty promise telling people to sit on their hands for who knows when."
-    },
-    {
-      "id": 47,
-      "model": "로쟈",
-      "content": "But someone who wouldn’t hesitate to pick up the axe."
-    },
-    {
-      "id": 48,
-      "model": "로쟈",
-      "content": "I bet most of my neighbors had been starving for four nights straight that day."
-    },
-    {
-      "id": 49,
-      "model": "로쟈",
-      "content": "Yet the biting wind kept hounding without mercy, clawing at the chapped skin of the famished peasants."
-    },
-    {
-      "id": 50,
-      "model": "로쟈",
-      "content": "And I happened to know whose safe kept more than enough money to treat my neighbors to a feast for days and still be just as full."
-    },
-    {
-      "id": 51,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "So, what did you do?"
-    },
-    {
-      "id": 52,
-      "model": "로쟈",
-      "content": "…Gimme a sec. Can’t I pull out of this now?"
-    },
-    {
-      "id": 53,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "This is a confessional created for you as a result of the Golden Bough resonating with your psyche."
-    },
-    {
-      "id": 54,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Moreover, a confessional’s purpose is to lead a sinner to the path of penance."
-    },
-    {
-      "id": 55,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "... ....... ... .... ....... .. ...."
-    },
-    {
-      "id": 56,
-      "model": "로쟈",
-      "content": "If only that old woman had changed her mind before it came to an end…"
-    },
-    {
-      "id": 57,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "But Rodya…"
-    },
-    {
-      "id": 58,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "You must have known that a terminal leech upon her neighbors would never turn over a new leaf."
-    },
-    {
-      "id": 59,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "You know she wasn’t the kind of person who’d give up that life to turn into a generous philanthropist."
-    },
-    {
-      "id": 60,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "You wouldn’t have knocked on her door with an axe in hand otherwise."
-    },
-    {
-      "id": 61,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "Poor Rodion, dear, you seem to be under the delusion that you’re some sort of savior…"
-    },
-    {
-      "id": 62,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "Demanding my money so brazenly to my face won’t change anything."
-    },
-    {
-      "id": 63,
-      "teller": "Wicked Tax Collector",
-      "title": "District 25",
-      "content": "You vermin are no different from the paupers in the Backstreets."
-    },
-    {
-      "id": 64,
-      "model": "로쟈",
-      "content": "That’s right."
-    },
-    {
-      "id": 65,
-      "model": "로쟈",
-      "content": "I’m the one who put an axe through her head."
-    },
-    {
-      "id": 66,
-      "model": "로쟈",
-      "content": "Like cutting open the belly of the goose that laid golden eggs, I chopped that hag’s skull."
-    },
-    {
-      "id": 67,
-      "model": "로쟈",
-      "content": "I mean, someone had to do it. Am I wrong?"
-    },
-    {
-      "id": 68,
-      "model": "로쟈",
-      "content": "Unlike the foolish cottager in the fable who gave in to greed and lost out on becoming richer…"
-    },
-    {
-      "id": 69,
-      "model": "로쟈",
-      "content": "We were overcome with hunger and misery, and could have gladly eaten out her brains."
-    },
-    {
-      "id": 70,
-      "model": "로쟈",
-      "content": "And her “belly” was full of golden eggs, unlike that of the goose."
-    },
-    {
-      "id": 71,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Yes, the old lady you killed was a tax collector wielding considerable authority in District 25."
-    },
-    {
-      "id": 72,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "But what gave her so much power… was her sibling’s status as a member of the Middle."
-    },
-    {
-      "id": 73,
-      "model": "로쟈",
-      "content": "I… struck her down to save my dying neighbors. Is that so wrong?"
-    },
-    {
-      "id": 74,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "No, you held that axe for your own good."
-    },
-    {
-      "id": 75,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "You couldn’t stand the fact that you weren’t anyone special."
-    },
-    {
-      "id": 76,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Did you know? The Middle… never lets anyone who touches their family go unpunished."
-    },
-    {
-      "id": 77,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "They aren’t too interested in finding *who* exactly did it; rather, they like to demonstrate clearly *what* happens to the poor fools that dare disturb them."
-    },
-    {
-      "id": 78,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "The Backstreets residents who’d tasted the joy of quality meat for the first time in their lives soon made towering cadaverous pillars out on the roads."
-    },
-    {
-      "id": 79,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Not much different from the car pagodas outside the casino."
-    },
-    {
-      "id": 80,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "I’m well aware of how much pain and guilt you’ve been burdened with ever since then."
-    },
-    {
-      "id": 81,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Living with the realization that you really weren’t so different from the foolish cottager after all."
-    },
-    {
-      "id": 82,
-      "model": "로쟈",
-      "content": "Since that day… Nothing I held truly felt like it was mine."
-    },
-    {
-      "id": 83,
-      "model": "로쟈",
-      "content": "All because of me…"
-    },
-    {
-      "id": 84,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "It’s all fine, Rodya."
-    },
-    {
-      "id": 85,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "For you see, Rodya."
-    },
-    {
-      "id": 86,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "To change the world, I perused hundreds of books and thousands of documents…"
-    },
-    {
-      "id": 87,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "And I met various people all around the City."
-    },
-    {
-      "id": 88,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Picturing a world where the oppressed can escape from the exploitative dominion of the ruling class and find liberation in the truest sense."
-    },
-    {
-      "id": 89,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "To make that world a reality."
-    },
-    {
-      "id": 90,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "However, the answer didn’t lie in changing what was already there. Once a page of history is written, there’s no way to go back and revise it."
-    },
-    {
-      "id": 91,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Look. This is the world we can reach."
-    },
-    {
-      "id": 92,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "A world… that can be created using the Golden Bough with which you resonated."
-    },
-    {
-      "id": 93,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "May there be no one upon this earth suffering from starvation."
-    },
-    {
-      "id": 94,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "May every individual enjoy the right to pursue psychological and intellectual delights."
-    },
-    {
-      "id": 95,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "…Join hands with me, and I’ll give you that world as a gift."
-    },
-    {
-      "id": 96,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "As if nothing up to this point had ever happened at all."
-    },
-    {
-      "id": 97,
-      "model": "로쟈",
-      "content": "Ah."
-    },
-    {
-      "id": 98,
-      "model": "로쟈",
-      "content": "A feeling nobody else would understand."
-    },
-    {
-      "id": 99,
-      "model": "로쟈",
-      "content": "Even a glimpse of that world felt so dreamlike."
-    },
-    {
-      "id": 100,
-      "model": "로쟈",
-      "content": "I wanted to etch that mesmerizing instant into my memory."
-    },
-    {
-      "id": 101,
-      "model": "로쟈",
-      "content": "If this was a dream, I’d even wish I was part of it so that I would never have to leave it."
-    },
-    {
-      "id": 102,
-      "model": "로쟈",
-      "content": "And yet…"
-    },
-    {
-      "id": 103,
-      "model": "로쟈",
-      "content": "Sorry, I’m still turning down your offer."
-    },
-    {
-      "id": 104,
-      "model": "로쟈",
-      "content": "How to put it…"
-    },
-    {
-      "id": 105,
-      "model": "로쟈",
-      "content": "I don’t wanna bathe in warmth just yet. I feel like I oughta be in this cold a bit longer."
-    },
-    {
-      "id": 106,
-      "model": "로쟈",
-      "content": "Think I’ll stay this way until I find my answer to the question of when it’ll be okay to warm myself."
-    },
-    {
-      "id": 107,
-      "model": "로쟈",
-      "content": "And also, Sonya…"
-    },
-    {
-      "id": 108,
-      "model": "로쟈",
-      "content": "You knew my temper would get the best of me and get me to kill her, didn’t you?"
-    },
-    {
-      "id": 109,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "……"
-    },
-    {
-      "id": 110,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Rodya, this will probably elude you, but you don’t have the mark."
-    },
-    {
-      "id": 111,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "I came here hoping to see you possess it, but I’m seeing it on a few of your friends instead."
-    },
-    {
-      "id": 112,
-      "model": "로쟈",
-      "content": "The mark? What do you…"
-    },
-    {
-      "id": 113,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Besides, you can’t see the mark, either. In other words… you don’t have what it takes to be a leader."
-    },
-    {
-      "id": 114,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "But I’m different. So, to make a better world—"
-    },
-    {
-      "id": 115,
-      "model": "로쟈",
-      "content": "Yepper, I think I ‘member hearing you say something like that while sat at a desk buried in books."
-    },
-    {
-      "id": 116,
-      "model": "로쟈",
-      "content": "…That’s why I can’t join you."
-    },
-    {
-      "id": 117,
-      "model": "로쟈",
-      "content": "I still believe that it’s not big words behind closed doors that feed your neighbors."
-    },
-    {
-      "id": 118,
-      "model": "로쟈",
-      "content": "And as I’m sure you’ve learned by now…"
-    },
-    {
-      "id": 119,
-      "model": "로쟈",
-      "content": "There’s no way a rowdy rascal like me would fit under some dweeb’s leadership, right? Hahah!"
-    },
-    {
-      "id": 120,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "……"
-    },
-    {
-      "id": 121,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "The Golden Bough awaits inside the castle, Rodya."
-    },
-    {
-      "id": 122,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "I hope you’ll be able to find what you seek."
-    },
-    {
-      "id": 123,
-      "content": "We walked past Sonya, and then made our way into the icy castle he indicated."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nơi An Nghỉ Lạnh Lẽo Của Những Người Hàng Xóm",
+                "content":"Trước mặt chúng tôi xuất hiện một lâu đài cổ kính được điêu khắc bằng băng, và những cột băng trông như không thể bị phá huỷ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Trước toà lâu đài là bóng dáng của một người...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Một chàng trai với mái tóc trong suốt tựa như băng, đang đứng chờ chúng tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Tớ thường hay đến đây mỗi khi tớ cảm thấy cần trút bỏ đi những suy nghĩ lo âu không đáng có, mặc dù ở đây không hề có ghế bập bênh hay rượu whiskey mà cậu thích...",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Sự giá lạnh đang thống trị nơi này có thể xuyên thấu qua cả lớp áo dày nhất. Nó khiến đầu óc của tớ minh mẫn trở lại.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Khi mà cả đoàn vẫn còn đang thững thờ, không biết chuyện gì đang diễn ra, Rodya bước chậm rãi về phía cậu ta.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Tôi không nghĩ là cậu sẽ đến đây trước.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Người của tớ biết một lối tắt để có thể dẫn đến đây.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Là thông tin từ đám du côn quanh đây, tất cả đều vì tìm kiếm vị trí của một thứ sức mạnh to lớn đã được chôn vùi, đang chờ ngày được sử dụng cho một mục đích cao cả hơn.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Có điều, khu vực... xung quanh Cành Vàng này là nơi xa nhất mà tụi tớ có thể đi được; chúng tớ không thể tìm được con đường nào để có thể tiến gần hơn được nữa.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Tôi tưởng cậu sẽ không rời Quận 25, nhưng nhìn thấy cậu ở đây—dùng những chiến thuật từ lũ côn đồ—thà cậu ở lại làm người nhà quê còn hơn.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Sonya, đồng bọn của cậu đã chiếm đoạt từ những người bán hàng mà họ chưa hẳn là giàu có gì.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Cậu biết không, Rodya? Nơi này ban đầu cũng chỉ là một bức tường lạnh lẽo rỗng tuếch thôi.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Nhưng nhìn mà xem. Giờ đã xuất hiện thêm một toà lâu đài khổng lồ và những cột băng to dày cộm.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Sự thay đổi đột ngột đó xảy ra ngay từ cái lúc mà cậu bước vào nơi này.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"...Nghe như là cậu đã biết sớm điều này khi tôi tới đây. Làm sao cậu biết?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Tớ có rất nhiều nguồn tin... Nhưng đó không phải là chuyện của cậu, Rodya.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Làm sao mà cậu chắc được là tôi đã làm điều này thế? Tôi đâu phải là phù thủy từ Backstreets hay gì đâu?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Cũng không có gì khó khăn cả. Quan sát những gương mặt bị chôn vùi trong lớp băng là bằng chứng nói lên tất cả rồi.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Hãy nhìn qua xem. Bọn họ đều là những người cậu rất yêu quý, nhưng cũng rất khinh thường, có đúng không?",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Hai trăm năm mươi ngàn Ahn.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Chỉ đáng giá thế thôi à? Không thể nào mà...",
+                "model":null,
+                "teller":"Dân thường",
+                "title":"Quận 25"
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Mày hỏi tại sao á? Thứ này cũ rích rồi, nhìn vào đống vết xước và bề mặt thô kệch này đi.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Thành thật nha, chả ai muốn trả cho cái thứ này hơn hai trăm năm mươi ngàn đâu.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Và đống còn lại... Toàn bộ chỉ là đống rác rưởi.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Vì thế mà số nợ tổng lại là bốn trăm ngàn Ahn.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Tại sao người nghèo càng làm việc lại càng nghèo hơn?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Thật kì cục, phải không? Trong khi cả một nùi tiền đang chất đầy ắp két sắt của người cầm đồ...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Khu hàng xóm của tôi đã bị vắt khô, các món đồ gia truyền bị đẩy xuống trầm trọng rồi chỉ bằng những đồng tiền ít ỏi.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Sonya đã tập hợp, rồi tuyên truyền bằng những phát ngôn đầy lớn lao.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Họ thành lập một nhóm với cái tên ‘Yurodiviye’.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Lúc đầu rất ổn. Ngay cả những người bảo thủ nhất cũng được truyền lấy cảm hứng từ lời nói của Sonya để giúp những hộ nghèo ở Backstreets.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Nhưng, Sonya vẫn tỏ vẻ không hài lòng.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Cuối cùng, Yurodiviye đã chuyển thành một tổ chức phục vụ cho đường phố và Nest bằng cách tốt nhất, thay vì cho những người cần được trợ giúp.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Đó là lý do tôi đã rời bỏ họ.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Trở thành một kẻ gánh cách mạng sẽ không nuôi sống cho những hàng xóm đang chết đói của chúng ta đâu!",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Nhưng tớ đã nói với cậu rất nhiều lần rồi, Rodya. Rằng chúng ta phải chờ đợi thời điểm thích hợp đến.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Sonya, tớ xin lỗi, nhưng “thời điểm“ mà cậu cứ nhắc tới…",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Nó đã không đến với thành viên trẻ nhất của Yurodiviye… khi bé Ivan phải lót bụng bằng những đồ ăn từ bãi rác.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Hay nó đã không tới sau khi em ấy đã bị ngộp thở đến chết.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Để đạt được mục đích mang tính biểu tượng như này, những chính sách phải được suy nghĩ và cân nhắc cẩn thận cùng trách nhiệm rất lớn để có thể gánh vác chúng. Tất cả đều để khiến cho sự phân chia lại tài sản xảy ra.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Và trong quá trình đạt được mục đích to lớn ấy, những vấn đề nhỏ nhặt với quy mô chỉ ảnh hưởng đến một vài cá nhân nhỏ lẻ là điều không thể tránh khỏi.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Nhỏ lẻ với cậu sao? Tất cả đều cá nhân hết, chúng ta đã bắt đầu nó để giúp người mà.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Chỉ là cậu và Yurodiviye đang làm không theo những gì tớ mong đợi.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Đó là lý do tại sao cậu quyết định tự tay mình giải quyết hết mọi việc sao?",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Đúng vậy. Những gì thị trấn của chúng ta cần...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Không phải là một lời hứa suông mà bảo mọi người ngồi im không làm gì hết.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Mà là một người sẽ không do dự để cầm chiếc rìu lên.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Tôi cá chắc rằng đa số hàng xóm của mình đã phải nhịn đói suốt bốn đêm trong ngày đó.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Nhưng cơn gió lạnh vẫn tiếp tục đuổi theo không thương tiếc, cào cấu làn da nứt nẻ của những người nông dân đói khát.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Và tôi tình cờ biết ai có két sắt cất giữ đủ tiền để chiêu đãi hàng xóm một bữa tiệc trong nhiều ngày mà vẫn no bụng.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Thế, cậu đã làm gì?",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"...Đợi chút. Tôi không thoát được chuyện này bây giờ sao?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Đây chính là phòng xưng tội được tạo ra như là kết quả của việc Cành Vàng đang cộng hưởng với tâm trí cậu.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Hơn nữa, mục đích của phòng xưng tội là dẫn dắt một tội đồ trên con đường sám hối tội lỗi mà họ đã gây ra.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"... ....... ... .... ....... ... ....",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Nếu như bà già đó thay đổi quyết định của mình trước khi mọi chuyện kết thúc...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Nhưng mà Rodya này...",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Cậu phải biết rằng một con đỉa hút cạn máu của chính những người hàng xóm láng giềng của chính nó đến tận xương tủy như thế kia sẽ không bao giờ có thể hoàn lương được nữa.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Cậu biết bà ta không phải là loại người sẽ từ bỏ lối sống đó để trở thành một nhà hảo tâm rộng lượng nhỉ.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Nếu không thì cậu cũng chẳng phải vào phòng bà ta với cây rìu trên tay rồi.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Ôi Rodion tội nghiệp của ta ơi, cô có vẻ đang ảo tưởng bản thân là một vị cứu thế nào đó...",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Yêu cầu tiền của tôi một cách trắng trợn như thế sẽ không thay đổi được gì đâu.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Bọn sâu bọ các cô không khác gì đám ăn xin ở Backstreet đâu.",
+                "model":null,
+                "teller":"Tên Thu Nợ Ác Ôn",
+                "title":"Quận 25"
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Đúng vậy.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Tôi là người đã cho bà ta một rìu vào đầu.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Cứ như là đang mổ bụng một con vịt biết đẻ ra trứng vàng vậy, tôi chặt ngay quả sọ của ả.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Ý tôi là, phải có ai đó làm chuyện này. Không đúng sao?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"Không giống như người nông dân ngốc nghếch trong truyện cổ tích đã đầu hàng lòng tham và mất đi cơ hội trở nên giàu có hơn…",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Chúng ta trải qua sự đói khát và đau khổ rồi, không khách sáo mà ăn hết não của bà ta đâu.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Và \"bụng\" bà ta toàn là những quả trứng vàng, không như con vịt đó.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Đúng vậy, người phụ nữ già mà cậu đã giết chính là người thu thuế có thẩm quyền cao ở Quận 25.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Nhưng điều đã cho bà ta nhiều quyền lực đến như thế… là bởi người thân của bà ta có địa vị và thân phận của một thành viên thuộc Middle.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Tôi… đã hạ bà ta để cứu lấy những người hàng xóm đang chết ở kia. Có gì là sai sao?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Không hề, cậu cầm cái rìu đó lên vì lợi ích của cậu.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Cậu không thể đối mặt với sự thật rằng cậu không phải là một người đặc biệt.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Cậu có biết không, Middle... không bao giờ để bất kỳ ai đụng đến gia đình họ mà không có sự trừng phạt nào.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"Họ không quan tâm đến việc tìm ra *kẻ nào* đã thật sự làm điều đó; thay vào đó họ thích chứng minh *chuyện gì* sẽ xảy ra với những tên thiếu nhận thức động đến họ.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"Những người dân của Backstreets lần đầu nếm được mùi vị của miếng thịt thượng hạng trong cuộc đời họ sẽ sớm trở thành những núi xác nằm rải rác ngoài đường.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"Không mấy khác biệt so với những tháp xe hơi bên ngoài sòng bạc.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"Tớ biết cậu đã phải mang trên mình những nỗi đau và tội lỗi ra sao kể từ lúc đó.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"Sau cùng thì cậu đã nhận ra được rằng chính bản thân mình thật sự cũng không quá khác biệt gì so với những tên quê mùa đần độn cậu từng chế nhạo trước đây.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"Kể từ ngày ngày đó... Không còn thứ nào cầm trên tay như là của mình.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Tất cả là bởi tôi...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"Không sao cả, Rodya.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":85,
+                "place":null,
+                "content":"Như cậu thấy đó, Rodya.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":86,
+                "place":null,
+                "content":"Để thay đổi thế giới, tôi đã đọc và nghiên cứu hàng trăm cuốn sách và hàng ngàn xấp tài liệu khác nhau...",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":87,
+                "place":null,
+                "content":"Và tôi đã gặp vô số người ở khắp mọi ngóc ngách trong City.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":88,
+                "place":null,
+                "content":"Hình dung một thế giới nơi những người bị áp bức có thể thoát khỏi sự thống trị và bóc lột của tầng lớp cai trị và tìm kiếm sự tự do chân chính nhất.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":89,
+                "place":null,
+                "content":"Để khiến thế giới đó trở thành hiện thực.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":90,
+                "place":null,
+                "content":"Tuy nhiên, câu trả lời không nằm ở việc thay đổi thứ đã vốn có mặt ở đó từ trước rồi. Khi một trang sử được viết ra, thì không có cách nào quay về và viết lại lịch sử được nữa.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":91,
+                "place":null,
+                "content":"Nhìn đi. Đây chính là thế giới mà chúng ta có thể chạm tới.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":92,
+                "place":null,
+                "content":"Một thế giới... có thể được tạo ra bằng cách sử dụng Cành Vàng đang cộng hưởng với cậu.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":93,
+                "place":null,
+                "content":"Sẽ không còn một ai trên thế giới này phải chịu cảnh đói khát nữa.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":94,
+                "place":null,
+                "content":"Tất cả mọi người đều có quyền lựa chọn và theo đuổi niềm vui mà họ hằng mong ước.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":95,
+                "place":null,
+                "content":"...Hãy về và chung tay cùng với tớ, rồi tớ sẽ tặng cho cậu cả thế giới đó.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":96,
+                "place":null,
+                "content":"Vờ như tất cả mọi chuyện từ trước đến nay chưa bao giờ xảy ra.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":97,
+                "place":null,
+                "content":"A.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "content":"Một cảm giác mà không ai khác có thể hiểu được.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "content":"Chỉ cần một cái nhìn thoáng từ thế giới đó, nó thật là mơ màng.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "content":"Tôi muốn khắc ghi khoảnh khắc mê hoặc đó vào trí nhớ của mình.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "content":"Nếu như đây là mơ, tôi cũng ước rằng mình sẽ là một phần của nó, khó mà rời khỏi được.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "content":"Thế nhưng...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "content":"Xin lỗi, tôi vẫn từ chối lời đề nghị của cậu.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "content":"Nên nói sao đây...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "content":"Tôi không muốn đắm mình trong nắng ấm ngay bây giờ. Tôi cảm thấy mình nên ở trong cái lạnh này thêm một chút nữa.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "content":"Tôi nghĩ mình sẽ tiếp tục như thế này cho đến khi tìm được câu trả lời cho câu hỏi khi nào thì có thể sưởi ấm được rồi.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "content":"Và còn nữa, Sonya...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "content":"Cậu biết là tính nóng nảy của tôi sẽ khiến tôi phải giết bà ta, đúng không?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "content":"……",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":110,
+                "place":null,
+                "content":"Rodya, chuyện này có thể cậu sẽ không hiểu, nhưng cậu không có dấu ấn.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":111,
+                "place":null,
+                "content":"Tớ tới đây với hy vọng rằng sẽ thấy cậu sở hữu nó, nhưng thay vào đó tớ chỉ thấy vài người bạn của cậu có nó thôi.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":112,
+                "place":null,
+                "content":"Dấu ấn? Cậu đang...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "content":"Với lại, cậu cũng không thể nhìn thấy dấu ấn. Nói cách khác... cậu vẫn chưa đủ khả năng để trở thành người đứng đầu được.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":114,
+                "place":null,
+                "content":"Nhưng tớ thì khác. Cho nên, để tạo ra một thế giới tốt đẹp hơn—",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":115,
+                "place":null,
+                "content":"Vâng vâng, tôi còn nhớ cậu nói mấy thứ như thế khi cậu còn ngồi chôn vùi mình dưới đống sách.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "content":"...Đó là vì sao tôi không thể tham gia với cậu.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "content":"Tôi vẫn không tin rằng những lời lẽ lớn lao ấy sẽ có thể nuôi sống hàng xóm của chúng ta, dù có ai nghe được đi chăng nữa.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "content":"Và tôi chắc bây giờ cậu cũng biết rằng là...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "content":"Không đời nào một kẻ ranh ồn ào như tôi mà xứng với một thằng lãnh đạo đần nào đó, đúng không? Hahaha!",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "content":"……",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":121,
+                "place":null,
+                "content":"Cành Vàng đang chờ cậu ở bên trong lâu đài đấy, Rodya.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":122,
+                "place":null,
+                "content":"Tớ mong rằng cậu có thể tìm được thứ cậu đang tìm kiếm.",
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":123,
+                "place":null,
+                "content":"Chúng tôi bước qua Sonya, và tiến thẳng vào tòa lâu đài băng giá mà cậu ta chỉ tới.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

@@ -1,745 +1,1046 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "K Corp. Laboratory Lobby",
-            "model": "단테",
-            "content": "<I mean… I don’t mind, but you two can’t hear me anyway.>"
-        },
-        {
-            "id": 1,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I was too embarrassed to bring it up in front of the whole group, but actually, one of your… employees was an old friend of mine."
-        },
-        {
-            "id": 2,
-            "model": "단테",
-            "content": "<Oh, who is it?>"
-        },
-        {
-            "id": 3,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And he wouldn’t give me a nod, either. Perhaps he was embarrassed like me. It was a struggle to hide how disheartened I was."
-        },
-        {
-            "id": 4,
-            "model": "단테",
-            "content": "<Maybe you weren’t as close as you thought, then? …Wait, can you hear my voice?>"
-        },
-        {
-            "id": 5,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mr. Dongrang, this individual is unable to communicate normally."
-        },
-        {
-            "id": 6,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That’s why I’m speaking, Mr. Samjo. It’s like I’m back to being a child, muttering my woes to a wind-up toy, don’t you think?"
-        },
-        {
-            "id": 7,
-            "content": "…That all was a monologue?"
-        },
-        {
-            "id": 8,
-            "model": "단테",
-            "content": "<What are you two even doing?>"
-        },
-        {
-            "id": 9,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was mostly because of him that I decided to send my request to you. I can trust a familiar person better than a stranger."
-        },
-        {
-            "id": 10,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "See, this is why I can’t let my guard down for even a second. You’re too easily influenced by human attachment…"
-        },
-        {
-            "id": 11,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "So, let me ask you a favor; use your tact and consideration to… pretend that you know nothing about the relationship between him and me, okay?"
-        },
-        {
-            "id": 12,
-            "model": "단테",
-            "content": "<You haven’t even told me who that friend is…>"
-        },
-        {
-            "id": 13,
-            "content": "I could only let out a deep sigh and shake my head…"
-        },
-        {
-            "id": 14,
-            "content": "The conversation that never got through ended as arbitrarily as it began."
-        },
-        {
-            "id": 15,
-            "model": "단테",
-            "content": "<This isn’t asking a favor. You’re giving me a notice.>"
-        },
-        {
-            "id": 16,
-            "place": "K Corp. Laboratory Hallway",
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We’re at the laboratory aisle. Ordinary visitors would not be permitted to go any further…"
-        },
-        {
-            "id": 17,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "But since you’ve been invited by Mr. Dongrang… I will show you to the interior."
-        },
-        {
-            "id": 18,
-            "model": "싱클레어",
-            "content": "Wow… I hoped… I could work at a company as big as this."
-        },
-        {
-            "id": 19,
-            "model": "로쟈",
-            "content": "Then, maybe you could’ve applied to one~ Why didn’t you give it a shot?"
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "You’re joking, right, Rodion? Not everyone can join these companies. This kind of firm only accepts the very best of the elite."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘",
-            "content": "Like Faust or Yi Sang, for example…"
-        },
-        {
-            "id": 22,
-            "content": "Ishmael’s remark gave me a good opportunity to bring up my earlier question."
-        },
-        {
-            "id": 23,
-            "model": "단테",
-            "content": "<Yeah, why did you choose to join Limbus Company out of all the options you had? There must’ve been better places to shoot for.>"
-        },
-        {
-            "id": 24,
-            "model": "파우스트",
-            "content": "Because I am Faust."
-        },
-        {
-            "id": 25,
-            "model": "단테",
-            "content": "<……>"
-        },
-        {
-            "id": 26,
-            "content": "There was a certain energy in her confidently clarifying tone that discouraged me from asking another question."
-        },
-        {
-            "id": 27,
-            "model": "단테",
-            "content": "<What about you, Yi Sang?>"
-        },
-        {
-            "id": 28,
-            "model": "이상",
-            "content": "Let me take the trouble of asking in return. Manager, why did you join the company you work for?"
-        },
-        {
-            "id": 29,
-            "model": "단테",
-            "content": "<I mean, that’s because I had no other choice.>"
-        },
-        {
-            "id": 30,
-            "model": "이상",
-            "content": "…That should sufficiently answer your question."
-        },
-        {
-            "id": 31,
-            "model": "단테",
-            "content": "<……>"
-        },
-        {
-            "id": 32,
-            "content": "It looks like Ishmael wasn’t exaggerating about the qualifications it takes to join this firm."
-        },
-        {
-            "id": 33,
-            "place": "K Corp. Laboratory Room",
-            "content": "The laboratory was dominated by a stillness that could only be achieved with everyone in total focus."
-        },
-        {
-            "id": 34,
-            "model": "로쟈",
-            "content": "Dante, Dante, Dante, look, there… You see that? The fridge is full of snacks… We could take one… or ten, and they wouldn’t notice!"
-        },
-        {
-            "id": 35,
-            "content": "And we would break that stillness with nonchalance."
-        },
-        {
-            "id": 36,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Take as many as you’d like. Mr. Samjo, pack some snacks from the break room into small bundles to give them later."
-        },
-        {
-            "id": 37,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Understood."
-        },
-        {
-            "id": 38,
-            "model": "로쟈",
-            "content": "That’s awesome, Ishy, maybe we should quit our job and join up here?"
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "Everyone can hear you, Rodya…"
-        },
-        {
-            "id": 40,
-            "model": "파우스트",
-            "content": "Rodion, the work contract says…"
-        },
-        {
-            "id": 41,
-            "model": "로쟈",
-            "content": "Joking, Faust. Joking. See?"
-        },
-        {
-            "id": 42,
-            "model": "단테",
-            "content": "<……>"
-        },
-        {
-            "id": 43,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Let’s move on to the request—"
-        },
-        {
-            "id": 44,
-            "model": "슈렌느",
-            "title": "K Corp. Laboratory",
-            "content": "You’re bringing outsiders into the building now… What are you, a field trip guide, Dongrang?"
-        },
-        {
-            "id": 45,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah. Pardon me for a moment. This is Shrenne. She’s the manager of the department next to mine and a colleague who joined the company at the same time as I did. Visiting me to hurl hurtful words takes up much of her daily routine."
-        },
-        {
-            "id": 46,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "I figured someone’s got to point out the massive drain on our company's welfare budget that is your team."
-        },
-        {
-            "id": 47,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, if you’re wondering about how we spend our welfare budget… You’ll see when the Department of the Year trophy is awarded. Right, Samjo?"
-        },
-        {
-            "id": 48,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It would take a full day to list the benefits the department chosen as the best receives."
-        },
-        {
-            "id": 49,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "Eugh, you’re snobs, the both of you."
-        },
-        {
-            "id": 50,
-            "model": "그레고르",
-            "content": "Hm. Is that a rival? I do suppose excellence is followed by envy wherever it is."
-        },
-        {
-            "id": 51,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Envy fuels advancement, as they say, so it’s only right for us to show a little generosity for those following behind. Should we give some of the pies we bought from that store to Shrenne’s department, Mr. Samjo?"
-        },
-        {
-            "id": 52,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I was planning to do so. The pepper, chili, lettuce, and curry-flavored ones, specifically."
-        },
-        {
-            "id": 53,
-            "model": "로쟈",
-            "content": "Gasp… That… also sounds tasty?"
-        },
-        {
-            "id": 54,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha… Now then, let’s get back to the main topic."
-        },
-        {
-            "id": 55,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I heard the rumors. They were about a newly formed company collecting organic objects called “Golden Boughs”."
-        },
-        {
-            "id": 56,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And those Golden Boughs are found exclusively inside the closed-down branch facilities of Lobotomy Corp."
-        },
-        {
-            "id": 57,
-            "model": "오티스",
-            "content": "How did you learn about the existence of Golden Boughs?"
-        },
-        {
-            "id": 58,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was a recent discovery. We’d been using a Lobotomy Corp. branch near our research facility as a lab until a few months ago."
-        },
-        {
-            "id": 59,
-            "model": "히스클리프",
-            "content": "You… set up a lab in that horrible place?"
-        },
-        {
-            "id": 60,
-            "model": "싱클레어",
-            "content": "But, I thought they were all buried underground…"
-        },
-        {
-            "id": 61,
-            "model": "그레고르",
-            "content": "Well… I guess there were rare resources and documents they could use…"
-        },
-        {
-            "id": 62,
-            "model": "파우스트",
-            "content": "…Did the scope of your research include Abnormalities?"
-        },
-        {
-            "id": 63,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Why, certainly. No researcher could overlook such intriguing subjects."
-        },
-        {
-            "id": 64,
-            "model": "히스클리프",
-            "content": "Researchers must be all soft in the head if that’s what they’re interested in…"
-        },
-        {
-            "id": 65,
-            "model": "히스클리프",
-            "content": "…Hold on."
-        },
-        {
-            "id": 66,
-            "model": "히스클리프",
-            "content": "When you were mumbling rubbish and tossing a rock at one of them chickenheads, did you…"
-        },
-        {
-            "id": 67,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ahrmhrm…"
-        },
-        {
-            "id": 68,
-            "model": "파우스트",
-            "content": "I will say, Heathcliff’s unexpected fits of insight surprise me sometimes."
-        },
-        {
-            "id": 69,
-            "model": "파우스트",
-            "content": "You led us into dealing with a Distortion in a “coincidental” encounter so that you could gather data for your research on Abnormalities."
-        },
-        {
-            "id": 70,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mr. Samjo here is no good at acting. I suppose it’s due to his upright way of life."
-        },
-        {
-            "id": 71,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Please understand. We had no means to clearly distinguish a Distortion from an Abnormality."
-        },
-        {
-            "id": 72,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "A person distorts “when the mind crumbles to figurative pieces…” was it? That was a stellar figure of speech. Did you restore his crumbled mind back to health, then?"
-        },
-        {
-            "id": 73,
-            "model": "파우스트",
-            "content": "There is no way to piece together someone else’s broken mind."
-        },
-        {
-            "id": 74,
-            "model": "파우스트",
-            "content": "We merely showed him the way. It was the choice of the restaurant owner whether to stay there or take that path."
-        },
-        {
-            "id": 75,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Wow, you know so much. If I were just a bit younger, I’d have jumped and hopped trying to high-five you."
-        },
-        {
-            "id": 76,
-            "model": "파우스트",
-            "content": "You’re always unwelcome to try."
-        },
-        {
-            "id": 77,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mr. Dongrang, you’re becoming sidetracked again."
-        },
-        {
-            "id": 78,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, you’re right. Alright… Then, one day, while we happily indulged in research in that laboratory of the Lobotomy Corp. branch facility, armed terrorists attacked the place. It was all too sudden."
-        },
-        {
-            "id": 79,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Have you ever seen a bomb set off before your eyes? It’s quite the spectacle. It all starts and ends in a split second. Just like the universe, isn’t it?"
-        },
-        {
-            "id": 80,
-            "model": "오티스",
-            "content": "Where are the terrorists now?"
-        },
-        {
-            "id": 81,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The members have almost nothing in common, and their motive is unknown. They only showed up recently."
-        },
-        {
-            "id": 82,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "In the end, the terrorist organization took over the laboratory Mr. Dongrang’s team had stayed in."
-        },
-        {
-            "id": 83,
-            "model": "오티스",
-            "content": "Mm. That must be when the lab was moved."
-        },
-        {
-            "id": 84,
-            "model": "이상",
-            "content": "…How severe was the damage?"
-        },
-        {
-            "id": 85,
-            "content": "Dongrang turned his gaze from Yi Sang to the sporadically unoccupied seats."
-        },
-        {
-            "id": 86,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You see, those empty seats…"
-        },
-        {
-            "id": 87,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "They’ll stay that way for a while. Their owners died—in that act of terror."
-        },
-        {
-            "id": 88,
-            "content": "Looking closely, I saw snacks and flowers placed on their cushions, probably as a way to mourn the dead."
-        },
-        {
-            "id": 89,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, this fellow we only managed to recover a finger from. We couldn’t find the right place to put it, so we’ve been keeping it in storage. It should be over at the display on the second floor."
-        },
-        {
-            "id": 90,
-            "content": "A solemn silence filled the office, but Dongrang continued, brushing the empty desk with his hand."
-        },
-        {
-            "id": 91,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "There is so much we had to leave behind."
-        },
-        {
-            "id": 92,
-            "model": "그레고르",
-            "content": "…Dongrang…"
-        },
-        {
-            "id": 93,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I especially miss the plaque modeled after the face of my character, that was a favorite souvenir of mine."
-        },
-        {
-            "id": 94,
-            "model": "그레고르",
-            "content": "I’ll be stumped, I can’t tell how much of what he says is a joke and how much of it is serious."
-        },
-        {
-            "id": 95,
-            "model": "오티스",
-            "content": "What about that seat, then?"
-        },
-        {
-            "id": 96,
-            "content": "Our attention was brought to a white desk that was completely empty."
-        },
-        {
-            "id": 97,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, that one is reserved."
-        },
-        {
-            "id": 98,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We’re waiting for a new employee to take that seat."
-        },
-        {
-            "id": 99,
-            "model": "이스마엘",
-            "content": "Oh… Is there an application guideline for the position, then? Where can I see it?"
-        },
-        {
-            "id": 100,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ahem."
-        },
-        {
-            "id": 101,
-            "content": "Ishmael’s bright-eyed inquisition was interrupted by Samjo’s displeased utterance."
-        },
-        {
-            "id": 102,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Oh dear, our Mr. Samjo is feeling all uncomfortable now. Shall we actually get to the point then, Samjo?"
-        },
-        {
-            "id": 103,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Let me be blunt; I suggest an accord that will benefit both parties."
-        },
-        {
-            "id": 104,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "If you help us retake the laboratory, we’ll yield the ownership of the Golden Bough we found to you."
-        },
-        {
-            "id": 105,
-            "model": "파우스트",
-            "content": "I have a question. Is this a fixed contract, or a post-fulfillment review contract? Will it be represented by delegate bodies or co-executive members?"
-        },
-        {
-            "id": 106,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Allow me to answer that. This will be an immediate delegate-body-represented contract with no warranty liability. A contractual signing overseen by an observer from a Grade 1 Contract Office will take place following due process."
-        },
-        {
-            "id": 107,
-            "model": "단테",
-            "content": "<A Contract Office…? I-I dunno what’s going on… Does it really have to be so complicated?>"
-        },
-        {
-            "id": 108,
-            "model": "이스마엘",
-            "content": "In J Corp’s District, we couldn’t get the Golden Bough right away despite winning because we didn’t have anyone overseeing the deal."
-        },
-        {
-            "id": 109,
-            "model": "그레고르",
-            "content": "Oh… That Ayuda from the Merry Archils? She started a fight even after Rodya won the game."
-        },
-        {
-            "id": 110,
-            "model": "싱클레어",
-            "content": "It’s Aida from Los Mariachis…"
-        },
-        {
-            "id": 111,
-            "model": "이스마엘",
-            "content": "That’s right. Instead of playing the role of the observer, she left us with no choice but to take the Bough with force."
-        },
-        {
-            "id": 112,
-            "model": "이스마엘",
-            "content": "Which is why it is safer to use the service of an Association or a Contract Office to stand as an observer or to notarize the contract even if it can be costly. That’s what Faust probably considered most carefully, I think."
-        },
-        {
-            "id": 113,
-            "content": "Ishmael explained like it was common knowledge. I guess it’s something well-known among City folks…"
-        },
-        {
-            "id": 114,
-            "model": "파우스트",
-            "content": "This contract certainly favors our side."
-        },
-        {
-            "id": 115,
-            "model": "파우스트와삼조",
-            "teller": "Faust & Samjo",
-            "title": "Both",
-            "content": "As long as the goal is achieved."
-        },
-        {
-            "id": 116,
-            "content": "…We watched with our mouths agape as the two declared the conclusion at once."
-        },
-        {
-            "id": 117,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "This is a secret, but, I frankly don’t get more than half of what Samjo says. I just nod like “Oh I see~” and move on."
-        },
-        {
-            "id": 118,
-            "model": "그레고르",
-            "content": "Isn’t that a coincidence? It’s the same for us, too."
-        },
-        {
-            "id": 119,
-            "model": "이스마엘",
-            "content": "Aren’t you supposed to be the last person to be ignorant of your secretary’s words…?"
-        },
-        {
-            "id": 120,
-            "model": "홍루",
-            "content": "Aha, still, I guess making a contract with K Corp’s laboratory means we won’t be fighting against the Wing’s staff for a while."
-        },
-        {
-            "id": 121,
-            "model": "홍루",
-            "content": "You know, those people who would keep healing their wounds."
-        },
-        {
-            "id": 122,
-            "content": "The team fell into a somber silence. All the memories related to them were filled with misery and suffering."
-        },
-        {
-            "id": 123,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, so you’ve seen K Corp’s regenerative technology already."
-        },
-        {
-            "id": 124,
-            "model": "로쟈",
-            "content": "Ugh, we’ve more than seen it!"
-        },
-        {
-            "id": 125,
-            "model": "그레고르",
-            "content": "Had to deal with it over and over, I get sick of the thought…"
-        },
-        {
-            "id": 126,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah… Why don’t I show you around my lab instead, then? It’s not here, though… You’ll have to take the elevator once more."
-        },
-        {
-            "id": 127,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Geh? You would show them that much, Mr. Dongrang? That place is off-limits for unauthorized personnel…"
-        },
-        {
-            "id": 128,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Hah, you just made a really funny noise, Mr. Samjo. Well, it shouldn’t hurt. We’re hanging out a bit to celebrate the provisional contract being signed."
-        },
-        {
-            "id": 129,
-            "content": "I wasn’t sure if that was an appropriate way to celebrate things… but since no one on the team objected, I decided to follow him."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sảnh Phòng Thí Nghiệm T.Đoàn K",
+                "model":"단테",
+                "content":"<Ý tôi là... Tôi không phiền đâu, dù sao thì hai người cũng đâu thể nghe thấy tiếng tôi nói.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"동랑",
+                "content":"Chuyện này có chút tế nhị để tôi nói cho cả nhóm biết, nhưng thật ra thì, một trong số... nhân viên của ngài từng là bạn cũ của tôi.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"단테",
+                "content":"<Ồ, ai thế?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"동랑",
+                "content":"Và cậu ấy còn không cho tôi một cái gật đầu. Có thể cậu ấy cùng ngại giống tôi vậy. Thực sự tôi phải rất cố gắng mới che đi được nỗi buồn đó.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"단테",
+                "content":"<Nếu vậy thì hai người cũng không thân thiết đến mức đó chăng? ...Đợi đã, anh có thể nghe thấy giọng của tôi sao?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"삼조",
+                "content":"Ngài Dongrang, cá nhân này không thể giao tiếp bình thường được.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"동랑",
+                "content":"Đó là lý do tôi đang nói đây, Samjo. Cảm giác như thể tôi được trở về làm một đứa trẻ đang than thở cho món đồ chơi dây cót của mình nghe vậy, cậu không nghĩ thế sao?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"...Hóa ra nãy giờ là độc thoại đấy à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테",
+                "content":"<Cả hai người đang làm cái trò gì vậy?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"동랑",
+                "content":"Chủ yếu là do có cậu ấy mà tôi quyết định gửi yêu cầu đến ngài. Sẽ dễ tin tưởng người mình quen hơn so với một người xa lạ mà.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"삼조",
+                "content":"Ngài Dongrang, ngài lại bị ảnh hưởng bởi mấy thứ cảm xúc thừa thãi nữa rồi. Thật là, đây là lý do vì sao tôi luôn phải trông chừng ngài...",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"동랑",
+                "content":"Cho nên, ngài hãy giúp tôi một việc này, xin hãy khôn khéo và cân nhắc rằng... giả vờ như ngài không hề biết gì về mối quan hệ giữa tôi với cậu ấy nhé, được chứ?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"단테",
+                "content":"<Anh thậm chí còn chưa nói tôi biết người bạn đó là ai nữa...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Tôi chỉ có thể thở dài và lắc đầu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Cuộc đối thoại không bên nào hiểu nhau kết thúc chóng vánh như cách mà nó đã bắt đầu vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"단테",
+                "content":"<Đây không phải nhờ vả. Anh đang cảnh cáo tôi.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":"Hành Lang Phòng Thí Nghiệm T.Đoàn K",
+                "model":"삼조",
+                "content":"Đây là lối dẫn vào phòng thí nghiệm. Các vị khách thông thường sẽ không được phép bước vào bên trong....",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"삼조",
+                "content":"Nhưng vì mọi người được đích thân ngài Dongrang mời tới nên là... tôi sẽ dẫn mọi người vào bên trong cơ sở.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chao ôi... Ước gì... mình cũng được làm việc cho một công ty lớn thế này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nếu thế thì cưng đã có thể ứng tuyển vào rồi~ Sao lúc đầu không thử luôn?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cô đang đùa đúng không, Rodion? Không phải ai cũng gia nhập được những nơi thế này đâu. Tầm cỡ như họ sẽ chỉ chấp nhận những hồ sơ cực kì ưu tú thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ví dụ như Faust hay Yi Sang ấy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "content":"Lời của Ishmael tạo cơ hội để tôi mang lên câu hỏi trước đó của tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"단테",
+                "content":"<Đúng thế, sao cô lại chọn gia nhập Công Ty Limbus vậy? Chắc chắn phải có nơi tốt hơn để ứng tuyển vào chứ.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"파우스트",
+                "content":"Vì tôi là Faust.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"단테",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Có một hào quang lạ lùng phát ra từ giọng điệu chắc như đinh đóng cột của cô ấy đã ngăn không cho tôi hỏi thêm một câu nào khác nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테",
+                "content":"<Còn anh thì sao, Yi Sang?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이상",
+                "content":"Để tôi bỏ công hỏi lại ngài nhé. Quản Lý, tại sao ngài lại gia nhập công ty ngài đang làm?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"단테",
+                "content":"<Thì ý tôi là, bởi vì tôi không có sự lựa chọn nào khác.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이상",
+                "content":"...Thế là đủ trả lời cho câu hỏi của ngài rồi đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"단테",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Có vẻ như Ishmael không hề phóng đại khi nói về trình độ chuyên môn bắt buộc để gia nhập vào tập đoàn này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":"Phòng Thí Nghiệm T.Đoàn K",
+                "model":null,
+                "content":"Sự tĩnh lặng bao trùm khắp cả phòng thí nghiệm này chỉ có thể đạt được khi tất cả mọi người đều hết sức tập trung.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"로쟈",
+                "content":"Dante, Dante, Dante, nhìn, kìa... Thấy không? Cái tủ đó toàn chứa đồ ăn vặt đấy... Ta có thể lấy một hoặc mười món, mà họ cũng không nhận ra nổi đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Và chúng tôi đã phá vỡ sự tĩnh lặng đấy bằng sự thờ ơ vô độ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"동랑",
+                "content":"Cô có thể lấy bao nhiêu tuỳ thích. Samjo, hãy gói một ít đồ ăn vặt trong phòng giải lao rồi chia cho họ sau.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"삼조",
+                "content":"Tôi đã rõ.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"로쟈",
+                "content":"Tuyệt quá, Ishy, hay là ta nghỉ việc rồi sang ở đây luôn nhể?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cô nói hơi to đó, Rodya...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cô Rodion, hợp đồng nói rằng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"로쟈",
+                "content":"Đùa thôi, Faust. Chỉ đùa thôi. Hiểu không đó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"단테",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"동랑",
+                "content":"Về yêu cầu phía bên tôi thì—",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"슈렌느",
+                "content":"Lại gì nữa đây hả Dongrang, anh giờ còn mang người ngoài vào đây nữa à... Anh nghĩ anh là hướng dẫn viên du lịch hay gì?",
+                "teller":null,
+                "title":"Phòng Thí Nghiệm T.Đoàn K"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"동랑",
+                "content":"A. Thứ lỗi cho tôi. Đây là Shrenne. Cô ấy gia nhập công ty cùng lúc với tôi và là quản lý của bộ phận kế bên. Người này cả ngày chỉ biết tìm tôi và xổ một tràng ngôn từ gây tổn thương.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"슈렌느",
+                "content":"Hẳn phải có ai đó chỉ ra được rằng chính đội của anh đang làm hao hụt ngân sách phúc lợi công ty rồi chứ.",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"동랑",
+                "content":"À, nếu cô đang thắc mắc về chuyện chúng tôi tiêu khoản đó như thế nào ấy... Cô sẽ biết khi chiếc cúp Bộ phận của Năm được trao thưởng thôi. Đúng không nào, Samjo?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"삼조",
+                "content":"Sẽ mất cả ngày chỉ để liệt kê toàn bộ lợi ích mà bộ phận được chọn nhận được mất, thưa ngài.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"슈렌느",
+                "content":"Ựa, hai tên kiêu ngạo mấy anh.",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hừm. Đó là đối thủ cạnh tranh à? Quả là ở đâu thì cũng sẽ có người tị nạnh nhau nhỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"동랑",
+                "content":"Lòng đố kỵ thúc đẩy sự phát triển vượt bậc, như mọi người luôn nói, nên lẽ dĩ nhiên là chúng tôi nên rộng lượng và hào phóng một chút với những người theo sau. Chúng ta có nên tặng cho họ một ít bánh mà chúng ta đã mua từ cửa tiệm đó cho bộ phận của Shrenne không, Samjo?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"삼조",
+                "content":"Tôi cũng tính làm vậy rồi, thưa ngài. Vị tiêu nồng, ớt cay, xà lách và đặc biệt nhất là vị cà ri.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hớ... Nghe... cũng ngon miệng nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"동랑",
+                "content":"Haha... Giờ thì, quay lại chủ đề chính của chúng ta nào.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"동랑",
+                "content":"Tôi đã nghe tin đồn rồi. Về một công ty mới được thành lập đi thu thập các vật thể hữu cơ được gọi là \"Cành Vàng\".",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"동랑",
+                "content":"Và những Cành Vàng ấy chỉ có thể được tìm thấy bên trong những nhánh cơ sở hoang tàn của Tập Đoàn Lobotomy.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"오티스",
+                "content":"Làm thế nào mà ngươi biết đến sự tồn tại của Cành Vàng?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"동랑",
+                "content":"Chỉ là một phát hiện gần đây thôi. Chúng tôi đã sử dụng một nhánh Tập Đoàn Lobotomy gần cơ sở nghiên cứu làm một phòng thí nghiệm cho đến vài tháng trước.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày... dựng cả một cái phòng thí nghiệm ở nơi kinh khủng vậy ư?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nhưng tôi tưởng chúng đều bị chôn vùi dưới đất hết rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chà... Đúng là ở đó có những tài nguyên hiếm và tư liệu cho họ tận dụng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"파우스트",
+                "content":"...Liệu nghiên cứu của anh có bao gồm những Dị Thể?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"동랑",
+                "content":"Dĩ nhiên là có rồi. Không một nhà nghiên cứu nào có thể bỏ lỡ những vấn đề hấp dẫn như vậy được.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mấy đứa nhà nghiên cứu chắc bị ấm đầu hết rồi mới để ý tới mấy thứ đó...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"히스클리프",
+                "content":"...Gượm đã.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Khi mày đang lầm bầm cái chó gì đó và chọi đá vào lũ đầu gà, có phải là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"삼조",
+                "content":"Ư hừm...",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi phải thừa nhận, đôi lúc những phát ngôn với chút thông thái của cậu Heathcliff làm tôi ngạc nhiên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cậu khiến chúng tôi xử lý Biến Dị đó một cách ”tình cờ” để cậu có thể lấy thông tin cho nghiên cứu Dị Thể của mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"동랑",
+                "content":"Cậu Samjo đây không giỏi diễn xuất lắm. Tôi cho rằng đây là do cách sống ngay thẳng của cậu ấy.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"동랑",
+                "content":"Xin hãy thông cảm cho anh ấy. Chúng tôi hoàn toàn không có cách nào phân biệt được đâu là Biến Dị và đâu là Dị Thể.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"동랑",
+                "content":"Một người biến dị \"khi tâm trí của họ vỡ ra thành vô số mảnh vụn...\" đúng không? Quả thật là một cách nói ẩn dụ tuyệt vời. Vậy cô đã khôi phục lại tâm trí vụn vỡ của ông ấy sao?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"파우스트",
+                "content":"Không có cách nào để ghép lại tâm trí của một kẻ đã vỡ vụn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng tôi chỉ đơn giản là dẫn đường cho anh ta. Việc người chủ nhà hàng đó lựa chọn đi hay ở thuộc về anh ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"동랑",
+                "content":"Ôi chao, cô biết nhiều thật đấy. Nếu như tôi trẻ hơn tí nữa thì tôi đã nhảy lên đập tay với cô rồi.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"파우스트",
+                "content":"Xin đừng cố thử.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"삼조",
+                "content":"Ngài Dongrang, ngài lại bị phân tâm nữa rồi.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"동랑",
+                "content":"A, cậu nói đúng. Được rồi... Một ngày nọ, trong khi chúng tôi đang say sưa nghiên cứu trong phòng thí nghiệm của nhánh cơ sở Tập Đoàn Lobotomy, một nhóm khủng bố trang bị vũ trang đã tấn công nơi đó. Mọi thứ xảy ra quá đột ngột.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"동랑",
+                "content":"Mọi người đã bao giờ nhìn thấy một quả bom nổ ngay trước mắt mình chưa? Quả là một cảnh tượng khó quên. Mọi thứ bắt đầu và kết thúc quá nhanh. Hệt như cách vũ trụ vận hành vậy, đúng chứ?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"오티스",
+                "content":"Tụi khủng bố đâu rồi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"삼조",
+                "content":"Bọn chúng chỉ mới xuất hiện gần đây. Không có đặc điểm nhận dạng cụ thể giữa các đối tượng và mục tiêu của chúng hiện vẫn chưa được làm rõ.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"삼조",
+                "content":"Sau cùng thì, tổ Chức kia đã đánh chiếm thành công phòng thí nghiệm của đội ngài Dongrang rồi.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"오티스",
+                "content":"Ừm. Đó hẳn là lúc phòng thí nghiệm bị dời đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"이상",
+                "content":"...Mức độ tổn thất thế nào?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":null,
+                "content":"Dongrang chuyển ánh nhìn của mình từ Yi Sang qua những chiếc ghế trống lộn xộn đằng kia.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"동랑",
+                "content":"Mọi người thấy đấy, những chiếc ghế trống trải ấy...",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"동랑",
+                "content":"Sẽ không có ai ngồi đấy trong khoảng thời gian sắp tới. Chủ nhân của chúng đã chết—trong cuộc khủng bố đó.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":null,
+                "content":"Nhìn kỹ hơn, tôi có thể thấy thức ăn và hoa được đặt trên ghế, có thể là một cách để tưởng niệm những người đã khuất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"동랑",
+                "content":"À, chúng tôi chỉ có thể khôi phục ngón tay của người này thôi. Chúng tôi không biết đặt nó ở đâu, nên chúng tôi đã cất giữ nó trong nhà kho. Nó lẽ ra phải được trưng bày ở trên tầng hai cơ.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":null,
+                "content":"Sự im lặng bao trùm cả văn phòng, nhưng Dongrang tiếp tục nói, dùng tay phủi đi lớp bụi trên chiếc bàn trống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"동랑",
+                "content":"Có rất nhiều thứ chúng tôi buộc phải bỏ lại.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"그레고르",
+                "content":"…Dongrang…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"동랑",
+                "content":"Tôi rất nhớ bức điêu khắc có hình gương mặt nhân vật của tôi, đó là món quà lưu niệm yêu thích nhất.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"그레고르",
+                "content":"Thành thật mà nói thì, tôi không biết là những điều mà gã nói có bao nhiêu phần là nghiêm túc và bao nhiêu phần là bông đùa nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"오티스",
+                "content":"Vậy vị trí đấy thì sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":null,
+                "content":"Sự chú ý của chúng tôi đổ dồn vào chiếc bàn làm việc màu trắng hoàn toàn trống rỗng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"동랑",
+                "content":"À, chỗ đó được dành riêng ra rồi.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"동랑",
+                "content":"Chúng tôi đang đợi một nhân viên mới ngồi vào chiếc ghế đó.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ồ... Các anh có mô tả chi tiết cho vị trí đó không? Cho tôi xem với?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"삼조",
+                "content":"E hèm.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":null,
+                "content":"Trong lúc Ishmael đang dòm ngó xung quanh thì lại bị lời hắng giọng không mấy hài lòng của Samjo cản lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"동랑",
+                "content":"Ôi trời, cậu Samjo đây cảm thấy không thoải mái rồi. Chúng ta nói thẳng vào vấn đề chính đi, Samjo?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"삼조",
+                "content":"Để tôi nói thẳng; tôi đề nghị một cuộc giao dịch sòng phẳng.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"삼조",
+                "content":"Nếu các vị giúp chúng tôi chiếm lại khu nghiên cứu, thì phía chúng tôi sẽ nhượng lại quyền sở hữu Cành Vàng cho bên ngài.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi có một vài câu hỏi. Liệu đây là hợp đồng thoả thuận, hay là một hợp đồng xem xét sau khi hoàn thành? Bản hợp đồng này có được trình lên cơ quan đại biểu hay ban điều hành hay không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"삼조",
+                "content":"Hãy để tôi trả lời câu hỏi đó. Vì đây sẽ là một bản hợp đồng được ký kết trực tiếp giữa sự chứng kiến của các bên liên quan mà không có bên làm chứng. Nên quá trình ký kết sẽ phải được chứng thực từ một bên thứ ba, tức từ bên Văn Phòng Hợp Đồng Cấp 1, cùng với vài thủ tục kèm theo sau đó.",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"단테",
+                "content":"<Văn Phòng Hợp Đồng sao...? T-Tôi không biết chuyện gì đang diễn ra nữa... Có cần phải phức tạp như vậy không?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ở Quận 10, chúng ta không thể lấy Cành Vàng một cách đường đường chính chính dù là bên thắng cuộc chỉ vì không có bên thứ ba xác nhận đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"그레고르",
+                "content":"À... Cái ả Ayuda từ phe Merry Archils á? Lần đó Rodya thắng rồi mà ả còn nhào lên đánh nhau nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Là Aida từ Los Mariachis mới đúng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chính xác. Thay vì làm tròn trách nhiệm của bên làm chứng, ả đã buộc chúng ta phải đoạt lấy cái Cành bằng vũ lực.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế nên để an toàn hơn thi chúng ta sẽ sử dụng dịch vụ từ một Liên Đoàn hoặc một Văn Phòng Hợp Đồng để công chứng cho việc ký kết, kể cả khi nó tốn kém đi nữa. Chắc là Faust đã suy tính kỹ như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":null,
+                "content":"Ishmael giải thích như thể đó là kiến thức phổ thông vậy. Tôi đoán nó là điều mà ai trong The City cũng biết hết rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"파우스트",
+                "content":"Hợp đồng này có lợi cho bên ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"파우스트와삼조",
+                "content":"Miễn hai bên đều đạt được mục tiêu.",
+                "teller":"Faust & Samjo",
+                "title":"Cả hai"
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":null,
+                "content":"...Chúng tôi đều há hốc mồm nhìn hai người bọn họ cùng lúc đồng thanh đưa ra kết luận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"동랑",
+                "content":"Nói thật thì, tôi gần như không hiểu cậu Samjo nói cái gì. Tôi chỉ đơn giản là gật đầu kiểu \"Ồ tôi hiểu rồi~\" cho qua chuyện thôi.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"그레고르",
+                "content":"Trùng hợp thế nhỉ? Bọn tôi cũng vậy mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đáng lý anh phải là người chú ý đến từng lời mà thư ký của mình nói ra chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"홍루",
+                "content":"À ha, cơ mà nếu đoàn mình ký kết hợp đồng với phòng thí nghiệm Tập Đoàn K, thì trong khoảng thời gian tới đây, ta sẽ không cần phải đối đầu với nhân viên của họ nữa ha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"홍루",
+                "content":"Mấy người mà bị thương nặng mấy cũng hồi phục được ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":null,
+                "content":"Cả đội đều rơi vào trầm mặc. Mọi ký ức liên quan đến các nhân viên bảo an đều chất chứa sự khổ đau và giày vò.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"동랑",
+                "content":"A, vậy là mọi người đã nhìn thấy công nghệ hồi phục của Tập Đoàn K rồi sao.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ựa, bộ chúng tôi ngắm chưa đủ hả?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"그레고르",
+                "content":"Phải đánh đi đánh lại hết lần này tới lần khác, nghĩ lại thôi cũng đủ ớn rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"동랑",
+                "content":"À... Hay là để tôi cho mọi người xem phòng thí nghiệm của tôi nhỉ? Không phải ở đây đâu... Mọi người sẽ phải đi thang máy thêm một lần nữa.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"삼조",
+                "content":"É? Ngài muốn dẫn họ tới đó à, ngài Dongrang? Khu vực đó chỉ dành cho các cá nhân có thẩm quyền...",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":"동랑",
+                "content":"Ha, cậu vừa làm ra một âm thanh khá hài hước đấy, Samjo à. À thì, chẳng sao đâu. Chúng ta sẽ tham quan một chút để chúc mừng việc ký kết hợp đồng tạm thời.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":null,
+                "content":"Tôi không chắc làm vậy để ăn mừng có đúng không... nhưng bởi vì không một ai trong nhóm phản đối, nên tôi quyết định đi theo anh ta.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

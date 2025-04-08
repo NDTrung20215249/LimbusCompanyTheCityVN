@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_21_1",
-      "dlg": "Hark, dear compatriots! Let us face them in open challenge! We shall triumph over this ordeal and continue our pursuit of the endless adventure!"
+      "dlg": "Tiến lên nào, hỡi các chiến hữu! Chúng ta hãy đối mặt với bọn chúng như một thử thách thực sự! Đội ta sẽ chiến thắng và tiếp tục theo đuổi chuyến phiêu lưu bất tận này!"
     },
     {
       "id": "announcer_cheer_21_2",
-      "dlg": "We shan't ever give up, no matter the peril! Their assault pales before our burning passion!"
+      "dlg": "Chúng ta không thể bỏ cuộc, dẫu cho nguy hiểm đến mấy đi nữa! Những đợt tấn công của bọn chúng sẽ phai nhoà trước niềm đam mê cháy bỏng của chúng ta!"
     },
     {
       "id": "announcer_specialcheer_21_1",
-      "dlg": "You insolent— Ahm! Their vile trickery is but a passing misery! In the end, we shall prevail and break their spears!"
+      "dlg": "Nhà ngươi dám— E hèm! Thủ đoạn gian trá của chúng chỉ là khó khăn nhất thời mà thôi! Sau cùng thì, đội ta sẽ giành lấy chiến thắng thật anh dũng!"
     },
     {
       "id": "announcer_specialcheer_21_2",
-      "dlg": "Not once have we embarked on an adventure sans danger! Yet, at the end of each tale, 'twas us who have always seized victory!\nForsooth, 'tis a recounting of our very tale!"
+      "dlg": "Một chuyến phiêu lưu mà thiếu đi nguy hiểm sẽ chẳng phải là chuyến phiêu lưu nữa! Dẫu thế, vào cuối mỗi câu truyện, chính chúng ta sẽ là người thắng cuộc!\nThật vậy, đó là lời kể về giai thoại anh dũng của những người hiệp sĩ này!"
     },
     {
       "id": "announcer_enemy_break_21_1",
-      "dlg": "Winds of victory are at our backs! Topple that staggered foe, and their morale shall be broken! CHARGE!"
+      "dlg": "Chúng ta đang giành được thế chủ động! Đánh gục kẻ thù đã bị choáng đó, và tinh thần bọn chúng sẽ sụp đổ! TIẾN CÔNG!"
     },
     {
       "id": "announcer_ally_break_21_1",
-      "dlg": "Thou mustn't fear having to take a knee from time to time! A bit of my slobber upon thy wound, and it shall be healed posthaste, forsooth!\n... Um. Perhaps that was too much..."
+      "dlg": "Ngươi không cần sợ việc thi thoảng lại phải quỳ gối đâu! Một giọt nước dãi trên vết thương, và nó sẽ được chữa lành ngay lập tức, chắc chắn đó!\n... Ờ thì. Trừ trường hợp vết thương quá nặng đi..."
     },
     {
       "id": "announcer_killenemy_21_1",
-      "dlg": "We have smote the morale of our foes to the dirt! None shall stand in our way!"
+      "dlg": "Sự kiêu ngạo kia đã được thực thi bởi công lý! Giờ thì chẳng có gì có thể cản bước được chúng ta nữa!"
     },
     {
       "id": "announcer_ally_dead_21_1",
-      "dlg": "... I shall remember thee; as shall Manager Esquire.\nThou hast fought valorously. I await thy return with anticipation."
+      "dlg": "... Cũng như Quản Lý, ta sẽ nhớ về ngươi.\nMột người hiệp sĩ đã hi sinh anh dũng. Ta luôn mong chờ ngươi trở về."
     },
     {
       "id": "announcer_enemy_adv_21_1",
-      "dlg": "What would you have done in such a situation, Father?\n... Haha. I don't suppose he was ever in such a situation. Hark! 'Tis not the end, my compatriots!"
+      "dlg": "Cha sẽ làm gì trong những tình huống như này, thưa Cha?\n... Haha. Ta không nghĩ là Cha từng ở trong tình huống như vậy. Nghe đây! Bây giờ không phải lúc để ủ rũ đâu, hãy ngẩng cao đầu lên, hỡi các chiến hữu của ta!"
     },
     {
-      "id": "announcer_ally_advex_21_1",
-      "dlg": "Thou shalt remain steadfast upon thy steeds, my compatriots. No matter how much we bled, no matter how labored our breathing became, victory was always within our grasp."
+      "id": "announcer_ally_adv_21_1",
+      "dlg": "Kiên định và bản lĩnh trên chiến mã của mình, hỡi các chiến hữu. Dù cho máu đã đổ thành sông, dù cho hơi thở đã dần cạn kiệt, chiến thắng vẫn luôn trong tầm tay của chúng ta."
     },
     {
       "id": "announcer_danger_21_1",
-      "dlg": "This final change shall change the tides of battle! Cornered we may be at this moment, yet the epic tale of today's victory shall be written by our hands!"
+      "dlg": "Đây là cơ hội để thay đổi cục diện trận chiến! Chúng ta có thể bị dồn vào chân tường, nhưng câu chuyện sử thi về chiến thắng anh dũng hôm nay sẽ được viết lên bằng chính những đôi bàn tay này!"
     },
     {
       "id": "announcer_enemy_specialskill_21_1",
-      "dlg": "Just like Dulcinea's elaborate preparations for her Parade's finale...\nBut I already knew it was coming, so it didn't affect me much. ...Thus! We shan't be troubled by such craftiness! Prithee, prepare thyself accordingly!"
+      "dlg": "Y như cái cách Dulcinea chuẩn bị công phu cho phần kết của Cuộc diễu hành...\nĐiều gì đến cũng phải đến, vậy nên nó chẳng ảnh hưởng mấy đến ta. ...Bởi thế! Mánh lừa gian xảo của bọn chúng chẳng là gì cả! Tiến lênnnnnn, hãy chuẩn bị sẵn sàng!"
     },
     {
       "id": "announcer_enemy_specialgimmick_21_1",
-      "dlg": "Dost thou recall the Barber's attraction with its ample surprises?!\nBehold carefully with thine eyes wide open, and let not such deceit befuddle thee!"
+      "dlg": "Ngươi có nhớ điểm thăm quan của Thợ cắt tóc với vô vàn điều bất ngờ không?!\nHãy nhìn thật kỹ với đôi mắt mở to, và đừng để ánh trăng đó làm ngươi lầm lẫn!"
     },
     {
       "id": "announcer_advatk_physical_21_1",
-      "dlg": "A perfectly WANDA-FUL choice, Manager Esquire! Forsooth, thine eyes see true!"
+      "dlg": "Sự lựa chọn hoàn hảo KHÔNG-TÌ-VẾT, thưa Quản Lý! Quả thật, Ngài có thể đọc vị kẻ thù!"
     },
     {
       "id": "announcer_disadvatk_physical_21_1",
-      "dlg": "Ahem... Ahem. Truly, the profundity of thy wisdom is... quite... ineffable..."
+      "dlg": "Ehèm... Ehèm. Thật vậy, sự sâu sắc trong cách suy nghĩ của Ngài... khá là... không gì có thể diễn tả được..."
     },
     {
       "id": "announcer_advatk_attr_21_1",
-      "dlg": "Thy far-seeing—metaphorical—eyes truly are... ah, it brings a tear to mine very own eyes!\nI have espied a perfect quote for one such situation in one of my books of Fixer heroics. Hmm..."
+      "dlg": "Cách Ngài nhìn xa trông rộng—đọc vị—thực sự... à không, nó khiến ta rơi lệ!\nTa nhớ được một câu trích dẫn hoàn hảo cho tình huống này từ những cuốn sách về anh hùng Fixer của ta. Hừm..."
     },
     {
       "id": "announcer_disadvatk_attr_21_1",
-      "dlg": "Hoh? Yet our foes appear quite sturdy against one such strike... Aah, thou art giving them a chance for a fair duel, then! Forsooth, carry thee on!"
+      "dlg": "Hể? Trông chúng chẳng có gì là đau đớn trước một đòn tấn công như vậy... Àaaa, ra là Ngài đang cho chúng một cơ hội đấu tay đôi một cách thật công bằng! Được rồi, tiến công!"
     },
     {
       "id": "announcer_enemy_specialbuff_21_1",
-      "dlg": "Did they feed them blood packs or something...? N-no.\nOur foes stand over yonder, brimming with morale! Prithee, watch thyself!"
+      "dlg": "Bọn chúng vừa ăn túi máu hay sao...? Kh-không.\nKẻ thù của chúng ta kia kìa, năng lượng chúng thật tràn trề và sẵn sàng cho mọi tình huống! Xin hãy cẩn thận!"
     },
     {
       "id": "announcer_enemy_specialdebuff_21_1",
-      "dlg": "'Tis clear that thy strike against them was much like splashing water against myself!\nUgh... I threw up a little merely by mentioning it."
+      "dlg": "Rõ ràng là đòn tấn công đó chẳng khác gì tạt nước vào người ta vậy!\nÔi... Nhắc tới là thấy buồn nôn."
     },
     {
       "id": "announcer_ally_specialbuff_21_1",
-      "dlg": "... Mm! I espy a powerful aura amongst thee! How didst thou enjoy the TOP 5 tales of heroics to inspire courage, chosen by none other than thine truly?!"
+      "dlg": "... Ưm! Ta thấy khí chất mạnh mẽ toát ra từ ngươi! Có muốn ta kể về TOP 5 câu chuyện về các anh hùng truyền cảm hứng cho lòng dũng cảm, được lựa chọn bởi không ai khác ngoài chính ngươi không?!"
     },
     {
       "id": "announcer_ally_specialdebuff_21_1",
-      "dlg": "Though I may not be blessed with the gift of loquaciousness as the Priest was, I... shall try mine utmost to lift troubles from thy heart.\n... Wherefore art thou making such displeased wrinkles in thy face?"
+      "dlg": "Dù ta không được ban cho tài ăn nói lưu loát như Linh mục, nhưng ta... ta sẽ cố gắng hết sức để giải tỏa những phiền muộn trong lòng Ngài.\n...  Sao trông Ngài có vẻ như đang khó chịu thế?"
     },
     {
       "id": "announcer_enemy_destroy_21_1",
-      "dlg": "Ah, thou hast chipped off a part! This brings to mind an adventure of mine when—\nMm."
+      "dlg": "Á, ngươi đã phá vỡ một bộ phận rồi! Điều này làm ta nhớ đến một cuộc phiêu lưu của ta khi—\nƯm."
     },
     {
       "id": "announcer_enemy_destroy_21_2",
-      "dlg": "A significant part of our foe hath been hewn off their body! Only a deadly conclusion awaits them; thus ride, ride to their demise!"
+      "dlg": "Một bộ phận của kẻ thù đã hoàn toàn bị vô hiệu! Kết cục của chúng chỉ có cái chết mà thôi; vậy nên hãy tiến lên, hướng thẳng về chiến thắng của ta!"
     },
     {
       "id": "announcer_round_takebigdmg_21_1",
-      "dlg": "F-fie...\nAgh... Father could have obliterated that fool in an instant..."
+      "dlg": "Ôi- Ôi chao...\nÔi hỡi... Cha có thể hóa kiếp kẻ ngốc đó chỉ trong một nốt nhạc..."
     },
     {
       "id": "announcer_round_takebigdmg_21_2",
-      "dlg": "Their assault was rather unforgiving... Yet, let not thy heart falter, and we shall live to see another day!\nVerily, how doth one know the outcome of a battle without nary an attempt?!"
+      "dlg": "Đợt tấn công của bọn chúng khá tàn khốc... Tuy nhiên, đừng chùn bước, và chúng ta sẽ sống để chứng kiến một bình minh mới!\nThật vậy, làm sao người ta biết được kết quả của một trận chiến mà không có một nỗ lực nào?!"
     },
     {
       "id": "announcer_round_givebigdmg_21_1",
-      "dlg": "Wh-whatever was that strike?! 'Twas a smiting of proportions most grand...!"
+      "dlg": "Đ- Đòn đánh đó là gì thế?! Đó là minh chứng của một hiệp sĩ đích thực...!"
     },
     {
       "id": "announcer_round_givebigdmg_21_2",
-      "dlg": "Aha, I am documenting this most impressive strike, for such momentous assault must later be recounted amongst our peers!"
+      "dlg": "À ha, ta đang ghi chép lại đợt tấn công này, đây hẳn sẽ là một đề tài sốt dẻo để bàn luận trên bàn rượu trong suốt những thập kỉ tiếp theo!"
     },
     {
       "id": "announcer_multikillenemy_21_1",
-      "dlg": "UOOOOH! A singular strike, the awe from which hath dislocated my jaw!!!"
+      "dlg": "UUẦYYY! Chỉ duy nhất một cú phẩy tay, và giờ thì ta đang há hốc mồm vì kinh ngạc!!!!"
     },
     {
       "id": "announcer_equip_21_1",
-      "dlg": "Hmhm! Much did I wish to partake in one such recording activity myself! Prepared I am to take on such responsibilities!"
+      "dlg": "Hừm! Bản thân ta đây cực kì muốn tham gia vào mấy hoạt động ghi âm như này! Ta đã mất cả đêm để chuẩn bị kĩ lưỡng rồi đó!"
     }
   ]
 }

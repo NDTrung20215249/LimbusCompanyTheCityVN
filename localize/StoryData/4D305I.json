@@ -1,443 +1,614 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "K Corp. Laboratory",
-            "model": "이상",
-            "content": "Though I was certain that I had left."
-        },
-        {
-            "id": 1,
-            "model": "이상",
-            "content": "...It would appear that I am still inside that white square."
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "At this point, all things have been reduced to mere dots to me, utterly incapable of stimulation or inspiration."
-        },
-        {
-            "id": 3,
-            "model": "이상",
-            "content": "Will I follow this meaningless walk, wandering my whole life?"
-        },
-        {
-            "id": 4,
-            "model": "이상",
-            "content": "We're only chickens whose wings are clipped perpetually..."
-        },
-        {
-            "id": 5,
-            "model": "싱클레어",
-            "content": "Mr. Yi Sang seems to be in a bad spot..."
-        },
-        {
-            "id": 6,
-            "model": "홍루",
-            "content": "Dante."
-        },
-        {
-            "id": 7,
-            "model": "홍루",
-            "content": "Even though I only delivered Young-ji's words with my tongue... it does give me a thought."
-        },
-        {
-            "id": 8,
-            "model": "홍루",
-            "content": "Maybe, these letters that Yi Sang wrote... weren't just meant for the Yi Sang in the mirror alone."
-        },
-        {
-            "id": 9,
-            "model": "홍루",
-            "content": "To all people he had ties with in the past, those he knows in the present, and those he might meet in the future."
-        },
-        {
-            "id": 10,
-            "model": "단테",
-            "content": "<You mean, including us...>"
-        },
-        {
-            "id": 11,
-            "model": "홍루",
-            "content": "I'm thinking that he might have been calling for help all along."
-        },
-        {
-            "id": 12,
-            "model": "단테",
-            "content": "<Yi Sang...>"
-        },
-        {
-            "id": 13,
-            "model": "단테",
-            "content": "<What was on your mind just before you left N Corp?>"
-        },
-        {
-            "id": 14,
-            "model": "이상",
-            "content": "When I parted with Gubo..."
-        },
-        {
-            "id": 15,
-            "model": "이상",
-            "content": "The stars lost their shine and let darkness fill the air, and I felt as though I were crippled."
-        },
-        {
-            "id": 16,
-            "model": "이상",
-            "content": "Yet..."
-        },
-        {
-            "id": 17,
-            "model": "이상",
-            "content": "I thought that there may be a place that would allow me to live on, even if I had no wings and my legs limped."
-        },
-        {
-            "id": 18,
-            "model": "이상",
-            "content": "The thread of hope couldn't be thinner, but I held onto the faint possibility."
-        },
-        {
-            "id": 19,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "When we... or at least I saw your mirror, I thought I was seeing what we didn't have."
-        },
-        {
-            "id": 20,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "That's why they seemed so far, and that's why I could only look."
-        },
-        {
-            "id": 21,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "It's why I had to settle for this reality."
-        },
-        {
-            "id": 22,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "Like how I dreamed of stars as I watched fireworks."
-        },
-        {
-            "id": 23,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "But the mirror..."
-        },
-        {
-            "id": 24,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "What it shows are possibilities. So... do you see what I'm getting at? You don't have to envy the mirrored images."
-        },
-        {
-            "id": 25,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "What you saw... were the possibilities you held."
-        },
-        {
-            "id": 26,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "You've had them all along."
-        },
-        {
-            "id": 27,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "The wings to make your possibility a reality."
-        },
-        {
-            "id": 28,
-            "model": "동백",
-            "teller": "Dongbaek",
-            "title": "???",
-            "content": "...That's what I wanted to tell you."
-        },
-        {
-            "id": 29,
-            "model": "이상",
-            "content": "……"
-        },
-        {
-            "id": 30,
-            "model": "파우스트",
-            "teller": "???",
-            "title": "???",
-            "content": "Yi Sang, the first Sinner. I have been waiting for you."
-        },
-        {
-            "id": 31,
-            "model": "파우스트",
-            "teller": "???",
-            "title": "???",
-            "content": "If you join Limbus Company..."
-        },
-        {
-            "id": 32,
-            "model": "파우스트",
-            "teller": "???",
-            "title": "???",
-            "content": "I promise that we'll help you recover your torn and broken wings."
-        },
-        {
-            "id": 33,
-            "model": "파우스트",
-            "teller": "???",
-            "title": "???",
-            "content": "And..."
-        },
-        {
-            "id": 34,
-            "model": "이상",
-            "content": "……"
-        },
-        {
-            "id": 35,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "Well?"
-        },
-        {
-            "id": 36,
-            "model": "이상",
-            "content": "I..."
-        },
-        {
-            "id": 37,
-            "model": "이상",
-            "content": "I do not possess the talent to pick up shattered pieces."
-        },
-        {
-            "id": 38,
-            "model": "이상",
-            "content": "However, those sparkling eyes... they were not feigned."
-        },
-        {
-            "id": 39,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "Our tortuous path will circle around misery."
-        },
-        {
-            "id": 40,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "What we thought were bonds will inevitably be lost, and precious things will shatter into shards that stab your soft heart."
-        },
-        {
-            "id": 41,
-            "model": "이상",
-            "content": "...I am well aware."
-        },
-        {
-            "id": 42,
-            "model": "이상",
-            "content": "It is for that reason all things would have no more worth than futile ephemerality."
-        },
-        {
-            "id": 43,
-            "model": "단테",
-            "content": "<Yi Sang, why did you make the mirror?>"
-        },
-        {
-            "id": 44,
-            "model": "이상",
-            "content": "……"
-        },
-        {
-            "id": 45,
-            "model": "이상",
-            "content": "I..."
-        },
-        {
-            "id": 46,
-            "model": "이상",
-            "content": "Never made technology to hold any value in them."
-        },
-        {
-            "id": 47,
-            "model": "이상",
-            "content": "I know well enough that I have no way to return to the past."
-        },
-        {
-            "id": 48,
-            "model": "이상",
-            "content": "Simply..."
-        },
-        {
-            "id": 49,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "That mirror you're holding..."
-        },
-        {
-            "id": 50,
-            "model": "이상",
-            "content": "It's what I call Yeonsim."
-        },
-        {
-            "id": 51,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "Yeonsim, huh...\n(硏, to grind or study; 尋, to seek)"
-        },
-        {
-            "id": 52,
-            "model": "이상",
-            "content": "This is a product of grinding something... scraping even the mind to polish it."
-        },
-        {
-            "id": 53,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "I see. I suppose all versions of Yi Sang were dedicated to research."
-        },
-        {
-            "id": 54,
-            "model": "이상",
-            "content": "I thought that I had lost my wings, that I couldn't have them."
-        },
-        {
-            "id": 55,
-            "model": "이상",
-            "content": "I thought I had been clinging to research, pathetically stroking the joints where wings used to be..."
-        },
-        {
-            "id": 56,
-            "model": "이상",
-            "content": "But I believe I now know the mirror's true name."
-        },
-        {
-            "id": 57,
-            "model": "이상",
-            "content": "Yeonsim.\n(連心, \"to connect the heart\")"
-        },
-        {
-            "id": 58,
-            "model": "이상",
-            "content": "It's a bridge that joins hearts together."
-        },
-        {
-            "id": 59,
-            "model": "이상",
-            "content": "I made the mirror because I wished to continue living and flapping and fluttering."
-        },
-        {
-            "id": 60,
-            "model": "이상",
-            "content": "I wished to soar into the air once more, even if I fell afterward."
-        },
-        {
-            "id": 61,
-            "model": "이상",
-            "content": "One day, despair will arrive for certain... It's for that reason... life must go on... as far as it can."
-        },
-        {
-            "id": 62,
-            "model": "이상",
-            "content": "Whether or not I had wings... mattered not."
-        },
-        {
-            "id": 63,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "……"
-        },
-        {
-            "id": 64,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "All Yi Sangs have outstanding talent. At the same time, all Yi Sangs are ignorant."
-        },
-        {
-            "id": 65,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "All Yi Sangs can see wings, but only one Yi Sang can fly."
-        },
-        {
-            "id": 66,
-            "model": "이상",
-            "content": "If such is the case..."
-        },
-        {
-            "id": 67,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "The Yi Sang in the mirror must be the opposite of the Yi Sang outside... but they're quite alike, too."
-        },
-        {
-            "id": 68,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "I mean the wings you say you saw... those radiant and magnificent wings."
-        },
-        {
-            "id": 69,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "They're my wings, and they're yours in the reflection."
-        },
-        {
-            "id": 70,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "Why do I think that? ...It's obvious. The mirror is a reflection of the self."
-        },
-        {
-            "id": 71,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "If you saw wings on me, then they were on you as well... They would obviously belong to you."
-        },
-        {
-            "id": 72,
-            "model": "상이",
-            "teller": "Sang Yi",
-            "title": "Yeonsim",
-            "content": "Now, kick off the ground and flutter your wings."
-        },
-        {
-            "id": 73,
-            "model": "이상",
-            "content": "All I wished for..."
-        },
-        {
-            "id": 74,
-            "model": "이상",
-            "content": "Just once more..."
-        },
-        {
-            "id": 75,
-            "model": "이상",
-            "content": "I wished to fly."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Thí Nghiệm T.Đoàn K",
+                "model":"이상",
+                "content":"Dù tôi chắc rằng mình đã rời đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이상",
+                "content":"...Nhưng có vẻ tôi vẫn kẹt lại trong cái hộp trắng đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이상",
+                "content":"Bây giờ, mọi thứ với tôi chỉ như những giọt chấm chẳng thể đem lại cho tôi chút cảm hứng hay kích thích nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이상",
+                "content":"Chẳng lẽ tôi sẽ bước mãi chuyến đi vô nghĩa này, lang thang cả đời này sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이상",
+                "content":"Chúng ta chỉ là lũ gà với đôi cánh liên tục bị cắt đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Anh Yi Sang dường như không được ổn lắm...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"홍루",
+                "content":"Ngài Dante.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"홍루",
+                "content":"Dù tôi chỉ dùng lời nói của mình để truyền đạt lời thoại của anh Young-ji thôi... Nhưng tôi vẫn có một suy nghĩ thế này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"홍루",
+                "content":"Có lẽ, những bức thư mà anh Yi Sang viết... không chỉ để dành cho anh Yi Sang trong tấm gương thôi đâu ạ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"홍루",
+                "content":"Mà còn dành cho cả những người từng kết nối với anh ấy từ quá khứ, những người anh ấy biết ở hiện tại, và cả những người anh ấy sẽ gặp trong tương lai nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"단테",
+                "content":"<Ý anh là, bao gồm cả chúng ta...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"홍루",
+                "content":"Tôi thiết nghĩ, liệu có phải anh ấy vẫn luôn cầu cứu suốt bấy lâu nay hay chăng?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"단테",
+                "content":"<Yi Sang...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테",
+                "content":"<Anh đã nghĩ gì ngay trước khi rời khỏi Tập Đoàn N?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이상",
+                "content":"Khi tôi từ biệt Gubo...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이상",
+                "content":"Những ngôi sao mất đi ánh sáng và bóng đêm bao trùm lấy từng bước tôi lê, và tôi thấy mình như liệt đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이상",
+                "content":"Thế nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi vẫn nghĩ rằng sẽ có nơi cho tôi được sống tiếp, dù tôi chẳng có cánh và đôi chân tôi chỉ có lê lết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이상",
+                "content":"Chút sợi hy vọng chẳng thể mong manh hơn, nhưng tôi cố bám vào chút khả năng mờ nhạt đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"동백",
+                "content":"Khi chúng tôi... hoặc chí ít khi tôi nhìn thấy chiếc gương của cậu, tôi đã nghĩ rằng tôi đang nhìn thấy thứ mà chúng ta không hề có.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"동백",
+                "content":"Đó là lý do tại sao chúng dường như ở rất xa, và đó là lý do tôi chỉ có thể ngắm nhìn chúng mà thôi.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"동백",
+                "content":"Cũng là lý do tôi chấp nhận hiện thực này.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"동백",
+                "content":"Giống như cách tôi từng mơ về những vì sao khi ngắm nhìn pháo hoa vậy.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"동백",
+                "content":"Nhưng chiếc gương này...",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"동백",
+                "content":"Thứ mà nó cho chúng ta thấy là những khả năng có thể xảy ra. Nên... cậu hiểu ý tôi muốn nói chứ? Cậu không cần phải cảm thấy ghen tị với những hình ảnh phản chiếu trong gương đâu.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"동백",
+                "content":"Những gì mà cậu thấy... chính là những khả năng có thể xảy ra mà cậu đang nắm giữ đấy.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"동백",
+                "content":"Suy cho cùng cậu đã có hết tất cả mọi thứ ngay từ ban đầu rồi.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"동백",
+                "content":"Đôi cánh để biến khả năng có thể xảy ra của cậu trở thành hiện thực.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"동백",
+                "content":"...Đó chính là điều mà tôi muốn nói cho cậu biết.",
+                "teller":"Dongbaek",
+                "title":"???"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이상",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cậu Yi Sang, tội nhân đầu tiên. Tôi đang chờ cậu đây.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nếu cậu chấp nhận làm việc cho Công Ty Limbus...",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi cam đoan rằng chúng tôi sẽ giúp cậu phục hồi đôi cánh đã rách, vỡ vụn của cậu.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"파우스트",
+                "content":"Và...",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이상",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"상이",
+                "content":"Sao nhỉ?",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi không đủ tài năng để lượm những mảnh vỡ lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이상",
+                "content":"Nhưng mà, những ánh mắt lấp lánh ấy... không phải giả dối.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"상이",
+                "content":"Nỗi khốn khổ sẽ bủa vây đường đời đầy chông gai của chúng ta.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"상이",
+                "content":"Những gì cậu xem là tình bạn rồi sẽ chấm dứt, bao nhiêu điều trân quý cũng nát tan, chỉ còn lại vạn mảnh vỡ hằn xuyên vào con tim mềm yếu của cậu.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이상",
+                "content":"...Tôi hiểu rõ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이상",
+                "content":"Vì thế nên vạn vật chẳng có gì hơn là phù du vô nghĩa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"단테",
+                "content":"<Yi Sang, tại sao anh lại tạo ra chiếc gương?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"이상",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"이상",
+                "content":"Chưa bao giờ tạo ra công nghệ cho một giá trị nào cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi biết rõ tôi chẳng thể trở về quá khứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"이상",
+                "content":"Chỉ đơn thuần là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"상이",
+                "content":"Chiếc gương cậu đang cầm...",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi gọi nó là Yeonsim.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"상이",
+                "content":"Yeonsim sao... \n(硏, mài dũa hoặc học hỏi; 尋, tìm kiếm)\"",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이상",
+                "content":"Đây là thành quả của việc mài giũa một thứ... vắt kiệt tâm trí để đánh bóng nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"상이",
+                "content":"Tôi hiểu rồi. Có vẻ như tất cả Yi Sang đều tận tình với công việc nghiên cứu.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi đã nghĩ rằng đôi cánh mình đã mất, rằng tôi không thể có chúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi nghĩ rằng tôi đã bám víu vào nghiên cứu, vuốt ve những khớp nối nơi đôi cánh từng ở một cách thật thảm hại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"이상",
+                "content":"Nhưng tôi tin là giờ đây tôi đã biết tên thật của chiếc gương.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"이상",
+                "content":"Yeonsim. \n(連心, \"kết nối con tim\")",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이상",
+                "content":"Nó là cầu nối để con tim chạm nhau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi đã làm chiếc gương vì tôi khao khát được sống tiếp và vỗ cánh và vẫy chúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi thèm được lần nữa phóng lên trời xanh, dù tôi có phải rơi xuống sau đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"이상",
+                "content":"Một ngày, cơn tuyệt vọng sẽ tới... Và bởi vì thế... tôi phải sống tiếp... lâu nhất tôi có thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"이상",
+                "content":"Dù tôi có cánh hay không... cũng không quan trọng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"상이",
+                "content":"......",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"상이",
+                "content":"Mọi Yi Sang đều có tài năng xuất chúng, nhưng Yi Sang nào cũng thờ ơ.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"상이",
+                "content":"Mọi Yi Sang đều thấy được đôi cánh, nhưng chỉ một Yi Sang có thể bay.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"이상",
+                "content":"Nếu là thế thì....",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"상이",
+                "content":"Yi Sang trong gương là hoàn toàn đối lập với Yi Sang ở thực tại... tuy vậy, cả hai cũng khá giống nhau.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"상이",
+                "content":"Ý tôi là, đôi cánh mà cậu thấy... cặp cánh rực rỡ và tuyệt đẹp ấy.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"상이",
+                "content":"Chúng là của tôi, và cũng là của cậu trong ảnh gương soi.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"상이",
+                "content":"Tại sao tôi lại nghĩ vậy ư...? ...Rõ ràng rồi mà. Chiếc gương phản chiếu con người ta.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"상이",
+                "content":"Nếu cậu thấy được đôi cánh trên lưng tôi, thì chính đôi cánh ấy cũng đang hiện hữu sau lưng cậu... Chúng hoàn toàn thuộc về cậu.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"상이",
+                "content":"Bây giờ, hãy đạp đất và vẫy cánh đi.",
+                "teller":"Sang Yi",
+                "title":"Yeonsim"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"이상",
+                "content":"Mọi thứ tôi khao khát...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"이상",
+                "content":"Chỉ một lần nữa thôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi ước mình được bay.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

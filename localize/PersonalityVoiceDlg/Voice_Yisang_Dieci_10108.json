@@ -3,122 +3,122 @@
         {
             "id": "get_10108_1",
             "desc": "Identity Acquisition",
-            "dlg": "I am Yi Sang. Please remain silent, as you find yourself at the temple of knowledge."
+            "dlg": "Tôi là Yi Sang. Xin hãy giữ im lặng khi ngài đến viếng thăm ngôi đền tri thức."
         },
         {
             "id": "lobby_morning_10108_1",
             "desc": "Morning Greeting",
-            "dlg": "Ah, so the sun has risen... Mmhm. I feel a scintilla of fatigue setting in. I must rest a little..."
+            "dlg": "À, mặt trời đã mọc rồi… Hừm. Tôi cảm thấy có chút thấm mệt. Tôi phải nghỉ ngơi một lát..."
         },
         {
             "id": "lobby_noon_10108_1",
             "desc": "Afternoon Greeting",
-            "dlg": "You seek sustenance...? Consuming a meal within these premises is prohibited. If you find yourself growing peckish, turn right at that exit over yonder. There, you shall find a cafeteria."
+            "dlg": "Ngài muốn kiếm gì ăn à... ? Việc dùng bữa bị nghiêm cấm tại nơi này. Nếu ngài thấy bản thân đói bụng, rẽ phải vào lối ra đằng kia. Ở đó, ngài sẽ thấy căng tin."
         },
         {
             "id": "lobby_night_10108_1",
             "desc": "Evening Greeting",
-            "dlg": "Mm. Indeed, I noticed on my stroll here that the sun had sunk beyond the horizon. Yet, it is said that erudition comes more naturally under the pale moonlight. I suppose I shall read now, then."
+            "dlg": "Ừm. Đúng rồi, tôi để ý trong lúc đến đây rằng mặt trời đã lặn quá đường chân trời. Nhưng mà, nghe bảo tri thức đến dễ dàng hơn dưới ánh trăng mờ ảo. Vậy nên, tôi sẽ đi đọc bài vậy."
         },
         {
             "id": "smalltalk_10108_1",
             "desc": "Chatter #1",
-            "dlg": "Knowledge must always be amassed to the full capacity. Occasions in which they may have to be burned for strength... arise with nary a forewarning."
+            "dlg": "Tri thức luôn cần được dự trữ ở mức tối đa. Những dịp chúng cần bị đốt đi cho sức mạnh... sẽ đến mà chẳng có lấy một lời báo trước."
         },
         {
             "id": "smalltalk_10108_2",
             "desc": "Chatter #2",
-            "dlg": "A decem millennium of knowledge is stored here. What better place to delve deep into an unfamiliar subject? If you would allow me to speak in hyperbole... I would like nothing more than to spend an eternity in here."
+            "dlg": "Hàng vạn thiên niên kỷ tri thức được nơi này lưu trữ. Liệu còn ở đâu tốt hơn để đắm chìm vào những chủ đề xa lạ? Nếu ngài cho phép tôi hơi phóng đại... Tôi không mong mỏi gì hơn việc được vĩnh viễn lưu lại đây"
         },
         {
             "id": "smalltalk_10108_3",
             "desc": "Chatter #3",
-            "dlg": "This Association also takes in those without places to go. One by one, the number of knowledge-seekers grows. Is it not a boon to all, to have more of those who simply enjoy the act of learning and understanding?"
+            "dlg": "Liên Đoàn này nhận vào những phận cơ nhỡ chẳng còn nơi nào để tới. Từng người một, số người tìm kiếm tri thức lớn dần lên. Thật tốt nhỉ? Khi ta ngày càng có nhiều hơn những người chỉ đơn giản yêu thích việc học hiểu."
         },
         {
             "id": "smalltalk_10108_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "I seem out of place as a member of the Fists, you say? Hm, one may wonder. Yet I maintain that there is a direct correlation—to learn is to write with my hands. To neutralize my enemies is to smite them with my hands. The distinction is paper-thin, indeed."
+            "dlg": "Ngài bảo tôi không hợp bên Nắm Đấm... Hừm, tôi cũng chẳng rõ. Tri thức được tiếp thu qua đôi tay ghi chép, và điều đó không khác việc tôi dạy dỗ kẻ thù bằng đôi tay này lắm."
         },
         {
             "id": "smalltalk_10108_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "To use my powers is to burn my amassed knowledge... yet I care not. Are you aware that reviewing is the most engrossing part of the learning process?"
+            "dlg": "Sử dụng sức mạnh của tôi tức là đốt đi kiến thức được lưu trữ... nhưng tôi không quan tâm. Ngài có biết rằng ôn tập là phần cuốn hút nhất của việc học không?"
         },
         {
             "id": "neglect_10108_1",
             "desc": "Idle",
-            "dlg": "Hmm..."
+            "dlg": "Hừm..."
         },
         {
             "id": "gacksung_10108_1",
             "desc": "Uptying",
-            "dlg": "Is that so... Then I must not grow complacent with my studies. I shall persevere."
+            "dlg": "Vậy sao... Thế thì tôi không thể tự mãn với việc học của mình được. Tôi sẽ tiếp tục cải thiện."
         },
         {
             "id": "formation_10108_1",
             "desc": "Deployment",
-            "dlg": "Let us take our leave."
+            "dlg": "Đi nào."
         },
         {
             "id": "battleentry_10108_1",
             "desc": "Stage Entry",
-            "dlg": "To reach the understanding of knowledge."
+            "dlg": "Để tri thức được đánh thức."
         },
         {
             "id": "battle_select_10108_1",
             "desc": "Viewed in Battle",
-            "dlg": "Is there aught you would like to ask?"
+            "dlg": "Ngài có gì muốn hỏi sao?"
         },
         {
             "id": "battle_endcommand_10108_1",
             "desc": "Commencing Attack",
-            "dlg": "Pain paves the road to understanding!"
+            "dlg": "Nỗi đau mở đường cho sự thông hiểu!"
         },
         {
             "id": "battle_enemy_break_10108_1",
             "desc": "Enemy Stagger",
-            "dlg": "The path to enlightenment is an excruciating one."
+            "dlg": "Đường tới khai sáng là một nơi đầy đau khổ."
         },
         {
             "id": "battle_break_10108_1",
             "desc": "Staggered",
-            "dlg": "Ahm..."
+            "dlg": "A..."
         },
         {
             "id": "battle_kill_10108_1",
             "desc": "Enemy Killed",
-            "dlg": "Let us finish this."
+            "dlg": "Hãy kết thúc nào."
         },
         {
             "id": "battle_dead_10108_1",
             "desc": "Death",
-            "dlg": "I must have forgotten... the knowledge that would have been my salvation from death..."
+            "dlg": "Tôi hẳn là đã quên mất... thứ kiến thức có thể là cứu tinh của tôi khỏi cái chết..."
         },
         {
             "id": "choice_success_p_10108_2",
             "desc": "Check Passed",
-            "dlg": "As I have read in my books."
+            "dlg": "Như sách tôi đọc."
         },
         {
             "id": "choice_fail_n_10108_1",
             "desc": "Check Failed",
-            "dlg": "Hm... I must review my materials."
+            "dlg": "Hừm... Tôi phải ôn lại bài vở."
         },
         {
             "id": "battle_clear_10108_1",
             "desc": "Victory Cry",
-            "dlg": "We were victorious. Yet... these new gaps in my knowledge are rather vexing. I must return and review my materials."
+            "dlg": "Chúng ta đã chiến thắng. Nhưng mà... những lỗ hổng trong tri thức của tôi thật khó chịu. Tôi phải quay lại và ôn bài thôi."
         },
         {
             "id": "battle_clear_ex_10108_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "The hand is mightier than the key. I am certain that I have smote that understanding into them. And... Hm. I do not recall what I had planned to say hereafter."
+            "dlg": "Bàn tay mạnh hơn chìa khóa. Tôi đã chắc chắn phải đấm điều đó vào đầu chúng. Và... Ừm. Tôi quên mất sau đó tôi định nói gì rồi."
         },
         {
             "id": "battle_defeat_10108_1",
             "desc": "Defeat Wail",
-            "dlg": "You must be disappointed. It appears that my studies were not enough... I must delve deeper in my erudition."
+            "dlg": "Ngài hẳn phải thất vọng lắm. Có lẽ tôi đã học hành không đủ... Tôi phải đào sâu vào việc học hơn."
         }
     ]
 }

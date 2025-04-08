@@ -1,23 +1,27 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "이스마엘",
-            "content": "…!"
-        },
-        {
-            "id": 1,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Do you still fail to see? They are already 'Ahab'."
-        },
-        {
-            "id": 2,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "They are my harpoons. My hatred is their hatred. My vengeance is their vengeance. And my harpoons... shall not be defied!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"이스마엘",
+                "content":"…!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"에이해브",
+                "content":"Ngươi vẫn không thể nhìn thấy sao? Chúng đều đã là ‘Ahab’ hết rồi.",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":2,
+                "model":"에이해브",
+                "content":"Chúng là lao móc của ta. Nỗi thù hận của ta chính là thù hận của chúng. Sự báo thù của ta là báo thù của chúng. Và những cây lao móc của ta...sẽ không thể bất tuân mệnh lệnh!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            }
+        ]
+    }
+

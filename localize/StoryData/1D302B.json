@@ -2,164 +2,164 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Central Front in the Smoke War",
+      "place": "Trung tâm Tuyền tuyến Smoke War",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Guh… I think I’m gonna throw up. Everything is wobbling…"
+      "title": "Fixer Cấp 8",
+      "content": "Gừ... Tôi nghĩ tôi sẽ nôn hết ra mất. Mọi thứ đang quay cuồng lên..."
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "It would appear that psychogenic pressure is rising."
+      "content": "Có vẻ như áp lực lên tâm trí càng ngày càng lớn."
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "But you should be… fine…"
+      "content": "Nhưng ngài sẽ... ổn thôi..."
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "I think I once had an unsettling nightmare."
+      "content": "Hình như trước kia tôi từng có một cơn ác mộng đáng sợ."
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "Maybe I’m still in one, even now."
+      "content": "Có lẽ tới giờ tôi vẫn chưa thoát khỏi nó."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "In this dream, there are only two colors in the room where I stand."
+      "content": "Trong giấc mơ đó, căn phòng nơi tôi đang đứng chỉ có hai tông màu."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "The blue covering every wall, and the dangling dot of red."
+      "content": "Tông màu bao phủ khắp các bức tường, và một đốm đỏ treo lơ lửng giữa phòng."
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "I know how to get out of here, too."
+      "content": "Tôi biết phải làm gì để thoát khỏi đó."
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "All I had to do was stretch out my arm and cut the hanging apple."
+      "content": "Tôi chỉ cần vươn tay ra và cắt trái táo đang treo lơ lửng kia thôi."
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "The people in blue coats seemed to think I failed to understand that."
+      "content": "Có vẻ những người mặc đồ xanh nghĩ rằng tôi không hiểu được điều đó."
     },
     {
       "id": 10,
       "model": "그레고르",
-      "content": "They would come in several times a day and explain it to me over and over…"
+      "content": "Mỗi ngày họ đều phải vào trong phòng vài lần để giải thích cặn kẽ cho tôi hết lần này tới lần khác..."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Unfortunately for them, that wasn’t the part I struggled to understand."
+      "content": "Xui xẻo thay, đó không phải là cái phần khiến tôi cảm thấy khó hiểu."
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "When I finally gave up thinking about it, and the sliced apple fell to the floor…"
+      "content": "Khi tôi không thèm suy nghĩ nữa, và miếng táo bị bổ đôi rơi xuống sàn..."
     },
     {
       "id": 13,
       "model": "그레고르",
-      "content": "The door was opened."
+      "content": "Thì cánh cửa mở ra."
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "I don’t remember what drove me to do it."
+      "content": "Tôi không nhớ tại sao mình lại làm vậy."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Maybe I was exhausted mentally."
+      "content": "Có lẽ là tôi đã kiệt quệ về mặt tinh thần."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Or maybe I thought to resign myself to it."
+      "content": "Hoặc có thể là do tôi đã chấp nhận số phận."
     },
     {
       "id": 17,
       "model": "그레고르",
-      "content": "In either case, what I do remember is my desire to break free from the nightmare."
+      "content": "Dù thế nào đi nữa, thì điều duy nhất tôi nhớ được là mong ước được thoát khỏi cơn ác mộng đó."
     },
     {
       "id": 18,
       "teller": "???",
       "title": "???",
-      "content": "You finally did it. I knew you could. The surgery was successful, after all."
+      "content": "Cuối cùng con đã làm được rồi. Ta biết con có thể mà. Cũng nhờ cuộc phẫu thuật trước đó đã thành công."
     },
     {
       "id": 19,
       "teller": "???",
       "title": "???",
-      "content": "You just have to keep it up. Chop up the apples in front of you. Simple, isn’t it?"
+      "content": "Con chỉ cần tiếp tục cố gắng thôi. Chặt đứt những trái táo ở trước mặt con. Đơn giản mà phải chứ?"
     },
     {
       "id": 20,
       "teller": "???",
       "title": "???",
-      "content": "Oh, right. Happy fifteenth birthday!"
+      "content": "À, đúng rồi. Chúc mừng sinh nhật lần thứ mười lăm nhé!"
     },
     {
       "id": 21,
       "model": "그레고르",
-      "content": "…Okay."
+      "content": "...Dạ."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "A nightmare I escaped through renunciation and resignation."
+      "content": "Một cơn ác mộng mà mình đã thoát được bằng cách từ bỏ và cam chịu số phận."
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "One day, as I awoke from my unsettling dreams…"
+      "content": "Một ngày nọ, khi tôi tỉnh giấc khỏi những giấc mơ đáng sợ đó..."
     },
     {
       "id": 24,
       "model": "그레고르",
-      "content": "I had found myself transformed into some hideous pest."
+      "content": "Tôi phát hiện ra mình đã biến thành một thứ sâu bọ bẩn thỉu."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "I cut apples in half."
+      "content": "Tôi cắt táo ra làm đôi."
     },
     {
       "id": 26,
       "model": "그레고르",
-      "content": "Some were hard, some crumbly, some were soft, some sappy."
+      "content": "Có quả thì cứng, quả thì giòn, quả thì mềm, quả thì đầy nhựa."
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "The sugary smell made me sick sometimes."
+      "content": "Đôi khi cái hương thơm ngọt ngào đó khiến tôi buồn nôn."
     },
     {
       "id": 28,
       "model": "그레고르",
-      "content": "At some point, I realized something:"
+      "content": "Một ngày nọ, tôi nhận ra điều này:"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "I thought I woke up from the dream."
+      "content": "Tôi cứ ngỡ là mình đã tỉnh khỏi cơn mơ rồi."
     },
     {
       "id": 30,
       "model": "그레고르",
-      "content": "<color=#69350b>But I was still right in the middle of that nightmare.</color>"
+      "content": "<color=#69350b>Nhưng mà tôi vẫn đang ở trong cơn ác mộng đó.</color>"
     }
   ]
 }

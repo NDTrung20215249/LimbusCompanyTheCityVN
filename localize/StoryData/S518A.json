@@ -1,109 +1,132 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Aboard Mephistopheles's Deck",
-            "model": "이상",
-            "content": "No words come to mind to rightly describe that... creature."
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "The unfathomable entities inhabiting the depths of the Lakes are called 'Whales'. And those that emerge from them are called 'Mermaids'."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "That's the 'Whale of the Porous Hand'... I was... really hoping to avoid that one..."
-        },
-        {
-            "id": 3,
-            "model": "단테2",
-            "content": "<Is that... one of the Whales they were talking about at U Corp.?>"
-        },
-        {
-            "id": 4,
-            "model": "싱클레어",
-            "content": "Do Mermaids raid ships, too...? I read about them once as a child, but these don't look anything like how they did in the books..."
-        },
-        {
-            "id": 5,
-            "model": "홍루",
-            "content": "Mermaids... I still remember the horrible bedtime stories my brother used to tell me about them…"
-        },
-        {
-            "id": 6,
-            "model": "그레고르",
-            "content": "So... they make perfumes outta these... things...?"
-        },
-        {
-            "id": 7,
-            "model": "로쟈",
-            "content": "Vergie... isn't this a good time for you to lend us a hand for once?"
-        },
-        {
-            "id": 8,
-            "model": "그레고르",
-            "content": "Really? That's the guy who practically spectated like a bystander when we got slaughtered back at K Corp. He didn't even blink."
-        },
-        {
-            "id": 9,
-            "model": "홍루",
-            "content": "Ah, he did wave at us, though! But I couldn't wave back because my wrists were getting snapped in half!"
-        },
-        {
-            "id": 10,
-            "model": "베르길리우스",
-            "content": "Of course, I won't sit idly by as Mephistopheles sinks, if it ever comes to that. But..."
-        },
-        {
-            "id": 11,
-            "model": "베르길리우스",
-            "content": "Know that I will take action only under a very particular set of circumstances."
-        },
-        {
-            "id": 12,
-            "model": "베르길리우스",
-            "content": "In which all of you are decimated, the enemies have crushed the manager's head and are about to tear the hands off that clock."
-        },
-        {
-            "id": 13,
-            "model": "단테2",
-            "content": "<Are... Are you serious right now...?>"
-        },
-        {
-            "id": 14,
-            "model": "베르길리우스",
-            "content": "Dante, I can't allow them to take the company's precious assets right before my eyes now, can I?"
-        },
-        {
-            "id": 15,
-            "model": "베르길리우스",
-            "content": "So I'm afraid that you won't see me step in before every single one of you are dead."
-        },
-        {
-            "id": 16,
-            "model": "로쟈",
-            "content": "Mr. Guide... Are you really as good as they say? Maybe the stories about you were just tall tales, y'know..."
-        },
-        {
-            "id": 17,
-            "model": "돈키호테",
-            "content": "That's... no. Do not."
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "Uh, yeah. That's just— Not..."
-        },
-        {
-            "id": 19,
-            "content": "Two previous victims of Vergilius interjected, albeit in hollow voices, to rebut Rodya's rather dangerous remark."
-        },
-        {
-            "id": 20,
-            "model": "베르길리우스",
-            "content": "So either take them out, welcome them aboard with open arms, or whatever. I'm leaving it up to all of you."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Boong Thuyền Buýt Mephistopheles",
+                "model":"이상",
+                "content":"Không có từ ngữ nào đủ để diễn tả cái... sinh vật đó cả."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Những thực thể vô lường cư ngụ dưới lòng Hồ đó là \"Cá Voi\". Còn những thứ trồi lên từ cơ thể chúng là \"Người Cá\"."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Con vừa rồi là \"Cá Voi Tay Xốp\"... Tôi thực sự... đã rất mong là sẽ không đụng phải nó..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"단테2",
+                "content":"<Đó là... một trong số những con Cá Voi bọn họ đề cập đến ở Tập Đoàn U sao?>"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Liệu mấy con Người Cá ấy có tấn công tàu thuyền không...? Tôi có từng đọc qua về chúng hồi nhỏ, nhưng những con này nhìn không giống trong sách tí nào..."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"홍루",
+                "content":"Người Cá sao... Nhớ hồi tôi còn bé, thỉnh thoảng huynh còn kể chuyện nhân ngư đáng sợ để dọa tôi trước giờ đi ngủ nữa đó..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"그레고르",
+                "content":"Vậy là... họ chế ra nước hoa từ cái đám... dị dạng này á...?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ông Vergie... Chẳng phải đây là lúc ông nên phụ chúng tôi một tay à?"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"그레고르",
+                "content":"Thật luôn? Sao lại nhờ cái gã đứng nhìn như người dưng hồi ta bị ăn hành ở Tập Đoàn K làm gì. Ông ta còn chả buồn chớp mắt nữa."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"홍루",
+                "content":"À, hồi đó có lúc ông ấy vẫy tay với đoàn mình mà. Tôi cũng muốn vẫy lại lắm, cơ mà hai cổ tay bị nổ lìa luôn rồi nên đành chịu."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Tất nhiên rồi, nếu như chuyện đó xảy ra thì ta cũng không có ngồi yên nhìn Mephistopheles chìm đâu. Tuy nhiên..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Các cô cậu chỉ cần biết là ta ra tay vào đúng trường hợp hi hữu nhất."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Đó là khi các cô cậu đều bị tàn sát hết, kẻ địch đập nát đầu quản lý và chuẩn bị xé toạc cây kim đồng hồ ấy ra."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ông... Ông thật sự nghiêm túc sao...?>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Dante à, ta đâu có thể để tài sản quý giá của công ty bị cướp lấy ngay trước mắt mình được, phải không nào?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Cho nên, ta e rằng mình không thể can thiệp cho tới khi từng người trong các cô cậu đều chết hết cả."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"로쟈",
+                "content":"Quý ngài dẫn đường... Ông có thật sự mạnh như lời đồn không? Vậy mọi chuyện về ông cũng chỉ là bịp thôi sao..."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Chuyện đó thì... không. Xin đừng."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"히스클리프",
+                "content":"À, ừ. Vụ đó thì - đừng..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"Hai nạn nhân trước đó của Vergilius xen vào, với giọng thỏ thẻ, để phản bác lại lời nhận xét khá nguy hiểm của Rodya."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Vậy thì cứ xử lý chúng, giang rộng đôi tay chào đón, hay làm sao thì làm. Ta để các cô cậu tự giải quyết."
+            }
+        ]
+    }
+

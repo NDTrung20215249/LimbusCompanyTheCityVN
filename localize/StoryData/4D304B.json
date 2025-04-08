@@ -1,437 +1,566 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "A Hallway in N Corp.",
-            "model": "구보",
-            "teller": "Gubo",
-            "title": "N Corp.",
-            "content": "Have you decided to leave, my foolish companion?"
-        },
-        {
-            "id": 1,
-            "model": "이상",
-            "content": "They were words not meant to persuade me, but merely to pounce at me..."
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "Although they did not hurt, they may have left a mark."
-        },
-        {
-            "id": 3,
-            "model": "구보",
-            "teller": "Gubo",
-            "title": "N Corp.",
-            "content": "You have nowhere to return to, and you're dragging that tottering body along?"
-        },
-        {
-            "id": 4,
-            "model": "구보",
-            "teller": "Gubo",
-            "title": "N Corp.",
-            "content": "Do you truly believe you will find a place to call home, wherever you might go?"
-        },
-        {
-            "id": 5,
-            "model": "구보",
-            "teller": "Gubo",
-            "title": "N Corp.",
-            "content": "Enjoy your rest, then."
-        },
-        {
-            "id": 6,
-            "model": "구보",
-            "teller": "Gubo",
-            "title": "N Corp.",
-            "content": "I'll return once twilight arrives."
-        },
-        {
-            "id": 7,
-            "model": "이상",
-            "content": "With that, I parted from Gubo, who was my last remaining compatriot."
-        },
-        {
-            "id": 8,
-            "model": "이상",
-            "content": "I was thoroughly isolated."
-        },
-        {
-            "id": 9,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's right. With this, we all ended up alone."
-        },
-        {
-            "id": 10,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Only then..."
-        },
-        {
-            "id": 11,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "At long last."
-        },
-        {
-            "id": 12,
-            "place": "K Corp. Laboratory",
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My turn had come."
-        },
-        {
-            "id": 13,
-            "model": "싱클레어",
-            "content": "...This is the part where Mr. Dongrang hands the glass technology over to K Corp."
-        },
-        {
-            "id": 14,
-            "model": "싱클레어",
-            "content": "We were in the League's shoes if only for a short while, so we know what's been going on."
-        },
-        {
-            "id": 15,
-            "place": "Rowdy League of Nine Littérateurs",
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...But I must say it's a bit disheartening to hear you call them children's playthings."
-        },
-        {
-            "id": 16,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You won't be saying that once you learn that animals feel pain exactly like we do."
-        },
-        {
-            "id": 17,
-            "place": "Withering League of Nine Littérateurs",
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City."
-        },
-        {
-            "id": 18,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it."
-        },
-        {
-            "id": 19,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "But... you think that'll change anything? The world will still be a terrible mess."
-        },
-        {
-            "id": 20,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?"
-        },
-        {
-            "id": 21,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!"
-        },
-        {
-            "id": 22,
-            "place": "K Corp. Laboratory",
-            "model": "그레고르",
-            "content": "Yup, looks like Dongrang's..."
-        },
-        {
-            "id": 23
-        },
-        {
-            "id": 24,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "Why the surprise? You must have heard stories about our Wing's Singularity."
-        },
-        {
-            "id": 25,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...Looking at it in person felt different is all. I didn't think I would come all the way here..."
-        },
-        {
-            "id": 26,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "Yeah, most have similar reactions. So... can you remind me of what you can do?"
-        },
-        {
-            "id": 27,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, to start with an explanation of the technology I invented..."
-        },
-        {
-            "id": 28,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "My expectations are particularly high since I heard you were a member of the League of Nine. That... Young-ji person is still missing, is that right?"
-        },
-        {
-            "id": 29,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...Yes, he is."
-        },
-        {
-            "id": 30,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "Well, it's a shame about the League disbanding... But it's fortunate we managed to recruit one of them."
-        },
-        {
-            "id": 31,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The League of Nine... always serves as a plentiful shade, doesn't it. Then and now..."
-        },
-        {
-            "id": 32,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "By the way, this reminds me of a thing that would cry at me like this in the past..."
-        },
-        {
-            "id": 33,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "Dongrang?"
-        },
-        {
-            "id": 34,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Oh... I mean, the reason I've come here is..."
-        },
-        {
-            "id": 35
-        },
-        {
-            "id": 36,
-            "model": "이스마엘",
-            "content": "The thing that used to cry at Dongrang..."
-        },
-        {
-            "id": 37,
-            "model": "이스마엘",
-            "content": "He must mean the yellow calf..."
-        },
-        {
-            "id": 38,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha. What are you doing now?"
-        },
-        {
-            "id": 39,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The League of Nine has disbanded, and the play is over. You're not Yurang anymore."
-        },
-        {
-            "id": 40,
-            "model": "이스마엘",
-            "content": "You're right, I guess I got too immersed and felt like I was one of your \"companions\" for a second."
-        },
-        {
-            "id": 41,
-            "model": "이스마엘",
-            "content": "You said you fulfilled your wish, but it didn't seem that way to me no matter which way I looked at it."
-        },
-        {
-            "id": 42,
-            "model": "이스마엘",
-            "content": "Did you feel the same when you saved that calf?"
-        },
-        {
-            "id": 43,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Will you watch your words? I didn't save the calf expecting a reward."
-        },
-        {
-            "id": 44,
-            "model": "히스클리프",
-            "content": "You think we don't know that? You saved the poor creature right before it got crushed to death 'cause you felt like it. I remember when we took turns feeding it milk."
-        },
-        {
-            "id": 45,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I believed that it would be okay to save lives without a price back then."
-        },
-        {
-            "id": 46,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I guess it wasn't just my work… that burned away in the incinerator that day."
-        },
-        {
-            "id": 47,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My mind's garden I had been tending to burned down with it."
-        },
-        {
-            "id": 48,
-            "model": "이상",
-            "content": "Taking a backward glance at our trails... all of us have been suffering great losses."
-        },
-        {
-            "id": 49,
-            "model": "이상",
-            "content": "Failing to see... what needed to be seen."
-        },
-        {
-            "id": 50,
-            "model": "이상",
-            "content": "Allow me to apologize. For casting only slantwise glances."
-        },
-        {
-            "id": 51,
-            "model": "이상",
-            "content": "We were all falling into ruin all the same, and you were no different... I did not realize it then."
-        },
-        {
-            "id": 52,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "……"
-        },
-        {
-            "id": 53,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...I wonder, do you think the cow is peacefully grazing grass somewhere right now?"
-        },
-        {
-            "id": 54,
-            "model": "오티스",
-            "content": "I'm sure of it. He'll be waiting for you, even if you won't go back."
-        },
-        {
-            "id": 55,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I don't think... it'll recognize me..."
-        },
-        {
-            "id": 56,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I've changed too much from who I was in the past."
-        },
-        {
-            "id": 57,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Yeah, you're right. All the trophies and awards on my desk praising my excellence are empty husks."
-        },
-        {
-            "id": 58,
-            "model": "동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Although they dazzle gloriously... they're empty inside. They're husks I couldn't have ever gotten if I weren't a member of the League."
-        },
-        {
-            "id": 59,
-            "model": "동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's why I liked photographs. They... contain my image in all its honesty."
-        },
-        {
-            "id": 60,
-            "model": "동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "For however long, when I look up at the sky... I can't see a thing. It's like I'm under a giant shadow..."
-        },
-        {
-            "id": 61,
-            "model": "싱클레어",
-            "content": "Who is... Mr. Dongrang talking to...?"
-        },
-        {
-            "id": 62,
-            "model": "단테",
-            "content": "<This time... It doesn't seem to be me.>"
-        },
-        {
-            "id": 63,
-            "model": "돈키호테",
-            "content": "I... might know what is about to transpire."
-        },
-        {
-            "id": 64,
-            "model": "돈키호테",
-            "content": "That man is heading toward distortion..."
-        },
-        {
-            "id": 65,
-            "model": "파우스트",
-            "content": "Certainly, and the distortion... might not be the terminus, but rather a step in a process."
-        },
-        {
-            "id": 66,
-            "model": "싱클레어",
-            "content": "Then... I-Is there any way we can help..."
-        },
-        {
-            "id": 67,
-            "model": "파우스트",
-            "content": "To stop him from going astray in this space where mental images take physical form."
-        },
-        {
-            "id": 68,
-            "model": "파우스트",
-            "content": "As we do, he will naturally come to accept that what lies ahead is his path."
-        },
-        {
-            "id": 69,
-            "model": "파우스트",
-            "content": "That is how we can help him."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Hành Lang T.Đoàn N",
+                "model":"구보",
+                "teller":"Gubo",
+                "title":"Tập Đoàn N",
+                "content":"Cậu quyết định rời đi sao, người bạn ngu ngốc của tôi?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Những lời đó không phải để thuyết phục tôi, chúng chỉ là để tấn công tôi...."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Dù không đau, chúng có thể đã để lại dấu vết."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"구보",
+                "teller":"Gubo",
+                "title":"Tập Đoàn N",
+                "content":"Dù cơ thể loạn choạng và không nơi nương tựa đấy..."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"구보",
+                "teller":"Gubo",
+                "title":"Tập Đoàn N",
+                "content":"Cậu thật sự nghĩ mình có thể tìm được nơi gọi là nhà sao?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"구보",
+                "teller":"Gubo",
+                "title":"Tập Đoàn N",
+                "content":"Hãy ngoan ngoãn nghỉ ngơi đi."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"구보",
+                "teller":"Gubo",
+                "title":"Tập Đoàn N",
+                "content":"Tôi sẽ quay lại khi bình minh ló dạng."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Vời lời đó, tôi từ biệt Gubo, người đồng hương cuối cùng của tôi."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Tôi đã trở nên hoàn toàn cô độc."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đúng thế. Từ đấy, tất cả chúng ta đều cô độc."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Chỉ có khi đó..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cuối cùng thì."
+            },
+            {
+                "id":12,
+                "place":"Phòng Thí Nghiệm T.Đoàn K",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đã đến lượt của tôi rồi."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"...Đây là lúc mà anh Dongrang giao nộp công nghệ kính cho Tập Đoàn K."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta đã đứng ở vị thế của Cửu Nhân Hội dù chỉ trong một quãng thời gian ngắn, nên ta biết được chuyện gì đang xảy ra."
+            },
+            {
+                "id":15,
+                "place":"Cửu Nhân Hội Rộn Rã",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"...Nhưng tôi phải nói là thật đau lòng khi nghe cô gọi chúng là những món đồ chơi cho con nít đấy."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cô sẽ không nói như thế nữa một khi cô biết được rằng động vật cũng cảm thấy đau đớn như cách chúng ta cảm nhận vậy."
+            },
+            {
+                "id":17,
+                "place":"Cửu Nhân Hội Úa Tàn",
+                "model":"과거동백",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội",
+                "content":"Dongrang, đừng có thử thiếc nửa vời trừ khi anh thật sự muốn cứu tất cả mọi người trong the City."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"과거동백",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội",
+                "content":"Nếu tôi nghĩ thứ công nghệ nửa mùa này có khả năng cứu lấy tất cả mọi người trên thế giới này, tôi sẽ dốc hết toàn bộ sức lực của mình vào nó."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"과거동백",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội",
+                "content":"Nhưng... anh nghĩ điều đó sẽ thay đổi được cái gì không? Thế giới vẫn sẽ là một nơi vô cùng hỗn loạn."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Hoàn toàn bình thường khi phải bị thương. Tôi không cần phải căng cơ hay vắt kiệt sức lực của bản thân để chữa trị nữa. Tôi thật ngu ngốc, phải không nào?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"과거동백",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội",
+                "content":"Vậy thì lẽ ra anh nên chấp nhận chuyện đó đi chứ! Có gan thì tự cắn lưỡi tự sát đi nếu như không thể chịu đựng được việc tự mình sinh tồn ở quê nhà!"
+            },
+            {
+                "id":22,
+                "place":"Phòng Thí Nghiệm T.Đoàn K",
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Ừm, có vẻ như đây là ký ức của Dongrang..."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Sao cậu lại bất ngờ thế? Hẳn cậu cũng đã nghe qua câu chuyện về Dị Biến của Wing chúng ta rồi mà."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"...Trực tiếp nhìn thấy nó thật khác biệt làm sao. Tôi không hề nghĩ rằng mình sẽ đến tận đây..."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Đúng nhỉ, phần lớn đều có phản ứng giống thế cả. Vậy thì... cậu có thể nhắc lại cho ta về những gì cậu có thể làm không?"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"À, để giải thích cho công nghệ mà tôi đang phát minh..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Ta đã mong đợi rất nhiều kể từ khi nghe về việc cậu từng là thành viên của Cửu Nhân Hội đấy. Hình như là... vị Young-ji kia vẫn đang mất tích sao, có phải vậy không?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"...Đúng là như thế."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Chà, thật lấy làm tiếc về sự giải thể của Hội... Nhưng cũng thật là may khi chúng ta lại xoay sở mời được một người trong số họ về tập đoàn này."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cửu Nhân Hội...luôn phục vụ trong bóng tối rất nhiều. Từ trước đến giờ..."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Nhân tiện thì, nó làm tôi nhớ đến một thứ đã từng khóc với tôi như thế này trong quá khứ..."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Dongrang?"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"À... Ý tôi muốn nói là, lý do mà tôi đến đây..."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Con vật từng cất tiếng kêu đáp lại Dongrang..."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Hẳn ý anh ta là con bê vàng..."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Haha. Cô đang làm gì vậy?"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cửu Nhân Hội đã giải tán rồi, và vở kịch đã kết thúc. Cô không còn là Yurang nữa."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Anh nói đúng. Có lẽ là tôi đã quá nhập tâm và cảm tưởng như bản thân chính là một trong những \"người đồng đội\" của anh, dù chỉ trong giây lát."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Anh bảo là anh đã đạt thành nguyện vọng của mình nhưng, tôi lại không thấy giống thế chút nào cả."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Khi cứu con bê đó, anh có cảm thấy như bây giờ không?"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cô cẩn thận lời mình nói có được không? Tôi không hề cứu con bê để mong chờ được nhận lại thứ gì đó."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Cậu nghĩ tụi này không biết chuyện đó à? Cậu đã cưu mang con vật đáng thương đó ngay khi nó cận kề cái chết chỉ vì cậu muốn thế. Tôi còn nhớ chúng ta thay phiên nhau đút sữa cho nó."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi tin rằng mọi chuyện sẽ ổn khi cứu lấy sinh mạng của những thứ khác mà không hề mong đợi và đòi hỏi điều gì vào hồi trước cả."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi đoán đó không chỉ riêng là dự án của tôi... mà bị ném vô lò đốt khái niệm vào cái ngày đó."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Những kiến thức tích luỹ bên trong tâm trí mà tôi khổ sở bao lâu nay đã cháy rụi cùng với nó."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Nhìn lại con đường ta đã đi... tất cả chúng ta đều đã chịu tổn thất to lớn."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Không thấy được... thứ cần được thấy."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Xin thứ lỗi. Vì đã chỉ đứng bên quan sát."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta đều đã rơi vào hủy hoại như nhau, và cậu cũng thế... Hồi đó tôi đã không nhận ra."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"……"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi tự hỏi rằng, liệu con bò vàng có đang gặm cỏ một cách bình yên ở đâu đó ngay lúc này không?"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Ta khá chắc về điều đó. Nó sẽ luôn chờ ngươi, kể cả khi ngươi không trở lại."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi không nghĩ... nó sẽ nhận ra tôi đâu..."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi đã thay đổi quá nhiều so với con người trước đây trong quá khứ của tôi rồi."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đúng thế, cô đã đúng. Những chiếc cúp và thành tựu trên bàn làm việc tung hô sự xuất sắc của tôi đều chỉ là những chiếc vỏ rỗng thôi."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Mặc dù chúng toả sáng lấp lánh và lộng lẫy như thế...bên trong chúng thật trống rỗng. Chúng là những chiếc vỏ mà tôi không tài nào có được nếu như tôi không phải là thành viên của Hội."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đó là lý do tại sao tôi thích những bức ảnh. Chúng... chất chứa hình ảnh của tôi một cách chân thật nhất."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Dù cho là có bao lâu đi nữa, khi tôi nhìn lên bầu trời... Tôi không thể nhìn thấy thứ gì cả. Cứ như thể tôi đang đứng dưới một cái bóng khổng lồ vậy..."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Anh Dongrang... đang nói chuyện với ai thế...?"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Lần này... Trông không có vẻ như là đang nói với tôi.>"
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Ta...có thể biết chuyện gì sắp sửa xảy ra rồi."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Người đàn ông đó đang trên bờ vực biến dị..."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Tất nhiên, và về sự biến dị... nó không phải trạm cuối, mà giống một bước của quá trình hơn."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Vậy... C-Có cách nào để chúng ta giúp..."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Ngăn anh ta lạc vào không gian nơi những ảnh ảo từ tâm trí hiện hữu thành vật chất."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Và trong khi ta làm điều đó, anh ấy sẽ chấp nhận rằng những thứ được trải dài dưới nền đất là con đường anh ta phải đi."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Đó là cách ta giúp."
+            }
+        ]
+    }
+

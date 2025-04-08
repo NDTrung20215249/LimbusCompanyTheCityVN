@@ -1,297 +1,422 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino Entrance",
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Ya… tarned little roaches…"
-    },
-    {
-      "id": 1,
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Who the hell do ya work for…? ‘S about time… ya told us…"
-    },
-    {
-      "id": 2,
-      "model": "그레고르",
-      "content": "We…"
-    },
-    {
-      "id": 3,
-      "model": "그레고르",
-      "content": "…are from Limbus Company."
-    },
-    {
-      "id": 4,
-      "model": "그레고르",
-      "content": "Finally. One less millstone ‘round the neck."
-    },
-    {
-      "id": 5,
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "That…doesn’t…help at all…!"
-    },
-    {
-      "id": 6,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Oh, and for reference, Effie and I work in a different department. Please don’t associate us with them."
-    },
-    {
-      "id": 7,
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "……"
-    },
-    {
-      "id": 8,
-      "content": "The sheer frustration over our aversion to conversing sensibly must’ve played a considerable role in causing the boss to pass out."
-    },
-    {
-      "id": 9,
-      "content": "My condolences to the poor fellow’s patience."
-    },
-    {
-      "id": 10,
-      "model": "로쟈",
-      "content": "Do we seriously have to wear these, though? Stuff reeks of sweat and blood and… smells grody, too."
-    },
-    {
-      "id": 11,
-      "content": "Rodya complained, lifting the shirt she took from a Tingtang member with two fingers like she was handling trash."
-    },
-    {
-      "id": 12,
-      "model": "로쟈",
-      "content": "Yuck, some hair, too… This is the first time I’m jealous of Dante’s missing eyes."
-    },
-    {
-      "id": 13,
-      "model": "단테",
-      "content": "<I can see, by the way…>"
-    },
-    {
-      "id": 14,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "This looks… pretty dandy, actually? I guess their business was more successful than I thought."
-    },
-    {
-      "id": 15,
-      "model": "료슈",
-      "content": "I want that. Bagsy."
-    },
-    {
-      "id": 16,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "I-I can’t, it’s been tailor-made."
-    },
-    {
-      "id": 17,
-      "model": "단테",
-      "content": "<…The label here says it’s good for all girths.>"
-    },
-    {
-      "id": 18,
-      "content": "Noticing that my gaze was fixed on the label of his clothing, Effie barked."
-    },
-    {
-      "id": 19,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Grr… W-We wouldn’t be doing any of this if you hadn’t caused that ruckus in the pawnshop."
-    },
-    {
-      "id": 20,
-      "model": "홍루",
-      "content": "I don’t mind. I’ve always wanted to try on clothes like these. It’s like we’re filming a movie."
-    },
-    {
-      "id": 21,
-      "model": "이스마엘",
-      "content": "To be honest, I’m a little nervous. It’s been a while since I’ve worked in disguise."
-    },
-    {
-      "id": 22,
-      "model": "료슈",
-      "content": "I don’t feel like it. This is the coward’s way."
-    },
-    {
-      "id": 23,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Sorry, but can someone please keep her mouth shut?"
-    },
-    {
-      "id": 24,
-      "model": "그레고르",
-      "content": "…You’re free to try as long as you’re good with your ribs being cut apart."
-    },
-    {
-      "id": 25,
-      "content": "Gregor’s softly spoken riposte got the Sinners to crack up."
-    },
-    {
-      "id": 26,
-      "content": "For a moment, Effie and Saude seemed to wonder how they should take it…"
-    },
-    {
-      "id": 27,
-      "content": "Before deciding that it’s not worth mulling over and moving on. Effie then lifted a small container that appeared to be inlaid with nacre."
-    },
-    {
-      "id": 28,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "…This is a wish canister we seized from the Tingtang Gang’s boss."
-    },
-    {
-      "id": 29,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Manager, here’s a simple role you can play."
-    },
-    {
-      "id": 30,
-      "model": "단테",
-      "content": "<What are you…?>"
-    },
-    {
-      "id": 31,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "I guess we owe you an explanation, judging from your clueless motions."
-    },
-    {
-      "id": 32,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "The long and short of it is that this thing contains J Corp’s other Singularity. This is a tool that sucks up ‘wishes’ from people and stores them in some form of energy."
-    },
-    {
-      "id": 33,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "When the time is right, squeeze that wishpower onto a sheet of paper, and voilà! You get a one-use stick-on tattoo that boosts your luck to high heavens."
-    },
-    {
-      "id": 34,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Seems the plan was to try to win the game on the top floor by scraping up others’ luck… Imagine, the boss of some lowly gang was carrying one of these."
-    },
-    {
-      "id": 35,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Manager… Dante, right? I want you to hold on to this when we enter the casino."
-    },
-    {
-      "id": 36,
-      "model": "단테",
-      "content": "<Am I really allowed to carry such a big responsibility?>"
-    },
-    {
-      "id": 37,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "You don’t look like you’re oozing confidence. We do have reasons for assigning you to this task."
-    },
-    {
-      "id": 38,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "First off, a poker face is going to be vital when you’re gambling."
-    },
-    {
-      "id": 39,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "No matter how good they are at reading expressions, they won’t be able to tell what emotions to read from a clock."
-    },
-    {
-      "id": 40,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 41,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Second, I trust that they’ve appointed you as manager for a reason."
-    },
-    {
-      "id": 42,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Call it a hunch, but something tells me you’ll be more useful than those Sinners you’re leading."
-    },
-    {
-      "id": 43,
-      "content": "Come to think of it, he had a point."
-    },
-    {
-      "id": 44,
-      "content": "I was given the title of manager, but never had a chance to be the charismatic leader I’d envisioned; instead of showing respect, my Sinners would constantly berate and threaten me."
-    },
-    {
-      "id": 45,
-      "content": "The only real role I could afford to play was bringing them back to life."
-    },
-    {
-      "id": 46,
-      "content": "While the Sinners were engaged in fierce battle, all I would do is cower behind them, anxiously praying that their heads and hearts were unscathed."
-    },
-    {
-      "id": 47,
-      "content": "With a heavy heart, I nodded to let him know I was ready."
-    },
-    {
-      "id": 48,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Alright. Put this on your arm. You’ll become the luckiest person in the City for a short while."
-    },
-    {
-      "id": 49,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Now then, you’ll act as Tingtangers, and we’ll be croupiers. Break a leg, everyone."
-    },
-    {
-      "id": 50,
-      "content": "Vowing that we’ll see this operation to success no matter what…"
-    },
-    {
-      "id": 51,
-      "content": "We opened the door to the casino."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sảnh Vào Sòng Bạc",
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Lũ... gián chết bằm..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Rốt cuộc bọn mày làm việc cho ai...? Giờ cũng nên... nói cho bọn tao biết rồi đấy..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Bọn ta..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...tới từ Công Ty Limbus."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Cuối cùng thì cũng bớt được một gánh nặng."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Cái đó... đéo... giúp được gì cả...!"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Ô, nhân tiện thì, Effie và tôi đang làm việc ở một bộ phận khác. Xin đừng gán ghép chúng tôi với bọn họ."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"……"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sự thất vọng tận cùng đối với cái cách chúng tôi né tránh một cuộc trò chuyện hợp lý đã đóng vai trò rất lớn trong việc khiến hắn ta bất tỉnh."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi xin dành lời chia buồn tới sự kiên nhẫn của anh bạn tội nghiệp này."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta thật sự có cần mặc mấy thứ này không? Toàn dính mồ hôi với máu và... còn phát ra mùi tởm nữa chứ."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Rodya phàn nàn, nhặt cái áo mà cô ấy lấy được từ thành viên Băng Tình Tang với chỉ hai ngón tay như thể đang cầm đống rác."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Ưi, còn tóc luôn nè... Lần đầu tiên tôi ganh tị việc Dante không có mắt đấy."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<À nhân tiện thì tôi vẫn có thể nhìn thấy mọi thứ đấy...>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Trang phục này... khá là bảnh bao đấy chứ? Tôi đoán là việc kinh doanh của bọn chúng thành công hơn tôi nghĩ."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Ta lại muốn thứ đó đấy. Đưa đây."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"T-Tôi không thể, bộ này là được đặt riêng."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<... Cái nhãn ở đây ghi là mọi người đều có thể mặc được.>"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Để ý thấy ánh nhìn của tôi tới nhãn hiệu quần áo của cậu ta, Effie lại bắt đầu lảm nhảm."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Gừ... C-Chúng ta đáng lẽ không phải làm mấy việc này nếu mấy người từ đầu không gây rắc rối ở tiệm cầm đồ."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Không sao đâu mà. Tôi xưa nay luôn muốn được mặc thử phục trang kiểu này ít nhất một lần đó. Trông cứ như sắp đi đóng phim ấy ha!"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thật lòng mà nói thì tôi cảm thấy hơi lo lắng. Cũng lâu rồi tôi mới thực hiện nhiệm vụ cải trang như thế này."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Ta không thích. Chỉ có lũ hèn mới làm vậy."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Thứ lỗi nhưng ai đó làm ơn khiến cô ta ngậm mồm lại được không?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Nếu cô không ngại việc bị chém gãy xương sườn thì cứ thử thoải mái."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Lời đáp lại e thẹn từ Gregor khiến cả đám cười phá lên."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Trong phút chốc, Effie và Saude dường như đang nghĩ xem bọn họ phải phản ứng lại như thế nào..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hai người họ quyết định rằng chuyện đó không đáng để họ phải bận tâm đến và tiến về phía trước. Effie nhấc một cái thùng nhỏ được dát bằng xà cừ."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"...Đây là hộp ước nguyện mà bọn tôi lấy được từ tên trùm Băng Tình Tang."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Quản Lý, đây là một vai trò rất đơn giản mà chỉ có ngài làm được."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Anh đang định...?>"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Tôi đoán là chúng tôi nợ ngài một lời giải thích, nếu căn cứ vào cử chỉ ngơ ngác của ngài."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Giải thích ngắn gọn thì, thứ này chứa đựng Dị Biến còn lại của Tập Đoàn J. Vật này là công cụ sẽ hút sạch 'mong ước' từ bất kì ai và lưu trữ chúng ở dưới dạng năng lượng."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Khi thời khắc đã điểm, hãy vắt sạch ước nguyện đó vào một tờ giấy, và xong! Ngài đã có một hình xăm dùng đúng một lần, có tác dụng nâng vận may của ngài lên tận thiên đàng."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Có vẻ như kế hoạch là cố gắng thắng cược tại tầng cao nhất bằng việc rút sạch vận may của người khác... Tưởng tượng việc tên trùm của một băng hạ đẳng nào đó có thứ này."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Ngài quản lý... Dante, phải không? Tôi muốn ngài giữ thứ này khi chúng ta tiến vào sòng bạc."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Tôi thật sự có thể mang trọng trách lớn ấy sao?>"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Nhìn như ngài đang thiếu mất sự tự tin. Chúng tôi có lí do để giao phó cho ngài trong nhiệm vụ lần này."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Điều đầu tiên, một khuôn mặt lạnh là điều thiết yếu trong việc đánh bạc."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Bất kể việc đối phương có giỏi đọc vị tới đâu đi nữa, họ cũng sẽ không thể nào đọc được cảm xúc từ một cái đồng hồ."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<......>"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Thứ hai là, tôi tin rằng việc cấp trên bổ nhiệm ngài làm quản lý là có cơ sở."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Cứ cho nó là linh cảm cũng được, nhưng có điều gì đó mách bảo tôi rằng ngài sẽ hữu dụng hơn hết thẩy các Tội Nhân mà ngài đang lãnh đạo."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nghĩ kĩ lại thì, cậu ta cũng có lý."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi được đưa cho chức vụ quản lý, nhưng chưa bao giờ có cơ hội để hành xử như một nhà lãnh đạo có sức hút mà tôi hay hình dung ra. Thay vì thể hiện sự tôn trọng, các Tội Nhân chỉ toàn liên tục chỉ trích và đe dọa tôi."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vai trò thực sự mà tôi có chỉ là khiến họ sống lại."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Trong khi các Tội Nhân chiến đấu trên chiến trường khốc liệt, thì những gì mà tôi có thể làm là trốn sau lưng bọn họ, cầu mong bọn họ không bị giết hoặc bị thương quá nặng."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Với tâm trạng nặng trĩu, tôi gật đầu đáp lại để ra hiệu bản thân đã sẵn sàng."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Được rồi. Dán thứ này lên tay ngài đi. Ngài giờ sẽ trở thành người may mắn nhất City này trong khoảng thời gian ngắn."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Giờ thì, mọi người sẽ đóng vai là người Băng Tình Tang, và chúng tôi là những người chia bài. Chúc may mắn, tất cả mọi người."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Với lời hứa rằng chúng tôi sẽ khiến chiến dịch này thành công bằng bất cứ giá nào..."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chúng tôi mở rộng cửa vào sòng bạc."
+            }
+        ]
     }
-  ]
-}
+

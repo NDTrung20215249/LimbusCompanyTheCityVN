@@ -1,92 +1,150 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "K Corp. Checkpoint",
-      "model": "단테",
-      "content": "<I’ve gotten used to this sort of situation, but it looks pretty serious.>"
-    },
-    {
-      "id": 1,
-      "model": "파우스트",
-      "content": "Indeed. We’ve violated a taboo of the Wing, after all."
-    },
-    {
-      "id": 2,
-      "model": "단테",
-      "content": "<It’s not like anyone was hurt—can’t we just talk this through?>"
-    },
-    {
-      "id": 3,
-      "content": "Faust looked straight into my face."
-    },
-    {
-      "id": 4,
-      "content": "For Faust to face someone directly when she usually stares into empty space as she speaks can only indicate one thing:"
-    },
-    {
-      "id": 5,
-      "content": "I must have said something incredibly frustrating."
-    },
-    {
-      "id": 6,
-      "model": "파우스트",
-      "content": "No matter the Wing, infringement of a taboo means—"
-    },
-    {
-      "id": -1,
-      "model": "//효과음",
-      "content": "총소리와 폭발 소리"
-    },
-    {
-      "id": 7,
-      "content": "A loud explosion left Don Quixote dismembered where she stood."
-    },
-    {
-      "id": 8,
-      "model": "파우스트",
-      "content": "—that lethal measures can be taken against the violator without warning."
-    },
-    {
-      "id": 9,
-      "content": "It looks like border control isn’t willing to forgive us until they dismember the rest of the Sinners…"
-    },
-    {
-      "id": 10,
-      "content": "Armed security staff was surrounding us on all sides."
-    },
-    {
-      "id": 11,
-      "model": "베르길리우스",
-      "content": "…You never cease to surprise me."
-    },
-    {
-      "id": 12,
-      "model": "베르길리우스",
-      "content": "You managed to wring out the last drop of expectation I had left for you."
-    },
-    {
-      "id": 13,
-      "model": "베르길리우스",
-      "content": "I’m keeping out. Pin the whole thing on her, or take responsibility, or whatever."
-    },
-    {
-      "id": 14,
-      "model": "이스마엘",
-      "content": "I thought you accompanied us to handle situations that our manager can’t alone?!"
-    },
-    {
-      "id": 15,
-      "model": "베르길리우스",
-      "content": "I came with you to take care of inevitable problems, not have a pissing session in the wind."
-    },
-    {
-      "id": 16,
-      "content": "Vergilius casually pushed his way through the line of armed guards and leaned against a wall."
-    },
-    {
-      "id": 17,
-      "content": "He then crossed his arms, as if to further drive home that he’ll remain a spectator."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trạm Kiểm Soát Tập Đoàn K",
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Tôi đã bắt đầu quen với mấy vụ như này rồi, cơ mà lần này có vẻ khá nghiêm trọng đấy.>"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Đồng ý. Dù gì thì ta đã vi phạm điều cấm của Wing."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Nhưng không có ai bị thương cả—chúng ta không thể thương lượng được sao?>"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Faust nhìn thẳng vào mặt tôi."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Để Faust phải đối mặt trực diện một ai đó khi nói chuyện trong khi hầu hết mọi lúc cô ấy thường đưa mắt nhìn vào một khoảng không vô định chỉ có thể nói lên một điều duy nhất:"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi chắc chắn đã phát ngôn một điều gì đó cực kỳ ngu xuẩn."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Bất kể là Wing nào, vi phạm điều cấm kỵ có nghĩa là—"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một tiếng nổ lớn khiến cơ thể của Don Quixote chỉ còn là một đống bầy nhầy."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"—các biện pháp gây tử vong có thể được thực thi với kẻ vi phạm mà không báo trước."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Có vẻ như lực lượng kiểm soát biên giới sẽ không tha thứ cho chúng tôi cho đến khi bọn họ phanh thây sạch sẽ toàn bộ các Tội Nhân…"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Các nhân viên an ninh trang bị vũ trang bao vây chúng tôi từ tứ phía."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"…Mấy người không bao giờ ngừng khiến tôi ngạc nhiên cả."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Không những thế mà các anh chị còn lấy đi những tia hy vọng còn sót lại của ta cho các anh chị."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Ta mặc kệ. Muốn đổ hết tội trạng lên cô kia, hay tự gánh hết giùm trách nhiệm lên đầu mình, muốn làm sao thì làm."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "teller":"Ishmael",
+                "title":null,
+                "content":"Tôi tưởng ông đi cùng để xử lý những việc mà quản lý của chúng tôi không thể tự lo liệu mà?!"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Ta đi theo các cô cậu để xử lý những chuyện vượt tầm kiểm soát, chứ không phải mấy thứ vô bổ."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vergilius bình thản bước qua hàng ngũ của những người lính gác trang bị vũ trang và tựa lưng vào tường."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Rồi ông ấy khoanh tay lại, như thế nói rằng ông ấy sẽ chỉ quan sát và không can thiệp vào dù có chuyện gì xảy ra đi nữa."
+            }
+        ]
     }
-  ]
-}
+

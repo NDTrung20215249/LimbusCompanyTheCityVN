@@ -1,457 +1,598 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Invaded K Corp. Laboratory",
-            "model": "K사안내방송",
-            "teller": "Announcement",
-            "title": "K Corp. Laboratory",
-            "content": "An explosion has been detected. Please protect yourselves from danger by swiftly moving under your desks."
-        },
-        {
-            "id": 1,
-            "model": "기술해방연합기계2",
-            "teller": "Intimidating Machine",
-            "title": "???",
-            "content": "……"
-        },
-        {
-            "id": 2,
-            "model": "마리르",
-            "teller": "???",
-            "title": "???",
-            "content": "Whoops... That was a misfire."
-        },
-        {
-            "id": 3,
-            "model": "K사안내방송",
-            "teller": "Announcement",
-            "title": "K Corp. Laboratory",
-            "content": "A second explosion has been detected. Please activate the regeneration ampule in your possession, and..."
-        },
-        {
-            "id": 4,
-            "model": "K사안내방송",
-            "teller": "Announcement",
-            "title": "K Corp. Laboratory",
-            "content": "Please wait for K Corp's security staff that will arrive within 18 seconds of, of, of..."
-        },
-        {
-            "id": 5,
-            "model": "란",
-            "teller": "???",
-            "title": "???",
-            "content": "Same old announcement. I wonder, why are broadcasts like that told in such calm voices?"
-        },
-        {
-            "id": 6,
-            "model": "란",
-            "teller": "???",
-            "title": "???",
-            "content": "Won't a little gasping and panicking be more effective in getting people to evacuate?"
-        },
-        {
-            "id": 7,
-            "model": "란",
-            "teller": "???",
-            "title": "???",
-            "content": "See, getting so preoccupied with all that technology and science nonsense dulls your empathy with feelings."
-        },
-        {
-            "id": 8,
-            "model": "마리르",
-            "teller": "???",
-            "title": "???",
-            "content": "...You talk too much. Be quiet."
-        },
-        {
-            "id": 9,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Is everyone alright? If you aren't, take a regeneration sample. A cross-compatibility test is normally needed, but we're in an emergency..."
-        },
-        {
-            "id": 10,
-            "model": "그레고르",
-            "content": "...You look unfazed. Doesn't a terrorist attack usually throw everyone into chaos?"
-        },
-        {
-            "id": 11,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The first attack did have everyone panicking. The explosive detection broadcasts didn't exist, either. Mister Samjo hid under his desk for quite some time..."
-        },
-        {
-            "id": 12,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "As I keep saying, the attack occurred in the lobby, and I was merely attempting to pick up a notebook that fell under the desk."
-        },
-        {
-            "id": 13,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You must take this situation seriously, Mr. Dongrang. An attack on a K Corp. laboratory in the middle of the Nest is not a matter of course."
-        },
-        {
-            "id": 14,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "For sure, they managed to arrive at the floor where the researchers are. Oh, I think I sprained my left ankle, Samjo."
-        },
-        {
-            "id": 15,
-            "content": "I watched as Samjo injected a regeneration ampule into Dongrang's body."
-        },
-        {
-            "id": 16,
-            "model": "오티스",
-            "content": "Are they the terrorists that are occupying the Lobotomy Corp. branch?"
-        },
-        {
-            "id": 17,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed. Speak of the devil."
-        },
-        {
-            "id": 18,
-            "model": "싱클레어",
-            "content": "They're part of the terrorist organization? They don't really look like well-trained combatants..."
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "Would you look at that, you got an eye for that now, kid?"
-        },
-        {
-            "id": 20,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's natural. They aren't the ones directly engaging in combat."
-        },
-        {
-            "id": 21,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It should take a single glance to notice that they appear lean and frail just like Mr. Dongrang."
-        },
-        {
-            "id": 22,
-            "model": "히스클리프",
-            "content": "I've seen rich sods that don't get into fights still get body-enhancing augments just in case. You sure they aren't just acting weak?"
-        },
-        {
-            "id": 23,
-            "model": "파우스트",
-            "content": "It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally."
-        },
-        {
-            "id": 24,
-            "model": "파우스트",
-            "content": "Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified."
-        },
-        {
-            "id": 25,
-            "model": "로쟈",
-            "content": "They don't want the lowly to rise up and topple the ruling class over, huh?"
-        },
-        {
-            "id": 26,
-            "model": "파우스트",
-            "content": "I couldn't deny those possibilities. Each Nest must have its own reasons."
-        },
-        {
-            "id": 27,
-            "model": "파우스트",
-            "content": "But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle..."
-        },
-        {
-            "id": 28,
-            "model": "파우스트",
-            "content": "Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening."
-        },
-        {
-            "id": 29,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sorry to interrupt your passionate exposition, the pain was genuine for me, just so you know."
-        },
-        {
-            "id": 30,
-            "content": "Soon enough, people wearing familiar outfits appeared, along with the unforgettable beats of footsteps."
-        },
-        {
-            "id": 31,
-            "model": "돈키호테",
-            "content": "Eek!"
-        },
-        {
-            "id": 32,
-            "model": "싱클레어",
-            "content": "T-The ones from the checkpoint..."
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "And now they're our reliable allies."
-        },
-        {
-            "id": 34,
-            "model": "단테",
-            "content": "<Those robots... They look seriously hostile...>"
-        },
-        {
-            "id": 35,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "Hemorrhage within five seconds. Spinal damage of at least 12 centimeters in length. Direct impact on coronary artery. Destruction of the cranium."
-        },
-        {
-            "id": 36,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "These steps will ensure that the enemy meets immediate death without unnecessary suffering."
-        },
-        {
-            "id": 37,
-            "model": "란",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "It can do that, but wasn't it mainly to fully destroy the brain so that they can't regenerate themselves?"
-        },
-        {
-            "id": 38,
-            "model": "란",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "Hey, if you don't mind, could you pretend to be dead if this doesn't kill you right away? My buddy stayed up all night upgrading the instakill function."
-        },
-        {
-            "id": 39,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "Quiet."
-        },
-        {
-            "id": 40,
-            "model": "란",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "See~ I told you. With that recoil distance, it only reaches as deep as the occipital lobe. Did you really have to learn it through trial?"
-        },
-        {
-            "id": 41,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "Damn it... It should have gone all the way through the temporal lobe."
-        },
-        {
-            "id": 42,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We can't lose to them, we have robots of our own. They should be here any minute now..."
-        },
-        {
-            "id": 43,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Aha, there it is! The regeneration ampule administration drone."
-        },
-        {
-            "id": 44,
-            "model": "이스마엘",
-            "content": "It must be pretty handy to have them. Do they inject the ampules right as the staff is injured?"
-        },
-        {
-            "id": 45,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Yes, as long as their heads aren't lost... and the ampule is injected before the golden time passes and their brain stops functioning... They're practically undying."
-        },
-        {
-            "id": 46,
-            "teller": "K Corp. Security",
-            "title": "K Corp.",
-            "content": "...Kgh."
-        },
-        {
-            "id": 47,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Injuries like holes in internal organs..."
-        },
-        {
-            "id": 48,
-            "teller": "K Corp. Security",
-            "title": "K Corp.",
-            "content": "...Kurgh!"
-        },
-        {
-            "id": 49,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Or broken bones can be healed in seconds."
-        },
-        {
-            "id": 50,
-            "model": "이스마엘",
-            "content": "Even still... They wouldn't be immune to pain. How can they be so calm about it..."
-        },
-        {
-            "id": 51,
-            "model": "이스마엘",
-            "content": "They won't even bat an eye at a colleague right next to them being cut down."
-        },
-        {
-            "id": 52,
-            "model": "뫼르소",
-            "content": "Natural behavior."
-        },
-        {
-            "id": 53,
-            "model": "뫼르소",
-            "content": "If all wounds can be healed up in seconds, all judgement regarding it will be secondary."
-        },
-        {
-            "id": 54,
-            "model": "홍루",
-            "content": "If that's the case... Will we become like that eventually?"
-        },
-        {
-            "id": 55,
-            "model": "뫼르소",
-            "content": "I don't see a reason to think about such things."
-        },
-        {
-            "id": 56,
-            "model": "홍루",
-            "content": "I was just curious."
-        },
-        {
-            "id": 57,
-            "model": "란",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "By the way... Who are these new faces with unfamiliar outfits? Anyone wanna introduce yourself?"
-        },
-        {
-            "id": 58,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "None of our business."
-        },
-        {
-            "id": 59,
-            "model": "란",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "True. But it's kinda awkward to be just facing them. Someone's gotta talk, no?"
-        },
-        {
-            "id": 60,
-            "model": "이스마엘",
-            "content": "...Why should we introduce ourselves to a terrorist organization?"
-        },
-        {
-            "id": 61,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "We're no mere terrorist organization. Watch your words."
-        },
-        {
-            "id": 62,
-            "model": "란",
-            "teller": "???",
-            "title": "Terrorist Organization?",
-            "content": "I don't hate the sound of it. It lines up with my beliefs when I was four. I had to answer the call of a grad school because the paper I wrote on atoms won a prize at the age of eleven..."
-        },
-        {
-            "id": 63,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Shut it. We are the technology liberation alliance."
-        },
-        {
-            "id": 64,
-            "model": "홍루",
-            "content": "Liberate what technologies exactly? Does technology yearn for freedom?"
-        },
-        {
-            "id": 65,
-            "model": "싱클레어",
-            "content": "Maybe... they're talking about the animals in the lab... I think?"
-        },
-        {
-            "id": 66,
-            "model": "란",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "You hear that? He thinks we're animal protectors or something?"
-        },
-        {
-            "id": 67,
-            "model": "란",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Sorry, but that went out of fashion long ago. You think we're working day and night assembling machines just to fight for happily raised chickens fried in healthy oil?"
-        },
-        {
-            "id": 68,
-            "model": "란",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Type X-32 bolts are so hard to get these days, we have to order them from other Nests. Do you have any idea how much tax is added?"
-        },
-        {
-            "id": 69,
-            "model": "파우스트",
-            "content": "You can substitute type X-32 bolts by casting a c-9 bolt and tempering it at an interval of two hours."
-        },
-        {
-            "id": 70,
-            "model": "마리르",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "You aren't gonna win over us by acting all smart..."
-        },
-        {
-            "id": 71,
-            "model": "란",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Oh... Huh... No, she might be right... It could work."
-        },
-        {
-            "id": 72,
-            "model": "그레고르",
-            "content": "Could you tell us why you're offering advice to enemies, Ms. Faust?"
-        },
-        {
-            "id": 73,
-            "model": "파우스트",
-            "content": "You wouldn't understand. Researchers have a creed more valuable than life."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Thí Nghiệm T.Đoàn K Bị Xâm Nhập",
+                "model":"K사안내방송",
+                "teller":"Thông Báo",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Một vụ nổ đã được phát hiện. Xin hãy di chuyển nhanh xuống gầm bàn để bảo vệ bản thân bạn."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"기술해방연합기계2",
+                "teller":"Cỗ Máy Đáng Nghi",
+                "title":"???",
+                "content":"……"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"???",
+                "content":"À... Bắn nhầm rồi."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"K사안내방송",
+                "teller":"Thông Báo",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Vụ nổ thứ hai đã được phát hiện. Xin hãy kích hoạt huyết thanh hồi phục của bạn, và..."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"K사안내방송",
+                "teller":"Thông Báo",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Xin hãy đợi nhân viên bảo vệ Tập Đoàn K đến trong vòng 18 giây, giây, giây..."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"???",
+                "content":"Vẫn cái thông báo cũ rích ấy. Tôi tự hỏi, sao mấy cái thông báo như thế vẫn nói được bằng tông điệu bình tĩnh thế nhỉ?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"???",
+                "content":"Thử tỏ ra hoảng loạn hơn xem nào, biết đâu nó hiệu quả hơn chăng?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"???",
+                "content":"Đấy, mấy người bị chai mòn cảm xúc hết rồi. Do ba cái công nghệ khoa học vớ va vớ vẩn kia không."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"???",
+                "content":"...Nói nhiều quá đấy. Im bớt đi."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Mọi người ổn không? Nếu có thì dùng huyết thanh hồi phục này đi. Trước đó sẽ có một cuộc kiểm tra chéo độ tương thích trước đã, cơ mà đang trong tình huống khẩn cấp nên là..."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Trông cậu bình tĩnh ghê nhỉ. Chẳng phải thường nếu bị khủng bố tấn công thì mọi người sẽ hoảng loạn sao?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cuộc tấn công đầu tiên thật sự đã gây ra hoảng loạn. Loa phát thanh phát hiện vụ nổ lúc đó chưa hề tồn tại. Samjo đây đã phải trốn dưới bàn làm việc của cậu ấy rất lâu đấy..."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Thưa ngài, tôi phải nói mãi thôi là lúc cuộc tấn công xảy ra thì tôi chỉ đang cố nhặt cuốn sổ rớt dưới gầm bàn lên thôi mà."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Ngài nên nhìn nhận vấn đề hiện tại nghiêm túc hơn đi, ngài Dongrang. Việc có cuộc tấn công nhắm thẳng vào khu nghiên cứu Tập Đoàn K ngay giữa Nest thế này không phải chuyện thường tình đâu."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Chắc rồi, vì bọn họ đã tiến tới cái tầng mà các nghiên cứu viên đang làm việc nên không thể bỏ qua như thế này được. Ôi, hình như là mắt cá chân bên trái tôi bị trẹo mất rồi, Samjo."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi nhìn Samjo tiêm huyết thanh hồi phục vào cơ thể của Dongrang."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Có phải chúng là tụi khủng bố đang chiếm đóng một chi nhánh của Tập Đoàn Lobotomy?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đúng thế. Vừa nhắc tới xong."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Họ là thành viên của cái Tổ Chức đó sao? Trông họ không chuyên về chiến đấu cho lắm..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Chà, thằng nhãi như mày mà cũng biết mấy thứ đó cơ á?"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Dĩ nhiên. Bọn chúng nhìn qua cũng không phải kiểu người sẽ trực tiếp tham gia chiến đấu."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Chỉ cần liếc mắt thôi cũng nhận ra chúng gầy gò và yếu nhớt như ngài Dongrang đây."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mấy đứa giàu có chẳng đánh đấm bao giờ còn bỏ tiền cường hóa cơ thể phòng hờ chuyện bất trắc cơ mà. Mày chắc là chúng đang không giả đò đấy chứ?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Đó không hẳn là vấn đề. Dù có vô vàn cách để cơ cấu lại cơ thể nhưng về mặt thể chất hay tinh thần thì họ vẫn cảm thấy ghê tởm bởi nó."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Và vài Nest thậm chí cấm người dân của mình cấy ghép bộ phận giả có sức mạnh vượt mức nếu họ không đủ khả năng."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Vậy là họ không muốn đám người hạ đẳng nổi dậy và đá đít tầng lớp thượng lưu sao?"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Tôi không phủ nhận khả năng đó. Mỗi Nest điều có lý do riêng của họ."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng để tổng lại thì việc cấy ghép bộ phận giả như lái một chiếc xe có dung tích lớn vậy. Nếu tài xế không có khả năng điều khiển cố lái nó thì..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Từng lớp trật tự của Nest sẽ sớm đổ vỡ, nên họ chắc chắn sẽ ngăn điều đó xảy ra."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Xin lỗi phải cắt ngang buổi trình bày đầy nhiệt huyết của cô, nhưng nói cho cô biết một điều là tôi cảm thấy thật sự rất đau đấy."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chẳng mấy chốc sau, những con người mặc đồng phục giống hệt nhau xuất hiện, cùng với nhịp bước chân không đời nào có thể quên được."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Í!"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Nh-Những người từ chốt an ninh..."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thế mà giờ lại thành đồng minh đáng tin cậy."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Những con robot ấy... Chúng trông thật sự rất thù địch đấy...>"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Xuất huyết trong vòng năm giây. Chấn thương cột sống dài gần 12 cen-ti-mét. Vỡ động mạch vành. Sọ nứt hoàn toàn."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Những bước trên chắc chắn sẽ kết liễu chúng mà không có thêm sự giẫy giụa vô ích."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Đúng là thế cơ mà nha, chẳng phải phá hủy hoàn toàn não để ngăn việc hồi phục sẽ nhanh hơn sao?"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Ê này, nếu chưa chết thì phiền cậu có thể giả chết được không? Cậu bạn này trằn trọc cả đêm để nghiên cứu cách thức tất sát này thôi đấy nha."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Im."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Thấy chưa nè~ Tôi bảo cậu rồi. Với cái khoảng cách giật ngược đấy thì chỉ chạm tới thùy chẩm thôi mà. Có thực là cậu đã kiểm tra qua nó chưa đấy?"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Chết tiệt... Đáng lẽ nó phải đâm sâu vào thùy thái dương."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Bên mình không thể thua tụi nó được, chúng ta cũng có robot riêng mà. Mấy thứ đó chẳng mấy chốc mà tới..."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"À há, đây rồi! Drone quản lý huyết thanh hồi phục."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tiện lợi thật đấy. Chúng sẽ tiêm huyết thanh ngay khi các nhân viên bị thương à?"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đúng, chỉ cần đầu vẫn chưa bị phá hủy hoàn toàn... và kiêm tiêm được tiêm vào trước khi khung giờ vàng trôi qua thì... về cơ bản, họ sẽ trở nên bất tử."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":null,
+                "teller":"Nhân Viên Bảo An T.Đoàn K",
+                "title":"Tập Đoàn K",
+                "content":"...Ựa"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Mấy vết thương như nội tạng bị đục vài lỗ..."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "teller":"Nhân Viên Bảo An T.Đoàn K",
+                "title":"Tập Đoàn K",
+                "content":"...Ựa há!"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Hay xương gãy đều có thể hồi phục trong giây lát."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng không phải vì thế mà cơn đau cũng biến mất theo. Làm sao mà họ lại giữ bình tĩnh được như vậy?"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thậm chí chẳng ai thèm đoái hoài đến đồng đội vừa ngã xuống ngay bên cạnh."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Hành vi hiển nhiên."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Nếu toàn bộ thương tích có thể phục hồi trong giây lát, những vấn đề đó sẽ được suy xét sau."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Nếu thế thì... Đến lúc nào đó, chúng ta cũng sẽ trở thành như vậy sao?"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Tôi không thấy có lý do để nghĩ về vấn đề đấy."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Anh không tò mò nhỉ."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Ê mà này... Mấy cái người lạ hoắc kia là ai vậy? Có ai muốn giới thiệu bản thân hem?"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Thôi lo chuyện bao đồng đi."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Rồi rồi. Nhưng mà này, thế chẳng phải hơi bị gượng gạo khi đối mặt với họ lắm sao. Phải có ai đó nghĩ như tôi chứ nhỉ, không á?"
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...Tại sao chúng ta phải tự giới thiệu bản thân với một Tổ Chức chứ?"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Cẩn thận cái miệng ngươi. Bọn ta không phải lũ khủng bố tầm thường."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Tổ Chức Khủng Bố?",
+                "content":"Nghe cũng hay mà. Hồi bốn tuổi tôi cũng muốn làm như vậy lắm ấy nha. Cái lúc mà tôi được một trường đại học nào đó gọi tới chỉ bởi vì cái bài viết về nguyên tử của tôi đã thắng giải cuộc thi ở độ tuổi mười một..."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Ngậm mồm. Bọn ta là Liên Minh Giải Phóng Công Nghệ."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Giải phóng công nghệ nào cơ? Mà công nghệ cũng muốn được tự do sao?"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Chắc là... họ đang nói về mấy con vật trong phòng thí nghiệm... tôi đoán thế?"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Ô kìa, cậu nghe thấy chưa? Cậu ta nghĩ chúng ta là mấy người bảo vệ động vật hay gì không bằng."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Xin lỗi nha, nhưng mấy thứ đó lỗi thời từ lâu rồi, nhóc à. Cậu nghĩ bọn ta làm việc ngày đêm ngồi lắp ráp máy móc chỉ để trải nghiệm niềm hạnh phúc được nuôi nấng và chiên rán ngập dầu chúng hay gì hở?"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Bu lông loại X-32 ngày nay khó kiếm lắm đấy nhá, bọn ta còn phải đặt hàng chúng ở khắp nơi trên Nest nữa cơ. Nhóc có biết đống đó bị độn thuế lên nhiều đến mức nào không hở?"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Các người có thể thay loại bu lông X-32 bằng cách đúc một con c-9 và tôi nó mỗi hai tiếng."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"마리르",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Hành xử tài lanh không thuyết phục được bọn ta đâu..."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Ô... à ha... Hình như, cô ấy nói đúng mà nhỉ... Có thể được đấy chứ."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Sao cô lại đi mách nước cho kẻ địch vậy, cô Faust?"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Anh không hiểu đâu. Những nhà nghiên cứu luôn có một lý tưởng nào đó quan trọng hơn cả mạng sống."
+            }
+        ]
+    }
+

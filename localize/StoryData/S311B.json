@@ -1,293 +1,478 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "Getting back on the bus, Vergilius greets us by casually lifting a hand."
-    },
-    {
-      "id": 1,
-      "model": "베르길리우스",
-      "content": "Weren’t they a little trickier to deal with than your usual foes?"
-    },
-    {
-      "id": 2,
-      "model": "로쟈",
-      "content": "I keep saying we could be done with ‘em a lot faster if you lent a hand~"
-    },
-    {
-      "id": 3,
-      "model": "베르길리우스",
-      "content": "And as I always answer, there won’t be any point to this if I help you."
-    },
-    {
-      "id": 4,
-      "model": "이스마엘",
-      "content": "Those people… They labelled us as heretics. Just what is their judgement based on?"
-    },
-    {
-      "id": 5,
-      "model": "단테",
-      "content": "<I think they were targeting me.>"
-    },
-    {
-      "id": 6,
-      "model": "뫼르소",
-      "content": "Nagel und Hammer… The Wing that values experience above all else."
-    },
-    {
-      "id": 7,
-      "content": "Meursault muttered vaguely."
-    },
-    {
-      "id": 8,
-      "model": "단테",
-      "content": "<Experience?>"
-    },
-    {
-      "id": 9,
-      "model": "뫼르소",
-      "content": "Humans are made to have experiences and actions appropriate for their worth… That is what they say of it."
-    },
-    {
-      "id": 10,
-      "model": "오티스",
-      "content": "They told us to offer up the severed head of our manager."
-    },
-    {
-      "id": 11,
-      "model": "오티스",
-      "content": "That means…"
-    },
-    {
-      "id": 12,
-      "model": "싱클레어",
-      "content": "…They’re back. They didn’t forget. Coming back like that, to—"
-    },
-    {
-      "id": 13,
-      "content": "Sinclair was almost having a fit at this point."
-    },
-    {
-      "id": 14,
-      "content": "Rodya looked at him with pitying eyes, but there was little she could do about it."
-    },
-    {
-      "id": 15,
-      "model": "카론",
-      "content": "Verg-verg, the sound box is being noisy."
-    },
-    {
-      "id": 16,
-      "model": "베르길리우스",
-      "content": "…Looks like the advance team has words for us."
-    },
-    {
-      "id": -1,
-      "model": "//효과음",
-      "content": "Various radio noises were emitted."
-    },
-    {
-      "id": 17,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "*Pzzt Zzzt Zzzt* This is… *Pzzz…*"
-    },
-    {
-      "id": 18,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "*Zzzt Pzzt* Saude is… *Pzzz…*"
-    },
-    {
-      "id": 19,
-      "model": "그레고르",
-      "content": "Gimme that."
-    },
-    {
-      "id": 20,
-      "model": "그레고르",
-      "content": "Effie, this is the bus. How are things over there?"
-    },
-    {
-      "id": -1,
-      "model": "//효과음",
-      "content": "Hellish screams come through the speakers."
-    },
-    {
-      "id": 21,
-      "model": "에피",
-      "teller": "Effie?",
-      "title": "LCCB",
-      "content": "“…You shall bear here your every sin and be purified.”"
-    },
-    {
-      "id": -1,
-      "model": "SE // 뚝"
-    },
-    {
-      "id": 22,
-      "model": "그레고르",
-      "content": "Effie?"
-    },
-    {
-      "id": 23,
-      "model": "이스마엘",
-      "content": "Was that… Effie’s voice? Or something else?"
-    },
-    {
-      "id": 24,
-      "model": "이스마엘",
-      "content": "No, actually… Was that even a human voice at all?"
-    },
-    {
-      "id": 25,
-      "model": "싱클레어",
-      "content": "Whistles…"
-    },
-    {
-      "id": 26,
-      "model": "로쟈",
-      "content": "Sinclair, what are you talking about?"
-    },
-    {
-      "id": 27,
-      "model": "싱클레어",
-      "content": "You heard the whistles! Right at the end… Faintly…"
-    },
-    {
-      "id": 28,
-      "model": "그레고르",
-      "content": "Was there now…?"
-    },
-    {
-      "id": 29,
-      "model": "싱클레어",
-      "content": "It’s her! That wretch is there! After all this time… To destroy the rest of our town…"
-    },
-    {
-      "id": 30,
-      "model": "단테",
-      "content": "<Calm down, Sinclair. What do you mean by whistles, and who is this “wretched” woman?>"
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "She’s waiting for me. That was a message calling for me!"
-    },
-    {
-      "id": 32,
-      "content": "Resentful tears were streaming from Sinclair’s face as he rambled."
-    },
-    {
-      "id": 33,
-      "model": "이스마엘",
-      "content": "Hang on, there are people like the ones we met on the road up ahead…"
-    },
-    {
-      "id": 34,
-      "model": "싱클레어",
-      "content": "We should go back…"
-    },
-    {
-      "id": 35,
-      "model": "단테",
-      "content": "<What?>"
-    },
-    {
-      "id": 36,
-      "model": "싱클레어",
-      "content": "Can’t we… just head back? I don’t wanna go—let’s just turn around. Just tip the steering wheel and…"
-    },
-    {
-      "id": 37,
-      "model": "로쟈",
-      "content": "Kiddo… What’s wrong? What’re you so worried you’ll walk into?"
-    },
-    {
-      "id": 38,
-      "model": "싱클레어",
-      "content": "We shouldn’t go. We’ll all die—we need to go back."
-    },
-    {
-      "id": 39,
-      "model": "베르길리우스",
-      "content": "Emil Sinclair. Don’t be absurd…"
-    },
-    {
-      "id": 40,
-      "model": "오티스",
-      "content": "……"
-    },
-    {
-      "id": -1,
-      "content": "Thud."
-    },
-    {
-      "id": 41,
-      "content": "Outis was calmly flicking her wrist."
-    },
-    {
-      "id": 42,
-      "model": "오티스",
-      "content": "I delivered a light blow to the stomach to knock him unconscious for a short while, nothing more."
-    },
-    {
-      "id": 43,
-      "model": "베르길리우스",
-      "content": "We’re in agreement for once, it seems. I was this close to stepping in."
-    },
-    {
-      "id": 44,
-      "model": "오티스",
-      "content": "I don’t need cowards on my battlefield. Can’t I throw him out of the bus?"
-    },
-    {
-      "id": 45,
-      "model": "단테",
-      "content": "<That… might be a bit too far.>"
-    },
-    {
-      "id": 46,
-      "model": "오티스",
-      "content": "…If you say so, Manager."
-    },
-    {
-      "id": 47,
-      "content": "Outis looked down at Sinclair with a displeased face."
-    },
-    {
-      "id": 48,
-      "content": "Even though he was the timid sort, he’s never opposed something so strongly until now."
-    },
-    {
-      "id": 49,
-      "content": "This unprecedented behavior of his bothered me…"
-    },
-    {
-      "id": 50,
-      "content": "But I couldn’t bring myself to ask him why, as he didn’t seem to be in any state to tell me."
-    },
-    {
-      "id": 51,
-      "content": "Soon enough, Sinclair came back to his senses. He stared out the window with vacant eyes."
-    },
-    {
-      "id": 52,
-      "model": "단테",
-      "content": "<…The others are all out fighting.>"
-    },
-    {
-      "id": 53,
-      "model": "싱클레어",
-      "content": "I’m… sorry. I’ll go join them."
-    },
-    {
-      "id": 54,
-      "model": "싱클레어",
-      "content": "I can’t keep dragging others down."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Ở trên chiếc Mephistopheles",
+                "content":"Sau khi quay lại xe buýt, Vergilius chào đón chúng tôi bằng một câu hỏi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Địch lần này khó đối phó hơn những gì các cô cậu thường gặp à?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Sẽ rất nhanh nếu ông giúp tụi này một tay đấy~",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Và như ta thường nói, giúp các cô cậu cũng không có nghĩa gì cả.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Mấy kẻ đó… Chúng gọi chúng ta là dị giáo. Dựa vào tiêu chuẩn nào mà đánh giá được chứ?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"<Tôi nghĩ là bọn họ đang nhắm vào tôi.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Đinh Búa Giáo… Wing mà quý trọng trải nghiệm trên hết mọi thứ.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Meursault lẩm bẩm điều gì đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"<Trải nghiệm sao?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Con người sinh ra vốn để trau dồi kinh nghiệm và hành động tương xứng với giá trị của mỗi người… Đó là châm ngôn của họ.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Tên đấy kêu ta phải dâng chúng thủ cấp của quản lý…",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Nghĩa là…",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"…Bọn chúng quay lại rồi. Bọn chúng không hề quên. Quay lại chốn này, để-",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Sinclair gần như sắp sửa phát khóc đến nơi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Rodya nhìn cậu ấy với ánh mắt đầy thương hại, nhưng cô ấy không thể làm được gì cả.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Chú Vergy Verg, hộp tiếng ồn ào rồi.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"…Vậy là đội trinh sát có thông tin cho chúng ta rồi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":"Một loạt tiếng động radio phát ra.",
+                "model":"\/\/효과음",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"*Pzzt Zzzt Zzzt* Đây là… *Pzzz…*",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"*Zzzt Pzzt* Saude đã… *Pzzz…*",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Cho mượn chút nào.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Effie, hội xe buýt đây. Tình hình bên đó thế nào rồi?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":"Những tiếng hét kinh hãi phát ra từ bên phía đầu nghe.",
+                "model":"\/\/효과음",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"\"…Hãy gánh chịu toàn bộ tội lỗi và chấp nhận bị thanh tẩy đi.\"",
+                "model":"에피",
+                "teller":"Effie?",
+                "title":"LCCB"
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":null,
+                "model":"SE \/\/ 뚝",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Effie ơi?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Đó là… giọng của Effie à? Hay là tiếng gì khác?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Từ từ… Đấy còn có phải là tiếng người nữa không?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Tiếng huýt sáo…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Sinclair, cậu đang nói về cái gì thế?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Mọi người đều nghe tiếng huýt sáo đó mà! Ngay khúc cuối… Thoáng qua…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Có tiếng đó hả…?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Là ả ta! Con khốn đó đang ở đây! Sau tất cả… Để phá hủy toàn bộ quê nhà của chúng tôi…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"<Bình tĩnh nào Sinclair. Cậu bảo tiếng huýt sáo là sao, và \"con khốn\" mà cậu nói đến là ai?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Ả ta đang đợi tôi. Đó chính là tín hiệu để gọi tôi!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Những giọt nước mắt tức tưởi trào xuống gương mặt của Sinclair khi cậu ấy đang gào thét.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Chờ đã, mấy người đứng kia trông giống những kẻ chúng ta vừa gặp.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Chúng ta nên quay lại…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"<Cái gì cơ?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Chúng ta không thể… quay lại được sao? Tôi không muốn đi—hãy quay lại thôi. Chỉ cần vòng vô lăng và…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Nhóc à… Sao thế? Điều gì khiến em lo lắng dữ vậy?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Chúng ta không nên đi nữa. Chúng ta đều sẽ chết mất—chúng ta phải quay lại.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Emil Sinclair. Đừng có mà nói xằng...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"……",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":"Thịch.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Outis xoay cổ tay một cách điềm tĩnh.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Ta đã làm hắn bất tỉnh bằng cách đấm nhẹ vào bụng, chỉ thế thôi.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Có vẻ như đây là lần đầu tiên chúng ta có chung tiếng nói với nhau. Suýt chút nữa ta phải xen vào rồi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Tôi không cần những kẻ nhát như cáy trên chiến trường. Sao tôi không được quăng hắn ra khỏi xe?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"<Như thế… hơi quá đáng đấy.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"…Nếu ngài đã nói thế, thưa Quản Lý.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Outis nhìn Sinclair với vẻ bất mãn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Mặc dù cậu ấy là kiểu người khá nhút nhát, nhưng tôi chưa bao giờ thấy cậu ấy phản đối chuyện gì đó dữ dội như lúc này.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Hành vi không thể nào lường trước này của cậu ấy khiến tôi phải bận tâm…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Và tôi không thể nào hỏi trực tiếp được, bởi vì cậu ấy dường như không có tâm trạng nào để nói cho tôi biết cả.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Ít lâu sau đó, Sinclair tỉnh lại. Cậu ấy nhìn ra ngoài ô cửa sổ với đôi mắt vô hồn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"<… Những người khác đều ra ngoài chiến đấu rồi.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Tôi… xin lỗi. Tôi sẽ ra hỗ trợ họ ngay.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Tôi không thể cứ kéo chân mọi người xuống mãi được.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

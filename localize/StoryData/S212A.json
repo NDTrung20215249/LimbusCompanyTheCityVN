@@ -1,294 +1,454 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino 2F",
-      "model": "이스마엘",
-      "content": "As absurd as it sounds, if we want to leave this floor early…"
-    },
-    {
-      "id": 1,
-      "model": "이스마엘",
-      "content": "We’re going to need to touch their hearts with a powerful dance."
-    },
-    {
-      "id": 2,
-      "model": "단테",
-      "content": "<As you all know, my memories are hazy, so… dance, is it…? Can’t say I’m all too familiar.>"
-    },
-    {
-      "id": 3,
-      "content": "Amnesia came in handy as an excuse to opt-out of things at times like this."
-    },
-    {
-      "id": 4,
-      "content": "Of course, I haven’t actually forgotten what dance is, but there’s no need to be too honest about it, is there?"
-    },
-    {
-      "id": 5,
-      "model": "단테",
-      "content": "<Say, Hong Lu, have you taken dance lessons or anything?>"
-    },
-    {
-      "id": 6,
-      "model": "홍루",
-      "content": "I learned a little bian lian, though I only had three instructors teaching me. To perform it, I’ll need a few masks, fans, makeup, and…"
-    },
-    {
-      "id": 7,
-      "model": "단테",
-      "content": "<…We aren’t gonna find them here. Next.>"
-    },
-    {
-      "id": 8,
-      "model": "히스클리프",
-      "content": "Well, I did step on a good few feet of snobbish aristocrats at balls."
-    },
-    {
-      "id": 9,
-      "model": "이상",
-      "content": "My inner voice expresses fear."
-    },
-    {
-      "id": 10,
-      "model": "이스마엘",
-      "content": "…Me? I spent half of my life on a ship."
-    },
-    {
-      "id": 11,
-      "model": "돈키호테",
-      "content": "Dance is where I—! Hrrmph! Cease this relentless obstruction of my words!"
-    },
-    {
-      "id": 12,
-      "model": "료슈",
-      "content": "A sword dance for the first time in a while doesn’t sound bad. I’ll kill it on the floor."
-    },
-    {
-      "id": 13,
-      "model": "오티스",
-      "content": "Though the only beats I have danced to throughout my life were morning exercise programs during roll call, if the manager so demands, I will immediately see to it that—"
-    },
-    {
-      "id": 14,
-      "model": "로쟈",
-      "content": "W-Well, Dante… I’m good at most things, buuut, my dancing is kinda… embarrassing… Hahah!"
-    },
-    {
-      "id": 15,
-      "model": "그레고르",
-      "content": "I don’t mind, except my arm might rage out of control from the stimulation and charge for the audience’s heads."
-    },
-    {
-      "id": 16,
-      "model": "뫼르소",
-      "content": "……"
-    },
-    {
-      "id": 17,
-      "model": "파우스트",
-      "content": "Faust doesn’t necessarily enjoy dancing for leisure, but I could gladly perform a routine if it’s for the mission’s sake."
-    },
-    {
-      "id": 18,
-      "model": "파우스트",
-      "content": "However, it’s not technical perfection they want. They’re looking for something unstable and unpolished, rather…"
-    },
-    {
-      "id": 19,
-      "model": "로쟈",
-      "content": "Sinclair!"
-    },
-    {
-      "id": 20,
-      "model": "싱클레어",
-      "content": "Wha?!"
-    },
-    {
-      "id": 21,
-      "model": "로쟈",
-      "content": "You busted a move or two as a kid, didn’t you?"
-    },
-    {
-      "id": 22,
-      "model": "싱클레어",
-      "content": "B-Bust? I suppose I… took a basic maracas course at school as a liberal arts class…"
-    },
-    {
-      "id": 23,
-      "model": "단테",
-      "content": "<He came from a rich family too? How’d you figure that out, Rodya?>"
-    },
-    {
-      "id": 24,
-      "model": "로쟈",
-      "content": "I can tell from the way he walks and talks."
-    },
-    {
-      "id": 25,
-      "model": "로쟈",
-      "content": "On the other hand, uncultured ones… Pfheh… It shows, y’know?"
-    },
-    {
-      "id": 26,
-      "content": "Rodya quietly giggled while looking at Heathcliff, then snuck up behind Sinclair to wrap her arms around his shoulders."
-    },
-    {
-      "id": 27,
-      "model": "로쟈",
-      "content": "‘Kay now~ My little Sinclair, I have a very, veeeery important task for you."
-    },
-    {
-      "id": 28,
-      "model": "싱클레어",
-      "content": "Huh? Hey? Rodya? Where are you…"
-    },
-    {
-      "id": 29,
-      "content": "Moments later, Sinclair solemnly walked onto the stage."
-    },
-    {
-      "id": 30,
-      "model": "단테",
-      "content": "<Sinclair… You can do this.>"
-    },
-    {
-      "id": 31,
-      "model": "이스마엘",
-      "content": "Yeah, think of all the times when Heathcliff trampled over you…"
-    },
-    {
-      "id": 32,
-      "model": "싱클레어",
-      "content": "I, I’m…"
-    },
-    {
-      "id": 33,
-      "content": "Sinclair turned to Rodya, still looking anxious."
-    },
-    {
-      "id": 34,
-      "model": "싱클레어",
-      "content": "Am I… really able to do this?"
-    },
-    {
-      "id": 35,
-      "model": "로쟈",
-      "content": "Wrong question, Sinclair."
-    },
-    {
-      "id": 36,
-      "model": "로쟈",
-      "content": "This is something only you can do."
-    },
-    {
-      "id": 37,
-      "content": "He returned a determined nod."
-    },
-    {
-      "id": 38,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "The wrist-rocking… That pensive expression… Restrained rhythm… Perfection!"
-    },
-    {
-      "id": 39,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "It’s calm… Yet it’s the calmness that stirs my heart… This young man—he’s channeling something from within…"
-    },
-    {
-      "id": 40,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "How sublime…"
-    },
-    {
-      "id": 41,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "He is fighting repressed darkness and inner turmoil with the body’s motion…!"
-    },
-    {
-      "id": 42,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Ohhh… The embers linger in glowing ash… heating the rhythm… for gestures to be struck along… This conjures an image, one of a bonfire that has burnt through the whole night! And we are witnessing the cotillion of ash dancing atop its remnant!"
-    },
-    {
-      "id": 43,
-      "model": "단테",
-      "content": "<Sorry, what?>"
-    },
-    {
-      "id": 44,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Young man, won’t you consider joining us? You have the potential to grow big."
-    },
-    {
-      "id": 45,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "That boy belongs to our company. You should know that siphoning valuable talent from their current employment without permission is a serious crime."
-    },
-    {
-      "id": 46,
-      "content": "Just a few hours ago, Sinclair was only one moron in our band of blunderheads, but now he’s been elevated to the company’s valuable asset."
-    },
-    {
-      "id": 47,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "What a fine performance. You wish to get to the top floor, right?"
-    },
-    {
-      "id": 48,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "You may pass. You have earned the right."
-    },
-    {
-      "id": 49,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Be warned, though, the folks upstairs won’t be as reasonable. They have no concept of festivity in their heads."
-    },
-    {
-      "id": 50,
-      "content": "Sinclair came back to us with an invigorated look."
-    },
-    {
-      "id": 51,
-      "model": "싱클레어",
-      "content": "The things welling up inside me… This is what it was about."
-    },
-    {
-      "id": 52,
-      "model": "싱클레어",
-      "content": "It makes me wonder why I thought it would be hard. I feel much more comfortable now."
-    },
-    {
-      "id": 53,
-      "content": "I was curious to know the inner struggle he’d expressed through dance that had touched the Syndicate to their core."
-    },
-    {
-      "id": 54,
-      "content": "And what kind of hardship a young gentleman like him could have gone through…"
-    },
-    {
-      "id": 55,
-      "content": "But those questions could wait; for now, we headed upstairs to the third floor."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sòng Bạc (T.2)",
+                "model":"이스마엘",
+                "content":"Nghe thì lố bịch hết sức nhưng cũng là sự thật, rằng nếu muốn sớm rời khỏi tầng này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thì chúng ta sẽ phải chạm đến trái tim chúng bằng một điệu nhảy mạnh mẽ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"단테",
+                "content":"<Như mọi người đều biết, ký ức của tôi khá mơ hồ, nên là... nhảy đúng không...? Tôi còn không biết nó là gì nữa.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"Mất trí nhớ gần như là một cái cớ hoàn hảo để tránh những chuyện như này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Tất nhiên, tôi không hẳn là quên khái niệm nhảy, nhưng mà tôi không nhất thiết phải nói nó ra, đúng chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "content":"<Nói mới nhớ, Hong Lu, anh đã học nhảy hay cái gì đó tương tự chưa?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"홍루",
+                "content":"Tôi có học chút Biến kiểm, nhưng hồi đó tôi không theo nhiều giáo viên lắm đâu... À, có ba người đó ạ. Cơ mà muốn trình diễn thì tôi phải có đạo cụ, như là mặt nạ này, chiết phiến này, rồi là trang điểm này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"단테",
+                "content":"<... Chúng ta sẽ không thể tìm được chúng ở đây đâu. Người tiếp theo.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ờ thì, tao có từng dẫm lên chân của vài đứa quý tộc hợm hĩnh ở dạ hội.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이상",
+                "content":"Linh tính tôi đang rất sợ hãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...Gì? Tôi đã dành nửa cuộc đời lênh đênh trên tàu cá đấy nhé.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Khiêu vũ chính là sở—! Ưm...Ưaa! Ngừng ngay cái việc bịt miệng khi ta đang nói đi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"료슈",
+                "content":"Lâu lâu làm một điệu múa kiếm cũng không tệ. Ta sẽ khiến sân khấu này nhuốm đỏ màu máu và trở thành một kiệt tác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"오티스",
+                "content":"Dù cho điệu nhạc duy nhất tôi nhảy theo trong cuộc đời là cái chương trình tập thể dục buổi sáng lúc đang điểm danh, nhưng nếu quản lý muốn, tôi sẵn sàng nhảy cho ngài coi-",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"로쟈",
+                "content":"T-thì, Dante... Tôi giỏi nhiều thứ lắm, nhưnggg, cách tôi nhảy nó hơi... ngượng chút... Hahah!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi không phiền đâu, nhưng mà việc vận động quá khích có thể khiến cánh tay của tôi mất kiểm soát và phóng tới đầu của các khán giả dưới kia.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"뫼르소",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"파우스트",
+                "content":"Faust không thích nhảy vì mục đích giải trí, nhưng tôi có thể vui lòng nhảy một điệu nếu nó là vì nhiệm vụ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tuy nhiên, họ không muốn sự hoàn hảo về mặt kỹ thuật. Họ đang tìm kiếm thứ gì đó không ổn định và chưa được mài dũa, như là…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"로쟈",
+                "content":"Sinclair!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Dạ?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chắc cưng từng cháy trên sân khấu một hoặc hai lần khi còn nhỏ, phải không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"싱클레어",
+                "content":"C-Cháy ư? À hồi trước tôi... có học một khóa múa lục lạc cơ bản ở trường cho môn nghệ thuật tự do...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"단테",
+                "content":"<Cậu ấy cũng xuất thân từ gia đình khá giả sao? Làm sao cô biết được thế, Rodya?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chỉ nhìn thoáng qua cách cậu ta đi đứng và nói năng là đủ rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ngược lại, là những kẻ vô văn hóa... Phừ... Rõ ràng, đúng không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Rodya khẽ tít mắt khi nhìn Heathcliff, rồi sau đó nhanh nhảu chuồn ra sau lưng Sinclair để vòng tay qua vai cậu ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"로쟈",
+                "content":"Giờ nhá~ Bé Sinclair của chị, chị có, một việc rấttttt quan trọng cho em đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Hả? Này? Chị Rodya? Chị đang làm gì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"Một chốc sau, Sinclair trang trọng bước lên sân khấu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"단테",
+                "content":"<Sinclair... Cậu có thể làm được.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đúng rồi đấy, hãy nhớ lại tất cả những lúc thằng Heathcliff đó đã giày xéo cậu đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi, tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"Sinclair nhìn về phía Rodya, vẫn còn cảm thấy lo lắng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi... có thật sự làm được không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hỏi sai rồi, Sinclair.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chỉ có cưng mới làm được thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"Cậu ấy gật đầu đáp lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Cách lắc tay đấy... Biểu cảm trầm tư đó... Nhịp điệu kiềm chế ấy... Tuyệt hảo!",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"경쾌한마리아치조직원",
+                "content":"Thật tĩnh lặng... nhưng chính sự tĩnh lặng ấy đã làm khuấy động trái tim tôi... Chàng trai trẻ này— cậu ta đang truyền tải điều gì đấy từ tận sâu bên trong...",
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"경쾌한마리아치조직원",
+                "content":"Thật tinh tế làm sao...",
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"경쾌한마리아치조직원",
+                "content":"Cậu ấy đang chiến đấu với bóng tối bị kiềm hãm sâu bên trong và nỗi day dứt trong lòng qua những điệu nhảy ấy...!",
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"경쾌한마리아치조직원",
+                "content":"Ôiii... Ánh lửa phai tàn trong đống tro lửa đỏ rực... thắp cháy cả nhịp điệu... để điệu bộ hòa mình cùng vũ khúc ấy... Những thứ ấy dung hòa nên cảnh tượng của một đống lửa trại cháy sáng xuyên suốt màn đêm! Và chúng ta đang chứng kiến hàng triệu ánh tro tàn tung bay phấp phới trên đốm lửa trại đã vụt tắt!",
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"단테",
+                "content":"<Xin lỗi, cái gì cơ?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Chàng trai trẻ, sao cậu không gia nhập vào nhóm chúng tôi đi? Cậu có tố chất để trở thành ngôi sao lớn đấy.",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"소드",
+                "content":"Cậu trai này thuộc về công ty chúng tôi. Anh nên biết rõ là bất kì hành động tuyển dụng các nhân viên tài năng mà không có sự cho phép từ bên còn lại là hành vi phạm pháp nghiêm trọng.",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":null,
+                "content":"Chỉ mới vài tiếng trước đây, Sinclair cũng chỉ là một trong số mấy tên đầu đất trong nhóm chúng tôi, ấy mà bây giờ cậu ấy đã được tôn lên làm tài sản quý giá nhất của công ty rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Quả là màn trình diễn ấn tượng. Các vị muốn lên tầng thượng, phải không?",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"경쾌한마리아치조직원",
+                "content":"Mọi người có thể đi. Vì các vị xứng đáng.",
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Dù gì thì hãy cẩn thận, mấy người tầng trên sẽ không hiểu chuyện như chúng tôi đâu. Bọn họ không có khái niệm gì về niềm vui cả.",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "content":"Sinclair quay về đoàn với vẻ mặt phấn khởi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Những cảm xúc bồng bột trong mình... Hoá ra đây chính là cảm giác đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nó khiến tôi băn khoăn tại sao mình lại nghĩ rằng nó sẽ khó. Giờ thì tôi cảm thấy thoải mái hơn nhiều rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "content":"Tôi tò mò muốn biết về nỗi dằn vặt trong nội tâm mà cậu ấy thể hiện thông qua điệu nhảy đã chạm tới tận tâm can họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":null,
+                "content":"Và một chàng trai trẻ như cậu ấy đã trải qua loại gian khổ gì…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "content":"Nhưng những câu hỏi ấy có thể đợi được câu trả lời; còn bây giờ, chúng tôi bước tiếp lên tầng thứ ba.",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

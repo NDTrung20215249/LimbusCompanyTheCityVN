@@ -1,439 +1,686 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "The Old Sinclair Estate",
-      "content": "Sinclair’s home was the largest mansion in the neighborhood, standing at the innermost part of town."
-    },
-    {
-      "id": 1,
-      "content": "One could see from a distance that a huge flame was engulfing the estate."
-    },
-    {
-      "id": 2,
-      "content": "I took a moment to try and imagine what this town could have looked like during its peaceful times."
-    },
-    {
-      "id": 3,
-      "content": "To bring to mind the times when the trees we saw near the town still had lush, verdant leaves."
-    },
-    {
-      "id": 4,
-      "content": "How Sinclair would’ve been during those times."
-    },
-    {
-      "id": 5,
-      "content": "Or when everyone around him had died."
-    },
-    {
-      "id": 6,
-      "content": "I couldn’t paint a clear picture of either happiness or despair."
-    },
-    {
-      "id": 7,
-      "content": "Nonetheless, I only hope that Sinclair can brace himself for the misfortune he’ll soon have to face."
-    },
-    {
-      "id": 8,
-      "model": "이스마엘",
-      "content": "This is… awful, to say the least…"
-    },
-    {
-      "id": 9,
-      "content": "A courtyard that could have once been a vast, flourishing garden was now full of nails erected tall."
-    },
-    {
-      "id": 10,
-      "content": "A variety of prosthetic bodies were pierced by those towering nails."
-    },
-    {
-      "id": 11,
-      "content": "And the house was enveloped in ferocious flame, ready to consume everything around it."
-    },
-    {
-      "id": 12,
-      "content": "While everyone’s attention was drawn to the prostheses…"
-    },
-    {
-      "id": 13,
-      "content": "Sinclair’s eyes drifted to a corner of the yard."
-    },
-    {
-      "id": 14,
-      "model": "싱클레어",
-      "content": "The graves, they’re… dug up…?"
-    },
-    {
-      "id": 15,
-      "content": "Following his gaze, I could see three graves that were violated."
-    },
-    {
-      "id": 16,
-      "content": "Sinclair’s expression alone was enough for me and all the other Sinners to guess who they were for."
-    },
-    {
-      "id": 17,
-      "model": "이상",
-      "content": "…To execute the dead—this is nothing short of a devil’s work."
-    },
-    {
-      "id": 18,
-      "content": "Father, mother, and sister."
-    },
-    {
-      "id": 19,
-      "content": "The family he mentioned… That’s where they should be resting."
-    },
-    {
-      "id": 20,
-      "model": "오티스",
-      "content": "Halt… One Uniform, straight ahead."
-    },
-    {
-      "id": 21,
-      "model": "싱클레어",
-      "content": "That whistling…"
-    },
-    {
-      "id": 22,
-      "teller": "???",
-      "title": "???",
-      "content": "Kehehe. I mean, it’s just too funny when you think about it."
-    },
-    {
-      "id": 23,
-      "content": "Someone walked out of the burning household."
-    },
-    {
-      "id": 24,
-      "content": "Her laugh was simply sinister in every way imaginable."
-    },
-    {
-      "id": 25,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Why put so much effort into burying bodies that can’t even rot… Am I right?"
-    },
-    {
-      "id": 26,
-      "model": "싱클레어",
-      "content": "Kromer…"
-    },
-    {
-      "id": 27,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "I’m sure you’ll find ‘em around somewhere if you look hard enough. I do remember nailing those three."
-    },
-    {
-      "id": 28,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Be a good boy, and I might just tell you where they are…"
-    },
-    {
-      "id": 29,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Well, Sinclair? You’ve grown a spine, coming all the way here."
-    },
-    {
-      "id": 30,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Enough of one to look at a few dead bodies too, right?"
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "Why… Just… Why all this…?"
-    },
-    {
-      "id": 32,
-      "content": "Sinclair couldn’t even speak properly."
-    },
-    {
-      "id": 33,
-      "model": "오티스",
-      "content": "Where did our Before Team get off to? They’ve got to turn up at this point…"
-    },
-    {
-      "id": 34,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Ah~ Sinclair’s got some buddies!"
-    },
-    {
-      "id": 35,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Looking for the other filthy ratlets that snuck in here?"
-    },
-    {
-      "id": 36,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Okay, okay. Watch closely. I’ll turn on the lights, so open your eyes wide!"
-    },
-    {
-      "id": 37,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Tadaa!"
-    },
-    {
-      "id": 38,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Krgh, khaag…"
-    },
-    {
-      "id": 39,
-      "model": "그레고르",
-      "content": "Effie…?"
-    },
-    {
-      "id": 40,
-      "content": "Effie was barely breathing. His limbs had been cut away, and deformed prosthetics were crudely lodged in their place."
-    },
-    {
-      "id": 41,
-      "model": "싱클레어",
-      "content": "Effie!!!"
-    },
-    {
-      "id": 42,
-      "content": "He was too mutilated to even speak a single word."
-    },
-    {
-      "id": 43,
-      "model": "파우스트",
-      "content": "……"
-    },
-    {
-      "id": 44,
-      "model": "파우스트",
-      "content": "In his current state, it will take around two days for him to completely die."
-    },
-    {
-      "id": 45,
-      "model": "파우스트",
-      "content": "And the pole piercing through him will only amplify his suffering."
-    },
-    {
-      "id": 46,
-      "model": "단테",
-      "content": "<Then…>"
-    },
-    {
-      "id": 47,
-      "model": "오티스",
-      "content": "Manager, I happen to know of a method to end a life with as little pain as possible."
-    },
-    {
-      "id": 48,
-      "model": "오티스",
-      "content": "It’s one that saw many uses, in fact…"
-    },
-    {
-      "id": 49,
-      "model": "오티스",
-      "content": "May I ask you to give me the order?"
-    },
-    {
-      "id": 50,
-      "content": "I looked to both Gregor and Ishmael."
-    },
-    {
-      "id": 51,
-      "content": "They gazed back at me, and… as if in acknowledgement, dropped their heads low and bit their lips."
-    },
-    {
-      "id": 52,
-      "content": "I understood what that meant."
-    },
-    {
-      "id": 53,
-      "model": "오티스",
-      "content": "…Rest in peace."
-    },
-    {
-      "id": 54,
-      "content": "The collar of Outis’s clothes brushed against the wind."
-    },
-    {
-      "id": 55,
-      "content": "Then silence."
-    },
-    {
-      "id": 56,
-      "content": "And—it’s then broken by Kromer’s roaring laughter."
-    },
-    {
-      "id": 57,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Pfh… Pwahahahaha!!"
-    },
-    {
-      "id": 58,
-      "model": "싱클레어",
-      "content": "Ah."
-    },
-    {
-      "id": 59,
-      "content": "At the same time, I could hear something else break."
-    },
-    {
-      "id": 60,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Really, it’s hilarious to watch you all care for each other when you’ll all meet the same fate anyway!"
-    },
-    {
-      "id": 61,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Brings you back, doesn’t it, Sinclair?"
-    },
-    {
-      "id": 62,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Your face back then was real priceless."
-    },
-    {
-      "id": 63,
-      "model": "싱클레어",
-      "content": "Kromer."
-    },
-    {
-      "id": 64,
-      "model": "싱클레어",
-      "content": "You have to die."
-    },
-    {
-      "id": 65,
-      "model": "싱클레어",
-      "content": "Yeah, I think that’s the right way."
-    },
-    {
-      "id": 66,
-      "model": "싱클레어",
-      "content": "You’ll die by my—!"
-    },
-    {
-      "id": 67,
-      "content": "He was interrupted by the sound of a nail dragging across the floor."
-    },
-    {
-      "id": 68,
-      "model": "오티스",
-      "content": "…It’s Guido."
-    },
-    {
-      "id": 69,
-      "content": "We thought we had felled him with our best, but not a scratch was on his body now. It was as if all his injuries healed in that short time."
-    },
-    {
-      "id": 70,
-      "content": "Seeing him walk towards us in perfect condition fatigued the Sinners…"
-    },
-    {
-      "id": 71,
-      "content": "Rendered speechless, all they can muster from their hearts is a deep groan of contempt."
-    },
-    {
-      "id": 72,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Guido, why couldn’t you take out the others?"
-    },
-    {
-      "id": 73,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Forgive my ineptitude, O One Who Grips. My incompetence allowed them to escape."
-    },
-    {
-      "id": 74,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "You have to stay alert. You never know what’s hidden under those cursed steel craniums."
-    },
-    {
-      "id": 75,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I shall keep your word at heart, O One Who Grips."
-    },
-    {
-      "id": 76,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Since the reunion is over, I’ll be heading back."
-    },
-    {
-      "id": 77,
-      "content": "Kromer turns around to walk into the burning mansion."
-    },
-    {
-      "id": 78,
-      "model": "싱클레어",
-      "content": "Kromer!!!"
-    },
-    {
-      "id": 79,
-      "model": "싱클레어",
-      "content": "Get back here! I’ll… I swear, you—! I’ll grab you with my hand and—"
-    },
-    {
-      "id": 80,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "Nope, Sinclair."
-    },
-    {
-      "id": 81,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "It’s always been the other way around…"
-    },
-    {
-      "id": 82,
-      "content": "A long smirk dances across Kromer’s entire face; it’s hard to tell if it’s the violent blaze or Kromer’s vice that is consuming the other."
-    },
-    {
-      "id": 83,
-      "content": "And then…"
-    },
-    {
-      "id": 84,
-      "model": "크로머",
-      "teller": "Kromer",
-      "title": "Nagel und Hammer",
-      "content": "I am the one who grips."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Dinh Thự Cũ Nhà Sinclair",
+                "content":"Ngôi nhà của Sinclair chính là căn biệt thự lớn nhất trong khu vực, toạ lạc nơi sâu nhất của thị trấn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Từ đằng xa, bất kỳ ai cũng có thể thấy một ngọn lửa lớn đang nuốt chửng cả dinh thự.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Tôi đang cố gắng tưởng tượng xem thị trấn này sẽ trông như thế nào trong quãng thời gian yên bình của nó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Tự hỏi rằng khi những ngọn cây quanh thị trấn vẫn còn bóng râm lá xanh hun hút là như thế nào.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Về cách mà Sinclair đã sống ra sao trong khoảng thời gian trước đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Hoặc là khi mọi người xung quanh cậu ấy đã chết ra sao.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Tôi không thể nào mường tượng ra được toàn cảnh của bức tranh vui vẻ đầm ấm hay tuyệt vọng vô cùng ấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Dẫu vậy, tôi chỉ hy vọng rằng Sinclair có thể dũng cảm đối mặt với điều mà cậu ấy sắp sửa đương đầu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Trông thật… tồi tệ, chí ít là vậy…",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Một khu vườn đã từng rất rộng lớn và đầy sắc giờ đây là một nghĩa trang của những cây đinh to lớn cắm thẳng đứng xuống đất.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Muôn vàn thi thể nhân tạo bị đâm xuyên bởi những cọc đinh ấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Còn ngôi nhà đang bùng cháy dữ dội, sẵn sàng thiêu đốt tất cả mọi thứ xung quanh nó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Trong khi tất cả mọi người đều hướng mắt về những cái xác…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Ánh mắt của Sinclair nhìn về một góc vườn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Những ngôi mộ, chúng bị… quật lên…?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Nhìn theo hướng của cậu ta, tôi có thể thấy ba ngôi mộ đã bị xâm phạm.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Riêng biểu cảm Sinclair trưng ra là quá đủ để tôi và các Tội Nhân khác đoán được những ngôi mộ đó thuộc về ai.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"…Hành quyết đến cả người chết - chúng chẳng khác gì lũ ác quỷ.",
+                "model":"이상",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Cha, mẹ, và chị gái.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Gia đình mà cậu ấy đã nhắc tới… Đó lẽ ra chính là nơi họ sẽ yên nghỉ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Đứng im… Có một tên Uniform phía trước.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Tiếng huýt sáo đó…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Ke he he. Tớ chỉ muốn nói là, thật hài hước mỗi khi nghĩ về chuyện đó đấy.",
+                "model":null,
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Một ai đó bước ra từ căn nhà đang cháy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Điệu cười của cô ta nham hiểm theo mọi cách có thể tưởng tượng được.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Tại sao lại phải phí công chôn cất những thi thể mà thậm chí không thể thối rữa chứ… Tớ nói có đúng không?",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Kromer…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Tôi chắc rằng cậu sẽ tìm thấy bọn họ ở quanh đây nếu như nhìn đủ kỹ. Tôi vẫn nhớ là mình có đóng cọc cả ba bọn họ.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Hãy là một cậu bé ngoan, tôi có thể sẽ nói cho cậu biết bọn họ đang ở đâu…",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Ấy chà, Sinclair này? Cậu đã mọc thêm lá gan rồi nhỉ, dám quay về đây cơ đấy.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Chắc cũng vừa đủ to để nhìn vài cái xác chết phải không nhỉ?",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Tại sao… Rốt cuộc… Tại sao lại làm tất cả chuyện này…?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Sinclair thậm chí còn không thể nói hết một câu đàng hoàng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Đội Tiền Tuyến đi tới đâu luôn rồi? Chúng đáng lý phải đến từ mấy kiếp rồi chứ…",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Á à~ Sinclair có bạn kìa!",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Đang tìm kiếm mấy đám chuột nhắt lảng vảng vào nơi này sao?",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Được, được. Nhìn kỹ vào nhé. Ta sẽ bật đèn lên, nên liệu các ngươi mở to mắt ra mà nhìn này!",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Ta đaa!",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Khực, khaa…",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Effie…?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Effie đang thoi thóp khó thở. Toàn bộ tay chân của anh ta đã bị chặt đứt, và thế vào đó là những phần bộ phận nhân tạo đang đung đưa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Anh Effie!!!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Anh ta bị thương quá nặng đến nỗi không thể thốt lên một từ nào nữa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"…….",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Trong tình trạng hiện tại, sẽ mất đâu đó hai ngày để cậu ấy chết hẳn.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Và cái cọc đâm xuyên cậu ta chỉ tăng thêm phần đau đớn mà thôi.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"<Thế thì…>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Quản Lý, vừa hay tôi biết một cách để giết người nhanh chóng mà không đau đớn.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Thật ra, nó là cách hữu dụng nhất…",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Liệu ngài có thể ra lệnh cho tôi không?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Tôi nhìn về phía của Gregor và Ishmael.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Bọn họ nhìn ngược lại tôi, và… như thể chấp thuận với cách làm đó, hai người họ cúi gằm mặt xuống và cắn môi cam chịu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Tôi hiểu điều đó nghĩa là gì.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"…An nghỉ đi.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Cổ áo của Outis vút bay trong gió.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Sau đó không còn một âm thanh nào nữa vang lên.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Để rồi—bầu không khí tĩnh lặng ấy bị phá vỡ bởi tiếng cười điên loạn của Kromer.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Phì… Á hà ha ha ha ha!!",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Ồ.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Cùng lúc đó, tôi có thể nghe thấy tiếng của thứ gì đó vụn vỡ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Thiệt tình, thật nực cười làm sao khi nhìn các ngươi đều quan tâm đến nhau để rồi sau cùng tất cả bọn ngươi cũng đều nhận lấy chung một kết cục cả thôi!",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Thật hoài niệm mà, đúng không hả, Sinclair?",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Biểu cảm của cậu khi ấy thật là vô giá.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Kromer.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Mày phải chết.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Ừ, đúng vậy.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Mày phải chết dưới tay—!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Lời nói của cậu ấy bị gián đoạn bởi âm thanh của một chiếc đinh bị kéo lê trên nền đất cứng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"…Là Guido.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Chúng tôi tưởng là đã cố hết sức để hạ gục ông ta, nhưng bây giờ trên người kẻ đó lại không có lấy một vết xước nào. Cứ như thế mọi vết thương của ông ta đã được hồi phục trong khoảng thời gian ngắn ngủi đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Nhìn thấy ông ta đang từng bước tiến tới chỗ các Tội Nhân đã sức cùng lực kiệt…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Không thể nói nên lời, những gì bọn họ có thể thốt ra được lúc này là những tiếng than thở và rầu rĩ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Guido, tại sao ngươi lại không thể triệt tiêu hết bọn chúng?",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Xin thứ lỗi vì sự kém cỏi của tôi, hỡi Người Nắm Giữ. Tôi thật bất tài khi đã để chúng trốn thoát.",
+                "model":"귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Ngươi phải cảnh giác hơn chứ. Ngươi sẽ không biết được thứ gì đang ẩn dưới đống hộp sọ sắt thép đáng nguyền rủa đó đâu.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Tôi sẽ lưu nhớ lời của người trong thâm tâm, hỡi Người Nắm Giữ.",
+                "model":"귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Cuộc tái ngộ đã kết thúc rồi nên ta quay về đây.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"Kromer rời đi mất về phía căn biệt thự rực lửa kia.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"Kromer!!!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"Quay lại đây! Tao sẽ… Tao thề, mày—! Tao sẽ nắm lấy cổ mày bằng đôi tay này và—",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"Không đâu, Sinclair à.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"Phải là ngược lại mới đúng…",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"Trên gương mặt của Kromer nở một nụ cười vô cùng ma mị; thật khó để nhìn được liệu đó có phải là do bạo lực hay là sự độc ác của Kromer đã bao trùm lấy tất cả mọi thứ và nuốt chửng nó trong biển lửa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Và rồi…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"Ta mới là kẻ nắm giữ.",
+                "model":"크로머",
+                "teller":"Kromer",
+                "title":"Nagel und Hammer"
+            }
+        ]
     }
-  ]
-}
+

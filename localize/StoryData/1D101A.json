@@ -2,49 +2,49 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Entryway",
-      "content": "Gregor lights his cigarette and takes a drag, followed by smoke streaming out from his mouth."
+      "place": "Quận 4 - Lối vào Chi nhánh Tập Đoàn L",
+      "content": "Gregor châm điếu thuốc lá rồi ngồi bệt xuống, theo đó là làn khói phả ra từ miệng."
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "They’d have fared better than this if they got a job at a security company or something…"
+      "content": "Có lẽ họ đã có thể sống tốt hơn nếu xin được việc làm tại các công ty an ninh hay gì đó..."
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "They spent their entire lives as soldiers. The changes required for them to start a new life must have been overwhelming."
+      "content": "Chúng đã dành cả cuộc đời mình để làm những người lính. Những sự thay đổi đã buộc chúng phải bắt đầu một cuộc sống mới hẳn không dễ dàng gì."
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "You have no idea how stubbornly the stigma of a fallen Wing’s remnants will haunt you. If anyone’s generous enough to take you in, licking their boots is the least you can do…"
+      "content": "Cô không biết được rằng cái mác của việc từng làm cho một Wing đã sụp đổ sẽ ám lấy cô tới mức nào đâu. Nếu như có ai đó đủ rộng lượng để nhận cô vào làm, thì cô cũng phải nịnh bợ họ suốt đấy..."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Cấp 8",
       "content": "……"
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "Oh… Sorry ‘bout that. Should’ve chosen my words carefully."
+      "content": "À... Xin lỗi nhé. Lẽ ra tôi nên suy nghĩ kĩ trước khi nói vậy."
     },
     {
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, it’s fine. I’m sure things were rough with G Corp’s fall, too."
+      "title": "Fixer Cấp 8",
+      "content": "Không, ổn mà. Tôi chắc rằng mọi thứ vốn đã khó khăn kể từ lúc Tập Đoàn G sụp đổ."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…The breaking of a Wing is a turbulent affair for many people."
+      "title": "Fixer Cấp 8",
+      "content": "... Việc Wing sụp đổ đã gây ra sự hỗn loạn đáng lo ngại đối với nhiều người."
     }
   ]
 }

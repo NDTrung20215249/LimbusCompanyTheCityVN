@@ -2,127 +2,127 @@
   "dataList": [
     {
       "id": 0,
-      "content": "I hear the howl of a beast somewhere."
+      "content": "Tôi nghe thấy tiếng gầm rú của một con mãnh thú ở đâu đó."
     },
     {
       "id": 1,
-      "content": "It cries ceaselessly. Is it wailing out of hunger? Or…"
+      "content": "Nó gầm gừ không ngừng nghỉ. Nó đang kêu gào lên vì đói sao? Hay..."
     },
     {
       "id": 2,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "teller": "???",
       "title": "???",
-      "content": "They’re being itchy-twitchy. Did they get up?"
+      "content": "Người đó đang co giật và động đậy kìa. Tỉnh dậy rồi sao?"
     },
     {
       "id": 3,
       "teller": "???",
       "title": "???",
-      "content": "Awake at last. I would’ve been a tad bit disappointed if you croaked on us."
+      "content": "Ngài cuối cùng đã tỉnh. Tôi sẽ có chút thất vọng nếu ngài chết trước mặt chúng tôi."
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "Fresh morning. This is Charon the Bus Driver."
+      "content": "Chào buổi sáng. Đây là Charon Người Tài Xế Thân Thiện."
     },
     {
       "id": 5,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Người đàn ông với đôi mắt đỏ",
       "title": "???",
-      "content": "It’s not morning, but I could guess it’s refreshing. How do you feel, Dante?"
+      "content": "Không hẳn là buổi sáng đâu, nhưng chú cũng có thể nói thoải mái thật. Cậu có nghĩ vậy không, Dante?"
     },
     {
       "id": 6,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Well I…>"
+      "title": "Tôi",
+      "content": "<Ừ thì tôi...>"
     },
     {
       "id": 7,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "Người đàn ông với đôi mắt đỏ",
       "title": "???",
-      "content": "Tick-tocking like a clock… Sigh, some language barrier this is."
+      "content": "Chỉ toàn tích với cả tắc... Hàaa, khi không lại phải gặp rào cản ngôn ngữ."
     },
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "You may call me Vergilius… If you can understand what I’m saying, give me some kind of reaction, Dante."
+      "content": "Cứ gọi ta là Vergilius... Dante, nếu cậu nghe với hiểu được thì ra hiệu giùm."
     },
     {
       "id": 9,
-      "content": "I gave him a quick nod since he didn’t seem hostile."
+      "content": "Tôi nhanh chóng gật đầu một cái bởi vì ông ấy trông không có vẻ gì là thù địch."
     },
     {
       "id": 10,
       "model": "베르길리우스",
-      "content": "Good. At least your hearing is functional. Let’s ride, Charon."
+      "content": "Tốt. Ít ra tai cậu còn dùng được. Bắt đầu khởi hành đi, Charon."
     },
     {
       "id": 11,
       "model": "카론",
-      "content": "Now departing. Vroom-vroom."
+      "content": "Tới giờ khởi hành rồi. Vờ-rùm-vờ-rùm."
     },
     {
       "id": 12,
-      "content": "There was a heavy roar and vibrations, as though they echoed from the bottom of a deep mire."
+      "content": "Một tiếng gầm nặng nề cất lên và nhiều đợt rung chuyển, như thể chúng vọng ra từ tận đáy sâu của đầm lầy vậy."
     },
     {
       "id": 13,
-      "content": "It was then that I realized I was aboard a bus."
+      "content": "Đó chính là lúc tôi nhận ra rằng tôi đang ở trên một chiếc xe buýt."
     },
     {
       "id": 14,
-      "content": "A bus… I can’t be sure if I’ve ever ridden such a vehicle in the past."
+      "content": "Một chiếc xe buýt... Tôi không chắc rằng liệu trước đây tôi đã từng được ngồi trên một loại phương tiện như thế này bao giờ chưa."
     },
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "Do you remember who you were?"
+      "content": "Cậu còn nhớ gì về quá khứ của bản thân không?"
     },
     {
       "id": 16,
-      "content": "I shook my head to say no. I had been reminded that my head was now a clinking mechanism."
+      "content": "Tôi lắc đầu như để nói không biết. Tôi vừa sực nhớ ra rằng đầu mình chỉ còn là cái máy phát ra tiếng tích tắc."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "I suppose you want your memory back. Am I right?"
+      "content": "Ta đoán rằng cậu muốn lấy lại ký ức mình. Có phải không?"
     },
     {
       "id": 18,
-      "content": "I nodded. I sure feel like an idiot."
+      "content": "Tôi gật đầu. Trông tôi cứ như một tên ngốc vậy."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Smooth as it gets. What’s to stop the rest of you from adopting this gesture-based communication?"
+      "content": "Trả lời nhanh gọn lẹ. Vậy cớ gì mà mấy anh chị còn lại không học theo cách giao tiếp này của cậu quản lý?"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "Any words of yours, Ms. Faust?"
+      "content": "Cô có muốn nói thêm gì không, Faust?"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "Faust will kindly turn down the offer."
+      "content": "Faust xin vui lòng từ chối."
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "I doubt we’ll have that much freedom over our own bodies most of the time."
+      "content": "Tôi không chắc rằng hầu hết thời gian của chúng ta sẽ được tự do với cơ thể của chính mình."
     },
     {
       "id": 23,
-      "content": "She’s the one who spoke to me back in the forest."
+      "content": "Cô ấy là người đã nói chuyện với tôi lúc ở khu rừng."
     },
     {
       "id": 24,
-      "content": "Her silver hair that glistens even without sunlight gives off a rather mysterious air."
+      "content": "Mái tóc bạc lấp lánh ngay cả khi không có ánh mặt trời chiếu vào của cô ấy tạo ra một hào quang bí ẩn đến lạ kỳ."
     },
     {
       "id": 25,
@@ -133,167 +133,167 @@
       "id": 26,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
+      "title": "Tôi",
       "content": "<Dante?>"
     },
     {
       "id": 27,
-      "content": "Come to think of it, the red-eyed man has been calling me that, too."
+      "content": "Nhắc mới nhớ, người đàn ông mắt đỏ kia cũng đã gọi tôi như thế."
     },
     {
       "id": 28,
       "model": "파우스트",
-      "content": "Dante is your name. The amnesia must be affecting you rather severely."
+      "content": "Tên của ngài là Dante. Việc mất trí nhớ hẳn đã ảnh hưởng nhiều đến ngài."
     },
     {
       "id": 29,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Sure looks like it… That doesn’t sound like a familiar word.>"
+      "title": "Tôi",
+      "content": "<Có vẻ là thế... Cái tên đó nghe không được quen thuộc cho lắm.>"
     },
     {
       "id": 30,
       "model": "파우스트",
-      "content": "You’ll get used to it in time."
+      "content": "Ngài sẽ quen với nó thôi."
     },
     {
       "id": 31,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Wait… You can understand me?>"
+      "title": "Tôi",
+      "content": "<Đợi đã... Cô có thể hiểu tôi nói gì sao?>"
     },
     {
       "id": 32,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<The group that attacked me earlier—and that Vergie or whatever he was called—seemed to hear nothing but ticking from me.>"
+      "title": "Tôi",
+      "content": "<Cái nhóm tấn công tôi lúc trước—và cả tên Vergie gì đó—dường như không thể nghe thấy gì hết ngoại trừ những tiếng tích tắc mà tôi phát ra.>"
     },
     {
       "id": 33,
       "model": "파우스트",
-      "content": "Faust can hear what you intend to speak."
+      "content": "Faust có thể nghe thấy lời ngài định nói."
     },
     {
       "id": 34,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<You really can…? But how? I don’t even have a real mouth.>"
+      "title": "Tôi",
+      "content": "<Cô thật sự có thể sao...? Nhưng bằng cách nào? Tôi thậm chí còn không có một cái miệng cơ mà.>"
     },
     {
       "id": 35,
       "model": "파우스트",
-      "content": "Outdated ideas must be one of the side effects that came with your head replacement."
+      "content": "Những suy nghĩ cũ kỹ hẳn là một trong các tác dụng phụ đi kèm với việc thay phần đầu của ngài."
     },
     {
       "id": 36,
       "model": "파우스트",
-      "content": "It’s anachronistic to think that vocal organs such as the cords or tongue are necessary to participate in conversation."
+      "content": "Thật là lỗi thời khi nghĩ rằng những cơ quan phát âm như dây thanh quản và lưỡi là thứ cần thiết trong việc tham gia đối thoại."
     },
     {
       "id": 37,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Anachronistic… Right. Never considered that.>"
+      "title": "Tôi",
+      "content": "<Lỗi thời... Phải rồi. Chưa bao giờ cân nhắc đến việc đó.>"
     },
     {
       "id": 38,
       "model": "파우스트",
-      "content": "…You can limit the recipient of your words to one person, or choose to speak to everyone at once."
+      "content": "...Ngài có thể giới hạn những người có thể nghe ngài nói, hoặc có thể chọn nói với mọi người một lúc."
     },
     {
       "id": 39,
       "model": "파우스트",
-      "content": "Ah, a little clarification: When I say “everyone”, I’m only referring to the Sinners."
+      "content": "À, để cho rõ: Khi tôi nói 'mọi người', ý tôi là chỉ những Tội Nhân."
     },
     {
       "id": 40,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "Me",
-      "content": "<Sinners?>"
+      "title": "Tôi",
+      "content": "<Tội Nhân sao?>"
     },
     {
       "id": 41,
       "model": "파우스트",
-      "content": "The people who have taken seats behind you…"
+      "content": "Là những người hiện đang ngồi sau ngài..."
     },
     {
       "id": 42,
       "model": "파우스트",
-      "content": "And the ones who fought in your stead until moments ago."
+      "content": "Và những người đã chiến đấu dưới sự chỉ đạo của ngài ban nãy."
     },
     {
       "id": 43,
       "teller": "???",
       "title": "???",
-      "content": "What hooo!!! So thou art the final piece that completes our journey’s cast! How I have yearned for this moment!"
+      "content": "Oaaa!! Vậy ra ngài chính là mảnh ghép cuối cùng để hoàn thiện chuyến hành trình của chúng ta! Thật vinh hạnh làm sao bởi ta đã luôn chờ đợi khoảnh khắc này!"
     },
     {
       "id": 44,
       "teller": "???",
       "title": "???",
-      "content": "Say, pal, where’d you sell your old cranium off?"
+      "content": "Mà này, cậu bán cái đầu cũ của mình đi đâu rồi ấy?"
     },
     {
       "id": 45,
       "teller": "???",
       "title": "???",
-      "content": "So it was you. Thanks for putting my spine back into one piece. Were you a surgeon or something in the Nest?"
+      "content": "Thì ra là ngài. Cảm ơn vì đã hồi sinh toàn vẹn cơ thể của tôi. Ngài có phải là bác sĩ phẫu thuật tới từ một Nest nào không đấy?"
     },
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "Everyone, quiet. Nothing is more displeasing than to hear a choir of noises."
+      "content": "Mấy anh chị im lặng giùm. Nghe cả lũ líu lo nhức hết cả đầu."
     },
     {
       "id": 47,
       "model": "베르길리우스",
-      "content": "I suppose you all owe them a brief introduction."
+      "content": "Ta cho rằng mấy anh chị còn quên chào hỏi cậu này."
     },
     {
       "id": 48,
       "model": "베르길리우스",
-      "content": "I’ll give you time to make yourselves known, starting with the closest one. Go on."
+      "content": "Thế thì ta cho mấy anh chị thời gian làm quen thật nhanh, bắt đầu với anh kia gần nhất đi."
     },
     {
       "id": 49,
       "model": "그레고르",
-      "content": "Why is it always the ones in front that go first… I’m sick of taking any sort of lead now."
+      "content": "Tại sao lúc nào mấy người đứng trước cũng phải giới thiệu trước nhỉ... Tôi chán việc dẫn đầu lắm rồi."
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "I heard you were gonna be our boss, or… yeah, our manager."
+      "content": "Tôi có nghe nói rằng ngài chuẩn bị lên làm sếp bọn tôi, hoặc là... à, là làm quản lý của bọn tôi."
     },
     {
-      "id": 51,
+      "place": "",
       "model": "단테",
-      "content": "<Manager?>"
+      "content": "<Quản lý?>"
     },
     {
       "id": 52,
       "model": "그레고르",
-      "content": "Yep, which is why I was real curious to meet you, and…"
+      "content": "Phải, vậy nên tôi cũng khá mong được gặp ngài, và..."
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Uhrm… Hmm, tsk. Forming the right sentences is tough work."
+      "content": "Ờm... Hừm, chậc. Chả biết phải nói thế nào cho chuẩn nữa."
     },
     {
       "id": 54,
       "model": "그레고르",
-      "content": "Dunno what you did with your old head, but I guess everyone has their story."
+      "content": "Tôi không biết ngài đã làm gì với cái đầu cũ của mình, nhưng hẳn ai cũng có câu chuyện riêng."
     },
     {
       "id": 55,
       "model": "그레고르",
-      "content": "I’m Gregor. We’re in this together, Manager Bud."
+      "content": "Tên tôi là Gregor. Từ nay mong được chiếu cố nhé, Cậu Quản Lý."
     },
     {
       "id": 56
@@ -301,22 +301,22 @@
     {
       "id": 57,
       "model": "로쟈",
-      "content": "Greg! They aren’t just your “bud” or “pal”~ You’re talking to the person who’ll make us filthy rich!"
+      "content": "Anh Greg! Họ không phải là “cậu” hay “bạn” gì đâu~ Anh đang nói chuyện với người sẽ khiến chúng mình trở nên giàu có đó!"
     },
     {
       "id": 58,
       "model": "그레고르",
-      "content": "Greg…?"
+      "content": "Greg á...?"
     },
     {
       "id": 59,
       "model": "단테",
-      "content": "<Rich? What’s that about?>"
+      "content": "<Giàu có? Chuyện đó là sao vậy?>"
     },
     {
       "id": 60,
       "model": "로쟈",
-      "content": "Let’s see, what’s better… Dante! Don’t mind me if I call you by name. You can call me Rodya~"
+      "content": "Để xem nè, gọi sao cho tiện nhỉ... Dante! Nếu không phiền thì tôi gọi ngài bằng tên nha. Cứ gọi tôi bằng Rodya cũng được~"
     },
     {
       "id": 61
@@ -324,63 +324,63 @@
     {
       "id": 62,
       "model": "로쟈",
-      "content": "I think there’s a… well, good reason you became our manager."
+      "content": "Tôi nghĩ là... Ờ thì, phải có lý do mà ngài trở thành người quản lý."
     },
     {
       "id": 63,
       "model": "로쟈",
-      "content": "I’m sure. You used to be a big deal back in the Nest, right? When your old habits start coming back, we’ll be that much closer to rolling in the dough… Fuhu…"
+      "content": "Tôi chắc. Hẳn ngài từng là tai to mặt lớn hồi còn ở Nest, đúng không? Khi mấy thói quen cũ bắt đầu hùa về, dần dần sự giàu sang sẽ đến tới mình... Fuhu..."
     },
     {
       "id": 64,
-      "content": "…She does have sociability, I’ll give her that."
+      "content": "... Tôi phải thừa nhận, cô ấy thật sự rất hoà đồng."
     },
     {
       "id": 65,
       "model": "로쟈",
-      "content": "Oh gosh, look at me keeping on. Hey, kid! It’s your turn next!"
+      "content": "Ôi trời, tui nói hơi đủ rồi. Này, nhóc! Đến lượt cưng đó!"
     },
     {
       "id": 66,
       "model": "싱클레어",
-      "content": "Good day…"
+      "content": "Xin chào..."
     },
     {
       "id": 67,
       "model": "로쟈",
-      "content": "Aw, boring~ That’s it?"
+      "content": "Ầy, chán vậy? Thế thôi á?"
     },
     {
       "id": 68,
       "model": "싱클레어",
-      "content": "Oh! I am Sinclair…"
+      "content": "À! Tôi tên là Sinclair..."
     },
     {
-      "id": 69
+      "id": 69,
     },
     {
       "id": 70,
-      "content": "This boy looks awfully unnerved; did he even join this company of his own accord?"
+      "content": "Cậu nhóc này trông thật sự rất căng thẳng; cậu ta có thật sự tự nguyện gia nhập vào công ty này không vậy?"
     },
     {
       "id": 71,
       "model": "싱클레어",
-      "content": "…I—Is there anything else I need to say? I’ve never worked for a company before…"
+      "content": "T-Tôi cần nói gì thêm không? Tôi chưa làm cho công ty nào bao giờ..."
     },
     {
       "id": 72,
       "model": "로쟈",
-      "content": "Well, you’ll learn the ropes in the coming days."
+      "content": "Thì, chắc cưng cũng sẽ dần cứng rắn trong mấy ngày sắp tới thôi."
     },
     {
       "id": 73,
       "model": "로쟈",
-      "content": "‘Kay then, how about you next, nerdy pal!"
+      "content": "O'Kê giờ, đến lượt anh đấy! Anh chàng mọt sách!"
     },
     {
       "id": 74,
       "model": "이상",
-      "content": "I am Yi Sang."
+      "content": "Tôi là Yi Sang."
     },
     {
       "id": 75
@@ -388,30 +388,30 @@
     {
       "id": 76,
       "model": "단테",
-      "content": "<…That’s it?>"
+      "content": "<... Thế thôi sao?>"
     },
     {
       "id": 77,
       "model": "이상",
-      "content": "Mhm. No smoke or mirrors."
+      "content": "Ừ. Không cần gì hơn."
     },
     {
       "id": 78,
-      "content": "I waited for him to reveal that he was pulling a prank or something…"
+      "content": "Tôi chờ đợi anh ta tiết lộ ra rằng anh ta đang đùa giỡn với tôi hay gì đó..."
     },
     {
       "id": 79,
-      "content": "But he just stared vacantly into the window, disinterested."
+      "content": "Nhưng anh ta chỉ nhìn chằm chằm vào ô cửa sổ, không tỏ ra chút hứng thú nào cả."
     },
     {
       "id": 80,
       "model": "이스마엘",
-      "content": "Haaa… I can’t believe you people. Aren’t proper introductions the first step to being a member of society?"
+      "content": "Hầy... Tôi không hiểu mấy người luôn. Chẳng phải việc giới thiệu bản thân tử tế là bước đầu hòa nhập xã hội sao?"
     },
     {
       "id": 81,
       "model": "이스마엘",
-      "content": "Call me Ishmael, if you please."
+      "content": "Hãy gọi tôi là Ishmael."
     },
     {
       "id": 82
@@ -419,25 +419,25 @@
     {
       "id": 83,
       "model": "이스마엘",
-      "content": "I heard you glued our bodies back together from pieces. I look forward to working with you."
+      "content": "Tôi nghe nói là ngài đã gắn cơ thể tan xương nát thịt của chúng tôi về lại nguyên trạng. Rất mong đợi được hợp tác cùng ngài."
     },
     {
       "id": 84,
-      "content": "She gave a polite bow before returning to her seat."
+      "content": "Cô ấy cúi người chào một cách rất lịch sự trước khi trở về chỗ ngồi của mình."
     },
     {
       "id": 85,
-      "content": "Although she emphasized sociality, she didn’t feel like the most amicable sort."
+      "content": "Mặc dù cô ấy cố tỏ ra vẻ hoà đồng, nhưng cảm giác cô ấy không phải là kiểu người thân thiện cho lắm."
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Sorry to disappoint, ‘cause I don’t care too much for fitting in."
+      "content": "Xin lỗi nếu mày thất vọng, nhưng mà tao không quan tâm mấy vụ hoà đồng cho lắm."
     },
     {
       "id": 87,
       "model": "히스클리프",
-      "content": "Name’s Heathcliff. Used to be a professional wrecker—for property and people alike."
+      "content": "Tên Heathcliff. Từng làm phá hoại chuyên nghiệp - cả người và tài sản."
     },
     {
       "id": 88
@@ -445,26 +445,26 @@
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "Not under anyone’s orders, mind you. I only did it to buggers that got on my nerves."
+      "content": "Tao không nghe lệnh ai cả, cho mày biết trước thế. Tao chỉ làm nếu có tên nào đó khiến tao điên tiết lên."
     },
     {
       "id": 90,
       "model": "히스클리프",
-      "content": "So you’d better watch it."
+      "content": "Vậy nên liệu hồn đấy."
     },
     {
       "id": 91,
       "model": "히스클리프",
-      "content": "I’m deathly allergic to cocky gaffers who think they can boss me around."
+      "content": "Tao cực kì dị ứng với mấy thằng sếp tự cao tự đại nghĩ rằng hắn có thể sai vặt tao."
     },
     {
       "id": 92,
-      "content": "I don’t think I’ve done anything to give that impression yet."
+      "content": "Tôi không nghĩ là tôi đã làm bất cứ điều gì để phô ra ấn tượng đó hết."
     },
     {
       "id": 93,
       "model": "돈키호테",
-      "content": "‘Tis my turn to speak! I am Don Quixote!"
+      "content": "Đến lượt ta phát biểu rồi! Ta đây là Don Quixote!"
     },
     {
       "id": 94
@@ -472,42 +472,42 @@
     {
       "id": 95,
       "model": "돈키호테",
-      "content": "I am a Fixer who shall sprint for the dream side by side. A pleasure to have thee."
+      "content": "Ta đây là Fixer sẽ cùng ngài kề vai sát cánh trên con đường theo đuổi ước mơ. Được gặp ngài quả là một vinh hạnh."
     },
     {
       "id": 96,
       "model": "단테",
-      "content": "<A Fixer…? That definitely feels like a term I used to know…>"
+      "content": "<Fixer sao...? Đó chắc chắn là một thuật ngữ mà tôi từng biết...>"
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "Dost thou wish to know what it is? I can answer thy question! Fixers are protectors of the City!"
+      "content": "Ngài có muốn biết nó là gì không? Ta có thể trả lời câu hỏi của ngài! Fixers chính là những người bảo vệ của The City!"
     },
     {
       "id": 98,
       "model": "돈키호테",
-      "content": "Ah! Perchance thou mayst struggle to remember the City! ‘Tis—"
+      "content": "A, có thể ngài đây đang chật vật nhớ lại The City là cái gì! Nó là-"
     },
     {
       "id": 99,
       "model": "베르길리우스",
-      "content": "I believe I said this was for brief introductions."
+      "content": "Ta nhớ là đã nói là làm quen thật nhanh vào."
     },
     {
       "id": 100,
       "model": "돈키호테",
-      "content": "Ngh…"
+      "content": "Ơ...hờ..."
     },
     {
       "id": 101,
       "model": "베르길리우스",
-      "content": "Don’t make me say it twice. Next."
+      "content": "Đừng bắt ta phải nói lại lần hai. Người tiếp theo."
     },
     {
       "id": 102,
       "model": "홍루",
-      "content": "My name’s Hong Lu. I hope we can get along well."
+      "content": "Tên tôi là Hong Lu. Từ nay chiếu cố nhau nhé, mọi người."
     },
     {
       "id": 103
@@ -515,35 +515,35 @@
     {
       "id": 104,
       "model": "홍루",
-      "content": "Wow, and look at you! Isn’t that a fascinating head there? A popular model these days, I suppose?"
+      "content": "Oa~ Ngài đó, cái đầu của ngài trông lạ thế? Hay cái này là mốt thời nay vậy ạ?"
     },
     {
       "id": 105,
       "model": "단테",
-      "content": "<No, this isn’t that kind of…>"
+      "content": "<Không, đây không phải là mốt...>"
     },
     {
       "id": 106,
       "model": "홍루",
-      "content": "It’s not of my interest, though."
+      "content": "Mà, tôi cũng chẳng quan tâm đâu."
     },
     {
       "id": 107,
       "model": "히스클리프",
-      "content": "…The hell’s wrong with your attitude?"
+      "content": "...Thái độ của mày là sao đấy?"
     },
     {
       "id": 108,
-      "content": "Heathcliff looked to be just moments away from swinging his bat…"
+      "content": "Trông Heathcliff như đã xém nữa vung cây gậy của cậu ta rồi..."
     },
     {
       "id": 109,
-      "content": "But when he realized the red gaze laid on him, he grunted and sat back down."
+      "content": "Nhưng khi cậu ta nhận ra rằng một ánh mắt đỏ đang trừng thẳng vào cậu ta, thì cậu ta chỉ lầm bầm và ngồi lại xuống ghế."
     },
     {
       "id": 110,
       "model": "료슈",
-      "content": "It’s Ryōshū."
+      "content": "Ta, Ryōshū."
     },
     {
       "id": 111
@@ -551,21 +551,21 @@
     {
       "id": 112,
       "model": "료슈",
-      "content": "Shūre’s nice to meet ya."
+      "content": "Ryất hân hạnh được gặp ngươi."
     },
     {
       "id": 113,
       "model": "료슈",
-      "content": "…Pfht."
+      "content": "...Pffft."
     },
     {
       "id": 114,
-      "content": "At what point was I supposed to laugh?"
+      "content": "Tới đoạn buồn cười chưa?"
     },
     {
       "id": 115,
       "model": "뫼르소",
-      "content": "Meursault. Please refer to me as such."
+      "content": "Meursault. Xin hãy gọi tôi là vậy."
     },
     {
       "id": 116
@@ -573,54 +573,54 @@
     {
       "id": 117,
       "model": "단테",
-      "content": "<You’re pretty polite.>"
+      "content": "<Anh khá là lịch sự đấy.>"
     },
     {
       "id": 118,
       "model": "뫼르소",
-      "content": "This isn’t anything special. I’m simply behaving normally."
+      "content": "Cũng không có gì đặc biệt. Tôi chỉ cư xử bình thường thôi."
     },
     {
       "id": 119,
       "model": "단테",
-      "content": "<I’m almost touched. Merci.>"
+      "content": "<Tôi gần như bị cảm động rồi đó. Merci.>"
     },
     {
       "id": 120,
       "model": "뫼르소",
-      "content": "Yes."
+      "content": "Ừm."
     },
     {
       "id": 121,
-      "content": "It felt as if something were gravely amiss with him, but I can’t seem to pin it down exactly."
+      "content": "Cứ như thể là có thứ gì đó sai sai với anh ta, nhưng tôi không biết chính xác được nó là gì cả."
     },
     {
       "id": 122,
       "model": "오티스",
-      "content": "……"
+      "content": "......"
     },
     {
       "id": 123,
-      "content": "The way she scanned me up and down was a little daunting."
+      "content": "Cái cách cô ấy đăm chiêu dò xét và đánh giá tôi có phần hơi đáng sợ chút."
     },
     {
       "id": 124,
       "model": "오티스",
-      "content": "I…"
+      "content": "Tôi..."
     },
     {
       "id": 125,
-      "content": "I felt almost compelled to bow to her, but she stopped me with a motion of her hand."
+      "content": "Tôi đã xém cúi đầu chào cô ấy, nhưng cổ đưa tay ra ngăn hành động ấy của tôi lại."
     },
     {
       "id": 126,
       "model": "오티스",
-      "content": "Please, I would never make my manager grovel before me."
+      "content": "Xin thứ lỗi, tôi sẽ không khiến người quản lý của tôi phải quỳ xuống trước mắt mình."
     },
     {
       "id": 127,
       "model": "오티스",
-      "content": "My name is Outis. I would like to apologize for my rudeness earlier."
+      "content": "Tên tôi là Outis. Tôi mạn phép xin lỗi ngài vì sự thô lỗ của bản thân khi nãy."
     },
     {
       "id": 128
@@ -628,65 +628,65 @@
     {
       "id": 129,
       "model": "단테",
-      "content": "<Rudeness…?>"
+      "content": "<Sự thô lỗ sao...?>"
     },
     {
       "id": 130,
       "model": "오티스",
-      "content": "Haha, oh, please. Your generosity is a humbling sight."
+      "content": "Haha, ôi thôi nào. Sự rộng lượng của ngài thật khiêm tốn làm sao."
     },
     {
       "id": 131,
       "model": "오티스",
-      "content": "I knew at first glance that you have what it takes to lead us."
+      "content": "Ngay từ cái nhìn đầu tiên tôi đã biết ngài có bản lĩnh để dẫn dắt chúng tôi rồi."
     },
     {
       "id": 132,
       "model": "단테",
-      "content": "<…Huh? Sorry?>"
+      "content": "<... Hả? Xin lỗi, gì cơ?>"
     },
     {
       "id": 133,
       "model": "오티스",
-      "content": "While most humans cause noise and friction as a result of confrontation…"
+      "content": "Trong khi phần lớn con người đều xảy ra cãi vã và xô xát nhau do tranh chấp..."
     },
     {
       "id": 134,
       "model": "오티스",
-      "content": "Some are able to reap mutual benefit from coming head-to-head."
+      "content": "Số ít lại gặt hái được thành công qua việc đàm phán trực tiếp."
     },
     {
       "id": 135,
       "model": "오티스",
-      "content": "It could be compared to the relationship between a blade and a whetstone."
+      "content": "Ta có thể ví nó như mối quan hệ giữa dao và đá mài."
     },
     {
       "id": 136,
       "model": "오티스",
-      "content": "I vow to serve you with unrivaled devotion, Executive Manager. My blade is yours to wield."
+      "content": "Tôi thề sẽ phục vụ ngài với sự tận tâm mà không một ai có thể sánh được, thưa Quản Lý. Tôi nguyện làm thanh gươm của ngài khi ngài cần nhất."
     },
     {
       "id": 137,
       "model": "단테",
-      "content": "<Th-That’s reassuring… Thanks.>"
+      "content": "<Th-Thật an tâm làm sao... Cảm ơn cô.>"
     },
     {
       "id": 138,
-      "content": "I gave her an approving nod, even though I still don’t get what she meant by her “rudeness”."
+      "content": "Tôi gật đầu tỏ vẻ chấp thuận với lời giới thiệu và đề nghị của cô ấy, mặc dù tôi vẫn không hiểu được \"\"sự thô lỗ\"\" mà cô ấy nói đến là gì."
     },
     {
       "id": 139,
       "model": "이스마엘",
-      "content": "I’m amazed at how you can sing such bold-faced high praise not too long after calling them a “miserably writhing wretch”."
+      "content": "Cô gọi người ta là \"\"cái thứ giãy chết khốn khổ khốn nạn\"\" xong giờ quay ra tâng bốc lên tận trời xanh được vậy thì cũng tài thật đấy."
     },
     {
       "id": 140,
-      "content": "…I think I see now."
+      "content": "... Tôi nghĩ là tôi hiểu rồi."
     },
     {
       "id": 141,
       "model": "파우스트",
-      "content": "It seems I am the last. Faust is the name."
+      "content": "Có vẻ như tôi là người cuối cùng. Faust là tên tôi."
     },
     {
       "id": 142
@@ -694,263 +694,263 @@
     {
       "id": 143,
       "model": "파우스트",
-      "content": "A genius with whom you’re lucky to cross paths even once in your life."
+      "content": "Là thiên tài ngài phải rất may mắn mới gặp qua một lần trong đời."
     },
     {
       "id": 144,
       "model": "단테",
-      "content": "<Mmh…>"
+      "content": "<Ừm...>"
     },
     {
       "id": 145,
       "model": "파우스트",
-      "content": "Sounds like you aren’t convinced, Dante."
+      "content": "Có vẻ như ngài vẫn chưa thấy thuyết phục, Dante."
     },
     {
       "id": 146,
       "model": "파우스트",
-      "content": "Well, it’s fine. You’ll come to learn, all in due time."
+      "content": "Thì, việc đó ổn thôi. Ngài sẽ dần hiểu ra thôi, khi thời điểm ấy đến."
     },
     {
       "id": 147,
       "model": "단테",
-      "content": "<Learn what…?>"
+      "content": "<Hiểu được gì cơ...?>"
     },
     {
       "id": 148,
       "model": "파우스트",
-      "content": "That Faust is indeed a brilliant mind."
+      "content": "Rằng Faust là một con người có trí thông minh thiên bẩm."
     },
     {
       "id": 149,
       "model": "파우스트",
-      "content": "When a proverbial tree falls, the fact of its sound cannot become truth when the outside observer fails to recognize it."
+      "content": "Khi một cái cây mà ai cũng biết đổ xuống, nếu không người nào nghe thấy tiếng nó đổ thì âm vang của nó cũng chỉ là hư cấu."
     },
     {
       "id": 150,
       "model": "단테",
-      "content": "<Okay…>"
+      "content": "<Được thôi...>"
     },
     {
       "id": 151,
       "model": "베르길리우스",
-      "content": "That’s enough greetings."
+      "content": "Làm quen nhau thế là đủ rồi."
     },
     {
       "id": 152,
       "model": "베르길리우스",
-      "content": "Dante, let me explain your new occupation."
+      "content": "Để ta giải thích cho cậu về công việc mới của mình, Dante."
     },
     {
       "id": 153,
       "model": "단테",
-      "content": "<You mean… as the manager?>"
+      "content": "<Ý ông là... như một quản lý sao?>"
     },
     {
       "id": 154,
       "model": "파우스트",
-      "content": "They’re asking if the job you’re about to explain is that of a manager."
+      "content": "Người ấy hỏi rằng công việc mà ngài sắp giải thích là vai trò của quản lý phải không."
     },
     {
       "id": 155,
-      "content": "Come to think of it, that red-eyed man couldn’t hear me, unlike the Sinners."
+      "content": "Nói mới nhớ, người đàn ông mắt đỏ đó không thể nghe thấy tôi nói, không như các Tội Nhân."
     },
     {
       "id": 156,
       "model": "베르길리우스",
-      "content": "That’s correct, Executive Manager Dante. You will embark on a trip to the Inferno with the twelve Sinners who’ve just introduced themselves."
+      "content": "Chính xác, Quản Lý Điều Hành Dante. Cậu sẽ bắt đầu chuyến hành trình đến Hoả Ngục với mười hai Tội Nhân vừa giới thiệu bản thân."
     },
     {
       "id": 157,
       "model": "단테",
-      "content": "<The Inferno…? Why should I go to hell?>"
+      "content": "<Hoả Ngục...? Tại sao tôi lại phải xuống địa ngục?>"
     },
     {
       "id": 158,
       "model": "파우스트",
-      "content": "They’re asking why they need to travel to the Inferno."
+      "content": "Người ấy hỏi rằng tại sao ngài ấy cần đi đến Hỏa Ngục."
     },
     {
       "id": 159,
       "model": "베르길리우스",
-      "content": "Hmm… How about this: Treasure awaits at the end of the road… Would that suffice?"
+      "content": "Hừmm... Vậy như thế này thì sao: Có kho báu đang chờ đợi cậu ở cuối con đường này.... Vậy là đủ động lực cho cậu chưa?"
     },
     {
       "id": 160,
       "model": "단테",
-      "content": "<I don’t… You mean I used to be a treasure hunter or something?>"
+      "content": "<Tôi không... Ý ông là tôi từng là một thợ săn kho báu hay gì sao?>"
     },
     {
       "id": 161,
       "model": "파우스트",
-      "content": "They can’t seem to get you at all."
+      "content": "Người ấy không hiểu."
     },
     {
       "id": 162,
       "model": "베르길리우스",
-      "content": "I did not ask for your understanding, Dante. Nor was this a question of your willingness."
+      "content": "Ta không hỏi về sự thông cảm từ cậu, Dante à. Hay là hỏi ý kiện tự nguyện của cậu."
     },
     {
       "id": 163,
       "model": "베르길리우스",
-      "content": "You’ll have to listen to me if you want to reclaim your memories and original head."
+      "content": "Cậu sẽ phải nghe theo ta nếu cậu muốn lấy lại ký ức và cái đầu cũ của mình."
     },
     {
       "id": 164,
       "model": "단테",
-      "content": "<I mean… I do want them back, but…>"
+      "content": "<Ý tôi là... Tôi muốn có lại chúng, nhưng...>"
     },
     {
       "id": 165,
       "model": "파우스트",
-      "content": "They’re hesitant."
+      "content": "Người ấy đang do dự."
     },
     {
       "id": 166,
       "model": "베르길리우스",
-      "content": "Ms. Faust, what will we do if Dante keeps on refusing to cooperate? This was not a scenario we anticipated."
+      "content": "Cô Faust, chúng ta sẽ làm gì nếu cậu Dante cứ một mực từ chối sự hợp tác này? Đây không phải là tình huống mà chúng ta dự đoán trước."
     },
     {
       "id": 167,
       "model": "파우스트",
-      "content": "Preposterous. Faust anticipates every possibility."
+      "content": "Vô lý. Faust dự đoán được mọi khả năng."
     },
     {
       "id": 168,
       "model": "파우스트",
-      "content": "Dante, once you’ve completed all your missions…"
+      "content": "Dante, một khi ngài hoàn thành tất cả nhiệm vụ của mình."
     },
     {
       "id": 169,
       "model": "파우스트",
-      "content": "You’ll be able to engrave the Aspect."
+      "content": "Ngài có thể chạm vào Chòm Sao."
     },
     {
       "id": 170,
       "model": "파우스트",
-      "content": "I can promise you that."
+      "content": "Tôi có thể hứa với ngài điều đó."
     },
     {
       "id": 171,
-      "content": "Aspect. A word that strikes my mind intensely. Even though my memories are gone, my underlying instincts are responding strongly to it."
+      "content": "Chòm Sao. Một từ đập thẳng vào tâm trí tôi một cách dữ dội. Mặc dù toàn bộ ký ức của tôi đã biến mất, nhưng bản năng tiềm tàng trong tôi đang phản ứng rất mãnh liệt với nó."
     },
     {
       "id": 172,
-      "content": "Led by intuition, I make my choice…"
+      "content": "Được trực giác dẫn lối, tôi đưa ra lựa chọn của mình..."
     },
     {
       "id": 173,
       "model": "파우스트",
-      "content": "See there? They’re nodding."
+      "content": "Thấy chứ? Người ấy đã đồng ý."
     },
     {
       "id": 174,
       "model": "베르길리우스",
-      "content": "Good. Then we can continue."
+      "content": "Tốt. Vậy thì ta có thể tiếp tục."
     },
     {
       "id": 175,
       "model": "베르길리우스",
-      "content": "By the way, Charon, why isn’t the bus moving? Were you dozing off?"
+      "content": "Nhân tiện, Charon, sao xe buýt không đi tiếp vậy? Con buồn ngủ à?"
     },
     {
       "id": 176,
       "model": "카론",
-      "content": "A bus driver only snoozes at rest spots, Verg."
+      "content": "Tài xế chỉ ngủ khi tới khu vực nghỉ thôi, chú Verg."
     },
     {
       "id": 177,
       "model": "카론",
-      "content": "Weirdos were hanging around in front of Mephi."
+      "content": "Có mấy tên khùng cứ lởn vởn trước mặt Mephi."
     },
     {
       "id": 178,
       "model": "베르길리우스",
-      "content": "I told you, Charon. If anything happens with the bus, you’ve got to let me know right away."
+      "content": "Chú đã bảo con rồi, Charon. Nếu có gì xảy ra với xe buýt, con phải nói cho chú một tiếng chứ."
     },
     {
       "id": 179,
       "model": "단테",
-      "content": "<Mephi? Who’s that?>"
+      "content": "<Mephi? Là ai thế?>"
     },
     {
       "id": 180,
       "model": "파우스트",
-      "content": "Mephistopheles. The name of this bus and the engine that runs it."
+      "content": "Mephistopheles. Tên của chiếc xe buýt này và động cơ của nó."
     },
     {
       "id": 181,
       "model": "파우스트",
-      "content": "…And Faust’s magnum opus cordis."
+      "content": "...Và là sản phẩm tâm huyết của Faust"
     },
     {
       "id": 182,
       "model": "베르길리우스",
-      "content": "An ideal ferryboat to bear us across the Inferno."
+      "content": "Một chiếc phà lý tưởng mang ta xuống Hoả Ngục."
     },
     {
       "id": 183,
       "model": "베르길리우스",
-      "content": "Wouldn’t you agree, Dante?"
+      "content": "Cậu có nghĩ thế không, Dante?"
     },
     {
       "id": 184,
-      "content": "I wasn’t sure what he was getting at, so I turned away to look through the window instead of giving him a reply."
+      "content": "Tôi không chắc ông ấy đang định ám chỉ điều gì, nên tôi quay mặt đi nhìn về phía cửa sổ thay vì cho ổng biết câu trả lời."
     },
     {
       "id": 185,
       "model": "베르길리우스",
-      "content": "Looks like they’re just another pack of dirty Rats living in the Backstreets."
+      "content": "Có vẻ như lại là đám Chuột dơ bẩn chui rúc trong Backstreet."
     },
     {
       "id": 186,
       "model": "베르길리우스",
-      "content": "This is just the right time, Dante. They should make perfect targets for practicing your command."
+      "content": "Đúng lúc lắm, Dante. Đám này sẽ là mục tiêu lý tưởng để cậu tập khả năng chỉ huy của mình."
     },
     {
       "id": 187,
       "model": "파우스트",
-      "content": "Dante, I skipped over many details during our first battle."
+      "content": "Dante, tôi đã bỏ qua nhiều chi tiết trong trận chiến đầu tiên của ta."
     },
     {
       "id": 188,
       "model": "파우스트",
-      "content": "We were short on time, after all."
+      "content": "Dù gì thì, chúng ta cũng đang vội."
     },
     {
       "id": 189,
       "model": "파우스트",
-      "content": "However, we’ll be slaughtered frequently if no improvements are made to your strategy."
+      "content": "Nhưng, chúng tôi sẽ bị thảm sát thường xuyên nếu không có sự tiến bộ nào trong cách triển khai chiến thuật của ngài."
     },
     {
       "id": 190,
       "model": "파우스트",
-      "content": "And in turn, you’ll have to endure senseless pain over and over again to revive us."
+      "content": "Và đổi lại, ngài sẽ phải nhận một nỗi đau vô hình từ lần này sang lần khác để hồi sinh chúng tôi."
     },
     {
       "id": 191,
       "model": "단테",
-      "content": "<Pain… Revive? You mean, what happened earlier was…>"
+      "content": "<Nỗi đau... Hồi sinh? Ý cô, chuyện xảy ra lúc trước là...>"
     },
     {
       "id": 192,
       "model": "파우스트",
-      "content": "Yes, we were brought back to life because you “turned back the clock”."
+      "content": "Đúng vậy, chúng tôi được sống lại bởi vì ngài đã 'Quay ngược thời gian'"
     },
     {
       "id": 193,
       "model": "베르길리우스",
-      "content": "I don’t believe that much is necessary, Ms. Faust."
+      "content": "Ta không nghĩ những thông tin đó là cần thiết đâu, cô Faust."
     },
     {
       "id": 194,
       "model": "베르길리우스",
-      "content": "Save the chatter for later. Sinners, off the bus."
+      "content": "Có câu hỏi gì để sau. Tội nhân, xuống xe."
     },
     {
       "id": 195,
       "model": "파우스트",
-      "content": "…Allow me to elaborate on combat."
+      "content": "...Hãy để tôi giải thích rõ hơn về chiến đấu."
     }
   ]
 }

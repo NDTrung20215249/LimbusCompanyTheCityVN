@@ -1,102 +1,126 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pallid Whale's Right Ventricle",
-            "model": "오티스",
-            "content": "So this is the second atrium the Captain mentioned..."
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<It's the center of the heart once we get past here, huh...>"
-        },
-        {
-            "id": 2,
-            "content": "Queequeg approached me."
-        },
-        {
-            "id": 3,
-            "model": "퀴케그",
-            "content": "Your name, I know. They call you Dante."
-        },
-        {
-            "id": 4,
-            "model": "단테",
-            "content": "<Yeah. That's my name. They call me Dante...>"
-        },
-        {
-            "id": 5,
-            "model": "퀴케그",
-            "content": "Your words. I can't hear. Like Whale voices, like Mermaid voices."
-        },
-        {
-            "id": 6,
-            "model": "퀴케그",
-            "content": "You bring back dead crew."
-        },
-        {
-            "id": 7,
-            "model": "단테",
-            "content": "<... Well, I guess that's all I do...>"
-        },
-        {
-            "id": 8,
-            "model": "퀴케그",
-            "content": "But not just body-death."
-        },
-        {
-            "id": 9,
-            "model": "퀴케그",
-            "content": "Heart-death, too."
-        },
-        {
-            "id": 10,
-            "model": "단테",
-            "content": "<... Heart?>"
-        },
-        {
-            "id": 11,
-            "content": "I couldn't help but be confused by what Queequeg said."
-        },
-        {
-            "id": 12,
-            "content": "Unless she's talking about an actual heart... I never had any powers like that. No one ever told me that I did, either."
-        },
-        {
-            "id": 13,
-            "model": "퀴케그",
-            "content": "You don't make them lose way."
-        },
-        {
-            "id": 14,
-            "model": "퀴케그",
-            "content": "Their way. Where they really want to go."
-        },
-        {
-            "id": 15,
-            "model": "퀴케그",
-            "content": "You tell them. With your clock sound."
-        },
-        {
-            "id": 16,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 17,
-            "model": "퀴케그",
-            "content": "Dante. Something I wish."
-        },
-        {
-            "id": 18,
-            "model": "퀴케그",
-            "content": "I want... Ishmael to..."
-        },
-        {
-            "id": 19,
-            "model": "퀴케그",
-            "content": "... find her way."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tâm Thất Phải của Cá Voi Trắng",
+                "model":"오티스",
+                "content":"Vậy đây là tiền sảnh thứ hai mà Thuyền Trưởng nhắc đến..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테",
+                "content":"<Là trung tâm của trái tim một khi chúng ta băng qua đây sao...>"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Queequeg tiếp cận tôi."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Tên cậu, tôi biết. Họ gọi cậu Dante."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"단테",
+                "content":"<Đúng. Đó là tên tôi. Họ gọi tôi là Dante...>"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Lời của cậu. Tôi không thể nghe. Như tiếng Cá Voi, như tiếng Người Cá."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Cậu mang thủy thủ sống lại."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"단테",
+                "content":"<...Ừ thì, tôi đoán đó là tất cả những gì mà tôi làm được...>"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Không chỉ thể xác."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Mà cả con tim."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"단테",
+                "content":"<..Tim sao?>"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Tôi cảm thấy bối rối trước lời Queequeg nói."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Trừ khi cô ấy đang nói về một trái tim thực sự... tôi không hề có bất kỳ khả năng nào như thế cả. Chưa ai từng nói với tôi rằng tôi có khả năng đó hết."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Cậu không khiến họ lạc lối."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Lối đi của họ. Nơi họ thực sự muốn đến."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Cậu nói họ nghe. Với tiếng kêu đồng hồ của cậu."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "content":"<......>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Dante. Một thứ tôi ước."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Tôi muốn... Ishmael..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"퀴케그",
+                "content":"... tìm được lối đi của cô ấy."
+            }
+        ]
+    }
+

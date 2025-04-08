@@ -3,67 +3,67 @@
     {
       "id": "battle_awaken_20901_1",
       "desc": "E.G.O Activation",
-      "dlg": "I couldn’t undo a thing…"
+      "dlg": "Tôi chẳng thể thay đổi được gì…"
     },
     {
       "id": "battle_awaken_20902_1",
       "desc": "E.G.O Activation",
-      "dlg": "If fervent flames can thaw the heart…"
+      "dlg": "Nếu ngọn lửa nhiệt huyết này có thể nung chảy cả trái tim…"
     },
     {
       "id": "battle_awaken_20903_1",
       "desc": "E.G.O Activation",
-      "dlg": "Well, I can’t shiver in the cold forever."
+      "dlg": "Nào, ta không thể run rẩy trong cơn lạnh này mãi được."
     },
     {
       "id": "battle_erosion_20902_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "To ashes… To dust…"
+      "dlg": "Thành tro bụi… Thành cát bụi…"
     },
     {
       "id": "battle_erosion_20903_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Stay frozen… and there will be no pain."
+      "dlg": "Hãy mãi đóng băng đi... Và sẽ không còn đau đớn nữa."
     },
     {
       "id": "battle_awaken_20904_1",
       "desc": "E.G.O Activation",
-      "dlg": "It's pretty sticky... You won't dodge this!"
+      "dlg": "Cái này dính lắm nha... Không né nổi đâu!"
     },
     {
       "id": "battle_erosion_20904_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Hmm... Ach, yuck. Not even worth turning into a pearl!"
+      "dlg": "Hừm... Ựa, tởm quá. Biến thành ngọc trai chẳng đáng tí nào!"
     },
     {
       "id": "battle_awaken_20905_1",
       "desc": "E.G.O Activation",
-      "dlg": "You will be executed... as it is written."
+      "dlg": "Ngươi sẽ bị hành quyết... như những gì đã được ghi ở đây."
     },
     {
       "id": "battle_erosion_20905_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "All shall be executed as it is written."
+      "dlg": "Tất cả sẽ bị hành quyết như đã được ghi."
     },
     {
       "id": "battle_awaken_20906_1",
       "desc": "E.G.O Activation",
-      "dlg": "I must be the only one to dance this beautiful dance...\nSo once I chop off your ankles...!"
+      "dlg": "Đây là sân chơi của chị... \nĐứa nào làm phản tao thọt dái nhé."
     },
     {
       "id": "battle_erosion_20906_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Ahahaha! I'll carve it 'till it's sharp...\nAll for a more sanguine, luscious hue of red...!"
+      "dlg": "Ahahaha! Ta sẽ mài cho đến khi nó thật sắc bén...\nVì một sắc màu đỏ thẫm, quyến rũ hơn cả..!"
     },
-    {
+	{
       "id": "battle_awaken_20907_1",
       "desc": "E.G.O Activation",
-      "dlg": "Now, little teddy~ Dance after me! Ta-da!"
+      "dlg": "Nhảy đi ~ Nhảy đi nào cục cưng ~ \nTiền Only Fan không mọc từ trên cây đâu"
     },
     {
       "id": "battle_erosion_20907_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Now, little Rodya. Hurt them with your own hands. Fuhu, ta-da!"
+      "dlg": "Nào, Rodya bé nhỏ. Hãy khiến chúng chịu đau khổ bằng chính đôi tay của bé đi. Phư-phư, ta-da!"
     }
   ]
 }

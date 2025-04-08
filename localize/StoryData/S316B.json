@@ -1,124 +1,162 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Calw - Town Square",
-      "model": "이스마엘",
-      "content": "Okay, what should we do now? If we move quietly, we might be able to pass by the other Inquisitors unnoticed."
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "Dante… I… I’d like to apologize in advance."
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "As you know… I’m not as experienced with fighting like the others…"
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "Our foes might jab me in the heart over and over for that…"
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "Will you… bear that for me?"
-    },
-    {
-      "id": 5,
-      "content": "Sinclair was trembling so badly that it’d be pitiful for anyone to witness."
-    },
-    {
-      "id": 6,
-      "content": "I could tell he was desperately trying to suppress his fear."
-    },
-    {
-      "id": 7,
-      "content": "It wouldn’t be the first time Sinclair has died. Whenever he bit the dust, I made sure to bring him back."
-    },
-    {
-      "id": 8,
-      "content": "But today, he’s newly asking for my understanding. He looked determined to confront them directly even if it means he’ll die again and again."
-    },
-    {
-      "id": 9,
-      "content": "A feeling quite unlike the fright a usual battle evokes…"
-    },
-    {
-      "id": 10,
-      "content": "Maybe he’s holding the kind of fear that comes with a certain courage."
-    },
-    {
-      "id": 11,
-      "content": "In that case…"
-    },
-    {
-      "id": 12,
-      "model": "단테",
-      "content": "<Are you scared, Sinclair?>"
-    },
-    {
-      "id": 13,
-      "model": "싱클레어",
-      "content": "…!"
-    },
-    {
-      "id": 15,
-      "content": "Sinclair suddenly turned around and gave me a startled look."
-    },
-    {
-      "id": 16,
-      "model": "단테",
-      "content": "<Hmm? Did I say something weird?>"
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "No, it’s just… I was reminded of a friend who asked me the same question."
-    },
-    {
-      "id": 18,
-      "content": "Sinclair opened his mouth after a brief pause. His voice cracked."
-    },
-    {
-      "id": 19,
-      "model": "싱클레어",
-      "content": "…I agree with what Heathcliff said."
-    },
-    {
-      "id": 20,
-      "model": "싱클레어",
-      "content": "Prosthetic head or not, you would’ve been the same person regardless, Dante."
-    },
-    {
-      "id": 21,
-      "model": "싱클레어",
-      "content": "I guess the same could be said for my family."
-    },
-    {
-      "id": 22,
-      "model": "단테",
-      "content": "<Thanks, Sinclair.>"
-    },
-    {
-      "id": 23,
-      "model": "싱클레어",
-      "content": "…Hoo."
-    },
-    {
-      "id": 24,
-      "model": "싱클레어",
-      "content": "It’s nothing. I can’t have you be too thankful when I’m about to make you suffer by throwing my life away. Haha."
-    },
-    {
-      "id": 25,
-      "content": "Just as I realized that I forgot to ask what he said in response to the same question his friend had…"
-    },
-    {
-      "id": 26,
-      "content": "Sinclair had already charged into the fray."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Calw - Quảng trường thị trấn",
+                "model":"이스마엘",
+                "content":"Rồi, giờ làm sao đây? Nếu chúng ta di chuyển thật nhẹ nhàng thì có khi sẽ qua mặt được đám lính Phán Quan đó đấy."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ngài Dante… Tôi… Tôi muốn xin lỗi trước."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Như ngài biết… Tôi không có nhiều kinh nghiệm chiến đấu như những người khác."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Kẻ thù của chúng ta có thể lấy mạng tôi liên tục vì lẽ đó…"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Liệu ngài… sẽ gánh chịu nó vì tôi chứ?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Sinclair đang cực kỳ run rẩy đến nỗi bất kỳ ai nhìn vào cũng phải thương hại."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Tôi có thể thấy rằng cậu ấy đang cố gắng kìm nén đi nỗi sợ."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Đây không phải là lần đầu tiên mà Sinclair chết đi. Bất cứ lúc nào cậu ấy thiệt mạng, tôi đều hồi sinh cậu ấy."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Nhưng hôm nay, cậu ấy đang hỏi tôi có thể thông cảm và hiểu cho cậu ấy được không. Cậu ấy trông như đã hạ quyết tâm sẽ đối đầu với mọi chuyện, cho dù điều đó đồng nghĩa với việc là bản thân sẽ chết đi sống lại rất rất nhiều."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Một cảm giác hoàn toàn không giống nỗi sợ trước trận chiến thông thường…"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"Có thể cậu ấy đang nắm giữ một loại nỗi sợ mà đi kèm với dũng khí nhất định."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Nếu là như thế thì…"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"단테",
+                "content":"<Cậu có sợ không, Sinclair?>"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…!"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Sinclair bỗng dưng quay người lại và nhìn tôi với vẻ giật mình."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "content":"<Hở? Tôi vừa nói gì đó kỳ cục à?>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không, chỉ là… Tôi chợt nhớ đến một người bạn cũng từng hỏi tôi câu tương tự."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Sinclair mở miệng đáp sau một lúc chập chừng. Tông giọng cậu ấy thay đổi đi."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…Tôi đồng ý với điều anh Heathcliff nói."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Đầu giả hay thật, thì ngài vẫn là ngài Dante."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi đoán điều đó cũng có thể áp dụng cho gia đình tôi."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테",
+                "content":"<Cảm ơn nhé, Sinclair.>"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…Phù."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không có gì cả. Tôi sắp khiến ngài phải chịu khổ bằng cách ném mạng mình đi, nên ngài không nên biết ơn tôi quá nhiều đâu. Ha ha."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Ngay khi tôi vừa nhận ra là mình quên hỏi câu trả lời của cậu ấy cho câu hỏi mà người bạn đó cũng hỏi…"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Thì Sinclair đã lao đầu vào trận chiến rồi."
+            }
+        ]
     }
-  ]
-}
+

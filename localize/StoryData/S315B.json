@@ -1,308 +1,510 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Calw - Town Square",
-      "content": "Prosthetic bodies pile up like a landfill in a corner of the town."
-    },
-    {
-      "id": 1,
-      "content": "I could see that some of them were still conscious, letting out pained moans."
-    },
-    {
-      "id": 2,
-      "content": "The Inquisitors paid no heed; they strenuously jammed nails through each of their victims’ chests, over and over, executing their “pure” intent."
-    },
-    {
-      "id": 3,
-      "model": "N사심문관1",
-      "teller": "An Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "I’ve surely pierced their heart, yet still a pulse remains in their body."
-    },
-    {
-      "id": 4,
-      "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "It must be patched with steel. Even the core of their humanity has been tainted by heresy."
-    },
-    {
-      "id": 5,
-      "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "How filthy. A disgrace to flesh and bone."
-    },
-    {
-      "id": 6,
-      "content": "The Inquisitor began carefully pouring a bottle of liquid over the prosthetic person in what looked like a solemn ritual."
-    },
-    {
-      "id": 7,
-      "content": "Judging from the pungent smell, it was most certainly oil."
-    },
-    {
-      "id": 8,
-      "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Imbibe the oil of humanity, ye heretical soma."
-    },
-    {
-      "id": 9,
-      "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Those who cannot return to the earth, find solace in scattering to smoke."
-    },
-    {
-      "id": 10,
-      "content": "A lit match was then thrown on the pile, letting rise a huge flame."
-    },
-    {
-      "id": 11,
-      "content": "With the sounds of sparks flying about, the air is soon filled with an acrid smell."
-    },
-    {
-      "id": 12,
-      "content": "It’s not quite like the smell of burning flesh."
-    },
-    {
-      "id": 13,
-      "content": "The spreading fire finally brings the crackling glimmer in those prosthetic bodies to permanent darkness."
-    },
-    {
-      "id": 14,
-      "model": "이스마엘",
-      "content": "If this hellscape is their idea of purification, I’d rather stay unclean."
-    },
-    {
-      "id": 15,
-      "model": "뫼르소",
-      "content": "Nagel und Hammer has always been devoted to scrutinizing the idea of humanity."
-    },
-    {
-      "id": 16,
-      "model": "뫼르소",
-      "content": "Some criticized prosthetic use, as they believed that pain is a necessary component of the human experience. However, it never escalated to the extent of direct action that we are witnessing now."
-    },
-    {
-      "id": 17,
-      "model": "그레고르",
-      "content": "I’ve been meaning to ask… How do you know so much about N Corp?"
-    },
-    {
-      "id": 18,
-      "model": "뫼르소",
-      "content": "…I was once employed by N Corp."
-    },
-    {
-      "id": 19,
-      "model": "그레고르",
-      "content": "Wha…? You used to work with those people?"
-    },
-    {
-      "id": 20,
-      "model": "뫼르소",
-      "content": "I have never worked with those specific individuals, but in terms of affiliation, you can say that I did."
-    },
-    {
-      "id": 21,
-      "content": "Come to think of it, this might be the first time I’ve heard Meursault actively talk about himself."
-    },
-    {
-      "id": 22,
-      "content": "He would rarely recount anything related to him. Perhaps he felt it wasn’t necessary to speak at all."
-    },
-    {
-      "id": 23,
-      "model": "그레고르",
-      "content": "Why didn’t you tell us that earlier? You carry one of those freaky weapons then?"
-    },
-    {
-      "id": 24,
-      "model": "뫼르소",
-      "content": "Am I obligated to elaborate?"
-    },
-    {
-      "id": 25,
-      "model": "히스클리프",
-      "content": "The hell… Why don’t you explain what makes you different from those nutters, then?"
-    },
-    {
-      "id": 26,
-      "model": "히스클리프",
-      "content": "Listen, mate… As much as I like to call our daft manager clockface, I don’t think they deserve by any means to be on the stake or chopping block."
-    },
-    {
-      "id": 27,
-      "model": "히스클리프",
-      "content": "Those buggers talk big about purifying and all that, but all I see are a bunch of loonies who just needed an excuse to kill, eh?"
-    },
-    {
-      "id": 28,
-      "model": "히스클리프",
-      "content": "Speak up, then. Are you like those screwloose bucketheads?"
-    },
-    {
-      "id": 29,
-      "model": "뫼르소",
-      "content": "There was a time when I thought about such things."
-    },
-    {
-      "id": 30,
-      "model": "뫼르소",
-      "content": "Though I did not come to a conclusion."
-    },
-    {
-      "id": 31,
-      "model": "히스클리프",
-      "content": "I want that damn conclusion now! Are you gonna up and butcher all the townsfolk if your manager just says so?"
-    },
-    {
-      "id": 32,
-      "model": "뫼르소",
-      "content": "Must I give an answer? That does not aid us in handling our work."
-    },
-    {
-      "id": 33,
-      "model": "뫼르소",
-      "content": "An employee must follow their employer’s orders. The terms Vergilius presented state as much."
-    },
-    {
-      "id": 34,
-      "model": "뫼르소",
-      "content": "If the manager orders me to do such a thing, I will do it. I may provide my input if I am told that it is necessary, but I do not have a habit of rambling my thoughts unprompted."
-    },
-    {
-      "id": 35,
-      "model": "히스클리프",
-      "content": "…Pardon? Are you ‘round the twist? Do you got a chunk of metal for your brains like the folks here?"
-    },
-    {
-      "id": 36,
-      "model": "뫼르소",
-      "content": "I am 16% proteins, 60% water, 7% minerals, and so forth; I am clearly different in terms of composition."
-    },
-    {
-      "id": 37,
-      "model": "뫼르소",
-      "content": "Moreover, unnecessary heavy metals do not comprise any portion of my body."
-    },
-    {
-      "id": 38,
-      "model": "뫼르소",
-      "content": "That is another difference."
-    },
-    {
-      "id": 39,
-      "content": "Heathcliff’s face contorted with frustration."
-    },
-    {
-      "id": 40,
-      "content": "Meursault was already an enigma, and he only felt ever more distant after this conversation."
-    },
-    {
-      "id": 41,
-      "model": "홍루",
-      "content": "Now that you mention it, there’s something I’ve been wondering."
-    },
-    {
-      "id": 42,
-      "model": "홍루",
-      "content": "I’ve been thinking on whether Manager Dante should be seen as a “human”."
-    },
-    {
-      "id": 43,
-      "model": "오티스",
-      "content": "What do you mean?"
-    },
-    {
-      "id": 44,
-      "model": "홍루",
-      "content": "What if… when dear Dante is speaking… it’s actually the clock and not the person we know as “Dante” behind those words?"
-    },
-    {
-      "id": 45,
-      "model": "히스클리프",
-      "content": "Eh? You trying to tell me we were being led by an actual clock?"
-    },
-    {
-      "id": 46,
-      "model": "이스마엘",
-      "content": "Good grief… You’re reaching uncharted depths of idiocy with your theories. I can’t even be bothered to refute them."
-    },
-    {
-      "id": 47,
-      "model": "홍루",
-      "content": "Don’t misunderstand, I do like our Dante with their clock-headedness."
-    },
-    {
-      "id": 48,
-      "model": "로쟈",
-      "content": "Honestly, same. Why don’t you just give up finding your old head and stick with that one?"
-    },
-    {
-      "id": 49,
-      "model": "로쟈",
-      "content": "I know it’s prob not gonna be the case, but what if Dante’s real head turned out to be super evil or something?"
-    },
-    {
-      "id": 50,
-      "model": "그레고르",
-      "content": "Well, there’s only one of us who’d know about our manager bud’s past…"
-    },
-    {
-      "id": 51,
-      "content": "Gregor’s eyes naturally fell on Faust."
-    },
-    {
-      "id": 52,
-      "model": "파우스트",
-      "content": "…That’s confidential information. Its access is restricted to the highest security level."
-    },
-    {
-      "id": 53,
-      "model": "단테",
-      "content": "<…And I get the feeling I won’t be able to read it for myself.>"
-    },
-    {
-      "id": 54,
-      "content": "It’s only natural."
-    },
-    {
-      "id": 55,
-      "content": "I have no idea who or what I originally was, so I had nothing at my disposal to refute Hong Lu’s lighthearted accusation."
-    },
-    {
-      "id": 56,
-      "content": "Maybe he’s right, and I really am just a clock."
-    },
-    {
-      "id": 57,
-      "content": "Even if I ask Faust, there’s no telling if she’ll give me a real answer, and I wouldn’t be able to discern the truth in such a thing either."
-    },
-    {
-      "id": 58,
-      "content": "There’s even a slim chance that the real ‘Dante’ is hidden away somewhere, and that I’m some advanced imitation trained to believe I have free will."
-    },
-    {
-      "id": 59,
-      "content": "In any case, sitting here and ruminating won’t get me anywhere."
-    },
-    {
-      "id": 60,
-      "model": "단테",
-      "content": "<Who knows, maybe I’ll mount this thing on the wall when I find my real head.>"
-    },
-    {
-      "id": 61,
-      "content": "Ishmael sent me a chastising glare for even suggesting something like that, but she had no choice other than to shrug."
-    },
-    {
-      "id": 62,
-      "content": "Well, it is true."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Calw - Quảng trường thị trấn",
+                "content":"Các bộ phận máy móc chất đống như bãi rác trong một góc phố của thị trấn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Tôi nhận thấy một vài người trong số họ vẫn còn tỉnh táo, cất lên những tiếng rên rỉ và đau đớn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Các Phán Quan không hề chần chừ; bọn họ đâm cây đinh thẳng qua lồng ngực của các nạn nhân, lặp đi lặp lại, thực thi mục đích 'thuần khiết' của bọn họ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Ta rõ ràng bản thân đã xuyên thủng tim, nhưng tiếng nhịp đập vẫn còn lưu lại trên cơ thể bọn chúng.",
+                "model":"N사심문관1",
+                "teller":"An Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Hẳn là mấy trái tim ấy đã được bọc thép. Đến tận cả tâm can bọn chúng cũng đã bị vẩy bẩn bởi thứ tà ma ngoại đạo.",
+                "model":"N사심문관2",
+                "teller":"Thành viên Đoàn Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Rặt lũ bẩn thỉu. Sự nhục mạ đối với xác thịt.",
+                "model":"N사심문관2",
+                "teller":"Thành viên Đoàn Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Tên Phán Quan cẩn thận đổ một lọ chất lỏng khắp người có bộ phận máy móc kia như thể đang thực hiện một nghi thức nghiêm trang nào đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Xét theo mùi nồng nặc của chất lỏng, đó chắc chắn chính là xăng dầu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Đón nhận lấy dầu từ cội nguồn nhân loại đi, thứ khoái lạc dị giáo.",
+                "model":"N사심문관2",
+                "teller":"Thành viên Đoàn Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Hỡi những kẻ không thể về với đất mẹ, đi mà tìm kiếm sự thanh thản khi tan biến thành tro bụi đi.",
+                "model":"N사심문관2",
+                "teller":"Thành viên Đoàn Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Một que diêm được ném vào trong đống xác ấy, bùng lên một ngọn lửa khổng lồ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Cùng với âm thanh của những tia lửa điện tung toé, bầu không khí nồng nặc một mùi chua kinh khủng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Nó không giống như mùi xác chết đang cháy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Ngọn lửa lan rộng đến những vết nứt của các bộ phận máy móc đó khiến chúng vụt tắt đi chỉ còn sót lại một màu đen của bóng tối vĩnh cửu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Nếu khung cảnh địa ngục trần gian này mà được coi là thánh sạch thì tôi thà sống mà bị vấy bẩn còn hơn.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Người của Đinh Búa Giáo luôn coi trọng những thứ làm nên con người.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Có người lên án việc sử dụng bộ phận giả, cũng như tin rằng sự đau đớn là yếu tố không thể thiếu khi làm người. Tuy nhiên, tư tưởng đó chưa cực đoan tới mức như những gì đang diễn ra trước mắt chúng ta.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Tôi có thắc mắc… Sao mà cậu biết nhiều điều về Tập Đoàn N thế?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"…Tôi từng được tuyển bởi Tập Đoàn N.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Hở…? Cậu từng làm việc với đám người đó á?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Tôi chưa bao giờ làm việc trực tiếp với thành viên trong đó, nhưng xét về hợp tác, thì đúng là tôi từng liên quan tới họ.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Nếu phải nghĩ đến thì, đây có thể là lần đầu tiên tôi nghe Meursault nói nhiều về bản thân anh ta như này.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Anh ta thường hiếm khi đề cập bất kỳ thứ gì liên quan đến bản thân. Có lẽ bởi vì anh ta cảm thấy không cần thiết phải nói ra.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Sao cậu không nói sớm? Vậy cậu có sở hữu món vũ khí kì dị như bọn kia không?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Tôi có nhất thiết phải giải thích không?",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Quần què gì… Thế mày giải thích xem mày khác bọn điên kia chỗ nào?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Nghe này… Cho dù tao có chửi quản lý Đầu Đồng Hồ ngu cỡ nào đi nữa, tao cũng không nghĩ nó xứng đáng bị thiêu hay chặt đầu gì đâu.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Bọn kia thích phát biểu thanh trừng gì gì đó, nhưng tất cả những gì tao thấy chỉ là một lũ ngáo đang tìm cách biện minh việc giết người, nhỉ?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Lên tiếng coi. Mày có chung tư tưởng tụi nó không?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Cũng từng có lúc tôi nghĩ về những vấn đề như vậy.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Dù tôi chưa bao giờ đi tới kết luận.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Thế kết luận ngay cho tao! Giờ nếu quản lý sai mày đi tàn sát người dân thì mày làm không?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Tôi có cần phải trả lời không? Điều này không giúp gì cho công việc của chúng ta.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Một nhân viên thì phải nghe theo mệnh lệnh của sếp. Vergilius đã phổ biến rõ về quy định rồi.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Nếu quản lý ra lệnh như vừa rồi thì tôi sẽ làm. Tôi có thể đưa ra ý kiến của mình xem việc đó có cần thiết hay không, nhưng tôi không có thói nói lên suy nghĩ mà chưa được cho phép.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"…Ủa? Đầu mày ổn không thế? Hay mày cũng có cục sắt trong não như bọn ở đây vậy?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Trong người tôi chứa 16% protein, 60% nước, 7% khoáng chất, và những thứ khác; tôi chắc chắn khác họ về hàm lượng của các thành phần đó.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Hơn nữa, hàm lượng kim loại dư thừa không tích tụ trong bất cứ bộ phận nào trên cơ thể tôi.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Đấy cũng là một sự khác biệt nữa.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Gương mặt của Heathcliff méo đi vì bực bội.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Meursault đã rất bí ẩn rồi, và sau cuộc trò chuyện này thì anh ấy càng trở nên xa cách hơn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Nhắc tới thì, có một chuyện mà tôi cũng thắc mắc từ lâu rồi.",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Ấy là, liệu ngài Dante có nên được coi là một \"con người\" không nhỉ?",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Ý ngươi là gì?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Là thế này… Lúc chúng ta nghe thấy lời ngài Dante, biết đâu người nói không phải là người tên \"Dante\" mà là cái đồng hồ đó?",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Hả? Nghĩa là trước giờ tụi mình theo lệnh một cái đồng hồ thật à?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Nói hay lắm… Chúc mừng mấy ông đã chạm tới đáy vực thẳm sâu của sự ngu dốt cùng với mớ giả thuyết đó. Tôi còn chả muốn bác bỏ nữa là.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Hì, nói vậy thôi, chứ tôi vẫn rất thích ngài Dante đầu đồng hồ như bây giờ nha.",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Thật thì, tui cũng thế. Sao không từ bỏ đi tìm cái đầu cũ đó rồi giữ cái đó đi?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Biết chắc là không có chuyện này đâu, nhưng mà nếu cái đầu thật của Dante là siêu phản diện hay gì đó thì sao đây?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Chà, trong số chúng ta thì chỉ có một người có thể sẽ biết về quá khứ của cậu quản lý thôi…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Mắt của Gregor hướng về phía của Faust.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"…Đó là thông tin tuyệt mật. Chỉ có ai có quyền hạn cấp cao mới được tiếp cận chúng.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"<… Và tôi cá là đến cả chính tôi còn chẳng thể tự đọc nó được.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Là điều hiển nhiên rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Tôi thậm chí còn không biết bản thân trước đây của tôi từng là ai hay là cái gì, nên tôi không có bất kỳ cơ sở nào để bác bỏ lời nhận định vô tư của Hong Lu cả.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Có thể anh ấy nói đúng, rằng tôi thật sự chỉ là một cái đồng hồ không hơn không kém.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Cho dù nếu tôi có hỏi Faust đi nữa, không thể nào biết được liệu cô ấy có trả lời tôi thật lòng không, và tôi sẽ không thể nào phân biệt được đâu mới là sự thật từ một thứ mơ hồ như thế.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Thậm chí còn có một khả năng rất nhỏ rằng ‘Dante‘ thật đang trốn ở đâu đấy, còn tôi chỉ là một bản sao tân tiến nào đó được tạo ra và tin rằng bản thân có nhận thức riêng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Dù có là trường hợp nào đi nữa, thì ngồi yên một chỗ và ngẫm nghĩ mọi thứ cũng chẳng phải là cách.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"<Ai biết được, có thể tôi sẽ treo thứ này lên tường khi tìm được cái đầu thật của mình chăng.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Ishmael lườm tôi một cách đầy cay nghiệt vì dám nói ra một điều như thế, nhưng cô ấy không thể làm gì ngoài việc không quan tâm cho qua chuyện.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"À thì, đúng vậy thật.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

@@ -1,250 +1,306 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Mephistopheles' Skiff",
-            "model": "단테2",
-            "content": "<I still don't see anyone on the deck...>"
-        },
-        {
-            "id": 1,
-            "model": "돈키호테",
-            "content": "Wait but a moment. I shall make use of mine lungs to howl a bellow so powerful that they have no recourse but to heed us!"
-        },
-        {
-            "id": 2,
-            "model": "돈키호테",
-            "content": "HAAARK!!!!!"
-        },
-        {
-            "id": 3,
-            "model": "히스클리프",
-            "content": "Shut it! You'll burst my eardrums."
-        },
-        {
-            "id": 4,
-            "model": "그레고르",
-            "content": "By the way... is it okay for us to just barge into a... yacht party like this?"
-        },
-        {
-            "id": 5,
-            "model": "그레고르",
-            "content": "We don't have the, uh... an invitation or anything like it, either."
-        },
-        {
-            "id": 6,
-            "model": "로쟈",
-            "content": "Puff out your chest, Greg~ The more the merrier, right? They'll understand~"
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "I couldn't care less about a party. We're here to gather intel. Waste any more time, and I'm leaving you behind."
-        },
-        {
-            "id": 8,
-            "model": "싱클레어",
-            "content": "Wow... This... this place really is fancy...!"
-        },
-        {
-            "id": 9,
-            "place": "Cruise Ship",
-            "content": "Numerous liquor bottles and half-eaten food were strewn about haphazardly all over the deck."
-        },
-        {
-            "id": 10,
-            "model": "뫼르소",
-            "content": "It appears that this party must have ended very recently and abruptly."
-        },
-        {
-            "id": 11,
-            "model": "돈키호테",
-            "content": "Ah! I spy light shining from the ship's interiors! I shall go swiftly like the wind and verify its sources!!!"
-        },
-        {
-            "id": 12,
-            "content": "Don Quixote, running on sheer excitement for a party, scuttled to the cabins."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "Well, that's one loudmouth gone... Then...!"
-        },
-        {
-            "id": 14,
-            "content": "Heathcliff slammed his fist into the loudspeaker that's been blaring music this entire time."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "Blimey... Now that's a relief. Thought my eardrums were about to burst."
-        },
-        {
-            "id": 16,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 17,
-            "content": "I decided to remain silent. The music *was* pretty loud."
-        },
-        {
-            "id": 18,
-            "model": "그레고르",
-            "content": "Well, it's awful quiet up here now that the music's gone."
-        },
-        {
-            "id": 19,
-            "model": "홍루",
-            "content": "Oh, this reminds me of a similar story my nanny used to tell me. It's an old story, but..."
-        },
-        {
-            "id": 20,
-            "content": "Don Quixote returns with a dumbfounded expression on her face."
-        },
-        {
-            "id": 21,
-            "model": "돈키호테",
-            "content": "There was... naught..."
-        },
-        {
-            "id": 22,
-            "model": "로쟈",
-            "content": "What? What was naught? Food? Drinks? Both?"
-        },
-        {
-            "id": 23,
-            "model": "돈키호테",
-            "content": "There was... no one."
-        },
-        {
-            "id": 24,
-            "model": "돈키호테",
-            "content": "Yet... the lights were left on... With nary a soul to be seen inside..."
-        },
-        {
-            "id": 25,
-            "model": "오티스",
-            "content": "Ridiculous. It is clear that, mere moments ago, a large group of people were having a party on the deck. How could there be no one aboard?"
-        },
-        {
-            "id": 26,
-            "model": "돈키호테",
-            "content": "F-for truth! Mayhaps... they are busying themselves with a game of hide-and-seek...?"
-        },
-        {
-            "id": 27,
-            "model": "그레고르",
-            "content": "Can't imagine that the crowd that left all these liquor bottles behind would be the kind that enjoys playing hide-and-seek like kids at a party..."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "So what, they just vanished into thin air? Like they were— Wait, did the Waves already...?"
-        },
-        {
-            "id": 29,
-            "model": "뫼르소",
-            "content": "There is one remaining possibility: the ship's storage space."
-        },
-        {
-            "id": 30,
-            "model": "로쟈",
-            "content": "Are ya saying that these party people... left all this uneaten food and liquor behind just to huddle in a cramped storage room...?"
-        },
-        {
-            "id": 31,
-            "model": "홍루",
-            "content": "Ohh~ I remember now! Yes! The story went just like this!"
-        },
-        {
-            "id": 32,
-            "model": "홍루",
-            "content": "Once, a huge manor sent out invitations for a grand party. But when the guests arrived, they found the manor vacant and engulfed in deathly silence..."
-        },
-        {
-            "id": 33,
-            "model": "싱클레어",
-            "content": "H-how about we get the music going again?"
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "I smashed the radio, lad."
-        },
-        {
-            "id": 35,
-            "model": "이스마엘",
-            "content": "If this ship was struck by the Waves, we have to get out of here, now..."
-        },
-        {
-            "id": 36,
-            "model": "홍루",
-            "content": "Then... Boom! Boom! Banging noises, coming from behind a door slightly ajar...! So, of course, they went in there to investigate, and..."
-        },
-        {
-            "id": 37,
-            "model": "돈키호테",
-            "content": "And...?! And?!"
-        },
-        {
-            "id": 38,
-            "model": "싱클레어",
-            "content": "……."
-        },
-        {
-            "id": 39,
-            "model": "홍루",
-            "content": "... And there they were! Bodies as stiff as corpses in rigor mortis, arms stretched forward, hopping, up and down...!"
-        },
-        {
-            "id": 40,
-            "model": "싱클레어",
-            "content": "OH! That's... I-I...!!! I think I'll go check out the storage space!!"
-        },
-        {
-            "id": 41,
-            "model": "돈키호테",
-            "content": "Sinclair, wherefore art thy palms so sodden?"
-        },
-        {
-            "id": 42,
-            "model": "싱클레어",
-            "content": "It's genetics...!"
-        },
-        {
-            "id": 43,
-            "content": "Sinclair hurriedly left the room in search of the ship's storage."
-        },
-        {
-            "id": 44,
-            "model": "홍루",
-            "content": "... Which was the dance that was all the rage back then, apparently~"
-        },
-        {
-            "id": 45,
-            "model": "돈키호테",
-            "content": "... The art of dancing... must truly be an art of great profundity..."
-        },
-        {
-            "id": 46,
-            "model": "히스클리프",
-            "content": "Well, that was some damp squib. I thought it was actually going somewhere."
-        },
-        {
-            "id": 47,
-            "model": "이상",
-            "content": "I had thought with quite the confidence that this would be a tale of the living dead."
-        },
-        {
-            "id": 48,
-            "model": "로쟈",
-            "content": "Now what'd ya do that for? You scared the kid off... Where'd he go?"
-        },
-        {
-            "id": 49,
-            "model": "단테2",
-            "content": "<... I'll go find Sinclair.>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Thuyền Nhỏ Mephistopheles",
+                "model":"단테2",
+                "content":"<Tôi vẫn không thấy một ai trên boong tàu cả...>"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Đợi một chút nhé. Ta sẽ dùng phổi của mình để hú lên một tiếng gầm mạnh mẽ đến mức họ không còn cách nào khác ngoài phải để ý đến chúng ta!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"돈키호테",
+                "content":"RÉÉÉÉÉ!!!!!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Câm mồm! Lủng màng nhĩ tao bây giờ."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"그레고르",
+                "content":"Nhân tiện thì... ta cứ thể mà nhảy vô một bữa... tiệc tùng như vậy có ổn không đấy?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chúng ta cũng đâu có, ờm... thư mời hay gì đâu."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"로쟈",
+                "content":"Thoải mái đi anh Greg~ Càng đông càng vui mà? Chắc họ sẽ hiểu thôi~"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tiệc với chả tùng. Chúng ta tới đây để thu thập thông tin. Còn lãng phí thì giờ vô ích nữa là tôi bỏ lại mấy người đấy."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Oa... Nơi này... nơi này nhìn sang trọng quá...!"
+            },
+            {
+                "id":9,
+                "place":"Tàu Du Ngoạn",
+                "model":null,
+                "content":"Vô số chai rượu và thức ăn bỏ dở vứt bừa bãi khắp boong tàu."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Bữa tiệc xem ra bị kết thúc đột ngột mới đây."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"돈키호테",
+                "content":"A! Ta đây quan sát được ánh đèn từ bên trong con tàu! Ta sẽ tức tốc đi kiểm tra nguồn gốc của nó tựa như một cơn gió!!!"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote chạy vào khoang tàu trong sự vui sướng tột độ."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프",
+                "content":"À, con mõm to đi rồi... Thế thì...!"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff vung nắm đấm vào cái loa đang phát nhạc inh ỏi suốt nãy giờ."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Má nó... Giờ thì đỡ rồi. Mém nữa thủng tai tao."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "content":"Tôi quyết định giữ im lặng. Tiếng nhạc *thật sự* khá ồn."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chà, giờ khi tiếng nhạc dừng rồi thì mọi thứ đúng là im ắng thật."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"홍루",
+                "content":"Tiện nhắc tới, tôi lại nhớ ra một câu chuyện ngày xưa nhũ mẫu kể cũng khá giống thế này. Chuyện cổ tích hay sao đó, nhưng mà..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote quay lại với gương mặt ngơ ngác."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Chẳng... có..."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"로쟈",
+                "content":"Sao? Chẳng có cái gì cơ? Đồ ăn hả? Nước uống? Hay cả hai?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Chẳng có... một ai."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Dẫu vậy... đèn vẫn sáng... Mà chẳng hề có lấy một bóng người ở bên trong..."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"오티스",
+                "content":"Nực cười. Rõ ràng mới một khoảnh khắc trước một đám người đang có tiệc trên boong tàu. Sao giờ mất tăm hết cả đám rồi?"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"돈키호테",
+                "content":"T-Thật vậy! Phải chăng... bọn họ đang bận chơi trốn tìm rồi...?"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi không nghĩ là cái hội để lại đống vỏ chai trên tàu như này lại là thể loại người thích chơi trốn tìm như lũ trẻ con đâu..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Gì chứ, họ cứ thế biến mất vào thinh không thôi à? Cứ như là họ— Khoan, chẳng lẽ là Con Sóng đã quét qua rồi sao...?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Vậy chỉ còn một phương án duy nhất: kho chứa đồ của tàu."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"로쟈",
+                "content":"Liệu anh đang nói rằng mấy bọn tiệc tùng này... lại bỏ hết đống đồ ăn dư thừa và rượu chỉ để tụ tập lại trong cái nhà kho chật chội kia sao?"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"홍루",
+                "content":"À~ Đúng rồi, câu chuyện đấy như thế này này!"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"홍루",
+                "content":"Ngày xưa, có một dinh thự gửi thiệp mời các quan khách đến dự thịnh yến nhà họ. Nhưng khi khách khứa đến thì kỳ lạ thay, trong dinh thự lại vắng lặng như tờ, chẳng có ai đi ra tiếp đón..."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"싱클레어",
+                "content":"C-chúng ta có nên bật nhạc lên lại không?"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao đập hư cái loa rồi nhóc."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nếu Con Sóng đã ập tới tàu này rồi thì chúng ta phải rời khỏi đây, ngay..."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"홍루",
+                "content":"Vậy mà... Từ một căn phòng cửa để ngỏ, bỗng nhiên 'Đùng!'... 'Đùng!' mấy tiếng liền làm quan khách tò mò, nên họ mới chạy vào trong xem thử..."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Và...?! Và?!"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"싱클레어",
+                "content":"……."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"홍루",
+                "content":"Đột nhiên xuất hiện bao nhiêu dáng người đang giơ thẳng hai cánh tay, cơ thể cứng đơ như thây ma cứ nhảy nhảy...!"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Á! Đó là... T-Tôi!!! Chắc tôi đi kiểm tra nhà kho đây!!"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Sinclair, cớ sao mà bàn tay của cậu nhễ nhại mồ hôi thế?"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Là do di truyền...!"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Sinclair vội vã rời đi để kiểm tra chỗ chứa đồ của con tàu."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"홍루",
+                "content":"...Hóa ra đó chỉ là điệu nhảy đang làm mưa làm gió ngày ấy thôi~"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... Nghệ thuật nhảy múa... ắt hẳn là một loại hình nghệ thuật sâu sắc ..."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Chuyện gì nghe nhạt vậy. Tao tưởng có gì hay lắm."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi đã khá chắc là mình sắp nghe chuyện kể về người chết sống lại."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nào, làm vậy chi thế? Anh làm thằng nhóc chạy bay luôn kìa... Ẻm đi đâu rồi trời?"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Tôi sẽ đi tìm Sinclair.>"
+            }
+        ]
+    }
+

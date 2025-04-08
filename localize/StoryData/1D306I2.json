@@ -2,48 +2,48 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "The mass of maggots falls apart in a hail of silent screams."
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
+      "content": "Hàng tá lũ giòi cuối cùng cũng lũ lượt rơi xuống trong tiếng thét thầm lặng."
     },
     {
       "id": 1,
-      "content": "Beyond that, I see a wave of radiant golden light."
+      "content": "Hơn thế nữa, tôi đã nhìn thấy môt làn sóng vàng rực rỡ."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<Is that… the Golden Bough?>"
+      "content": "<Đó có phải... Cành Vàng không?>"
     },
     {
       "id": 3,
-      "content": "Just as I begin to approach it, the apple begins to tremble."
+      "content": "Ngay khi tôi định tiếp cận nó, quả táo bỗng rung rẩy."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from… Limbus Company?"
+      "title": "Fixer Cấp 8",
+      "content": "Thứ lỗi... Có phải mọi người từ... Công Ty Limbus?"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<Yuri? You’re okay?>"
+      "content": "<Yuri? Cô ổn chứ?>"
     },
     {
       "id": 6,
-      "content": "Even though I had clearly seen it devour her, I couldn’t stop myself from asking."
+      "content": "Dù bản thân không tận mắt chứng kiến nó nuốt chửng cô ấy, điều đó cũng không khỏi khiến tôi ngừng thắc mắc."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…When we go back to the bus, can I—Charon how to…?"
+      "title": "Fixer Cấp 8",
+      "content": "Khi nào trở về... tôi có... chỉ cho Charon c-...?"
     },
     {
       "id": 8,
-      "content": "Then I saw a glimpse of the pink locks of hair that Rodya took a liking to."
+      "content": "Và rồi tôi thoáng thấy mái tóc hồng mà Rodya đã yêu thích hiện ra."
     }
   ]
 }

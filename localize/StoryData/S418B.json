@@ -1,422 +1,574 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K - LC Branch Interior",
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, this corridor must be the last. Once we're past here, we'll reach the edge of the facility."
-        },
-        {
-            "id": 1,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "After I retrieve my precious items from there, I'll give you the ownership of the Golden Bough as promised."
-        },
-        {
-            "id": 2,
-            "model": "로쟈",
-            "content": "Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up..."
-        },
-        {
-            "id": 3,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was part of the contract to reclaim the laboratory."
-        },
-        {
-            "id": 4,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's why I kept telling you, Mr. Dongrang. When you draft a contract, you have to be meticulous and calculating, and write it in a way that favors us."
-        },
-        {
-            "id": 5,
-            "model": "단테",
-            "content": "<...Let's get going.>"
-        },
-        {
-            "id": 6,
-            "content": "Fortunately, I didn't see any killing machines here."
-        },
-        {
-            "id": 7,
-            "content": "However, a couple of unwelcome figures appeared in front of us."
-        },
-        {
-            "id": 8,
-            "model": "오티스",
-            "content": "Be on guard, Executive Manager! Someone is ahead of us."
-        },
-        {
-            "id": 9,
-            "model": "단테",
-            "content": "<Yeah, but they aren't holding any weapons...>"
-        },
-        {
-            "id": 10,
-            "model": "오티스",
-            "content": "They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!"
-        },
-        {
-            "id": 11,
-            "model": "단테",
-            "content": "<...Um, thanks? Outis?>"
-        },
-        {
-            "id": 12,
-            "model": "란",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Can't you count? You clearly outnumber us by a huge margin. Don't be a baby..."
-        },
-        {
-            "id": 13,
-            "model": "란",
-            "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Here at last, worms?"
-        },
-        {
-            "id": 14,
-            "model": "싱클레어",
-            "content": "It's the same voice that played from the machines. And... it's the same face we saw earlier."
-        },
-        {
-            "id": 15,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Where are your other members, Senior Researcher Ran?"
-        },
-        {
-            "id": 16,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "...You managed to bring more help in that mess, I see."
-        },
-        {
-            "id": 17,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "And put away that \"senior\" crap, we haven't even known each other for long. Don't you see what's going on?"
-        },
-        {
-            "id": 18,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "They've all evacuated. And here I am... buying time for them."
-        },
-        {
-            "id": 19,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?"
-        },
-        {
-            "id": 20,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "'Cause you're worms. Look at you, getting all cocky after receiving the best employee award..."
-        },
-        {
-            "id": 21,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "Raiding here, dare trying to catch us."
-        },
-        {
-            "id": 22,
-            "model": "히스클리프",
-            "content": "You've got a big mouth. You think you're better than us?"
-        },
-        {
-            "id": 23,
-            "model": "히스클리프",
-            "content": "You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?"
-        },
-        {
-            "id": 24,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "...Let's say I do. It's clear what you'll do with me."
-        },
-        {
-            "id": 25,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "You'll neutralize me and keep me barely alive..."
-        },
-        {
-            "id": 26,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "\"Curing\" me with your flaunted regeneration ampules..."
-        },
-        {
-            "id": 27,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "Rinse and repeat, until you get the answers you want."
-        },
-        {
-            "id": 28,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sounds like a problem that can be prevented by giving us the answers right away. Am I asking too much?"
-        },
-        {
-            "id": 29,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "'Course you are. Unlike you..."
-        },
-        {
-            "id": 30,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "We aren't planning to live like roaches that feed on whatever is provided from above."
-        },
-        {
-            "id": 31,
-            "model": "그레고르",
-            "content": "...This is really getting on my nerves."
-        },
-        {
-            "id": 32,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "Ah, whatever~ I've had enough of toying with you."
-        },
-        {
-            "id": 33,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "What are you trying to..."
-        },
-        {
-            "id": 34,
-            "model": "란",
-            "teller": "Ran",
-            "title": "Technology Liberation Alliance",
-            "content": "That's right, show your curiosity only to what's happening immediately before your eyes. That's how a researcher should be."
-        },
-        {
-            "id": 35,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "Ran..."
-        },
-        {
-            "id": 36,
-            "content": "With an ear-piercing noise, the building was engulfed in an explosion."
-        },
-        {
-            "id": 37,
-            "content": "All that remains is a charred stain."
-        },
-        {
-            "id": 38,
-            "model": "단테",
-            "content": "<Ngh... That hurt a lot.>"
-        },
-        {
-            "id": 39,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Are you alright, Mr. Dongrang?"
-        },
-        {
-            "id": 40,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I'm fine... Someone in Dante's party pushed me away as soon as the blast was heard. You know, the quiet fellow with intimidating eyes."
-        },
-        {
-            "id": 41,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I was going to do the same, but I was standing too far away."
-        },
-        {
-            "id": 42,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Whew, that was close."
-        },
-        {
-            "id": 43,
-            "content": "After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed."
-        },
-        {
-            "id": 44,
-            "content": "...Don Quixote in particular was impaled on a pillar."
-        },
-        {
-            "id": 45,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation."
-        },
-        {
-            "id": 46,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Not out of any sort of friendship or affinity... Isn't that right?"
-        },
-        {
-            "id": 47,
-            "content": "Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth."
-        },
-        {
-            "id": 48,
-            "model": "뫼르소",
-            "content": "...Cough."
-        },
-        {
-            "id": 49,
-            "model": "단테",
-            "content": "<Meursault? You were alive...?>"
-        },
-        {
-            "id": 50,
-            "model": "뫼르소",
-            "content": "...It was my directive to protect the manager and see that the company's mission is accomplished."
-        },
-        {
-            "id": 51,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That... must be it, yes."
-        },
-        {
-            "id": 52,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "How convenient. You can recover your body without using regeneration ampules."
-        },
-        {
-            "id": 53,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 54,
-            "model": "단테",
-            "content": "<I dunno, the ampule looks handier...>"
-        },
-        {
-            "id": 55,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Right, is Ms. Shrenne alright? And the other Fixers?"
-        },
-        {
-            "id": 56,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "We're perfectly sound."
-        },
-        {
-            "id": 57,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "Your group blocked the blast for us, so we turned out fine."
-        },
-        {
-            "id": 58,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "That's... why you haven't been taking the ampules. That clock had special powers."
-        },
-        {
-            "id": 59,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed. After all, I recruited them after thorough screening and testing."
-        },
-        {
-            "id": 60,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "I see... Well, darn... All the ampules I brought... are useless now."
-        },
-        {
-            "id": 61,
-            "content": "For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor."
-        },
-        {
-            "id": 62,
-            "content": "It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power."
-        },
-        {
-            "id": 63,
-            "content": "Fatal consequences can be reversed, and the only price is me having to bear the pain."
-        },
-        {
-            "id": 64,
-            "content": "No, wait."
-        },
-        {
-            "id": 65,
-            "content": "Is this really fine?"
-        },
-        {
-            "id": 66,
-            "content": "And where does all this time to rewind come from?"
-        },
-        {
-            "id": 67,
-            "model": "히스클리프",
-            "content": "Clock...face... Stop...dawdling about... That yellow-haired lass is dying..."
-        },
-        {
-            "id": 68,
-            "content": "Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote."
-        },
-        {
-            "id": 69,
-            "model": "히스클리프",
-            "content": "Hurry up and turn it... This... hurts an awful lot..."
-        },
-        {
-            "id": 70,
-            "model": "단테",
-            "content": "<...On it.>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nest K - Nội Bộ Chi nhánh LC",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"A, đây là dãy hành lang cuối cùng rồi. Một khi chúng ta bước sang đó, chúng ta sẽ đến được rìa của cơ sở."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Sau khi lấy lại mấy món quan trọng của tôi xong, bản thân sẽ chuyển nhượng quyền sở hữu Cành Vàng cho mọi người như đã hứa."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Tôi nghĩ chuyện này sẽ sớm kết thúc thôi, mà vậy có ổn với anh không đấy? Bọn khủng bố kia chắc chạy bay mất rồi, giờ thì chẳng thấy ma nào xuất hiện cả..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Giành lại phòng thí nghiệm cũng là một phần trong hợp đồng."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Thế nên tôi mới nhắc ngài bao lần rồi, ngài Dongrang. Khi viết ra một bản hợp đồng thì ngài phải tính toán viết sao cho điều kiện phải có lợi cho chúng ta nhất chứ."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...Đi tiếp thôi nào.>"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"May mắn thay, tôi không thấy bất kỳ cỗ máy giết chóc nào ở đây cả."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tuy nhiên, có hai dáng người không thân thiện mấy xuất hiện trước chúng tôi."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Hãy cảnh giác, thưa Quản Lý Điều Hành! Có kẻ địch trước mặt chúng ta."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Ừa, nhưng bọn họ không cầm theo bất kỳ vũ khí nào hết...>"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Chúng có thể không vũ trang nhưng ngài là một người cực kì mỏng manh dễ vỡ đấy, thưa Quản Lý Điều Hành!"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...Ừm, cảm ơn nhé? Outis?>"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Không biết đếm à? Mấy người rõ ràng đông hơn bọn tôi rồi gì nữa. Đừng có mà trẻ con thế chứ..."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"란",
+                "teller":"???",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Đến rồi sao, lũ bọ?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Đó chính là giọng nói phát ra từ mấy cỗ máy kia. Và... cũng là người mà chúng ta đã thấy lúc nãy."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Những thành viên còn lại của cô đâu rồi, Tiền bối Ran?"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"...Coi bộ cậu cũng biết nắm bắt thời cơ để kiếm thêm tiếp viện đấy nhỉ."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Và bỏ cái \"tiền bối\" nhảm nhí đi, chúng ta còn không biết nhau lâu đến thế đâu. Bộ cậu không thấy chuyện gì đang xảy ra hay gì?"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Bọn họ đã di tản hết rồi. Và tôi ở đây... câu giờ cho họ."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Thú vị thật đấy. Chúng tôi tưởng mình đã đổ bộ vào một cách đầy bất ngờ, nhưng bên cô lại biết trước chuyện đó và trốn thoát sao?"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Vì cậu không hơn gì giòi bọ. Tự nhìn lại bản thân đi, trở nên hách dịch khi nhận lấy cái giải nhân viên xuất sắc kia..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Giờ còn dám xông vào đây, đòi bắt bọn tôi nữa chứ."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mày to mồm phết. Nghĩ mày ngon ăn hơn tụi tao sao?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mày đang bị áp đảo về quân số. Dùng đầu mà suy nghĩ về chuyện đầu hàng đi, nhể?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"...Giả dụ như tôi có làm thế đi. Quá rõ là mấy người sẽ tính làm gì tôi rồi còn gì."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Mấy người kiểu gì cũng sẽ hành hạ tôi bán sống bán chết..."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Rồi \"chữa\" cho tôi với những ống huyết thanh hồi phục phô trương ấy..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Giày vò tôi hàng giờ liền cho đến khi mấy người có được câu trả lời thỏa đáng thì thôi."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Nghe giống như một vấn đề có thể được ngăn chặn bằng cách đưa cho chúng tôi câu trả lời ngay từ đầu luôn đấy. Tôi đòi hỏi nhiều quá sao?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Chứ sao nữa. Không như cậu..."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Bọn tôi không có ý định sống như gián mà ăn những thứ cặn bã bọn thượng đẳng ném cho thôi đâu."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Sao nghe cáu thế nhể."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"A, sao cũng được~ Tôi vờn với mấy người đủ rồi."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Mấy người đang cố làm gì..."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"란",
+                "teller":"Ran",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Đúng rồi đấy, cứ mà tò mò với những gì diễn ra trước mắt đi. Không phải nhà nghiên cứu nào cũng như vậy sao."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Chị Ran..."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cùng với một âm thanh điếc tai, cả toà kiến trúc bị vụ nổ bao trùm."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Những gì còn sót lại chỉ là vết cháy xém."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Ực... Đau lắm đấy.>"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Ngài ổn không, ngài Dongrang?"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi ổn... Ai đó trong nhóm của Dante đã đẩy tôi ra ngay khi ta vừa nghe thấy tiếng nổ. Cậu biết đấy, anh bạn trầm tính với ánh mắt hình viên đạn."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi cũng sẽ làm vậy thôi, nhưng tôi lúc đó đang ở quá xa ngài."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Phù, nguy hiểm thật."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sau khi hứng chịu chấn động cho những người khác, Don Quixote và Meursault đều đã bị đánh bay thẳng vào những cây cột trụ chống đỡ toà nhà, xương sống của bọn họ lộ rõ ra ngoài."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"...Riêng Don Quixote thì bị một cây cột đâm vào người."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đây hẳn phải là niềm tin rằng bọn họ sẽ có thể sống trở lại mới khiến họ xông pha vào hiểm nguy mà không hề do dự điều gì cả."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Không phải vì tình bạn hay quan hệ gì hết... Có đúng không?"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Don Quixote không thể trả lời, do đã chết hoặc do một cạnh nhọn đã đâm xuyên qua miệng của cô ấy."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"...Khụ."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Meursault? Anh còn sống sao...?>"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"...Bảo vệ quản lý và đảm bảo chắc chắn nhiệm vụ được đưa ra hoàn thành là chỉ thị của tôi."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Chắc... là vì thế nhỉ."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tiện lợi thật đấy. Mọi người có thể khôi phục lại cơ thể của bản thân mà không cần dùng đến huyết thanh hồi phục."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<......>"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Tôi không biết, cái huyết thanh trông tiện hơn nhiều...>"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đúng rồi, cô Shrenne có bị thương không? Và mấy Fixer kia nữa?"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Bọn ta ổn cả."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Nhóm của anh đã che chắn vụ nổ cho bên tôi rồi, nên chúng tôi vẫn ổn..."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Cái đồng hồ kia... sở hữu năng đặc biệt sao. Vì vậy mà mấy người kia không cần tới huyết thanh."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đương nhiên rồi. Dù gì chính tôi là người đã tuyển chọn họ sau khi đã kiểm tra và suy xét mà."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Ra là vậy... đành chịu rồi... hờ... Đống huyết thanh tôi có... giờ vô dụng thật mà."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vì một lý do nào đó, Shrenne cất lên một nụ cười bất lực và thả hết các huyết thanh trong túi cô ấy ra sàn."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cũng đúng thôi... Thế giới quan của họ khác với tôi—vậy nên họ mới thấy thứ này là một năng lực tiện lợi."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Các hệ quả chí tử đều có thể được đảo ngược lại, và cái giá duy nhất phải trả là tôi sẽ phải chịu đựng nỗi đau giày vò."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Không, đợi đã."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chuyện này có thật sự ổn không thế?"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và toàn bộ số thời gian để quay ngược này từ đâu mà có?"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mặt... đồng hồ... Ngưng... lảm nhảm... Nhỏ tóc vàng đang chết mòn kìa...."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bị vụ nổ bắn ra tan nát, Heathcliff chỉ về phía Don Quixote."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nhanh lên và quay đi... Cái... quỷ này đau vãi..."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...Tôi làm ngay đây.>"
+            }
+        ]
+    }
+

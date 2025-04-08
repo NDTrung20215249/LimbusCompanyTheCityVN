@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_9_1",
-      "dlg": "Is the recorder on? Do I speak through here...? Oh, good luck!"
+      "dlg": "Máy ghi âm đã được bật chưa? Mọi người có nghe những gì tôi nói không nhỉ...? Ồ, chúc may mắn!"
     },
     {
       "id": "announcer_cheer_9_2",
-      "dlg": "I don't know how much help I will be... but I'll try my best."
+      "dlg": "Tôi không chắc về việc tôi có thể giúp ích gì đó cho mọi người... nhưng tôi sẽ cố làm tốt nhất có thể."
     },
     {
       "id": "announcer_specialcheer_9_1",
-      "dlg": "Are you guys okay...? That attack seemed painful..."
+      "dlg": "Mọi người có ổn không...? Cú đánh đó có vẻ đau..."
     },
     {
       "id": "announcer_specialcheer_9_2",
-      "dlg": "Oh no... You guys look pretty hurt..."
+      "dlg": "Ôi không... Mọi người trông tệ quá..."
     },
     {
       "id": "announcer_enemy_break_9_1",
-      "dlg": "That entity over there, let's take that one out first."
+      "dlg": "Thực thể ở đằng kia kìa, hãy loại trừ nó đi đã."
     },
     {
       "id": "announcer_ally_break_9_1",
-      "dlg": "Be careful... People with damaged minds or bodies, even if they're your friends, are unpredictable..."
+      "dlg": "Cẩn thận đó... Những người có tâm trí hoặc cơ thể bị tổn thương, cho dù đó có phải là bạn bè đi chăng nữa, bọn họ vẫn thật khó đoán..."
     },
     {
       "id": "announcer_killenemy_9_1",
-      "dlg": "You're doing it. Don't give up...!"
+      "dlg": "Mọi người đang làm được. Đừng bỏ cuộc...!"
     },
     {
       "id": "announcer_ally_dead_9_1",
-      "dlg": "D-Dante, you can bring them back... right?"
+      "dlg": "D-Dante, ngài có thể hồi sinh cho họ... phải không?"
     },
     {
       "id": "announcer_enemy_adv_9_1",
-      "dlg": "This is a mess... It's like I can... almost hear the sirens again..."
+      "dlg": "Đây là một mớ hổ lốn... Giống như tôi... gần như có thể nghe lại những tiếng còi báo động..."
     },
     {
-      "id": "announcer_ally_advex_9_1",
-      "dlg": "The situation isn't ideal... But I know you guys can do it!"
+      "id": "announcer_ally_adv_9_1",
+      "dlg": "Đây không phải là một tình huống lý tưởng... Nhưng tôi biết mọi người có thể làm được!"
     },
     {
       "id": "announcer_danger_9_1",
-      "dlg": "You have to focus now. Face it, to the end."
+      "dlg": "Ta phải tập trung thôi. Đối mặt với nó, đến khi mọi chuyện kết thúc."
     },
     {
       "id": "announcer_enemy_specialskill_9_1",
-      "dlg": "A powerful attack incoming...! You guys got this, right?"
+      "dlg": "Một đòn tấn công mạnh mẽ đang đến gần...! Mọi người có cách để đối phó rồi chứ?"
     },
     {
       "id": "announcer_enemy_specialgimmick_9_1",
-      "dlg": "A bitter taste in my mouth... It always happens right before imminent danger...?!"
+      "dlg": "Tôi cảm nhận được vị đắng trong miệng... Nó luôn là điềm báo trước nguy hiểm...?!"
     },
     {
       "id": "announcer_advatk_physical_9_1",
-      "dlg": "That's a sharp blade. I'm guessing that's their weakness, huh?"
+      "dlg": "Đó là một đòn tấn công chính xác và quyết đoán. Tôi đoán rằng đó là điểm yếu của chúng, nhỉ?"
     },
     {
       "id": "announcer_disadvatk_physical_9_1",
-      "dlg": "Oh... That didn't work so well. I'll have to write it down in the management logs..."
+      "dlg": "Ôi... Nó không hoạt động hiệu quả cho lắm. Tôi sẽ phải ghi chép lại điều này trong báo cáo quan sát..."
     },
     {
       "id": "announcer_advatk_attr_9_1",
-      "dlg": "Good management work. What a relief."
+      "dlg": "Công tác quản lý tốt. Thật nhẹ nhõm làm sao."
     },
     {
       "id": "announcer_disadvatk_attr_9_1",
-      "dlg": "Maybe a different method would've worked better against that entity..."
+      "dlg": "Có lẽ một phương pháp khác sẽ hiệu quả hơn để chống lại thực thể đó..."
     },
     {
       "id": "announcer_enemy_specialbuff_9_1",
-      "dlg": "The hostile entity is getting revved up. Let's try to approach this carefully."
+      "dlg": "Thực thể thù địch đang dần mạnh lên. Hãy thử tiếp cận nó một cách cẩn thận xem sao."
     },
     {
       "id": "announcer_enemy_specialdebuff_9_1",
-      "dlg": "Huh?! Looks like they're weakened...! Is this our chance?"
+      "dlg": "Hở?! Trông như bọn chúng đang yếu dần...! Đây là cơ hội của chúng ta sao?"
     },
     {
       "id": "announcer_ally_specialbuff_9_1",
-      "dlg": "Hey, you guys are in high spirits."
+      "dlg": "Này, mọi người trông có vẻ phấn khích quá nhỉ?"
     },
     {
       "id": "announcer_ally_specialdebuff_9_1",
-      "dlg": "Dante... How about a quick break for the Sinners...?"
+      "dlg": "Dante... Một chút thời gian nghỉ giải lao cho các Tội nhân thì sao...?"
     },
     {
       "id": "announcer_enemy_destroy_9_1",
-      "dlg": "You guys broke off a part! Hopefully things will ease up a little now."
+      "dlg": "Mọi người đã phá hủy một bộ phận của dị thể đó! Hi vọng bây giờ mọi thứ sẽ tiến triển tốt hơn chút."
     },
     {
       "id": "announcer_enemy_destroy_9_2",
-      "dlg": "I should record how to manage entities with missing parts..."
+      "dlg": "Tôi nên ghi lại cách để quản lý những thực thể đã mất đi vài bộ phận..."
     },
     {
       "id": "announcer_round_takebigdmg_9_1",
-      "dlg": "Oh no...! Are you okay, everyone?"
+      "dlg": "Ôi không...! Mọi người ổn cả chứ?"
     },
     {
       "id": "announcer_round_takebigdmg_9_2",
-      "dlg": "That was a really powerful attack... I hope everyone's okay..."
+      "dlg": "Đó là một đòn tấn công thật sự mạnh... Tôi hi vọng mọi người vẫn trụ được..."
     },
     {
       "id": "announcer_round_givebigdmg_9_1",
-      "dlg": "Woah! How did you do that? That totally caught me off guard...!"
+      "dlg": "Uầy! Làm thế nào mà được thế? Điều đó hoàn toàn khiến tôi bất ngờ đấy...!"
     },
     {
       "id": "announcer_round_givebigdmg_9_2",
-      "dlg": "I think your earlier attack made things a bit easier... Nice!"
+      "dlg": "Tôi nghĩ đòn đánh trước đó khiến mọi thứ trở nên dễ ăn hơn chút... Tuyệt!"
     },
     {
       "id": "announcer_multikillenemy_9_1",
-      "dlg": "So many at once... Just like Der Freischütz..."
+      "dlg": "Hạ gục nhiều tên chỉ bằng một chiêu thức... Y hệt như Der Freischütz..."
     },
     {
       "id": "announcer_equip_9_1",
-      "dlg": "Yuri... here. I didn't think they'd be asking me to do something like this..."
+      "dlg": "Đây là... Yuri. Tôi không nghĩ đến việc họ đề nghị tôi làm một việc như thế này..."
     }
   ]
 }

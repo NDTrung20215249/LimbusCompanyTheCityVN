@@ -1,139 +1,190 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Pequod Town",
-            "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Here we are! Welcome to Pequod Town."
-        },
-        {
-            "id": 1,
-            "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "We're back, Cap'n! Look what we fished up!"
-        },
-        {
-            "id": 2,
-            "model": "단테",
-            "content": "<Captain?>"
-        },
-        {
-            "id": 3,
-            "model": "에이해브",
-            "teller": "Captain?",
-            "title": "???",
-            "content": "Quite the catch indeed! You certainly are an excellent scout, Starbuck!"
-        },
-        {
-            "id": 4,
-            "content": "A wiry old woman approached us, her harsh voice tickling our ears."
-        },
-        {
-            "id": 5,
-            "model": "에이해브",
-            "teller": "Captain?",
-            "title": "???",
-            "content": "Two gold coins for you, lad. And here's one for the twins."
-        },
-        {
-            "id": 6,
-            "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Thank you, Cap'n."
-        },
-        {
-            "id": 7,
-            "model": "에이해브",
-            "teller": "Captain?",
-            "title": "???",
-            "content": "It has been a long, long while since our Pequod Town gained new villagers."
-        },
-        {
-            "id": 8,
-            "model": "그레고르",
-            "content": "... Villagers? Not guests?"
-        },
-        {
-            "id": 9,
-            "model": "오티스",
-            "content": "That woman seems to think us already bound to this village."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "I knew it..."
-        },
-        {
-            "id": 11,
-            "model": "에이해브",
-            "teller": "Captain?",
-            "title": "???",
-            "content": "Welcome. I have built this village and watched over these poor, wretched souls. Soon, I shall set sail on the final voyage with my crew."
-        },
-        {
-            "id": 12,
-            "model": "에이해브",
-            "content": "I am Captain Ahab."
-        },
-        {
-            "id": 13,
-            "model": "단테",
-            "content": "<... Ah, Ishmael...!>"
-        },
-        {
-            "id": 14,
-            "model": "이스마엘",
-            "content": "You have... no idea how I've waited... how I've longed for this moment. You won't ever know."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "Because I'll gut you like a fish before you even have the chance to find out."
-        },
-        {
-            "id": 16,
-            "content": "Muttering, Ishmael charged at Ahab."
-        },
-        {
-            "id": 17,
-            "model": "에이해브",
-            "content": "What a way to greet your Captain, Ishmael."
-        },
-        {
-            "id": 18,
-            "content": "The Captain remained serene, even as Ishmael suddenly charged at her."
-        },
-        {
-            "id": 19,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "Pequod Town",
-            "content": "I-Ishmael...?! Wa...it, now that you mention it—"
-        },
-        {
-            "id": 20,
-            "model": "피쿼드호주민1",
-            "teller": "Blinded Pequod Town Villager",
-            "title": "Pequod Town",
-            "content": "You thankless bastards. You dare attack our Cap'n?!"
-        },
-        {
-            "id": 21,
-            "model": "피쿼드호주민2",
-            "teller": "Gagged Pequod Town Villager",
-            "title": "Pequod Town",
-            "content": "We'll show you what we're made of!"
-        },
-        {
-            "id": 22,
-            "model": "피쿼드호주민1",
-            "teller": "Blinded Pequod Town Villager",
-            "title": "Pequod Town",
-            "content": "We'll toss you back into that river of acid!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Làng Pequod",
+                "model":"피쿼드호주민1",
+                "teller":"???",
+                "title":"???",
+                "content":"Đây rồi! Chào mừng đến với Làng Pequod."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"피쿼드호주민2",
+                "teller":"???",
+                "title":"???",
+                "content":"Bọn tôi về rồi, Thuyền Trưởng! Xem chúng tôi câu được thứ gì nè!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Thuyền Trưởng ư?>"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"에이해브",
+                "teller":"Thuyền Trưởng?",
+                "title":"???",
+                "content":"Câu được mẻ lớn thật! Ngươi quả là một trinh sát tài ba đấy, Starbuck!"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một người phụ nữ già dính đầy dây nhợ tiến về phía chúng tôi, giọng nói gay gắt của bà ấy khiến tai chúng tôi ngứa ran."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"에이해브",
+                "teller":"Thuyền Trưởng?",
+                "title":"???",
+                "content":"Hai đồng vàng cho ngươi, cậu trai. Còn đồng này cho cặp sinh đôi."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"피쿼드호주민1",
+                "teller":"???",
+                "title":"???",
+                "content":"Cảm ơn, Thuyền Trưởng."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"에이해브",
+                "teller":"Thuyền Trưởng?",
+                "title":"???",
+                "content":"Đã quá lâu rồi, kể từ lần cuối Thị Làng Pequod của đoàn ta có thêm dân làng mới."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"... Dân làng á? Không phải khách sao?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Ả ta nghĩ ta đã bị ràng buộc với ngôi làng này rồi."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Biết ngay mà..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"에이해브",
+                "teller":"Thuyền Trưởng?",
+                "title":"???",
+                "content":"Chào mừng. Ta là người đã dựng nên ngôi làng này và dõi theo những linh hồn khốn khổ nơi đây. Sớm thôi, ta rồi sẽ dong buồm trên chuyến hải trình cuối cùng với các thuỷ thủ đoàn của ta."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Ta là Thuyền Trưởng Ahab."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...A, Ishmael...!>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Bà không biết... là tôi đã đợi bao lâu... biết bao nhiêu lâu mới tới được ngày này đâu. Bà sẽ không bao giờ hiểu được."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Vì tôi sẽ moi ruột bà ra như mổ bụng cá trước cả khi bà có cơ hội tìm hiểu."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Lẩm bẩm xong, Ishmael xông thẳng về phía Ahab."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Quả là một cách tuyệt vời để chào đón Thuyền Trưởng của mình đấy, Ishmael."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bà Thuyền Trưởng vẫn rất thành kính, ngay cả khi Ishmael đột ngột xông về phía bà ấy."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"스타벅",
+                "teller":"???",
+                "title":"Làng Pequod",
+                "content":"I-Ishmael...?! Đợi...đã, giờ bà nhắc tôi mới để ý—"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"피쿼드호주민1",
+                "teller":"Dân Chài Pequod Town Mù Lòa",
+                "title":"Làng Pequod",
+                "content":"Lũ khốn vô ơn. Dám cả gan tấn công Thuyền Trưởng?!"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"피쿼드호주민2",
+                "teller":"Dân Chài Pequod Town Bỡ Ngỡ",
+                "title":"Làng Pequod",
+                "content":"Bọn tao sẽ dạy chúng mày một bài học!"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"피쿼드호주민1",
+                "teller":"Dân Chài Pequod Town Mù Lòa",
+                "title":"Làng Pequod",
+                "content":"Còn tao sẽ ném bọn mày xuống dòng sông a xít đấy!"
+            }
+        ]
+    }
+

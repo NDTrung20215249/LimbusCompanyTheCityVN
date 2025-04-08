@@ -1,297 +1,470 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "K Corp. Checkpoint",
-      "content": "A figure approached us with terrifying force, reminiscent of a frenzied beast."
-    },
-    {
-      "id": 1,
-      "model": "히스클리프",
-      "content": "‘Ey, what the… What’s that thing running at us?"
-    },
-    {
-      "id": 2,
-      "model": "뫼르소",
-      "content": "ETA is three seconds. Manager, your judgement?"
-    },
-    {
-      "id": 3,
-      "model": "단테",
-      "content": "<I… I dunno, I’m not sure what to…>"
-    },
-    {
-      "id": 4,
-      "content": "Vergilius was the only one who showed no surprise."
-    },
-    {
-      "id": 5,
-      "content": "To be more clear, he was more displeased than unsurprised at this apparently expected arrival."
-    },
-    {
-      "id": 6,
-      "model": "베르길리우스",
-      "content": "Ah, there you are. K Corp’s superstar."
-    },
-    {
-      "id": 7,
-      "content": "A jovial-looking man appeared amidst the chaos with an obnoxious laugh."
-    },
-    {
-      "id": 8,
-      "model": "지크프리트",
-      "teller": "???",
-      "title": "???",
-      "content": "Greetings one and all! You are free to share stories of the heroic feats you are to witness here, but photographs and more will require permission from K Corp!"
-    },
-    {
-      "id": 9,
-      "model": "지크프리트",
-      "teller": "???",
-      "title": "???",
-      "content": "Alas, I must attend a magazine interview in half an hour, so I cannot overlinger. I pray you to understand!"
-    },
-    {
-      "id": 10,
-      "model": "베르길리우스",
-      "content": "Was wondering when you’d come."
-    },
-    {
-      "id": 11,
-      "model": "베르길리우스",
-      "content": "I heard you became a wagie serving a Wing, Siegfried."
-    },
-    {
-      "id": 12,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Ahaha! I see your tongue is as sharp as ever, dear fellow!"
-    },
-    {
-      "id": 13,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "I rushed here at once in response to code purple, and methinks your friends were the perpetrators!"
-    },
-    {
-      "id": 14,
-      "model": "베르길리우스",
-      "content": "Not exactly friends. I hope you understand that I have nothing to do with the commotion."
-    },
-    {
-      "id": 15,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "In that case…"
-    },
-    {
-      "id": 16,
-      "model": "베르길리우스",
-      "content": "Yup, I’m counting on you to give them a spicy lesson."
-    },
-    {
-      "id": 17,
-      "model": "히스클리프",
-      "content": "What are you two muttering about? Don’t bode well."
-    },
-    {
-      "id": 18,
-      "model": "료슈",
-      "content": "Agreed. From under what stone did he come out?"
-    },
-    {
-      "id": 19,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Hahahah! Well well, it appears that some of you come from faraway lands. Right then, I shall grant you all the privilege of photography for this special occasion!"
-    },
-    {
-      "id": 20,
-      "model": "오티스",
-      "content": "He treats us like worshippers on the streets. How dare y—"
-    },
-    {
-      "id": 21,
-      "model": "돈키호테",
-      "content": "OOOOHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!"
-    },
-    {
-      "id": 22,
-      "model": "단테",
-      "content": "<Don Quixote, what’s wrong?>"
-    },
-    {
-      "id": 23,
-      "model": "돈키호테",
-      "content": "Th, tha, the, tha, th-tha, the, th, th, tha, that, TH, THE, HH, THAT MAN, HE, HIM, THE MAN HIMSELF!!!!!!!!!!!!!!!!"
-    },
-    {
-      "id": 24,
-      "model": "베르길리우스",
-      "content": "We’re in a hurry, so get this done within one minute if possible. And keep that clockhead out of this."
-    },
-    {
-      "id": 25,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Hmm… A prosthetic, is it? Right then, make it 50 seconds!!!"
-    },
-    {
-      "id": -1,
-      "model": "//효과음",
-      "content": "찰-칵!"
-    },
-    {
-      "id": -1,
-      "model": "//CG",
-      "content": "수감자들을 죽이면서 셀카를 찍고 있는 지크프리트"
-    },
-    {
-      "id": 26,
-      "content": "Both a skilled fighter and talented performer, I could only watch in awe as he proved himself to be nothing short of a “hero”."
-    },
-    {
-      "id": 27,
-      "model": "히스클리프",
-      "content": "Khgh!"
-    },
-    {
-      "id": 28,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Now, look here once more! I’m sure our fans will love it!"
-    },
-    {
-      "id": 29,
-      "model": "료슈",
-      "content": "This blighter… is too damn strong."
-    },
-    {
-      "id": 30,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Hm? What did you do just now? Hahahah! Well, isn’t that cute!"
-    },
-    {
-      "id": 31,
-      "model": "료슈",
-      "content": "Gah…!"
-    },
-    {
-      "id": 32,
-      "content": "One after another, he made short work of the Sinners."
-    },
-    {
-      "id": 33,
-      "content": "Vergilius watched the carnage with a pleased expression."
-    },
-    {
-      "id": 34,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 35,
-      "model": "베르길리우스",
-      "content": "About time they learned what happens if they kick up a ruckus in a Nest thinking they can get away with it."
-    },
-    {
-      "id": 36,
-      "model": "베르길리우스",
-      "content": "…Dante, you may not remember it at the moment, but at one point you used to be something of a bigwig… so to speak."
-    },
-    {
-      "id": 37,
-      "model": "단테",
-      "content": "<I… I was?>"
-    },
-    {
-      "id": 38,
-      "content": "I just couldn’t picture it."
-    },
-    {
-      "id": 39,
-      "content": "Right now, I’m just a powerless leader who fumbles in any emergency—constantly being chewed up, spat out, and ignored in the trash by my Sinners."
-    },
-    {
-      "id": 40,
-      "content": "They’ve even started treating me as the team’s field medic; to think that this miserable manager used to be the respected leader of many sometime in the past."
-    },
-    {
-      "id": 41,
-      "content": "I felt a genuine desire to ask Faust for another way to recover my memories."
-    },
-    {
-      "id": 42,
-      "model": "베르길리우스",
-      "content": "However, your memory loss does not wholly excuse all the faults in your performance as the manager. I’m certain you understand what I mean."
-    },
-    {
-      "id": 43,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 44,
-      "content": "I thought of the staff at the K Corp. checkpoint."
-    },
-    {
-      "id": 45,
-      "content": "They showed no pity for the family they were about to tear apart, treating it all as nothing more than part of the due procedure."
-    },
-    {
-      "id": 46,
-      "content": "Although Don Quixote got us into trouble when she sprang forth to rectify injustice…"
-    },
-    {
-      "id": 47,
-      "content": "I just know it would’ve haunted my sleep for days if we turned a blind eye."
-    },
-    {
-      "id": 48,
-      "content": "And seeing Heathcliff tighten the grip on his weapon to veins as he witnessed the disturbance…"
-    },
-    {
-      "id": 49,
-      "content": "If not Don Quixote, I feel at least one of us would have intervened."
-    },
-    {
-      "id": 50,
-      "content": "Truth be told, I didn’t do everything in my power to keep Don Quixote down. Vergilius isn’t necessarily wrong when he says the blame rests on me for causing this."
-    },
-    {
-      "id": 51,
-      "model": "단테",
-      "content": "<Taking back my head might not be for the best after all, Vergilius.>"
-    },
-    {
-      "id": 52,
-      "model": "베르길리우스",
-      "content": "Ah, dear… I’ve got to tell them to put a microphone next time."
-    },
-    {
-      "id": 53,
-      "model": "베르길리우스",
-      "content": "…I’ll take it that you’ve gotten my point."
-    },
-    {
-      "id": 54,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Hurrah! 46.5 seconds! Another day, another heroic tale of justice written!!"
-    },
-    {
-      "id": 55,
-      "model": "베르길리우스",
-      "content": "Ah, looks like the curtains have closed. Time to rewind, Dante."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trạm Kiểm Soát Tập Đoàn K",
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một hình bóng lao đến chỗ chúng tôi đầy uy lực, tựa như một con thú hoang dã cuồng bạo."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Ê, từ từ… Cái gì đang chạy đến chỗ mình thế?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"뫼르소",
+                "teller":"Meursault",
+                "title":null,
+                "content":"Thời gian đến dự kiến là ba giây. Quyết định của ngài là gì, thưa Quản Lý?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Tôi… Tôi không biết, tôi cũng không chắc nữa nên…>"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vergilius là người duy nhất không bất ngờ."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nói rõ hơn thì ông ấy cảm thấy bực bội thay vì ngạc nhiên về sự xuất hiện đột ngột này."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"À, đây rồi. Siêu sao của Tập Đoàn K."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một người đàn ông hồ hởi xuất hiện giữa cơn hỗn loạn cùng với điệu cười quá đỗi khó chịu."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"???",
+                "content":"Xin chào tất cả mọi người! Hãy tự do chia sẻ những câu chuyện nghĩa hiệp sắp diễn ra ở đây, nhưng nếu muốn chụp ảnh cần có sự chấp thuận từ phía Tập Đoàn K đấy!"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"???",
+                "content":"Tiếc thay, ta buộc phải tham gia một buổi phỏng vấn trong nửa tiếng đồng hồ nữa, vì vậy ta không thể nán lại quá lâu. Ta cầu mong sự thông cảm của mọi người."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Ta tự hỏi tới khi nào cậu mới tới."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Nghe đâu cậu bán mình cho tư bản Wing rồi nhi, Siegfried?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"A ha ha! Ta thấy miệng lưỡi của ông vẫn còn sắc bén như xưa đấy, bạn của ta!"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Ta đã tức tốc tới đây để ứng phó với mã tím, và không ngờ thủ phạm lại là bạn của ông!"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Chúng không hẳn là bạn của ta. Mong cậu hiểu rằng bản thân ta không có dính dáng tới vụ lộn xộn này."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Nếu như vậy thì…"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Đúng vậy, ta đành nhờ cậu tẩn từng đứa bài học nhớ đời."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Hai ông lẩm bẩm vụ gì thế? Có vẻ không ổn."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"료슈",
+                "teller":"Ryoshu",
+                "title":null,
+                "content":"Ta đồng ý. Tên này chui ra từ cái xó xỉnh nào thế ?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Ha ha ha! Ôi chao, xem ra một số cô cậu ở đây đến từ một nơi rất xa. Được thôi, ta sẽ cho phép mấy cô cậu đặc quyền được chụp hình vào dịp đặc biệt lần này!"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"오티스",
+                "teller":"Outis",
+                "title":null,
+                "content":"Tên này đối xử với chúng ta như đám sùng đạo đầu đường xóm chợ. Ngươi dám-"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"돈키호테",
+                "teller":"Don Quixote",
+                "title":null,
+                "content":"OOOOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Don Quixote, có chuyện gì thế?>"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"돈키호테",
+                "teller":"Don Quixote",
+                "title":null,
+                "content":"Đ, đó, đó, đó, đ-đó, đó, đ, đ, đó, đó là, Đ, ĐÓ, ÓÓ, NGƯỜI ĐÓ, ÔNG ẤY, LÀ ÔNG, CHÍNH LÀ ÔNG ẤY ĐÓ!!!!!!!!!!!!!!!!"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Tất cả bọn ta đều đang vội, mong cậu xử chúng khoảng chừng một phút thôi. À và đừng đụng cái người đầu đồng hồ kia là được."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Hừmm… Bộ phận giả à? Được thôi, tầm 50 giây đi!!!"
+            },
+            {
+                "id":-1,
+                "place":null,
+                "model":"\/\/효과음",
+                "teller":"\/\/Sound effects",
+                "title":null,
+                "content":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "model":"\/\/CG",
+                "teller":"\/\/CG",
+                "title":null,
+                "content":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vừa là một chiến binh tài ba vừa là một người trình diễn điệu nghệ, tôi chỉ có thể kinh ngạc nhìn một mình ông ta phô diễn toàn bộ kỹ năng, không hổ danh là người được gọi là 'anh hùng'."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Khự!"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Nào, hãy nhìn vào đây! Ta cam đoan những người hâm mộ sẽ rất thích nó đấy!"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"료슈",
+                "teller":"Ryoshu",
+                "title":null,
+                "content":"Cái gã vô lại này… mạnh đến nực cười."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Hửm? Cô vừa mới làm gì vậy? Ha ha ha! Chà, đáng yêu nhỉ!"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"료슈",
+                "teller":"Ryoshu",
+                "title":null,
+                "content":"Ứ hựa…"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ông ta xử hết toàn bộ Tội Nhân, từng người một ngã xuống."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vergilius đứng xem cuộc tàn sát với một vẻ mặt hài lòng."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<……>"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Cũng tới lúc tụi nó biết kết quả của việc gây sự trong Nest mà nghĩ rằng bản thân có thể thoát tội được."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"…Dante, có thể bây giờ cậu không nhớ, nhưng đã có một khoảng thời gian cậu từng là một tên tai to mặt lớn… hay đại loại vậy."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Thật… Thật á?>"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi không tài nào tưởng tượng ra được viễn cảnh đó."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ngay lúc này đây, tôi chỉ là một người lãnh đạo bất tài vô dụng không biết phải làm gì trong những tình huống cấp bách—liên tục bị giày vò, áp bức, và ngó lơ bởi các Tội Nhân."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Họ thậm chí còn đối xử với tôi như thể tôi chỉ là một cái bình cứu thương di động của cả nhóm; ấy vậy mà cái người quản lý đáng thương này đây lại từng là một lãnh đạo được rất nhiều người tôn kính trong quá khứ."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi bỗng thật lòng muốn hỏi Faust về cách để khôi phục lại trí nhớ của tôi."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Tuy nhiên, việc mất trí nhớ của cậu không phải là cái cớ để cậu biện hộ cho sự quản lý tệ hại của mình. Ta biết cậu hiểu ta đang nói gì."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<……>"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi nghĩ đến các nhân viên ở chốt kiểm soát ở Tập Đoàn K."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Họ hoàn toàn không để lộ chút thương tiếc nào với gia đình mà họ chuẩn bị xuống tay, coi tất cả mọi thứ chỉ là một phần của quy trình mà họ được chỉ đạo."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Mặc dù Don Quixote khiến cho chúng tôi gặp rắc rối khi cô ấy lao thẳng đến chỗ bọn họ để thực thi công lý…"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi chỉ biết rằng nó sẽ mãi mãi ám ảnh tôi nếu như chúng tôi lơ đi chuyện đó."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và nhìn cái cách Heathcliff ghì chặt vũ khí trong tay đến nỗi hiện cả gân máu khi chứng kiến cảnh tượng hỗn loạn ấy…"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nếu như người đó không phải là Don Quixote, thì tôi chắc chắn một ai đó trong số chúng tôi cũng sẽ can thiệp vào."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nói thật thì, tôi đã không làm gì để kiểm soát Don Quixote lại. Vergilius cũng không sai khi ông ấy nói mọi chuyện xảy ra là do lỗi của tôi."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Sau tất cả thì lấy lại đầu của tôi chưa chắc là điều tốt nhất đâu, Vergilius.>"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Ôi trời… Chắc lần sau ta sẽ kêu chúng nó mang theo máy thu âm mới được."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"….Ta chắc là cậu hiểu được ý của ta."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"Fixer?",
+                "content":"Hoan hô! 46.5 giây! Lại một ngày mới, lại một khúc hùng ca lịch sử được viết nên!!"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"À, đã tới lúc vén lại bức màn này rồi. Tới giờ quay ngược lại thôi, Dante."
+            }
+        ]
     }
-  ]
-}
+

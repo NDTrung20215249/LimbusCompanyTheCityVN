@@ -1,470 +1,702 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "K Corp. Checkpoint",
-      "content": "After twelve whirls of agony, the Sinners were all back in one piece."
-    },
-    {
-      "id": 1,
-      "content": "The massacre must’ve been humbling because it feels rather strange seeing them this quiet."
-    },
-    {
-      "id": 2,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "How’s life been, Red Gaze? We’ve rarely had a chance to meet in recent times. Haven’t shown up to the ‘League of Excellent Nest-dwelling Fixers’ lately, either…"
-    },
-    {
-      "id": 3,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Were you unable to read the dozens of invitations I sent you?"
-    },
-    {
-      "id": 4,
-      "model": "베르길리우스",
-      "content": "Changed addresses. And I don’t have the time to lick top-brass boots like you’re doing."
-    },
-    {
-      "id": 5,
-      "model": "단테",
-      "content": "<I don’t know what happened between these two, but… Vergilius is a bit hostile here, right?>"
-    },
-    {
-      "id": 6,
-      "model": "파우스트",
-      "content": "The difference in disposition between them is rather clear, isn’t it, Dante?"
-    },
-    {
-      "id": 7,
-      "model": "단테",
-      "content": "<In what ways?>"
-    },
-    {
-      "id": 8,
-      "model": "파우스트",
-      "content": "Simply put, Mr. Siegfried can be described as a pro-Wing Fixer based on the views he’s expressed."
-    },
-    {
-      "id": 9,
-      "model": "파우스트",
-      "content": "On the other hand, our guide Vergilius sought independence as a Fixer."
-    },
-    {
-      "id": 10,
-      "model": "파우스트",
-      "content": "He believed that a Fixer loses sight of their core principles the moment they become subordinate to an influential entity."
-    },
-    {
-      "id": 11,
-      "model": "파우스트",
-      "content": "He is someone who is strict towards those with power, after all."
-    },
-    {
-      "id": 12,
-      "content": "While speaking with Faust, I saw Don Quixote quake and approach Siegfried with shaky hands."
-    },
-    {
-      "id": 13,
-      "content": "She must’ve been honored to see him, even after being mincemeat by his hands mere moments ago."
-    },
-    {
-      "id": 14,
-      "model": "돈키호테",
-      "content": "F, fe, fa, feh, afa… a fan, I am! I have collected figurines sculpted after you! Though I’ve yet to get my hands on limited editions… I set my heart on becoming a magnificent Fixer such as you!"
-    },
-    {
-      "id": 15,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Aha! An aspiring Fixer! I have little time to spare, but more than enough for an autograph!"
-    },
-    {
-      "id": 16,
-      "model": "돈키호테",
-      "content": "I… Is that true? Then would you sign… an autograph… here… Ehehe…"
-    },
-    {
-      "id": 17,
-      "model": "그레고르",
-      "content": "Slow breaths, Don Quixote…"
-    },
-    {
-      "id": 18,
-      "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "Attention. Code purple, dismissed. Code purple, dismissed. All codes cleared."
-    },
-    {
-      "id": 19,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Huzzah! That’s a job done well!"
-    },
-    {
-      "id": 20,
-      "model": "지크프리트",
-      "teller": "Siegfried",
-      "title": "A Fixer?",
-      "content": "Now then, until next we meet! Hahahaha!!"
-    },
-    {
-      "id": 21,
-      "content": "Leaping with tremendous force, Siegfried vanished into the air…"
-    },
-    {
-      "id": 22,
-      "content": "Although there was a small delay, we did get the travel permit in the end."
-    },
-    {
-      "id": 23,
-      "content": "Vergilius returned to the bus in the meantime. Or, perhaps he only got off knowing that we’d run into that Siegfried."
-    },
-    {
-      "id": 24,
-      "content": "He looked rather upset as he walked away, but no one else seemed to care that much…"
-    },
-    {
-      "id": 25,
-      "model": "돈키호테",
-      "content": "Ufu, wuhuhu…"
-    },
-    {
-      "id": 26,
-      "content": "Clueless to the surrounding frigidness, Don Quixote was happy as a clam, caressing the sheet of paper autographed by Siegfried."
-    },
-    {
-      "id": 27,
-      "model": "돈키호테",
-      "content": "I must be caught in a dream! Manager Esquire! Will you pinch my cheek just once?"
-    },
-    {
-      "id": 28,
-      "content": "Just as I was about to give the blissful Don Quixote a word while we walked out of the border checkpoint…"
-    },
-    {
-      "id": 29,
-      "content": "An armored vehicle stopped before us."
-    },
-    {
-      "id": 30,
-      "model": "오티스",
-      "content": "…A newfound foe? Bold of them to challenge us right in front of a Nest’s checkpoint."
-    },
-    {
-      "id": 31,
-      "model": "파우스트",
-      "content": "This vehicle is from… LCC, the clearance department."
-    },
-    {
-      "id": 32,
-      "content": "Following Faust’s plain reply, the vehicle’s doors opened."
-    },
-    {
-      "id": 33,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Ah geez, what took you so long? We had to cycle three laps waiting for it to be over."
-    },
-    {
-      "id": 34,
-      "content": "A couple of familiar faces appeared out of the car."
-    },
-    {
-      "id": 35,
-      "content": "Effie, and Saude."
-    },
-    {
-      "id": 36,
-      "content": "Even though their outfits had changed, their faces were greased with just as much confidence and poise."
-    },
-    {
-      "id": 37,
-      "model": "그레고르",
-      "content": "Oh, people from the Before Team, eh? Something about you looks different, I’ve gotta say."
-    },
-    {
-      "id": 38,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "That was a disguise we had in order to infiltrate the casino. It was ultimately useless, though."
-    },
-    {
-      "id": 39,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 40,
-      "model": "그레고르",
-      "content": "…Still got that sharp tongue too, huh."
-    },
-    {
-      "id": 41,
-      "content": "My chest ached a little at the thought of the harmonious cacophony that was our last operation."
-    },
-    {
-      "id": 42,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Pft… Saude, you see that hand on the clock trembling? You’ll make them cry."
-    },
-    {
-      "id": 43,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "I was just being playful. While you had much room for improvement in regard to skill, I’ve made up my mind to admit that the LCB department has its own character."
-    },
-    {
-      "id": 44,
-      "content": "In spite of the rough path we took, it sounds like we did leave a positive impression on the two."
-    },
-    {
-      "id": 45,
-      "model": "파우스트",
-      "content": "The Before Team was supposed to be on site at this hour, wasn’t it?"
-    },
-    {
-      "id": 46,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "The others should be there already. We decided to wait for you because we had useful intel to share."
-    },
-    {
-      "id": 47,
-      "model": "그레고르",
-      "content": "Hmm… In any case, you cared about us, right?"
-    },
-    {
-      "id": 48,
-      "model": "로쟈",
-      "content": "Pfhu, do we have a couple of new fans knee-deep in our charm?"
-    },
-    {
-      "id": 49,
-      "model": "로쟈",
-      "content": "Y’know~ Something like—the sorta food that’s cooked from ghastly ingredients, but the end result’s a pleasant surprise."
-    },
-    {
-      "id": 50,
-      "model": "그레고르",
-      "content": "Yep, had a lot of that on the battlefield. Miserable to swallow, but somehow memorable…"
-    },
-    {
-      "id": 51,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…What kind of food have you two been eating?"
-    },
-    {
-      "id": 52,
-      "model": "홍루",
-      "content": "Um, by the way, what’s the intel you were going to share with us?"
-    },
-    {
-      "id": 53,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "It’s about our target location. It seems another faction has occupied the place already."
-    },
-    {
-      "id": 54,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "We’re putting in more manpower than usual as a result."
-    },
-    {
-      "id": 55,
-      "model": "오티스",
-      "content": "Hmph, I bet they are yet another swarm of gadflies attracted by opportunity."
-    },
-    {
-      "id": 56,
-      "content": "As Outis pointed out, we weren’t new to encounters against groups of foes drawn near the Golden Boughs."
-    },
-    {
-      "id": 57,
-      "content": "For our first mission, straggling soldiers from G Corp. took shelter in the abandoned facility."
-    },
-    {
-      "id": 58,
-      "content": "And on our second, a variety of gangs inhabited the casino."
-    },
-    {
-      "id": 59,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Unfortunately, our opponents this time won’t be some crummy no-names like before."
-    },
-    {
-      "id": 60,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "We took a peek at the immigration inspection records and found out that N Corp. dispatched a legion of employees a few weeks ago. Same destination as ours, too."
-    },
-    {
-      "id": 61,
-      "model": "이스마엘",
-      "content": "From N Corp?"
-    },
-    {
-      "id": 62,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Though this wasn’t an officially disclosed activity, seeing that K Corp. has let them pass means they might have made a deal under the table."
-    },
-    {
-      "id": 63,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Which… if it’s true that N Corp. has sent staff in advance, then the journey won’t be a smooth one."
-    },
-    {
-      "id": 64,
-      "model": "그레고르",
-      "content": "…I see. I’m worried we might make enemies of several Wings as we go on."
-    },
-    {
-      "id": 65,
-      "model": "파우스트",
-      "content": "In the long term, conflicts with Wings will be an unavoidable step in the process."
-    },
-    {
-      "id": 66,
-      "model": "파우스트",
-      "content": "Judging from the fact that N Corp. hasn’t made this motion officially known, it could end as a simple conflict of interest."
-    },
-    {
-      "id": 67,
-      "model": "파우스트",
-      "content": "Furthermore… We can’t discount the possibility that it’s not the Golden Bough they’re after."
-    },
-    {
-      "id": 68,
-      "model": "그레고르",
-      "content": "Doesn’t change that we’re convenient pawns for our higher-ups to throw around either way…"
-    },
-    {
-      "id": 69,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Oh, right, I heard some morons caused a scene at the K Corp. checkpoint. Did you guys see who they were?"
-    },
-    {
-      "id": 70,
-      "model": "돈키호테",
-      "content": "…R—Rumor travels with such haste. ‘Twas as though… astride Rocinante."
-    },
-    {
-      "id": 71,
-      "content": "Don Quixote hung her head, possibly in embarrassment."
-    },
-    {
-      "id": 72,
-      "content": "Perhaps she’s finally starting to learn that her reckless actions have repercussions."
-    },
-    {
-      "id": 73,
-      "content": "…That, or I’m mistaken and she’s glad that more people know of what she’s done."
-    },
-    {
-      "id": 74,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "A shame I missed it. That’s not the kind of spectacle you see every day."
-    },
-    {
-      "id": 75,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Really, who in their right mind would mess with a Wing at a border checkpoint unless they had lives to spare…"
-    },
-    {
-      "id": 76,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 77,
-      "model": "돈키호테",
-      "content": "……"
-    },
-    {
-      "id": 78,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…Please, don’t tell me."
-    },
-    {
-      "id": 79,
-      "model": "이스마엘",
-      "content": "Come on, we don’t have much time, so we should get going."
-    },
-    {
-      "id": 80,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Ah, dear. Mr. Vergilius is nowhere to be seen again."
-    },
-    {
-      "id": 81,
-      "model": "그레고르",
-      "content": "…Oh, him? He went back to the bus first."
-    },
-    {
-      "id": 82,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "What a pity. I didn’t want to miss my chance to say hello…"
-    },
-    {
-      "id": 83,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "We’ll leave an impression on him next time, mark my words. I’m planning to ask him if we can join the team in your stead."
-    },
-    {
-      "id": 84,
-      "model": "단테",
-      "content": "<What, that’s the reason you wanted to meet him?>"
-    },
-    {
-      "id": 85,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "That wasn’t entirely a joke. See you at the site, then."
-    },
-    {
-      "id": 86,
-      "model": "제복에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "If you can get there in one piece, anyway."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trạm Kiểm Soát Tập Đoàn K",
+                "content":"Sau mười hai vòng xoay đau đớn đến quằn quại, các Tội Nhân đã được hồi sinh nguyên vẹn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Cuộc thảm sát này ắt hẳn đã rất nhục nhã với họ vì khá lạ khi nhìn tất cả im lặng đến thế.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Dạo này sao rồi, Xích Mục? Gần đây chúng ta hiếm khi có thời gian gặp gỡ nhau. Ông cũng chẳng hề xuất hiện tại 'Liên Minh những Fixer Xuất sắc của Cư dân Nest'…",
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"A Fixer?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Hay là ông chưa nhận được hàng tá thư mời mà tôi đã gửi đâu nhỉ?",
+                "model":"지크프리트",
+                "teller":"Siegfried",
+                "title":"A Fixer?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Đổi địa chỉ rồi. Với lại ta cũng không có thời gian đi bợ đít đám cấp trên như cậu.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"<Tôi không biết chuyện gì đã xảy ra giữa bọn họ, nhưng… Vergilius có vẻ hơi có thái độ thù địch với ông ta, đúng không?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Sự khác biệt về tính cách giữa họ khá rõ ràng, phải không, Dante?",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"<Ở điểm nào cơ?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Nói một cách đơn giản, ông Siegfried có thể được xem là một Fixer bảo hộ Wing dựa trên quan điểm mà ông bày tỏ.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Mặt khác, hướng dẫn viên của chúng ta là Vergilius muốn tìm kiếm sự độc lập với tư cách là một Fixer.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Ngài tin rằng một Fixer sẽ mất đi các nguyên tắc của mình ngay khi họ trở thành cấp dưới của một thế lực có ảnh hưởng.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Dù gì thì, ngài ấy cũng rất nghiêm khắc với những kẻ có quyền lực.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Trong lúc nói chuyện với Faust, tôi nhìn thấy Don Quixote đang từng bước tiếp cận Siegfried với đôi tay run rẩy liên hồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Cô ấy hẳn cảm thấy rất vinh dự khi được gặp ông ấy, dù cho mới bị ông ấy biến thành thịt băm vài phút trước.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"F, fe, fa, feh, afa… ta là, một fan ruột của ngài! Ta đã thu thập rất nhiều mô hình của ngài! Dù vẫn chưa sở hữu được phiên bản giới hạn… Nhưng con tim ta đã luôn hướng đến việc trở thành một Fixer tuyệt vời như ngài vậy!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"À ha! Một Fixer đầy nhiệt huyết! Ta không có nhiều thời gian, nhưng với chỉ một chữ ký thì dư sức!",
+                "model":"지크프리트",
+                "teller":null,
+                "title":"A Fixer?"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"T… Thật vậy sao? Vậy ngài có thể kí… vào bức ảnh… này không… A ha ha…",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Bình tĩnh nào, Don Quixote…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Chú ý. Mã tím, hủy bỏ. Mã tím, hủy bỏ. Toàn bộ mã đã được giải quyết.",
+                "model":null,
+                "teller":"Thông báo",
+                "title":"Trạm Kiểm Soát Tập Đoàn K"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Tuyệt vời! Công việc hôm nay thành công mĩ mãn!!!",
+                "model":"지크프리트",
+                "teller":null,
+                "title":"A Fixer?"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Giờ thì, hẹn gặp lại lần sau! Ha ha ha ha!!",
+                "model":"지크프리트",
+                "teller":null,
+                "title":"A Fixer?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Vút đi với một vận tốc đáng kinh ngạc, ông ta đã biến mất…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Mặc dù có hơi chút chậm trễ, nhưng chúng tôi đã có giấy thông hành vào bên trong Tập Đoàn K.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Vergilius đã quay trở về xe buýt. Hoặc, có thể ông ấy chỉ xuống xe đi cùng vì biết rằng chúng tôi sẽ chạm trán người đàn ông tên Siegfried đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Ông ấy trông có vẻ khá khó chịu, nhưng dường như chẳng có ai quan tâm cả…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Ehe, he he he…",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Không để tâm đến mọi thứ xung quanh, Don Quixote cảm thấy vô cùng hạnh phúc, nâng niu xấp ảnh được ký bởi Siegfried.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Đây hẳn là một giấc mơ rồi! Ngài Quản Lý! Ngài có thể véo má ta một phát được không?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Ngay lúc tôi vừa định nói đôi lời với Don Quixote khi chúng tôi bước ra khỏi chốt kiểm soát biên giới…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Thì một chiếc thiết giáp chắn ngay trước mặt chúng tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"…Một kẻ thù mới? Dám thách thức chúng ta ngay trước trạm của Nest thì hẳn đám này máu liều nhiều hơn máu não rồi.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Chiếc xe này là từ… LCC, Phòng Ban Kiểm Duyệt.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Faust vừa dứt lời, cửa xe mở ra.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"A trời ạ, sao mấy người làm gì lâu quá vậy? Chúng tôi đã phải chạy xe tận ba vòng quanh đây chỉ để giết thời gian thôi đấy.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Hai gương mặt quen thuộc xuất hiện từ trong xe.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Là Effie và Saude.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Dù phục trang của họ đã thay đổi, nhưng khuôn mặt của họ vẫn toát lên sự chuyên nghiệp và tự tin.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Ồ, mấy người là từ đội Tiền Tuyến sao? Trông hai người có gì đó hơi khác đấy.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Đó chỉ là hóa trang mà chúng tôi sử dụng cho việc thâm nhập vào sòng bạc trước đó mà thôi. Cơ mà nghĩ lại thì nó hoàn toàn vô dụng.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"<……>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"…Miệng lưỡi vẫn sắc sảo như vậy.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Lồng ngực tôi hơi nhói một chút khi nghĩ đến mớ thảm hoạ xảy ra ở chiến dịch lần trước.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Phì…Saude, cô có thấy cái kim trên chiếc đồng hồ kia đang run rẩy không? Cô làm ngài ấy phát khóc lên rồi kìa.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Tôi chỉ đùa vui chút mà thôi. Khi mọi người vẫn còn nhiều cơ hội để phát triển các kĩ năng của bản thân, tôi phải thừa nhận là những người ở bộ phận LCB có cá tính rất là độc đáo đấy.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Dù đã trải qua nhiều khó khăn và gian truân, có vẻ như chúng tôi đã để lại được ấn tượng tốt với hai người họ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Đội Tiền Tuyến đáng lẽ phải đến nơi vào lúc này rồi, đúng không?",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Những người khác sẽ tới đây sớm. Chúng tôi quyết định đợi mấy người vì bên chúng tôi có thông tin cần thiết phải chia sẻ.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Hừm… dù gì thì, cậu cũng có quan tâm cho chúng tôi nhỉ?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Phư phư, vậy là ta đã có một cặp fan cứng rồi sao?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Nhớ không~ Cái gì mà—một món ăn được làm bằng những nguyên liệu rất kinh khủng, nhưng cuối cùng lại khiến người ta bất ngờ vì hương vị tuyệt vời của nó..",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Ừm, tôi phải ăn nhiều món kiểu vậy trên chiến trường lắm. Chúng khó ăn kinh khủng, nhưng mà để lại một hương vị khó phai…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"…Hai người đã ăn cái thứ gì vậy?",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Cơ mà, tình báo chúng ta cần trao đổi là gì vậy ạ?",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Nó là về địa điểm chúng ta đang nhắm tới. Có vẻ như một tổ chức khác đã chiếm chỗ từ sớm rồi.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Thành ra phía chúng tôi đã phải huy động thêm nhân lực hơn bình thường.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Hừm, ta đoán lại thêm đám ruồi trâu gặp thời mà bay vào húp.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Như Outis nói, chúng tôi chẳng còn lạ gì các thế lực thù địch khác định trục lợi từ Cành Vàng nữa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Ở nhiệm vụ đầu tiên, những người lính không nơi nương tựa từ Tập Đoàn G ẩn nấp bên trong nhánh cơ sở bị bỏ hoang.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Và ở nhiệm vụ thứ hai, là các băng đảng tập trung lại trong sòng bạc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Điều không may là kẻ thù của chúng ta sẽ không phải mấy tên vớ va vớ vẩn như trước đây đâu.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Chúng tôi đã điều tra qua báo cáo nhập cảnh và tìm ra rằng, Tập Đoàn N đã điều động một nhóm các nhân viên cách đây vài tuần trước. Cùng chung một đích đến với chúng ta.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Của Tập Đoàn N sao?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Đây chắc không phải là công bố chính thức nhưng việc bên Tập đoàn K đã ngầm chấp thuận việc này thì xem ra, bọn chúng đã có một giao dịch ngầm nào đó từ trước.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Nếu vậy… việc bên Tập đoàn N đã huy động nhân lực từ trước là sự thật, chuyến hành trình dự rằng về sau sẽ không suôn sẻ gì cho hay.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"…Hiểu rồi. Tôi lo rằng chúng ta cứ tiếp tục như vậy thì sẽ gây thù chuốc oán với vài Wing đấy.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Về mặt lâu dài, việc mâu thuẫn với Wing là một bước không thể tránh khỏi.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Xét theo thực tế là Tập Đoàn N chưa chính thức công bố động thái này, có thể đây chỉ là một xung đột lợi ích đơn thuần.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Xét thêm nữa… Chúng ta cũng không thể loại trừ rằng khả năng họ cũng đuổi theo Cành Vàng.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"Đằng nào thì chúng ta cũng chỉ là những con rối cho đám cấp trên tùy ý sai bảo thôi mà…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Ồ, đúng rồi, tôi có nghe qua là có vài tên đần đã gây rối tại chốt kiểm tra ở Tập đoàn K. Mấy người có biết bọn chúng là ai không?",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"…T—Tin đồn lan nhanh thật đấy. Tựa như… lúc cưỡi Rocinante vậy.",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Don Quixote cúi gằm mặt xuống, cảm thấy rất xấu hổ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Có thể cô ấy cuối cùng cũng biết được những hành động liều lĩnh của mình sẽ mang lại hậu quả.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"…Hoặc là, tôi đã nhầm và cô ấy đang rất vui vì càng nhiều người biết đến chiến công của mình.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Thật tiếc là tôi lại lỡ mất nó. Cảnh tượng đó không phải lúc nào cũng có để mà xem đâu.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Hỏi thật đấy, tên điên nào dám gây rối tại chốt kiểm tra biên giới của Wing vậy, trừ khi thằng ngu đó hẳn phải chán sống…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"<……>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"……",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"…Đừng có mà nói với tôi là…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"Nào nào, không còn thời gian nhiều đâu, chúng ta nên đi nhanh thôi.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"A, ngài Vergilius yêu dấu của chúng ta lại biệt tăm ở chỗ nào đó nữa rồi.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"…À, ông ta á? Ổng quay trở lại xe buýt rồi.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"Quả là đáng tiếc. Tôi không muốn phí mất cơ hội để chào hỏi ngài ấy mà…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Chúng ta sẽ để lại ấn tượng với ngài ấy vào lần tới, hãy nhớ rõ lời tôi. Tôi dự định sẽ hỏi ngài ấy về việc tham gia vào đội của ngài quản lí đây đấy.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"<Gì cơ, đó là lý do hai người muốn gặp ông ấy sao?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "content":"Đó không hẳn là nói cho vui đâu. Vậy, hẹn gặp lại mọi người ở bên trong.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":86,
+                "place":null,
+                "content":"Tất nhiên là nếu mấy người có thể tới đó toàn thây.",
+                "model":"제복에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            }
+        ]
     }
-  ]
-}
+

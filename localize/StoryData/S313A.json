@@ -1,377 +1,630 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Calw - Town Square",
-      "model": "이스마엘",
-      "content": "…That was a tough opponent. We should move before they come back to their senses."
-    },
-    {
-      "id": 1,
-      "model": "오티스",
-      "content": "What a shameful thing to say. A soldier does not retreat before the enemy when victory is in sight."
-    },
-    {
-      "id": 2,
-      "model": "이스마엘",
-      "content": "Can’t you save the military drill for a better time?"
-    },
-    {
-      "id": 3,
-      "model": "단테",
-      "content": "<Ishmael is right. That’s not someone we can beat easily.>"
-    },
-    {
-      "id": 4,
-      "model": "오티스",
-      "content": "…We will fall back."
-    },
-    {
-      "id": 5,
-      "content": "Outis reluctantly backed down."
-    },
-    {
-      "id": 6,
-      "model": "단테",
-      "content": "<Sinclair, do you know what that Kromer meant by “that familiar spot”?>"
-    },
-    {
-      "id": 7,
-      "model": "싱클레어",
-      "content": "That’s… well…"
-    },
-    {
-      "id": 8,
-      "content": "Sinclair shook. He was seemingly overwhelmed with dread."
-    },
-    {
-      "id": 9,
-      "content": "But I could also see a teeth-grinding anger in him that surpassed his fear."
-    },
-    {
-      "id": 10,
-      "content": "Looking at him, a thought blossomed in my mind."
-    },
-    {
-      "id": 11,
-      "model": "단테",
-      "content": "<You need to talk, Sinclair.>"
-    },
-    {
-      "id": 12,
-      "model": "단테",
-      "content": "<Tell us what you know, and you’ll prevent half the deaths we might suffer.>"
-    },
-    {
-      "id": 13,
-      "model": "오티스",
-      "content": "It’ll also raise the likelihood of our success. I’m looking forward to hearing something useful."
-    },
-    {
-      "id": 14,
-      "content": "…I hope I’m doing the right thing as the manager."
-    },
-    {
-      "id": 15,
-      "content": "Sinclair shook his head upon hearing my words, breathed in, and finally opened his mouth after some struggle."
-    },
-    {
-      "id": 16,
-      "model": "싱클레어",
-      "content": "…My house. That’s where Kromer must be."
-    },
-    {
-      "id": 17,
-      "model": "히스클리프",
-      "content": "So, you know that bird?"
-    },
-    {
-      "id": 18,
-      "model": "히스클리프",
-      "content": "Bollocks, my head is still pounding thanks to her shrill laugh."
-    },
-    {
-      "id": 19,
-      "model": "싱클레어",
-      "content": "…I met her at school."
-    },
-    {
-      "id": 20,
-      "model": "로쟈",
-      "content": "Oh boy, she’s a friend of yours? Whatever’s going on, sure hope you can talk it out…"
-    },
-    {
-      "id": 21,
-      "model": "싱클레어",
-      "content": "She’s not my friend. Kromer killed my family."
-    },
-    {
-      "id": 22,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 23,
-      "model": "로쟈",
-      "content": "My bad."
-    },
-    {
-      "id": 24,
-      "content": "A prosthetic head hanging from a tree slowly turned to face us."
-    },
-    {
-      "id": 25,
-      "content": "Lights and sparks occasionally flickered within."
-    },
-    {
-      "id": 26,
-      "teller": "A Prosthetic Head",
-      "title": "Calw Townsfolk",
-      "content": "Sin…cl…a…ir… Bzt… Pzzt…"
-    },
-    {
-      "id": 27,
-      "teller": "A Prosthetic Head",
-      "title": "Calw Townsfolk",
-      "content": "Why… did you… return…"
-    },
-    {
-      "id": 28,
-      "model": "로쟈",
-      "content": "…Sinclair, are those your neighbors?"
-    },
-    {
-      "id": 29,
-      "content": "Rodya asked while looking at the dismembered prostheses."
-    },
-    {
-      "id": 30,
-      "model": "싱클레어",
-      "content": "It looks like they were… I really hope that isn’t the case, though…"
-    },
-    {
-      "id": 31,
-      "content": "Sinclair replied, watching with a grim look on his face as their bare wires sparked and short-circuited."
-    },
-    {
-      "id": 32,
-      "content": "The robotic head soon stopped moving, only emitting discordant things."
-    },
-    {
-      "id": 33,
-      "content": "Then, a song begins to fill the air."
-    },
-    {
-      "id": 34,
-      "teller": "A Prosthetic Head",
-      "title": "Calw Townsfolk",
-      "content": "Silent night…"
-    },
-    {
-      "id": 35,
-      "content": "All the heads hung from the trees are singing the same song."
-    },
-    {
-      "id": 36,
-      "content": "The carol leaking through the vocal units of so many lifeless heads lands on the flames below."
-    },
-    {
-      "id": 37,
-      "teller": "A Prosthetic Head",
-      "title": "Calw Townsfolk",
-      "content": "Holy night…"
-    },
-    {
-      "id": 38,
-      "model": "이스마엘",
-      "content": "It’s clearer than ever now… Prosthetic body parts are “heresy” to them."
-    },
-    {
-      "id": 39,
-      "model": "파우스트",
-      "content": "Though it has been quite a while since prostheses were first introduced to the City…"
-    },
-    {
-      "id": 40,
-      "model": "파우스트",
-      "content": "Many people still find them foreign and alienating."
-    },
-    {
-      "id": 41,
-      "model": "싱클레어",
-      "content": "…Our town."
-    },
-    {
-      "id": 42,
-      "model": "싱클레어",
-      "content": "Our town was called… “The Holy Site of Nest K’s Prosthetic Industry”. Most of the residents worked in manufacturing high-end prosthesis components."
-    },
-    {
-      "id": 43,
-      "model": "싱클레어",
-      "content": "Kromer has been keeping an eye on our town for a long time."
-    },
-    {
-      "id": 44,
-      "model": "그레고르",
-      "content": "So, was your family…"
-    },
-    {
-      "id": 45,
-      "model": "싱클레어",
-      "content": "Yeah, my father was the owner of a fledgling prosthetics company too."
-    },
-    {
-      "id": 46,
-      "model": "싱클레어",
-      "content": "Is that why…"
-    },
-    {
-      "id": 47,
-      "model": "이스마엘",
-      "content": "No."
-    },
-    {
-      "id": 48,
-      "model": "이스마엘",
-      "content": "The way I see it, attributing it to a high-flown cause of any kind is giving them too much credit."
-    },
-    {
-      "id": 49,
-      "model": "이스마엘",
-      "content": "They’re… just lunatics, consumed by madness and violence."
-    },
-    {
-      "id": 50,
-      "content": "Ishmael asserted to him."
-    },
-    {
-      "id": 51,
-      "content": "After a while of staring at the “Christmas” trees decorated with his neighbors, Sinclair turned to me."
-    },
-    {
-      "id": 52,
-      "model": "싱클레어",
-      "content": "Manager, I have a question if it’s alright with you."
-    },
-    {
-      "id": 53,
-      "model": "단테",
-      "content": "<What is it?>"
-    },
-    {
-      "id": 54,
-      "model": "싱클레어",
-      "content": "Well… How does it feel?"
-    },
-    {
-      "id": 55,
-      "model": "단테",
-      "content": "<Feel?>"
-    },
-    {
-      "id": 56,
-      "model": "싱클레어",
-      "content": "Yeah."
-    },
-    {
-      "id": 57,
-      "model": "싱클레어",
-      "content": "I mean, how does it feel to have a prosthetic replacement for your head?"
-    },
-    {
-      "id": 58,
-      "content": "I was a little taken aback since I’ve never had anyone ask that kind of question before."
-    },
-    {
-      "id": 59,
-      "content": "The issue is that there’s no way to know how I might have felt before I got a clock for a head."
-    },
-    {
-      "id": 60,
-      "model": "단테",
-      "content": "<Uhm… That’s…>"
-    },
-    {
-      "id": 61,
-      "model": "싱클레어",
-      "content": "Oh! It’s—um… I’m not trying to argue with you or anything."
-    },
-    {
-      "id": 62,
-      "model": "싱클레어",
-      "content": "…T-That was probably rude of me. I apologize."
-    },
-    {
-      "id": 63,
-      "model": "단테",
-      "content": "<No need, it’s alright.>"
-    },
-    {
-      "id": 64,
-      "content": "The other Sinners were a billion times ruder to me with their daily interactions, anyway."
-    },
-    {
-      "id": 65,
-      "model": "단테",
-      "content": "<I’m afraid I can’t answer that… I don’t remember a single thing about my life before this clock.>"
-    },
-    {
-      "id": 66,
-      "model": "싱클레어",
-      "content": "I see…"
-    },
-    {
-      "id": 67,
-      "model": "싱클레어",
-      "content": "I’ve always wondered what it feels like when there’s something sitting where your head should be…"
-    },
-    {
-      "id": 68,
-      "model": "싱클레어",
-      "content": "My family said it’s no different from wearing a hat or a watch…"
-    },
-    {
-      "id": 69,
-      "model": "싱클레어",
-      "content": "But I just couldn’t picture it well no matter how I approached it."
-    },
-    {
-      "id": 70,
-      "model": "싱클레어",
-      "content": "And now, I’m the only survivor thanks to that."
-    },
-    {
-      "id": 71,
-      "model": "단테",
-      "content": "<I’m sure the procedure seemed terrifying at such a young age. You don’t have to feel guilty about that.>"
-    },
-    {
-      "id": 72,
-      "model": "싱클레어",
-      "content": "That’s not it…"
-    },
-    {
-      "id": 73,
-      "model": "싱클레어",
-      "content": "It’s nothing like that…"
-    },
-    {
-      "id": 74,
-      "model": "싱클레어",
-      "content": "I’m afraid I’m not as innocent as you might think, Dante…"
-    },
-    {
-      "id": 75,
-      "content": "Sinclair quietly hung his head."
-    },
-    {
-      "id": 76,
-      "content": "I racked my brains for an appropriate reply, but no suitable words of comfort came up."
-    },
-    {
-      "id": 77,
-      "content": "Only the unpleasant sounds of sparks and flames filled the street."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Calw - Quảng trường thị trấn",
+                "model":"이스마엘",
+                "content":"…Kẻ thù mạnh đấy. Chúng ta nên tiếp tục di chuyển trước khi chúng tỉnh lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"오티스",
+                "content":"Một phát ngôn thật nhục nhã. Người lính không được phép rút lui trước kẻ thù khi chiến thắng đã trong tầm tay.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cô để dành cái kỉ luật quân đội đó cho khi khác được không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"단테",
+                "content":"<Ishmael nói đúng đấy. Đây không phải là người mà chúng ta có thể dễ dàng đánh bại được.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"오티스",
+                "content":"…Chúng ta sẽ rút lui.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Outis miễn cưỡng lui xuống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"단테",
+                "content":"<Sinclair, cậu có biết \"chỗ quen thuộc đó\" mà cô Kromer đó ám chỉ là gì không?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Đó là… ừ thì…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Sinclair run lên. Cậu ấy đang bị nỗi sợ làm cho khiếp đảm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Nhưng tôi có thể nhận thấy một cơn thịnh nộ hoàn toàn có thể áp đảo đi nỗi sợ bên trong cậu ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"Nhìn thấy cậu ấy bây giờ, một ý nghĩ loé lên trong đầu tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"단테",
+                "content":"<Cậu cần phải nói, Sinclair. >",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"단테",
+                "content":"<Kể cho chúng tôi nghe những gì cậu biết, và cậu sẽ ngăn được một nửa số thương vong mà chúng ta phải hứng chịu.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"오티스",
+                "content":"Việc đấy sẽ tăng tỉ lệ thành công của chúng ta lên một ít. Ngươi tốt nhất nên kể ta nghe thứ gì đó có ích.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"…Tôi hy vọng là tôi đang làm điều đúng đắn với tư cách một người quản lý.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Sinclair gật đầu khi nghe thấy lời tôi nói, hít thở vài hơi, rồi cuối cùng mở miệng ra sau khi chần chừ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…Nhà tôi. Chắc chắn đó là nơi Kromer đang ở.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Vậy, mày biết con đó à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mẹ nó, đầu tao vẫn còn vang cái tiếng cười của nhỏ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…Tôi gặp ả ta ở trường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ôi trời, cô ta là bạn của nhóc sao? Dù cái gì xảy ra, mong nhóc cũng nên nói mọi chuyện ra…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Con ả đấy không phải bạn. Kromer là kẻ đã giết gia đình tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"로쟈",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"로쟈",
+                "content":"Lỗi tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":null,
+                "content":"Một chiếc đầu máy móc treo trên cây dần quay mặt về phía chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Những đốm lửa bắn tung toé và ánh sáng chớp tắt vẫn nhấp nháy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Sin… cl… a… ir… Bzt… Pzzt…",
+                "teller":"Đầu Giả",
+                "title":"Người dân thị trấn Calw"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"Sao… lại quay… về đây…",
+                "teller":"Đầu Giả",
+                "title":"Người dân thị trấn Calw"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"로쟈",
+                "content":"…Sinclair, đó là hàng xóm của cậu à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"Rodya cất lời hỏi trong khi đang nhìn những cơ thể máy móc bị xé xác và phân rã khắp nơi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Có vẻ là vậy… Nhưng tôi vẫn hy vọng không phải thế…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"Sinclair đáp, quan sát với vẻ mặt tối sầm lại khi nhìn vào những sợi dây điện và cầu chì toé lửa điện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Chiếc đầu robot dần ngừng chuyển động, chỉ còn phát ra những âm thanh khó hiểu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"Và rồi, một bài hát vang lên bao trùm lấy bầu không khí im ắng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Đêm yên lặng…",
+                "teller":"Đầu Giả",
+                "title":"Người dân thị trấn Calw"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Mọi cái đầu treo trên cây đều đang hát ca một bài giống hệt nhau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Bài thánh ca vang lên qua thiết bị phát âm thanh của rất nhiều cái đầu vô hồn treo lủng lẳng trên những đống lửa đốt bên dưới đất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"Đêm thánh vô cùng…",
+                "teller":"Đầu Giả",
+                "title":"Người dân thị trấn Calw"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mọi chuyện đã rõ… Chúng coi các bộ phận cơ thể máy móc là \"dị giáo\".",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mặc dù đã khá lâu kể từ khi chân tay giả lần đầu tiên được công bố ở The City…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nhiều người vẫn thấy chúng ngoại lai và xa lạ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…Thị trấn của chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Thị trấn của chúng tôi từng được gọi là… 'Thánh địa của ngành công nghiệp sản xuất các bộ phận nhân tạo ở Nest K'. Đa số cư dân nơi đây đều làm nghề sản xuất các bộ phận giả chất lượng cao và tân tiến nhất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Kromer đã để mắt tới thị trấn của chúng tôi từ lâu rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"그레고르",
+                "content":"Vậy, gia đình của nhóc…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ừ, cha tôi cũng từng là chủ một công ty sản xuất bộ phận nhân tạo nhỏ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Có phải đó là lý do…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Dành cho mấy kẻ đó những động cơ cao cả thế là đang đánh giá chúng quá cao rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi chỉ thấy chúng là những… tên cuồng tín, bị nuốt chửng bởi sự điên loạn và bạo lực.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "content":"Ishmael khẳng định điều đó với cậu ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":null,
+                "content":"Sau khi nhìn vào những cây 'Giáng Sinh' được trang trí bằng những người hàng xóm của cậu ấy, Sinclair quay người về phía tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Thưa ngài Quản Lý, tôi có một câu hỏi nếu ngài không phiền.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"단테",
+                "content":"<Là gì vậy?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ừ thì… Cảm giác nó như thế nào vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"단테",
+                "content":"<Cảm giác?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Vâng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ý tôi là, có một cái đầu giả thay thế cho cái đầu thật của ngài, cảm giác như thế nào vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"Tôi có hơi sửng sốt bởi vì chưa một ai từng hỏi tôi một câu như thế trước đây cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "content":"Cái vấn đề là không có cách nào để biết được tôi cảm thấy như thế nào trước khi đầu tôi là một cái đồng hồ hết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"단테",
+                "content":"<Ờm… Chuyện đó…>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"싱클레어",
+                "content":"À! Chỉ là—ừm… Không phải tôi đang cố cãi nhau với ngài hay gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"싱클레어",
+                "content":"…C-Có vẻ tôi đã thất lễ rồi. Xin thứ lỗi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"단테",
+                "content":"<Không cần xin lỗi, chẳng sao cả.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":null,
+                "content":"Dù gì thì ngày thường các Tội Nhân khác cũng thô lỗ gấp tỉ lần rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi e rằng tôi không thể trả lời được… Tôi không nhớ bất kỳ một cái gì về cuộc sống của mình trước khi có cái đồng hồ này.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ra vậy…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi vẫn luôn tự hỏi khi có một thứ gì đó khác tọa lạc nơi đáng lẽ ra là đầu của mình, cảm giác sẽ như thế nào…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Gia đình tôi từng nói nó không khác gì việc đội nón hay đeo đồng hồ…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nhưng tôi vẫn không tài nào hình dung ra được dù có suy nghĩ thế nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Và nhờ đó, giờ đây, tôi là người duy nhất sống sót.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi chắc rằng quy trình đó trông sẽ rất kinh khủng nhất là khi ở một độ tuổi trẻ như thế. Cậu không cần phải cảm thấy tội lỗi về chuyện đó đâu.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không phải thế…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không phải như thế đâu…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi e rằng mình không trong sáng như ngài nghĩ đâu, Dante…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":null,
+                "content":"Sinclair cúi gằm mặt xuống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"Tôi cố gắng vắt óc để đưa ra một câu trả lời thích hợp, nhưng không có từ nào phù hợp hiện ra hết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":null,
+                "content":"Chỉ có âm thanh của những tia lửa điện và ngọn lửa bùng lên tràn ngập khắp các con phố thôi.",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

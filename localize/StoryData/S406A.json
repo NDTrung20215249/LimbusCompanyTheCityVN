@@ -1,167 +1,210 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "content": "As the prolonged cycles of pain came to an end…"
-        },
-        {
-            "id": 1,
-            "place": "Nest K’s Ruined Streets",
-            "model": "파우스트",
-            "content": "The Abnormality has been successfully suppressed. We can return to the bus now."
-        },
-        {
-            "id": 2,
-            "content": "It was a “success” that accompanied many deaths and revivals on our side, but I nodded anyway."
-        },
-        {
-            "id": 3,
-            "content": "We got back on the bus, harboring a few unanswered questions."
-        },
-        {
-            "id": 4,
-            "place": "Aboard Mephistopheles",
-            "model": "베르길리우스",
-            "content": "You came back later than expected. I was just about to take my first nap in a while."
-        },
-        {
-            "id": 5,
-            "content": "I explained the oddities we ran into earlier to Vergilius.\n(To be more precise, Faust did the heavy speaking.)"
-        },
-        {
-            "id": 6,
-            "content": "I was expecting him to coldly tell me to do my job as the middle manager and follow whatever orders I’m given, but his answer was surprisingly earnest."
-        },
-        {
-            "id": 7,
-            "model": "베르길리우스",
-            "content": "…The existence of Abnormalities has been almost completely unknown to the public, and we don’t possess all the details on them, either, Dante."
-        },
-        {
-            "id": 8,
-            "model": "단테",
-            "content": "<Didn’t think you’d admit it right away.>"
-        },
-        {
-            "id": 9,
-            "content": "Faust flinched a little, but she didn’t relay what I just said."
-        },
-        {
-            "id": 10,
-            "model": "베르길리우스",
-            "content": "Enigmatic as they are… let’s leave Ms. Faust and other departments of our proud Limbus Company to uncover all the details in the future, as we likely ought to."
-        },
-        {
-            "id": 11,
-            "model": "파우스트",
-            "content": "…Will do."
-        },
-        {
-            "id": 12,
-            "content": "Was Faust given any time at all to do some sort of research on this job?"
-        },
-        {
-            "id": 13,
-            "content": "The mysteries were left unsolved, but… if Faust accepted the suggestion without a hitch, that probably means she’s thought of a way."
-        },
-        {
-            "id": 14,
-            "model": "오티스",
-            "content": "You, why do you have your shoulders hunched over like that?"
-        },
-        {
-            "id": 15,
-            "model": "오티스",
-            "content": "You’re short enough as you are, and this shrunken posture makes you practically imperceptible."
-        },
-        {
-            "id": 16,
-            "model": "돈키호테",
-            "content": "…I hoped to meet Lord Siegfried again…"
-        },
-        {
-            "id": 17,
-            "model": "그레고르",
-            "content": "(Who was Lord Sieg…fried, again?)"
-        },
-        {
-            "id": 18,
-            "model": "이스마엘",
-            "content": "Wasn’t that the man who took photos of himself while cutting us down with one hand?"
-        },
-        {
-            "id": 19,
-            "model": "그레고르",
-            "content": "(Right… That Zack Friture guy…?)"
-        },
-        {
-            "id": 20,
-            "content": "Ishmael was breathing audibly through her nose. The incident at the checkpoint must’ve left some deep grudges for her."
-        },
-        {
-            "id": 21,
-            "model": "돈키호테",
-            "content": "Eager was I to show him… my valiant acts of rescuing imperiled civilians…"
-        },
-        {
-            "id": 22,
-            "model": "돈키호테",
-            "content": "I vowed that I shall meet him again as a Fixer of noble cause…"
-        },
-        {
-            "id": 23,
-            "model": "그레고르",
-            "content": "Reunions are more touching if it’s after a long time, Don Quixote. Try thinking that it’s a good thing he didn’t show up today."
-        },
-        {
-            "id": 24,
-            "model": "베르길리우스",
-            "content": "It really is strange, though."
-        },
-        {
-            "id": 25,
-            "model": "베르길리우스",
-            "content": "He’s not one to miss spectacles with this many spectators around."
-        },
-        {
-            "id": 26,
-            "model": "홍루",
-            "content": "Oho… Is he kind of like a celebrity, then?"
-        },
-        {
-            "id": 27,
-            "model": "베르길리우스",
-            "content": "You could say that. He has a flair for showmanship, so it’s usual for K Corp. to take advantage of these kinds of commotions by sending him."
-        },
-        {
-            "id": 28,
-            "model": "베르길리우스",
-            "content": "But… if he hasn’t shown up for this perfect opportunity to draw the public’s full attention…"
-        },
-        {
-            "id": 29,
-            "model": "단테",
-            "content": "<That means this isn’t something they want people to notice…>"
-        },
-        {
-            "id": 30,
-            "model": "돈키호테",
-            "content": "I shan’t… take such vicious slander of Lord Siegfried!"
-        },
-        {
-            "id": 31,
-            "model": "돈키호테",
-            "content": "On the fifth row of Page 42 of his autobiography “A Hero Should Keep Smiling Until His Last”, he writes that he shall be there to aid the weak no matter when and where!"
-        },
-        {
-            "id": 32,
-            "model": "베르길리우스",
-            "content": "…Hah. Alright, you’d best hold that belief of yours dearly."
-        },
-        {
-            "id": 33,
-            "model": "베르길리우스",
-            "content": "That way, you’ll have something to cling to when you face the extreme in the future."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "content":"Khi vòng lặp của sự đau đớn kéo dài cuối cùng cũng kết thúc...",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":1,
+                "content":"Trấn áp Dị Thể thành công. Chúng ta có thể quay lại xe buýt rồi.",
+                "place":"Đường Phố Bị Phá Huỷ Nest K",
+                "model":"파우스트"
+            },
+            {
+                "id":2,
+                "content":"Tuy \"thành công\" lần này đi kèm với vô số thương vong và các lần hồi sinh liên tục, nhưng tôi vẫn gật đầu cho qua chuyện.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":3,
+                "content":"Chúng tôi quay lại xe buýt, vẫn còn nhiều câu hỏi chưa có lời giải đáp.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":4,
+                "content":"Mấy cô cậu về trễ hơn dự tính đấy. Thân già này còn đang tính chợp mắt ngủ sau bao ngày bị phiền cơ.",
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"베르길리우스"
+            },
+            {
+                "id":5,
+                "content":"Tôi giải thích những sự cố kỳ lạ chúng tôi đã gặp phải trước đó cho Vergilius nghe.\n(Chính xác hơn thì, Faust mới là người nói hết từ đầu đến cuối.)",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":6,
+                "content":"Tôi cứ nghĩ ông ta sẽ buông mấy lời lạnh lùng về vai trò của một quản lý, là phải làm đúng theo những mệnh lệnh được giao cơ. Nhưng mà câu trả lời của ông ấy làm tôi khá bất ngờ.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":7,
+                "content":"...Đối với công chúng, sự tồn tại của Dị Thể vẫn còn là một bí ẩn. Chưa kể công ty còn không có đầy đủ thông tin về vấn đề này nữa, Dante à.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":8,
+                "content":"<Tôi không nghĩ là ông sẽ thừa nhận chuyện đó sớm như vậy.>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":9,
+                "content":"Faust khưng lại, nhưng cô ấy không thuật lại lời tôi vừa nói.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":10,
+                "content":"Mặc cho chúng có bí ẩn ra sao... cứ làm như mọi ngày và để cô Faust cùng các bộ phận khác trong công ty đầy tự hào này tự tìm ra lời giải cho câu hỏi ấy trong tương lai.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":11,
+                "content":"...Đã hiểu.",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":12,
+                "content":"Liệu Faust có bất kỳ thời gian nào để nghiên cứu việc này không?",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":13,
+                "content":"Những bí ẩn vẫn chưa có lời giải đáp, nhưng... nếu Faust chấp nhận yêu cầu không chút đắn đo, thì có nghĩa là cô ấy đã tìm ra cách nào đó.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":14,
+                "content":"Ngươi, sao ngươi lại khom lưng ra như thế?",
+                "place":null,
+                "model":"오티스"
+            },
+            {
+                "id":15,
+                "content":"Ngươi đã lùn lắm rồi mà còn chọn tư thế đấy thì có ngày không ai nhận ra ngươi.",
+                "place":null,
+                "model":"오티스"
+            },
+            {
+                "id":16,
+                "content":"...Ta đây đã hy vọng được gặp lại Quý Ngài Siegfried...",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":17,
+                "content":"(Quý Ngài Sieg...fried là ai ấy nhỉ?)",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":18,
+                "content":"Là cái người đã chụp ảnh tự sướng trong khi tay không tẩn chúng ta ra bã ấy hả?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":19,
+                "content":"(À... Cái gã Zack Friture đó hả...?)",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":20,
+                "content":"Ishmael đang thở thành tiếng bằng mũi của cô ấy. Sự cố tại chốt kiểm soát biên giới hẳn đã để lại cho cô ấy một mối thù sâu đậm.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":21,
+                "content":"Ta đã rất háo hức muốn cho ông ấy xem... những hành động quả cảm của ta khi giải cứu dân thường hoảng sợ...",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":22,
+                "content":"Ta đây đã thề rằng bản thân sẽ gặp lại ông ấy với tư cách là một Fixer cao quý...",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":23,
+                "content":"Phải xa nhau lâu dài thì khi hội ngộ mới thấy dạt dào cảm xúc chứ, Don Quixote. Thử coi việc hôm nay gã đó không tới thực ra lại là một điều tốt đi nào.",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":24,
+                "content":"Mà, chuyện này có gì đó rất lạ.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":25,
+                "content":"Sự cố với nhiều người theo dõi thế này, người như hắn còn lâu mới bỏ lỡ.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":26,
+                "content":"À ha... Nghe như thể ông ấy là minh tinh hay gì ấy nhỉ?",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":27,
+                "content":"Có thể nói là vậy. Với người phô trương như hắn thì Tập Đoàn K lợi dụng sự hỗn loạn này mà cử đi là chuyện thường tình.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":28,
+                "content":"Tuy nhiên... nếu tên đó không xuất hiện vào thời điểm quá đỗi hoàn hảo này để thu hút sự chú ý của dư luận thì...",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":29,
+                "content":"<Có nghĩa rằng đây không phải thứ mà bọn họ muốn mọi người chú ý đến...>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":30,
+                "content":"Ta sẽ không... chấp nhận những lời xúc phạm xấu xa về Quý Ngài Siegfried đâu!",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":31,
+                "content":"Ở hàng thứ năm trang 42 trong cuốn tự truyện \"Một Anh Hùng Phải Luôn Mỉm Cười Đến Hơi Thở Cuối Cùng\" của ông ấy, ông ấy viết rằng bản thân sẽ luôn ở đó để hỗ trợ kẻ yếu mọi lúc mọi nơi!",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":32,
+                "content":"...Hờ. Được rồi, cứ đi mà giữ cái tư tưởng đấy đi.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":33,
+                "content":"Để cô còn có gì đấy để bám víu vào khi đối mặt với chông gai sau này.",
+                "place":null,
+                "model":"베르길리우스"
+            }
+        ]
+    }
+

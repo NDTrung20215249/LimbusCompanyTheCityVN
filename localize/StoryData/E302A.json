@@ -1,75 +1,126 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Eunbong’s Bar & Fryers Kitchen",
-            "content": "Ryōshū and Gregor radiated a burning viciousness."
-        },
-        {
-            "id": 1,
-            "content": "Is this… murderous aura supposed to be part of the culinary experience…?"
-        },
-        {
-            "id": 2,
-            "model": "료슈",
-            "content": "What recipe are you even gonna show, more canned crapola?"
-        },
-        {
-            "id": 3,
-            "model": "그레고르",
-            "content": "There’s no dish that beats the taste of survival."
-        },
-        {
-            "id": 4,
-            "model": "료슈",
-            "content": "Hey, champagne hair! Get me a hen."
-        },
-        {
-            "id": 5,
-            "model": "싱클레어",
-            "content": "Huh? Okay…!"
-        },
-        {
-            "id": 6,
-            "model": "그레고르",
-            "content": "Yi Sang! Sorry, but can you open this can for me?"
-        },
-        {
-            "id": 7,
-            "model": "이상",
-            "content": "As you so wish."
-        },
-        {
-            "id": 8,
-            "content": "The sights and sounds filling the kitchen seemed at least somewhat proper."
-        },
-        {
-            "id": 9,
-            "content": "I can hear knives hitting the cutting boards, broth boiling up in pots…"
-        },
-        {
-            "id": 10,
-            "content": "…and fire sizzling on cigarettes."
-        },
-        {
-            "id": 11,
-            "model": "단테",
-            "content": "<…HUH?!! Why do I hear smoking in the kitchen?!>"
-        },
-        {
-            "id": 12,
-            "model": "그렉료슈",
-            "teller": "Gregor & Ryōshū",
-            "title": "Dueling Chefs",
-            "content": "……"
-        },
-        {
-            "id": 13,
-            "content": "The two remained silent."
-        },
-        {
-            "id": 14,
-            "content": "Of course, as expected, the sound of a cigarette being snuffed out only came from Gregor’s side."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nhà Bếp Quán Rượu Eunbong",
+                "content":"Ryōshū và Gregor đều toát lên sự hiểm ác cùng cực.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Liệu… sát khí này có phải là một phần kinh nghiệm nấu ăn không vậy…?",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Ngươi sẽ cho ta xem thứ gì đây, thêm mớ đồ hộp hổ lốn à?",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Không bữa ăn nào thắng được hương vị của sinh tồn đâu.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Ê tóc vàng rượu vang! Lấy cho bà con gà.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Hả? Dạ vâng…!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Yi Sang này! Phiền cậu mở hộ tôi cái hộp này được không?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Chỉ cần anh muốn.",
+                "model":"이상",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Cảnh tượng và âm thanh vang lên trong khuôn bếp trông cũng đàng hoàng xíu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Tôi có thể nghe thấy tiếng dao va chạm vào tấm thớt, tiếng sôi sùng sục của nước dùng…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"…và đốm lửa trên những điếu thuốc lá.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"<… HẢ?!! Tại sao tôi lại nghe thấy tiếng hút thuốc trong nhà bếp thế?!>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"……",
+                "model":"그렉료슈",
+                "teller":"Gregor & Ryōshū",
+                "title":"Đầu Bếp Tranh Tài"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Cả hai không nói lời nào.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Tất nhiên, như dự đoán, chỉ có phía Gregor là phát ra tiếng dập tắt điếu thuốc lá.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

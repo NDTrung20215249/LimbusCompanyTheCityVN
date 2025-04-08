@@ -2,189 +2,189 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Now Charon, tell me, is this east or west?"
+      "title": "Fixer Cấp 8",
+      "content": "Bây giờ, Charon, trả lời chị, đây là hướng đông hay hướng tây?"
     },
     {
       "id": 1,
       "model": "카론",
-      "content": "Charon only knows two directions: Mephi’s front and back."
+      "content": "Charon chỉ biết hai hướng đi thôi. Phía trước của Mephi và phía sau của Mephi."
     },
     {
       "id": 2,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "How did you come so far with a driver who has zero sense of direction?"
+      "title": "Fixer Cấp 8",
+      "content": "Sao mà mọi người lại có thể đi xa thế này với một tài xế không một chút cảm quan định hướng gì hết vậy?"
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Charon… Like I said, the sun rises from…"
+      "content": "Charon à... Như anh đã nói, mặt trời mọc ở đằng..."
     },
     {
       "id": 4,
-      "content": "At the driver’s seat, three heads gathered together over a map."
+      "content": "Ở ghế ngồi tài xế, có thể thấy cả ba đang quay quần lại quanh tấm bản đồ."
     },
     {
       "id": 5,
-      "content": "Well, one of them might have been at a slightly different elevation from the others."
+      "content": "Ờ thì, một trong số họ có lẽ sẽ không cùng tần số với những người còn lại."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Pft… Chiquita~ Aren’t you gonna join them too?"
+      "content": "Pft... Này bé con~ Em không muốn tham gia cùng bọn này à?"
     },
     {
       "id": 7,
       "model": "돈키호테",
-      "content": "I beg your pardon! I am no child! And most certainly not little!"
+      "content": "Thất lễ rồi! Ta đây không phải con nít! Và chắc chắn ta cũng không có bé đâu!"
     },
     {
       "id": 8,
-      "content": "Watching Don Quixote shake her fist sky-high at Rodya, I noticed a bitter gaze falling upon them out of the corner of my view."
+      "content": "Nhìn Don Quixote giơ cao nấm đấm của mình lên trời về phía Rodya, tôi để ý tới cái ánh nhìn cay đắng trên mặt bọn họ khuất khỏi khoé mắt tôi."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<…I’m starting to think that Yuri gal might’ve put up with a rough childhood.>"
+      "content": "<... Tôi bắt đầu nghĩ rằng cái cô Yuri đó dường như đã có một tuổi thơ khá là vất vả đó nhỉ.>"
     },
     {
       "id": 10,
-      "content": "Gregor turned around to take a glance in my direction, then shook his head and went back to looking at the driver’s side with his chin resting on his hand."
+      "content": "Gregor ngoảnh lại để liếc nhìn về hướng tôi, rồi lắc đầu và ngoảnh lại, chỉ để nhìn phía ghế ngồi tài xế với một tay chống cằm."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "…Wouldn’t be on the youngest side, either. Some Nests used to conscript anyone old enough to hold a knife."
+      "content": "...Cũng chưa phải là trẻ nhất đâu. Một vài Nest từng bắt bất kì ai đủ tuổi cầm dao đi lính mà."
     },
     {
       "id": 12,
-      "content": "Nests… A Nest was basically the center of a District, if my memory is correct."
+      "content": "Nest à... Nest đơn thuần là khu vực trung tâm của Quận, nếu kí ức của tôi nhớ đúng."
     },
     {
       "id": 13,
-      "content": "Sounds like Nests used to get into wars with one another in the past."
+      "content": "Nghe có vẻ các Nest đã từng bị liên lụy vào chiến tranh với một bên khác trong quá khứ."
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<Did that happen often?>"
+      "content": "<Chuyện đó có thường hay xảy ra không?>"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Not frequently, but it sure as hell did happen."
+      "content": "Không thường xuyên, nhưng mà việc đó đã từng xảy ra rồi."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "…Interested in learning about wars, Manager Bud?"
+      "content": "...Có hứng thú với chiến tranh rồi à, Cậu Quản Lý?"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<Oh, I’m not really curious about the details, just gathering info I should know as the manager…>"
+      "content": "<Ồ, tôi không tò mò về tiểu tiết cho lắm, chỉ muốn thu thập thêm thông tin mà tôi cần phải biết như một người quản lý thôi...>"
     },
     {
       "id": 18,
-      "content": "As I was about to go on, a glimpse of Gregor’s expression I caught from the side stopped me in my tracks."
+      "content": "Khi tôi định nói tiếp, tôi chợt nhận ra một cử chỉ thoáng qua trong biểu cảm của Gregor khiến tôi ngừng lại."
     },
     {
       "id": 19,
-      "content": "His eyes seemed to be fixed somewhere far more distant than the driver’s seat."
+      "content": "Đôi mắt của anh ấy như đang nhìn về phía xa xăm hơn chứ không còn chỉ dừng lại tại chỗ ghế ngồi tài xế."
     },
     {
       "id": 20,
       "model": "그레고르",
-      "content": "Don’t get me wrong, Manager Bud, I’m not trying to criticize you or anything. Heck, it’s actually a pretty standup attitude for a boss, I’d say."
+      "content": "Đừng hiểu nhầm nhé, Cậu Quản Lý, tôi không có ý chỉ trích ngài đâu. Thậm chí thái độ của ngài còn khá ra dáng cấp trên đấy."
     },
     {
       "id": 21,
-      "content": "He slowly continued, taking a pack of cigarettes from his pocket."
+      "content": "Anh ấy chậm rãi, lấy ra một gói thuốc lá từ túi mình."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Still, ignorance is a gift you should savor while you have it, if you ask me."
+      "content": "Nhưng mà, theo tôi thì ngài nên tận hưởng sự vô minh đó đi."
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "Once you’re burdened with knowledge, there’s no going back."
+      "content": "Bởi một khi đã biết quá nhiều rồi, thì sẽ không còn cách nào để quên đi đâu."
     },
     {
       "id": 24,
-      "content": "Without another word, he lit his cigarette."
+      "content": "Không nói gì thêm nữa, anh ấy châm điếu thuốc."
     },
     {
       "id": 25,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, you should’ve turned right at that intersection!"
+      "title": "Fixer Cấp 8",
+      "content": "Không phải, lẽ ra em nên rẽ phải tại ngã tư đó!"
     },
     {
       "id": 26,
       "model": "싱클레어",
-      "content": "I-It’s okay, Charon. We can turn around at the next junction."
+      "content": "Kh-Không sao đâu, Charon. Chúng ta quay đầu xe lại tại ngã tư tiếp theo cũng được."
     },
     {
       "id": 27,
       "model": "카론",
-      "content": "Ahh… The woes of a driver."
+      "content": "Ôi... Nỗi khổ của người tài xế."
     },
     {
       "id": 28,
       "model": "그레고르",
-      "content": "Well… Looks like we have more pressing matters at hand. Ain’t that right, Manager Bud?"
+      "content": "Chà... Có vẻ như chúng ta gặp phải chuyện khẩn cấp hơn rồi nhỉ? Cậu Quản Lý."
     },
     {
       "id": 29,
-      "content": "Gregor cackled with cigarette smoke still in his mouth."
+      "content": "Gregor cười khúc khích với điếu thuốc lá trên miệng."
     },
     {
       "id": 30,
-      "content": "I was still curious to learn what he’d been through, but he’s right that I should focus on other things for now."
+      "content": "Tôi vẫn còn tò mò về quá khứ mà anh ấy từng trải qua, nhưng có điều anh ấy nói đúng là tôi giờ nên tập trung vào việc khác."
     },
     {
       "id": 31,
-      "content": "An urgent matter showed up right before our bus-shaped doorstep, too."
+      "content": "Một vấn đề bất ngờ xuất hiện ngay trước cửa xe buýt."
     },
     {
       "id": 32,
       "model": "베르길리우스",
-      "content": "Enough squabbling now. More enemies inbound."
+      "content": "Lải nhải đủ rồi. Có kẻ địch tới nữa kìa."
     },
     {
       "id": 33,
-      "teller": "Head Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "You shoved my pals into that bus, you sick bastards! Are you nuts?"
+      "teller": "Cầm đầu bọn vô gia cư",
+      "title": "Backstreet Quận 4",
+      "content": "Bọn mày nhét anh em tao vào xe buýt đấy à, bọn khốn! Bọn mày điên rồi sao?"
     },
     {
       "id": 34,
-      "teller": "Head Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "You’ll pay for this! We were just gonna leave with the bus, but now I’ve gotta see you all bleed!"
+      "teller": "Cầm đầu bọn vô gia cư",
+      "title": "Backstreet Quận 4",
+      "content": "Bọn mày sẽ phải trả giá! Vốn dĩ tụi tao định chỉ rời đi với chiếc xe buýt thôi, nhưng bây giờ ruột của chúng mày sẽ phải rơi xuống đất!"
     },
     {
       "id": 35,
       "model": "카론",
-      "content": "Verg, fuel is making a fuss. Charon will get dizzy if many mouths are being noisy."
+      "content": "Chú Verg ơi, nhiên liệu đang càu nhàu. Charon sẽ thấy mệt nếu nhiều miệng cứ hót líu lo."
     },
     {
       "id": 36,
       "model": "베르길리우스",
-      "content": "Nothing to worry about, Charon. They’ll shut their mouths soon enough."
+      "content": "Con không cần phải lo đâu, Charon. Rồi chúng sẽ im thôi."
     },
     {
       "id": 37,
       "model": "베르길리우스",
-      "content": "Off the bus."
+      "content": "Các anh chị, xuống xe."
     }
   ]
 }

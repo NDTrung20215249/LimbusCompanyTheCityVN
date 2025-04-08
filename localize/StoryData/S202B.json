@@ -1,118 +1,144 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Pawn Avenue",
-      "model": "파우스트",
-      "content": "Allow me to give a rundown of the plan."
-    },
-    {
-      "id": 1,
-      "model": "파우스트",
-      "content": "Our primary objective is to infiltrate the casino unsuspected; it will be critical for the successful recovery of the Golden Bough."
-    },
-    {
-      "id": 2,
-      "model": "파우스트",
-      "content": "According to the information we’ve acquired, the casino has three entrances."
-    },
-    {
-      "id": 3,
-      "model": "파우스트",
-      "content": "One for ordinary visitors, one reserved for VIPs, and lastly, the backdoor used by employees."
-    },
-    {
-      "id": 4,
-      "model": "파우스트",
-      "content": "We’ll split into three groups of four Sinners to cover each entrance… Four of us will disguise as croupiers, four will pose as guests, and four will play the role of VIPs."
-    },
-    {
-      "id": 5,
-      "model": "오티스",
-      "content": "Working in smaller groups will certainly draw less attention."
-    },
-    {
-      "id": 6,
-      "model": "이상",
-      "content": "It is wiser to divide rather than unite."
-    },
-    {
-      "id": 7,
-      "model": "파우스트",
-      "content": "Open the envelopes I gave out to confirm the role you’ve been assigned."
-    },
-    {
-      "id": 8,
-      "model": "파우스트",
-      "content": "Also, the higher-ups expressed concern over our performance."
-    },
-    {
-      "id": 9,
-      "model": "파우스트",
-      "content": "They stress that the company’s future plans hinge on whether we can retrieve the Golden Bough through this operation."
-    },
-    {
-      "id": 10,
-      "model": "파우스트",
-      "content": "Therefore, we will collaborate on a joint operation."
-    },
-    {
-      "id": 11,
-      "model": "단테",
-      "content": "<Joint operation?>"
-    },
-    {
-      "id": 12,
-      "model": "파우스트",
-      "content": "Our partner is a special forces unit consisting of professionals and veterans…"
-    },
-    {
-      "id": 13,
-      "model": "파우스트",
-      "content": "I believe they are now monikered the ‘LCC’, short for the Limbus Company Clearance Department. Rest assured that they are our betters, at least in espionage operations."
-    },
-    {
-      "id": 14,
-      "model": "이스마엘",
-      "content": "I thought twelve people was already a crowd."
-    },
-    {
-      "id": 15,
-      "model": "그레고르",
-      "content": "Guess someone finally realized that more isn’t always merrier."
-    },
-    {
-      "id": 16,
-      "model": "홍루",
-      "content": "Wowzer! I haven’t met staff from other teams before. Just where could they be?"
-    },
-    {
-      "id": 17,
-      "content": "Hong Lu looked around, expecting Faust to bring them forward for introductions any second."
-    },
-    {
-      "id": 18,
-      "content": "…Needless to say, no one showed up like he expected."
-    },
-    {
-      "id": 19,
-      "model": "파우스트",
-      "content": "We’ll be heading to the pawnshop."
-    },
-    {
-      "id": 20,
-      "model": "그레고르",
-      "content": "Is pawning still a thing these days?"
-    },
-    {
-      "id": 21,
-      "model": "파우스트",
-      "content": "We’re in the so-called pawnbroker’s avenue. Most businesses double as pawnshops here."
-    },
-    {
-      "id": 22,
-      "model": "파우스트",
-      "content": "That place is our rendezvous. Let’s head inside."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phố Cầm Đồ",
+                "model":"파우스트",
+                "content":"Cho phép tôi nói qua về kế hoạch."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mục tiêu chính của chúng ta là xâm nhập vào sòng bạc mà không bị phát hiện; điều này rất quan trọng để thành công thu lại Cành Vàng."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"파우스트",
+                "content":"Theo như thông tin đã có, sòng bạc có ba cửa ra vào."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"파우스트",
+                "content":"Một dành cho khách thông thường, một dành cho khách hàng VIP, và cuối cùng là dành riêng cho nhân viên."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng ta sẽ chia thành ba nhóm, mỗi nhóm bốn Tội Nhân để đảm nhiệm mỗi lối vào… Bốn người trong chúng ta sẽ cải trang thành người chia bài, bốn người sẽ đóng giả làm khách và bốn người sẽ đóng vai VIP."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"오티스",
+                "content":"Làm việc ở nhóm nhỏ chắc chắn sẽ ít thu hút sự chú ý hơn."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이상",
+                "content":"Chia lẻ ra là sẽ khôn ngoan hơn tụ lại với nhau."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"파우스트",
+                "content":"Hãy mở phong thư ra để xác nhận vai trò của mỗi người."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"파우스트",
+                "content":"Ngoài ra, cấp trên cũng đã bày tỏ lo ngại về hiệu suất làm việc của chúng ta."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"파우스트",
+                "content":"Họ nhấn mạnh rằng kế hoạch tương lai của công ty phụ thuộc vào việc ta có thể mang về Cành Vàng trong chiến dịch này."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"파우스트",
+                "content":"Thế nên, lần này chúng ta sẽ hoạt động trong một chiến dịch hợp tác."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"단테",
+                "content":"<Chiến dịch hợp tác?>"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đối tác của chúng ta là một đơn vị lực lượng đặc biệt bao gồm các chuyên gia và cựu chiến binh…"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mà tôi tin họ giờ được gọi với cái tên 'LCC', viết tắt cho Phòng Ban Kiểm Duyệt của Công Ty Limbus. Và hãy an tâm rằng họ giỏi hơn chúng ta, ít nhất là trong các hoạt động gián điệp."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Vậy mà tôi cứ tưởng mười hai người đã là đông đúc rồi chứ."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"그레고르",
+                "content":"Có vẻ cuối cùng cũng có người nhận ra là càng đông không phải lúc nào cũng càng vui."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"홍루",
+                "content":"Oa! Lần đầu tiên tôi được gặp nhân viên đến từ đội khác đó. Nhưng mà họ ở đâu cơ?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "content":"Cái cậu Hong Lu giờ đang hớn hở nhìn khắp xung quanh, mong đợi Faust sẽ dẫn mấy người bọn họ ra giới thiệu bất cứ lúc nào."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"...Khỏi phải nói gì thêm, chả có ai xuất hiện như kì vọng của cậu ấy."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng ta sẽ hướng đến tiệm cầm đồ."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"그레고르",
+                "content":"Thời nay vẫn còn có chuyện cầm đồ cơ á?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng ta đang ở nơi gọi là đại lộ của người cầm đồ. Hầu hết các doanh nghiệp ở đây đều kiêm luôn cả dịch vụ đấy."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nơi đó là điểm hẹn của chúng ta. Vào trong thôi."
+            }
+        ]
     }
-  ]
-}
+

@@ -1,170 +1,222 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Cruise Ship",
-            "model": "단테2",
-            "content": "<It's pretty dark in here...>"
-        },
-        {
-            "id": 1,
-            "content": "The hallway to the storage was significantly narrower than the party deck."
-        },
-        {
-            "id": 2,
-            "content": "I had nothing but faint, occasionally flashing lights to guide me through this dark hallway. I decided to proceed carefully."
-        },
-        {
-            "id": 3,
-            "model": "단테2",
-            "content": "<Seriously, this place is way creepier than wherever Hong Lu was going with his story...>"
-        },
-        {
-            "id": 4,
-            "model": "단테2",
-            "content": "<Sinclair...?>"
-        },
-        {
-            "id": 5,
-            "model": "단테2",
-            "content": "<You there?>"
-        },
-        {
-            "id": 6,
-            "content": "I wasn't sure where these water droplets were falling from, but they were really getting on my nerves."
-        },
-        {
-            "id": 7,
-            "content": "I don't see anything here. Not that I could in this dark, even if there were..."
-        },
-        {
-            "id": 8,
-            "content": "All I see is a very faint ray of light, and..."
-        },
-        {
-            "id": 9,
-            "model": "싱클레어",
-            "content": "……."
-        },
-        {
-            "id": 10,
-            "model": "단테2",
-            "content": "<Sinclair?>"
-        },
-        {
-            "id": 11,
-            "content": "... and Sinclair. It seemed to me that he'd been standing here for a good while. Exactly how long... I wasn't sure."
-        },
-        {
-            "id": 12,
-            "model": "싱클레어",
-            "content": "... Uh."
-        },
-        {
-            "id": 13,
-            "content": "Sinclair stood there, still like death. He looked up."
-        },
-        {
-            "id": 14,
-            "model": "단테2",
-            "content": "<... What are you looking at?>"
-        },
-        {
-            "id": 15,
-            "content": "Now that I'm in here... I noticed that there was something funny about the ray of light."
-        },
-        {
-            "id": 16,
-            "content": "I assumed that the light I saw was from a lamp or something, but... no. It was just there, surrounding the general area where Sinclair stood."
-        },
-        {
-            "id": 17,
-            "content": "There was no light source."
-        },
-        {
-            "id": 18,
-            "content": "So the light's shining in from the outside, maybe...?"
-        },
-        {
-            "id": 19,
-            "content": "No, that doesn't make sense either. We're deep in the ship's storage, a big metal box with no opening for even a single strand of natural light."
-        },
-        {
-            "id": 20,
-            "content": "Besides, it's nighttime. This is getting more and more bizarre by the second. Where is this light coming from...?"
-        },
-        {
-            "id": 21,
-            "model": "단테2",
-            "content": "<…!>"
-        },
-        {
-            "id": 22,
-            "model": "단테2",
-            "content": "<Sinclair, we gotta get out of here!>"
-        },
-        {
-            "id": 23,
-            "model": "싱클레어",
-            "content": "……."
-        },
-        {
-            "id": 24,
-            "model": "단테2",
-            "content": "<Run, NOW!>"
-        },
-        {
-            "id": 25,
-            "model": "단테2",
-            "content": "<Come on!>"
-        },
-        {
-            "id": 26,
-            "content": "Fear of the unknown intensifies. What I saw defied every bit of common sense I had accumulated over the journey, and I had to get Sinclair out of there—I snatched and tugged his limp wrist."
-        },
-        {
-            "id": 27,
-            "model": "단테2",
-            "content": "<Come on, wake up!!!>"
-        },
-        {
-            "id": 28,
-            "content": "That seemed to have done the trick. Sinclair suddenly snapped back to reality and began screaming. He bolted out of the room."
-        },
-        {
-            "id": 29,
-            "model": "싱클레어",
-            "content": "AAAAAAAAAAAAAAAAAAA!!!"
-        },
-        {
-            "id": 30,
-            "model": "히스클리프",
-            "content": "Huh?! The lad's lost the plot! What in the bloody—"
-        },
-        {
-            "id": 31,
-            "model": "싱클레어",
-            "content": "THEREWASAPERSONFLOATINGINTHEAIRAPERSONINTHEAIRFLOATINGSOMEONEWASUPTHEREJUSTSUSPENDEDINTHEAIR!!!"
-        },
-        {
-            "id": 32,
-            "model": "로쟈",
-            "content": "... Okay, now I'm actually creeped out."
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "That can't be... a person."
-        },
-        {
-            "id": 34,
-            "model": "로쟈",
-            "content": "Then that was..."
-        },
-        {
-            "id": 35,
-            "model": "이스마엘",
-            "content": "What, you think we have enough time for a lecture? Prepare for battle."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tàu Du Ngoạn",
+                "model":"단테2",
+                "content":"<Trong này khá tối...>"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":null,
+                "content":"Hành lang dẫn đến kho chứa đồ chật hẹp hơn rất nhiều so với boong tàu."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Chỉ có ánh đèn mập mờ nhấp nháy liên tục dẫn lối tôi qua hành lang u tối này. Tôi quyết định tiến lên một cách cẩn thận."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"단테2",
+                "content":"<Thật sự đấy, nơi này kinh khủng hơn câu chuyện mà Hong Lu kể nữa...>"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"단테2",
+                "content":"<Sinclair...?>"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테2",
+                "content":"<Cậu có đó không?>"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Tôi không biết những giọt nước này nhỏ xuống từ nơi đâu, nhưng chúng thật sự khiến tôi thấy khó chịu rồi đấy."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Tôi không nhìn thấy gì ở đây hết. Không phải do chỗ này tối, mà là có muốn nhìn cũng không được..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Tất cả những gì mà tôi có thể thấy là một tia sáng mờ nhạt, và..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"싱클레어",
+                "content":"……."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"단테2",
+                "content":"<Sinclair?>"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"...và Sinclair. Có vẻ như cậu ấy đã đứng đó được một lúc rồi. Chính xác là bao lâu... thì tôi cũng không rõ."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Ồ."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Sinclair đứng đó, chết lặng. Cậu ấy nhìn lên."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Cậu đang nhìn gì vậy?>"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Giờ tôi đã ở đây rồi... tôi mới để ý thấy tia sáng đó hơi là lạ."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Tôi đoán rằng tia sáng mà tôi vừa thấy là từ một chiếc đèn hay gì đó, nhưng... không. Nó chỉ ở đó thôi, bao quanh khu vực nơi Sinclair đứng."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "content":"Không hề có nguồn sáng nào cả."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Vậy ánh sáng chiếu vào từ bên ngoài chăng...?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"Không, nó cũng không hợp lý chút nào. Chúng ta đang ở sâu bên trong kho chứa đồ của con tàu, một chiếc hộp làm bằng kim loại khổng lồ không hề có khe hở hay thậm chí là một nguồn sáng tự nhiên nào hết."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "content":"Với lại, bên ngoài bây giờ là ban đêm. Chuyện này ngày càng quái lạ hơn rất nhiều rồi. Thứ ánh sáng này từ đâu mà ra...?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"단테2",
+                "content":"<...!>"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테2",
+                "content":"<Sinclair, chúng ta phải rời khỏi chỗ này!>"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"싱클레어",
+                "content":"……."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테2",
+                "content":"<Chạy đi, NGAY BÂY GIỜ!>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"단테2",
+                "content":"<Đi nào!>"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Nỗi sợ về những thứ bản thân không hề biết ngày càng tăng lên. Những gì tôi vừa thấy vượt ngoài mọi lẽ thường tình mà tôi đã tích luỹ được trong chuyến hành trình này, và tôi phải mau chóng đưa Sinclair rời khỏi đó—Tôi chộp lấy và kéo cổ tay cậu ấy."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테2",
+                "content":"<Nhanh lên, tỉnh dậy đi!!!>"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Có vẻ như đã có tác dụng. Sinclair giật mình tỉnh lại và bắt đầu la hét. Cậu ấy phóng một mạch ra khỏi đó."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"싱클레어",
+                "content":"AAAAAAAAAAAAAAAAAAA!!!"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hở?! Thằng nhóc hoá khùng rồi! Cái quần què gì-"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"싱클레어",
+                "content":"CÓMỘTNGƯỜILƠLỬNGTRÊNKHÔNGTRUNGMỘTNGƯỜITRÊNKHÔNGTRUNGLƠLỬNGCÓNGƯỜIỞPHÍATRÊNLƠLỬNGGIỮAKHÔNGTRUNG!!!"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Nè, giờ tôi rùng mình lắm rồi nhé."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đó... không phải là người."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"로쟈",
+                "content":"Vậy nãy đó là..."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hả, giờ này còn thong thả chờ tôi nghe giảng nữa sao? Chuẩn bị vũ khí đi."
+            }
+        ]
+    }
+

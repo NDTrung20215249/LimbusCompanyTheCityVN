@@ -1,184 +1,246 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K - LC Branch Interior",
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Ah... Give me a second. I think we need to call a timeout."
-        },
-        {
-            "id": 1,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Might be the sardine I ate this morning... My stomach is aching."
-        },
-        {
-            "id": 2,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "Boss!"
-        },
-        {
-            "id": 3,
-            "model": "료슈",
-            "content": "No such thing. SYNC is up next."
-        },
-        {
-            "id": 4,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "Shrenne...!"
-        },
-        {
-            "id": 5,
-            "model": "료슈",
-            "content": "She what?"
-        },
-        {
-            "id": 6,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "Shrenne told us something. While we're in here... don't ever use regeneration ampules no matter what..."
-        },
-        {
-            "id": 7,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "……"
-        },
-        {
-            "id": 8,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Haah... Saying that out loud... is breaching the contract, you dolt..."
-        },
-        {
-            "id": 9,
-            "model": "로쟈",
-            "content": "That so... Shrenne told you that? Why?"
-        },
-        {
-            "id": 10,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "I don't know... She said we'll see in due time..."
-        },
-        {
-            "id": 11,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Well, we have the simplest way to find out, don't we?"
-        },
-        {
-            "id": 12,
-            "content": "After fiddling with a regeneration ampule in his hand, Dongrang made a sudden move..."
-        },
-        {
-            "id": 13,
-            "content": "He quickly jabbed the ampule into the unguarded Fixer's body like a dagger."
-        },
-        {
-            "id": 14,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "Ah..."
-        },
-        {
-            "id": 15,
-            "content": "The Fixer tried to remove the ampule, but its content had already entered the system..."
-        },
-        {
-            "id": 16,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "…!"
-        },
-        {
-            "id": 17,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "...Why do you look so surprised, boss? What happens if the ampule is injected...?"
-        },
-        {
-            "id": 18,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "...Huh, this is weird..."
-        },
-        {
-            "id": 19,
-            "content": "The Fixer's limbs began to twist in strange angles..."
-        },
-        {
-            "id": 20,
-            "model": "장미스패너2",
-            "teller": "Assistant Fixer",
-            "title": "Rosespanner Workshop",
-            "content": "Uwaah. Uagh."
-        },
-        {
-            "id": 21,
-            "content": "Then some things started protruding through the flesh."
-        },
-        {
-            "id": 22,
-            "content": "Collapsed on the floor, the Fixer tried to yell something, but failed to make any sound."
-        },
-        {
-            "id": 23,
-            "model": "그레고르",
-            "content": "...Is it just me, or is this awfully familiar?"
-        },
-        {
-            "id": 24,
-            "model": "로쟈",
-            "content": "Please. You don't really think you're the only one who remembers that bug den, do you, Greg babe?"
-        },
-        {
-            "id": 25,
-            "content": "Resembling larvas or snails..."
-        },
-        {
-            "id": 26,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "...Oh dear."
-        },
-        {
-            "id": 27,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "Let's stop here. I dragged too many people into this."
-        },
-        {
-            "id": 28,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Well... It was my decision to take the deal for the money."
-        },
-        {
-            "id": 29,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Dearie me... Should've gone on a bigger spree yesterday if I knew it would come to this."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nest K - Nội Bộ Chi nhánh LC",
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"À... Chờ đã... Tao nghĩ tao cần nghỉ giữa hiệp."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Chắc món cá mòi tao ăn sáng nay bị hư... Bụng đau quá..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Ông chủ!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Dóc tổ. Bà C.C. mày tiếp theo."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Cô Shrenne...!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Ả ta làm sao?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Shrenne bảo chúng tôi rằng... khi bọn tôi ở đây... tuyệt đối không được dùng huyết thanh hồi phục..."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"......"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Hà... Nói ra như thế... là vi phạm hợp đồng đấy, thằng ngu..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Thật là... Shrenne đã nói vậy ư? Vì sao thế?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Tao không biết... Ả ta bảo bọn tao sẽ biết sớm thôi..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Chà, chúng ta có cách đơn giản nhất để tìm ra mà, đúng chứ?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sau khi táy máy với một ống huyết thanh hồi phục trên tay, Dongrang làm ra một động tác bất chợt.."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Anh ta đâm huyết thanh vào cơ thể của tên Fixer không chút phòng bị như một con dao găm."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"A..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên Fixer cố gắng rút huyết thanh ra, nhưng thứ chất lỏng bên trong đã thâm nhập sâu vào cơ thể..."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"…!"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"... Sao ông nhìn ngạc nhiên vậy, ông chủ? Chuyện gì sẽ xảy ra nếu mình tiêm huyết thanh hồi phục...?"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"...Hừ, kì lạ thật..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tay chân của tên Fixer bắt đầu vặn xoắn một cách kỳ lạ..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"장미스패너2",
+                "teller":"Trợ Lý Fixer",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Ựa. Ự á."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Rồi vài thứ khác bắt đầu nhô ra khỏi lớp da thịt."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ngã lăn ra sàn nhà, tên Fixer cố gắng thốt lên điều gì đó, nhưng không thể cất thành tiếng."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Có mỗi tôi thôi, hay là cảnh này nhìn quen thuộc tới đáng sợ nhỉ?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Trời ạ. Đừng nghĩ anh là đứa duy nhất còn nhớ cái vụ hang ổ sâu bọ kia nhé, anh Greg?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Giống hệt ấu trùng hoăc ốc sên..."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Ôi chao..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Dừng ở đây đi. Quá nhiều người dính vào vụ này rồi."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Thôi... Tao là người nhận việc này vì tiền mà."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"Ôi tôi ơi... Lẽ ra hôm qua mình nên chơi lớn nếu biết mọi chuyện sẽ thành ra như thế này rồi."
+            }
+        ]
+    }
+

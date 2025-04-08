@@ -3,122 +3,122 @@
         {
             "id": "get_10104_1",
             "desc": "Identity Acquisition",
-            "dlg": "Welcome. Now what does your heart say... about what you see of my heart?"
+            "dlg": "Chào mừng. Giờ đây con tim ngài mách bảo gì... về điều nó thấy trong trái tim tôi?"
         },
         {
             "id": "lobby_morning_10104_1",
             "desc": "Morning Greeting",
-            "dlg": "Keep the door ajar. The sunbeam... is warm for once."
+            "dlg": "Để cửa mở đi. Ánh nắng... lâu rồi mới ấm áp như vậy."
         },
         {
             "id": "lobby_noon_10104_1",
             "desc": "Afternoon Greeting",
-            "dlg": "I wonder if you have dined. Let's see... How about potatoes? They are quite fitting as luncheon.\n...Worry not, for they have not sprouted."
+            "dlg": "Ngài ăn gì chưa? Xem nào... Khoai tây được không? Hợp ăn trưa lắm đấy... \nĐừng lo, chúng chưa mọc mầm đâu."
         },
         {
             "id": "lobby_night_10104_1",
             "desc": "Evening Greeting",
-            "dlg": "I am not quite used to the night... It's thanks to the dark that prevents me from seeing further than my nose.\nThinking of my new colleagues who have perished... this solitude brings me fear that I will soon be consumed by another."
+            "dlg": "Tôi vẫn chưa quen với bóng tối... Do tôi chẳng thể thấy gì cả. \nNhớ về những người bạn mới đã từ trần... Tôi sợ nỗi cô đơn này rồi sẽ nuốt chửng lấy tôi."
         },
         {
             "id": "smalltalk_10104_1",
             "desc": "Chatter #1",
-            "dlg": "You wish to hear my thoughts on that man in K Corp. He is no longer a companion or anyone worth mentioning; he is no more than a worm with wretched ideas, humiliating technology with... nay, there is no need to sully my tongue."
+            "dlg": "Ngài muốn nghe cảm nghĩ của tôi về gã đàn ông ở Tập Đoàn K sao. Hắn đã chẳng còn là một người bạn hay ai đó đáng nói tới nữa; hắn chỉ là một tên sâu bọ với đầy ý tưởng gớm ghiếc làm nhục nhã công nghệ với... không, tôi không cần làm bẩn miệng lưỡi mình."
         },
         {
             "id": "smalltalk_10104_2",
             "desc": "Chatter #2",
-            "dlg": "...Does it sometimes occur to you when you see a remarkable thing that you want to share the wonderment with others?\nThat you would like anyone to experience the same moment when you first saw it."
+            "dlg": "...Đôi lúc ngài có cảm thấy một khát khao sẻ chia khi được thấy một điều quá đỗi kì diệu? Ngài mong mỏi rằng bất cứ ai cũng có thể sống cái khoảnh khắc mà ngài chứng kiến nó."
         },
         {
             "id": "smalltalk_10104_3",
             "desc": "Chatter #3",
-            "dlg": "I have seen chickens fight. The smaller one was always being pecked on its head.\nWe have been similar until now... but will that last? It will come to light soon enough."
+            "dlg": "Tôi có xem bọn gà đánh nhau. Con nhỏ hơn luôn bị mổ lên đầu. \nChúng tôi cũng bị thế cho tới nay... nhưng liệu điều đó có kéo dài mãi? Rồi tương lai sẽ trả lời."
         },
         {
             "id": "smalltalk_10104_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "It makes a pungent smell, does it not? It strikes your senses so intensely, you might almost fall to the ground... Such a deep and fragrant scent, it is."
+            "dlg": "Hương thơm thật nồng nàn nhỉ? Nó đánh vào giác quan thật mạnh mẽ như khiến người ta choáng váng... Một mùi hương thật ngào ngạt và đậm sâu."
         },
         {
             "id": "smalltalk_10104_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "Pray, for what reason do you stare so intently into my face? I see... Were you enraptured for a moment?"
+            "dlg": "Xin mạn phép, điều gì khiến ngài nhìn tôi chăm chú như vậy? Hiểu rồi... Liệu trong một khắc có chút mê mẩn thoáng qua ngài?"
         },
         {
             "id": "neglect_10104_1",
             "desc": "Idle",
-            "dlg": "RIght, then. Go back to tending to your business if you insist.\nAfter all, nothing matters more to us than our goals."
+            "dlg": "Rồi rồi. Cứ quay lại công việc đi nếu ngài nhất định mong muốn.\nSau cùng thì, chẳng có gì quan trọng hơn mục tiêu của chúng ta."
         },
         {
             "id": "gacksung_10104_1",
             "desc": "Uptying",
-            "dlg": "Now... Behold. These flowers are in full glory.\nOnce all these flowers have been stained red... that shall be when 'I' bloom as well."
+            "dlg": "Giờ... Hãy chứng kiến. Những đóa hoa này đang nở rộ đầy vinh quang. \nMột khi những cánh hoa nhuốm màu đỏ thẫm... đó cũng sẽ là lúc ‘tôi’ bừng nở."
         },
         {
             "id": "formation_10104_1",
             "desc": "Deployment",
-            "dlg": "Press me not. I'll be on my way when I need to."
+            "dlg": "Không cần hối, tôi sẽ tới khi tôi cần."
         },
         {
             "id": "battleentry_10104_1",
             "desc": "Stage Entry",
-            "dlg": "...To the innocent times."
+            "dlg": "...Trở về ngày xưa thơ ngây."
         },
         {
             "id": "battle_select_10104_1",
             "desc": "Viewed in Battle",
-            "dlg": "Did you call me?"
+            "dlg": "Ngài gọi tôi sao?"
         },
         {
             "id": "battle_endcommand_10104_1",
             "desc": "Commencing Attack",
-            "dlg": "Let's make it bloom."
+            "dlg": "Cho hoa rộ nở."
         },
         {
             "id": "battle_enemy_break_10104_1",
             "desc": "Enemy Stagger",
-            "dlg": "So did they bloom."
+            "dlg": "Hoa đã bung cánh."
         },
         {
             "id": "battle_break_10104_1",
             "desc": "Staggered",
-            "dlg": "Ahh... Dear."
+            "dlg": "A... Trời ạ."
         },
         {
             "id": "battle_kill_10104_1",
             "desc": "Enemy Killed",
-            "dlg": "They will not be tormenting anyone any longer."
+            "dlg": "Chúng sẽ không thể dày vò ai nữa."
         },
         {
             "id": "battle_dead_10104_1",
             "desc": "Death",
-            "dlg": "When... the time comes... I would have to wilt..."
+            "dlg": "Khi... thời khắc tới... tôi cũng sẽ phải héo tàn..."
         },
         {
             "id": "choice_success_p_10104_2",
             "desc": "Check Passed",
-            "dlg": "Thank you for showing me such a moment."
+            "dlg": "Cảm ơn vì đã cho tôi thấy một khoảnh khắc như vậy."
         },
         {
             "id": "choice_fail_n_10104_1",
             "desc": "Check Failed",
-            "dlg": "...Let's cover this moment with dirt, shall we."
+            "dlg": "...Ta hãy vùi khoảnh khắc này vào đất đi thôi."
         },
         {
             "id": "battle_clear_10104_1",
             "desc": "Victory Cry",
-            "dlg": "The bud has risen. Effort has borne fruit."
+            "dlg": "Những nụ hoa đã bắt đầu nhú. Công sức ta đã đơm trái ngọt."
         },
         {
             "id": "battle_clear_ex_10104_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "So it has bloomed... I would like to capture this moment somewhere."
+            "dlg": "Vậy là hoa đã nở rộ... Tôi muốn chứng kiến khoảnh khắc này đâu đó."
         },
         {
             "id": "battle_defeat_10104_1",
             "desc": "Defeat Wail",
-            "dlg": "We were simply in fortune's favor until now... It was only the land we tilled that was fertile..."
+            "dlg": "Lâu nay chỉ là chúng ta có may mắn về phe... Mảnh ruộng ta đã cày rất màu mỡ..."
         }
     ]
 }

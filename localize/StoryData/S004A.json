@@ -2,68 +2,68 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "카론",
-      "content": "Road’s clear. But Verg, Mephi could’ve run them over just fine."
+      "content": "Đường dọn sạch sẽ rồi. Nhưng chú Verg ơi, Mephi có thể cán hết mấy người kia mà."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<…Huh?>"
+      "content": "<... Hả?>"
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<What did I fight for, then?>"
+      "content": "<Vậy thì nãy giờ tôi chiến đấu vì cái gì thế?>"
     },
     {
       "id": 3,
-      "content": "Sensing a rattling agitation in my gestures, Vergilius stepped in."
+      "content": "Cảm nhận được sự kích động trong điệu bộ của tôi, Vergilius chen vào."
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "Calm yourself, Dante."
+      "content": "Bình tĩnh lại, Dante."
     },
     {
       "id": 5,
       "model": "베르길리우스",
-      "content": "It’s not right to ask a toddler to run when it has yet to take its first steps."
+      "content": "Cậu không nên bắt một đứa trẻ sơ sinh chạy trong khi nó còn chưa biết đi."
     },
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "You’ll need every opportunity to try and walk before you’re made to run."
+      "content": "Cậu sẽ cần tận dụng mọi cơ hội để tập cách đi trước khi cậu biết chạy."
     },
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Furthermore… Dante."
+      "content": "Hơn nữa... Dante à."
     },
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "As the manager… it’s your job to “manage” your staff."
+      "content": "Với tư cách là người quản lý... nhiệm vụ của cậu là “quản lý” nhân viên của mình."
     },
     {
       "id": 9,
       "model": "베르길리우스",
-      "content": "And I… am the guide. I decide where we go and how we arrive there."
+      "content": "Còn ta... với tư cách là người dẫn đường. Định hướng các cô cậu đi đến đâu và bằng cách nào."
     },
     {
       "id": 10,
       "model": "베르길리우스",
-      "content": "Do you get it?"
+      "content": "Giờ cậu đã hiểu chưa?"
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Don’t argue with me."
+      "content": "Đừng có cố mà cãi lời ta."
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<…How am I supposed to not question a stranger who can’t even hear me?>"
+      "content": "<... Làm thế nào mà tôi có thể không chất vấn một kẻ lạ mặt thậm chí còn chẳng thể nghe thấy lời tôi nói chứ?>"
     },
     {
       "id": 13,
@@ -73,61 +73,61 @@
     {
       "id": 14,
       "model": "베르길리우스",
-      "content": "I heard ticking, so what did they say, Ms. Faust?"
+      "content": "Ta nghe tiếng tích tốc, vậy cậu ta trả lời thế nào, cô Faust?"
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "Nothing much."
+      "content": "Không có gì nhiều đâu."
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Some verbose agreement that was. A nod should be enough to let me know that you approve, Dante."
+      "content": "Đồng ý gì mà dài với cả dòng. Cậu chỉ cần gật đầu ra hiệu sự chấp thuận của mình là đủ rồi, Dante."
     },
     {
       "id": 17,
       "model": "카론",
-      "content": "Now, Mephi, off we go. Woohoo."
+      "content": "Vậy giờ thì, tới giờ khởi hành rồi Mephi. Dà hú."
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "How’re you feeling, Charon?"
+      "content": "Con sao rồi, Charon?"
     },
     {
       "id": 19,
       "model": "카론",
-      "content": "Extreme. Excitement. About to walk on air, reports Charon."
+      "content": "Charon báo cáo: Cực kỳ. Phấn khởi. Như đang đi trên mây vậy."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…Good."
+      "content": "...Tốt."
     },
     {
       "id": 21,
       "model": "단테",
-      "content": "<So, where are we going?>"
+      "content": "<Thế, chúng ta sẽ đi đâu?>"
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "Vergilius, they’d like to know the destination."
+      "content": "Vergilius, người ấy muốn biết điểm đến."
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "Sigh… I believe I told you that already, Dante."
+      "content": "Hàaa... Ta tin là ta đã nói cho cậu rồi, Dante à."
     },
     {
       "id": 24,
       "model": "단테",
-      "content": "<But just *where* are we going?>"
+      "content": "<Nhưng mà cụ thể chúng ta sẽ đi đến *nơi nào* cơ?>"
     },
     {
       "id": 25,
-      "content": "With his sigh, the bus shuddered and started to rumble forward."
+      "content": "Với tiếng thở dài của mình, chiếc xe buýt rung lên và bắt đầu tiến về phía trước."
     },
     {
       "id": 26

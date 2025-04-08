@@ -2,105 +2,105 @@
   "dataList": [
     {
       "id": 0,
-      "content": "Perhaps the time this ex-soldier spent off the battlefield was long enough to rust his prowess."
+      "content": "Có lẽ thời gian mà người cựu chiến binh này tham gia chiến trường cũng đủ lâu để bào mòn sức lực của chính bản thân anh ta."
     },
     {
       "id": 1,
-      "content": "The head manager who must have defeated countless enemies in his glory days was now nearing his own end."
+      "content": "Vị quản lý trưởng kia, người mà đã đánh bại hằng hà vô số kẻ địch vào thời huy hoàng giờ đây lại cận kề với cái chết hơn bao giờ hết."
     },
     {
       "id": 2,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "You were once well-respected, Gregor…"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Cậu từng là một người đáng tôn trọng, Gregor..."
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "…I never really asked for respect."
+      "content": "...Tôi chưa từng đòi hỏi được kính trọng."
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Don’t proceed any further… Only hell awaits you."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Đừng tiến sâu vào trong... Chỉ có địa ngục đang đợi cậu..."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "Sorry, but I don’t think I can follow your advice. I ought to be a go-getter if I don’t wanna be fired."
+      "content": "Xin lỗi nhé, nhưng tôi không thể làm theo lời ông được. Nếu không muốn bị sa thải thì tôi bắt buộc phải xuống dưới đó."
     },
     {
       "id": 6,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Have you abandoned your honor… for some pittance?"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Cậu vứt bỏ danh dự của bản thân... vì vài đồng tiền cỏn con sao?"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "I sold that away long ago, right with my medal. Landlord couldn’t wait for rent any longer."
+      "content": "Tôi bán danh dự đi từ lâu rồi, cùng với huân chương luôn. Bị hối trả tiền nhà quá mà."
     },
     {
       "id": 8,
-      "content": "A bitter smile appeared on the head manager’s face."
+      "content": "Một nụ cười chua xót hiện trên khuôn mặt vị quản lý trưởng."
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "You’re… no different from us…"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Cậu...không khác gì bọn ta cả..."
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "In the end, we’re…"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Suy cho cùng, chúng ta..."
     },
     {
       "id": 11,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Nothing… but disgusting pests…"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Không là gì... ngoài một lũ sâu bọ đáng kinh tởm..."
     },
     {
       "id": 12,
-      "content": "He took a few more shallow breaths, then ceased to move."
+      "content": "Anh ta chậm rãi hấp hối, rồi ngừng di chuyển."
     },
     {
       "id": 13,
       "model": "그레고르",
-      "content": "…Hey, mind if I borrow a cig?"
+      "content": "...Này, cho tôi xin một điếu thuốc được không?"
     },
     {
       "id": 14,
       "model": "료슈",
-      "content": "…Just this once."
+      "content": "...Chỉ lần này thôi đấy."
     },
     {
       "id": 15,
-      "content": "Gregor put the borrowed cigarette next to the one he already held in his mouth, then lit it and tossed it on the chest of the deceased commander."
+      "content": "Gregor đặt điếu thuốc vừa xin được lên cùng với với điếu thuốc vừa hút dở trên miệng, sau đó châm lửa và tung nó lên ngực vị tướng đã ngừng thở kia."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Sorry, didn’t wanna share mine with that thing."
+      "content": "Xin lỗi, nhưng mà tôi không muốn phải phí thuốc của mình cho thứ đó."
     },
     {
       "id": 17,
       "model": "료슈",
-      "content": "…Hmph."
+      "content": "...Hừm."
     },
     {
       "id": 18,
-      "content": "Ryōshū gave a snort. The smoke from Gregor’s cigarette lingered with the prevailing silence in the air for a short while."
+      "content": "Ryōshū khịt mũi. Làn khói từ điếu thuốc của Gregor nán lại với sự im lặng chiếm hữu bầu không khí trong chốc lát."
     }
   ]
 }

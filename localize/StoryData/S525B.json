@@ -1,911 +1,1502 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Abandoned Lobotomy Corp. Drilling Ship",
-            "model": "돈키호테",
-            "content": "......"
-        },
-        {
-            "id": 1,
-            "content": "Don Quixote had stopped dead in her tracks. She was looking blankly at a section of the wall."
-        },
-        {
-            "id": 2,
-            "model": "로쟈",
-            "content": "See anything interesting, kiddo?"
-        },
-        {
-            "id": 3,
-            "model": "돈키호테",
-            "content": "Here. In the wall."
-        },
-        {
-            "id": 4,
-            "model": "로쟈",
-            "content": "Huh...?"
-        },
-        {
-            "id": 5,
-            "model": "돈키호테",
-            "content": "There is... a person in this wall."
-        },
-        {
-            "id": 6,
-            "model": "로쟈",
-            "content": "... M-maybe it's a sculpture?"
-        },
-        {
-            "id": 7,
-            "model": "료슈",
-            "content": "... If there is anyone capable of sculpting something so true to life as this, I'll drop everything and plead the artist to take me in as their student."
-        },
-        {
-            "id": 8,
-            "model": "로쟈",
-            "content": "Ahh..."
-        },
-        {
-            "id": 9,
-            "model": "싱클레어",
-            "content": "Hurk... No... Are they the people Pilot was looking for...?"
-        },
-        {
-            "id": 10,
-            "model": "돈키호테",
-            "content": "Hark! Heed mine words!"
-        },
-        {
-            "id": 11,
-            "model": "로쟈",
-            "content": "Why the heck would ya talk to it?!"
-        },
-        {
-            "id": 12,
-            "teller": "Embedded... Agent",
-            "title": "???",
-            "content": "… … …."
-        },
-        {
-            "id": 13,
-            "model": "돈키호테",
-            "content": "Behold! This man is alive!"
-        },
-        {
-            "id": 14,
-            "model": "로쟈",
-            "content": "Oh, this is the worst. This is the absolute worst. It's making me real queasy..."
-        },
-        {
-            "id": 15,
-            "model": "파우스트",
-            "content": "... Hm."
-        },
-        {
-            "id": 16,
-            "model": "이상",
-            "content": "……."
-        },
-        {
-            "id": 17,
-            "model": "돈키호테",
-            "content": "Hark, mine friends! This man is alive! We must free him from this bond posthaste!"
-        },
-        {
-            "id": 18,
-            "model": "홍루",
-            "content": "Mm... Even if we wanted to, looks like it's a bit late for him."
-        },
-        {
-            "id": 19,
-            "model": "료슈",
-            "content": "Total disassembly is the only way I see it ever getting out of there. Heh."
-        },
-        {
-            "id": 20,
-            "model": "돈키호테",
-            "content": "Wha..."
-        },
-        {
-            "id": 21,
-            "model": "그레고르",
-            "content": "Well, by now we should be getting used to these failures..."
-        },
-        {
-            "id": 22,
-            "model": "뫼르소",
-            "content": "The body is firmly lodged in the walls. No ordinary human strength could separate his body from it."
-        },
-        {
-            "id": 23,
-            "model": "뫼르소",
-            "content": "With superhuman strength, you risk tearing the body to several parts."
-        },
-        {
-            "id": 24,
-            "model": "돈키호테",
-            "content": "Fie, this is an evil that... cannot go unanswered..."
-        },
-        {
-            "id": 25,
-            "model": "료슈",
-            "content": "Impressive... There's no sign of anyone forcing it into the walls."
-        },
-        {
-            "id": 26,
-            "model": "료슈",
-            "content": "This is quite a natural exhibition. As though this was how it was conceived from the very beginning."
-        },
-        {
-            "id": 27,
-            "model": "싱클레어",
-            "content": "We thought... I thought it would be different this time. We made a promise, gave our word..."
-        },
-        {
-            "id": 28,
-            "model": "이상",
-            "content": "……."
-        },
-        {
-            "id": 29,
-            "content": "Unlike the other Sinners, Ishmael didn't even spare a glance to those that were trapped within the walls."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "Manager, staring at them won't magically summon the Golden Bough to your palms. Say something so we can get a move on."
-        },
-        {
-            "id": 31,
-            "model": "단테2",
-            "content": "<I guess there's nothing we can do for them. Still...>"
-        },
-        {
-            "id": 32,
-            "model": "이스마엘",
-            "content": "And I've said repeatedly that I don't want to waste time."
-        },
-        {
-            "id": 33,
-            "model": "홍루",
-            "content": "We don't have to worry about the laws of the Lake here, so why don't we make this a more leisurely—"
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "Sure, look around all you want. But you won't find any survivors here."
-        },
-        {
-            "id": 35,
-            "model": "돈키호테",
-            "content": "A testament against thy claim is right here!"
-        },
-        {
-            "id": 36,
-            "model": "이스마엘",
-            "content": "Those things aren't really alive. They're only pretending to be."
-        },
-        {
-            "id": 37,
-            "model": "돈키호테",
-            "content": "Yet..."
-        },
-        {
-            "id": 38,
-            "model": "이스마엘",
-            "content": "I recognize these. They're ruin left behind by... the thing. The thing that leaves nothing unchanged in its wake."
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "It could swallow the world in the blink of an eye. But it also spews it back out just as quickly."
-        },
-        {
-            "id": 40,
-            "model": "이스마엘",
-            "content": "And what it spews out... never comes back right..."
-        },
-        {
-            "id": 41,
-            "model": "이스마엘",
-            "content": "Isn't it funny? If it's going to spew it out anyway, what's the point of devouring it in the first place?"
-        },
-        {
-            "id": 42,
-            "model": "이스마엘",
-            "content": "I don't understand... Why does it try to devour everything it comes across?"
-        },
-        {
-            "id": 43,
-            "model": "단테2",
-            "content": "<Are you... talking about that same Whale you mentioned before...?>"
-        },
-        {
-            "id": 44,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 45,
-            "model": "돈키호테",
-            "content": "In no tales of adventure have I heard one mention of such a terrifying Whale! Is it truly a Whale?!"
-        },
-        {
-            "id": 46,
-            "model": "이스마엘",
-            "content": "Then why didn't you listen when I told all of you that we weren't ready? If you did, at least we could've been in the right headspace for the Lake. But no."
-        },
-        {
-            "id": 47,
-            "model": "단테2",
-            "content": "<So you're saying that... that Whale you met devoured this building?>"
-        },
-        {
-            "id": 48,
-            "model": "이스마엘",
-            "content": "Yes."
-        },
-        {
-            "id": 49,
-            "model": "단테2",
-            "content": "<How can you be sure of that?>"
-        },
-        {
-            "id": 50,
-            "model": "이스마엘",
-            "content": "Because... this pale ruin is what that Whale leaves behind. Everything turns pallid... like this building."
-        },
-        {
-            "id": 51,
-            "model": "이스마엘",
-            "content": "…!"
-        },
-        {
-            "id": 52,
-            "teller": "LCCB Agent?",
-            "title": "???",
-            "content": "W... It... me... div..."
-        },
-        {
-            "id": 53,
-            "model": "오티스",
-            "content": "I have visual on a suspicious individual."
-        },
-        {
-            "id": 54,
-            "model": "싱클레어",
-            "content": "Maybe it's an Abnormality? We're in a Lobotomy Corp. Branch, after all..."
-        },
-        {
-            "id": 55,
-            "model": "로쟈",
-            "content": "Y-yeah. Let's just say that that's what it is and chop it down."
-        },
-        {
-            "id": 56,
-            "model": "이스마엘",
-            "content": "... Wait, wait a minute! That might be a survivor!"
-        },
-        {
-            "id": 57,
-            "model": "오티스",
-            "content": "Well, didn't you say there won't be any survivors left here? Which is it?"
-        },
-        {
-            "id": 58,
-            "model": "이스마엘",
-            "content": "I did. And that's why it's... so... incredible..."
-        },
-        {
-            "id": 59,
-            "model": "오티스",
-            "content": "Hey!"
-        },
-        {
-            "id": 60,
-            "model": "단테2",
-            "content": "<I-Ishmael! You shouldn't get so close to...!>"
-        },
-        {
-            "id": 61,
-            "content": "Ishmael strides toward the figure."
-        },
-        {
-            "id": 62,
-            "model": "싱클레어",
-            "content": "Maybe she's being mind-controlled by an Abnormality?!"
-        },
-        {
-            "id": 63,
-            "model": "뫼르소",
-            "content": "No such signs have been detected. There is nothing out of the ordinary in her eyes."
-        },
-        {
-            "id": 64,
-            "model": "LCCB직원백화1",
-            "teller": "LCCB Agent?",
-            "title": "???",
-            "content": "He... Iah."
-        },
-        {
-            "id": 65,
-            "content": "The closer Ishmael gets, the more of the figure's body is taken over by the pallid, off-white membrane. The voice grows increasingly incoherent."
-        },
-        {
-            "id": 66,
-            "model": "LCCB직원백화2",
-            "teller": "LCCB Agent?",
-            "title": "???",
-            "content": "…. … …… … ……. …"
-        },
-        {
-            "id": 67,
-            "model": "이스마엘",
-            "content": "That's impossible."
-        },
-        {
-            "id": 68,
-            "model": "이스마엘",
-            "content": "Just now... It was... talking. Like a human."
-        },
-        {
-            "id": 69,
-            "model": "단테2",
-            "content": "<... Ishmael...>"
-        },
-        {
-            "id": 70,
-            "model": "이스마엘",
-            "content": "You saw it too! Just now, it...!"
-        },
-        {
-            "id": 71,
-            "model": "단테2",
-            "content": "<Ishmael! You have to get away from—>"
-        },
-        {
-            "id": 72,
-            "model": "이스마엘",
-            "content": "No, no. This can't be real. I-if what I've known my whole life about this place is... About the Great Lake..."
-        },
-        {
-            "id": 73,
-            "model": "뫼르소",
-            "content": "She is experiencing heightened emotions."
-        },
-        {
-            "id": 74,
-            "model": "단테2",
-            "content": "<Damnit, Ishmael!!>"
-        },
-        {
-            "id": 75,
-            "content": "I could've asked one of the Sinners to stop her, but... Before I even realized what I was doing... I was running toward Ishmael."
-        },
-        {
-            "id": 76,
-            "content": "I think it was guilt that pushed me to act. Guilt that I may have played a part in driving Ishmael to this point."
-        },
-        {
-            "id": 77,
-            "model": "이상",
-            "content": "Dante! You mustn't—"
-        },
-        {
-            "id": 78,
-            "model": "이스마엘",
-            "content": "Oh."
-        },
-        {
-            "id": 79,
-            "content": "But guilt can sometimes help."
-        },
-        {
-            "id": 80,
-            "content": "The figure's face shifted again when I approached Ishmael."
-        },
-        {
-            "id": 81,
-            "content": "The white membrane covering their face begins to withdraw, as though an unseen force is peeling it off the skin."
-        },
-        {
-            "id": 82,
-            "content": "The mouth didn't come back... but the eyes that looked at us were unmistakably human-shaped."
-        },
-        {
-            "id": 83,
-            "content": "They were blinking. With effort."
-        },
-        {
-            "id": 84,
-            "model": "LCCB직원백화1",
-            "teller": "LCCB Agent?",
-            "title": "???",
-            "content": "… … ……. … ……"
-        },
-        {
-            "id": 85,
-            "model": "이스마엘",
-            "content": "The membrane... is gone...?"
-        },
-        {
-            "id": 86,
-            "model": "이스마엘",
-            "content": "This... When you approached it, this damn white membrane... it... faded."
-        },
-        {
-            "id": 87,
-            "model": "파우스트",
-            "content": "It appears that the Golden Bough is counteracting its effects."
-        },
-        {
-            "id": 88,
-            "content": "Faust approached us."
-        },
-        {
-            "id": 89,
-            "model": "파우스트",
-            "content": "Dante, it appears that the shard of the Golden Bough lodged into your clock is counteracting the infection of this... Pallidification effect to a degree."
-        },
-        {
-            "id": 90,
-            "content": "The figure, whose mouth was still wrapped under a pallid membrane, blinks wearily. As though they could understand what we were saying."
-        },
-        {
-            "id": 91,
-            "model": "이스마엘",
-            "content": "... Counter... acting?"
-        },
-        {
-            "id": 92,
-            "model": "이스마엘",
-            "content": "Wait, so with a Golden Bough..."
-        },
-        {
-            "id": 93,
-            "model": "이스마엘",
-            "content": "A Mermaid can... Ha ha. A Mermaid can turn back into a human? Is that what you're saying? Did I get that right? Faust?"
-        },
-        {
-            "id": 94,
-            "model": "파우스트",
-            "content": "... While that theory has not been properly cross-examined..."
-        },
-        {
-            "id": 95,
-            "model": "이스마엘",
-            "content": "Just! ... Just tell me if it's possible."
-        },
-        {
-            "id": 96,
-            "content": "Though it was curt... I've never heard such intense desperation in her voice before."
-        },
-        {
-            "id": 97,
-            "model": "파우스트",
-            "content": "... Yes. Although it may be limited to... Mermaids of the Whale that presumably devoured this structure."
-        },
-        {
-            "id": 98,
-            "model": "이스마엘",
-            "content": "Ha... Ha ha..."
-        },
-        {
-            "id": 99,
-            "model": "이스마엘",
-            "content": "Manager... Dante... Just what are you...?"
-        },
-        {
-            "id": 100,
-            "model": "이스마엘",
-            "content": "Realizing that there was something that I could've done... The memories of that day... the nightmare that I tried so hard to lock away..."
-        },
-        {
-            "id": 101,
-            "model": "이스마엘",
-            "content": "They're coming back right before my eyes."
-        },
-        {
-            "id": 102,
-            "model": "이스마엘",
-            "content": "I can see them, vomited from that Whale, sinking, floating in the briny sea... All of them..."
-        },
-        {
-            "id": 103,
-            "content": "Ishmael looked at me with a vacant expression."
-        },
-        {
-            "id": 104,
-            "model": "이스마엘",
-            "content": "You hear it too, don't you...?"
-        },
-        {
-            "id": 105,
-            "model": "이스마엘",
-            "content": "You hear how the waves roared that day..."
-        },
-        {
-            "id": 106,
-            "content": "Ishmael was right... Emotions of the past begin flooding, roaring before me."
-        },
-        {
-            "id": 107,
-            "content": "Ishmael..."
-        },
-        {
-            "id": 108,
-            "content": "She stands alone in a sea of tall, rolling waves."
-        },
-        {
-            "id": 109,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 110,
-            "content": "I nodded, carefully."
-        },
-        {
-            "id": 111,
-            "model": "이스마엘",
-            "content": "... Once, I was a seafarer."
-        },
-        {
-            "id": 112,
-            "model": "이스마엘",
-            "content": "A Fixer. A sailor."
-        },
-        {
-            "id": 113,
-            "model": "이스마엘",
-            "content": "I was something in that awkward middle ground... which we called Whalers."
-        },
-        {
-            "id": 114,
-            "model": "이스마엘",
-            "content": "Do you understand? No... Do you see them?"
-        },
-        {
-            "id": 115,
-            "model": "이스마엘",
-            "content": "Do you see the looks on the faces of those who dared to wager everything... and those who had nothing left to wager?"
-        },
-        {
-            "id": 116,
-            "model": "이스마엘",
-            "content": "Whaling ships carry people like them across the waves."
-        },
-        {
-            "id": 117,
-            "model": "단테2",
-            "content": "<So... You've seen it yourself? The Whale that devoured this place?>"
-        },
-        {
-            "id": 118,
-            "model": "이스마엘",
-            "content": "The Whales we've met so far... transform those they devour into something completely different. Into something utterly unrecognizable from who they were before by rearranging and replacing their whole body."
-        },
-        {
-            "id": 119,
-            "model": "이스마엘",
-            "content": "But that Whale... is different."
-        },
-        {
-            "id": 120,
-            "model": "이스마엘",
-            "content": "Those devoured by the Pallid Whale aren't transformed. They're still themselves... just wrapped in a pale membrane."
-        },
-        {
-            "id": 121,
-            "model": "이스마엘",
-            "content": "Hah. I guess it's a stretch to say that they're still themselves."
-        },
-        {
-            "id": 122,
-            "model": "이스마엘",
-            "content": "Sometimes, we'd sail our ship toward the Outskirts."
-        },
-        {
-            "id": 123,
-            "model": "이스마엘",
-            "content": "There, we'd see those ships. Those... false ships."
-        },
-        {
-            "id": 124,
-            "model": "이스마엘",
-            "content": "The ships that have turned completely pallid."
-        },
-        {
-            "id": 125,
-            "model": "이스마엘",
-            "content": "It's an old wisdom among Whalers that those ships must be avoided at all costs, even if it meant going all the way around the Lake they're in."
-        },
-        {
-            "id": 126,
-            "model": "이스마엘",
-            "content": "Because the sailors consumed by that Whale retain everything, their habits, their skills..."
-        },
-        {
-            "id": 127,
-            "model": "이스마엘",
-            "content": "Except they wander the Lake only to attack everything they come across."
-        },
-        {
-            "id": 128,
-            "model": "이스마엘",
-            "content": "The Captain of 'the Pequod', our ship..."
-        },
-        {
-            "id": 129,
-            "model": "이스마엘",
-            "content": "She had a mission. To hunt that Pallid Whale with her own two hands."
-        },
-        {
-            "id": 130,
-            "model": "이스마엘",
-            "content": "The entire time we sailed on the Pequod... she sermonized our ears off about what a worthy, honorable mission it was to hunt that Whale."
-        },
-        {
-            "id": 131,
-            "model": "이스마엘",
-            "content": "It was annoying, and we knew that she wasn't exactly all there, but..."
-        },
-        {
-            "id": 132,
-            "model": "이스마엘",
-            "content": "... No. Maybe she just knew how to sink the rest of us to the depths of her insanity."
-        },
-        {
-            "id": 133,
-            "model": "이스마엘",
-            "content": "Her mission soon became our very own. To hunt that Pallid Whale became our salvation. Our destiny."
-        },
-        {
-            "id": 134,
-            "model": "이스마엘",
-            "content": "That Captain drove everyone on that ship mad."
-        },
-        {
-            "id": 135,
-            "model": "이스마엘",
-            "content": "When the time finally came to face that Whale, the Whale from which all hatred, all evils of the world spout..."
-        },
-        {
-            "id": 136,
-            "model": "이스마엘",
-            "content": "We were promptly crushed. Devoured. Reduced to a scattered pile of driftwood."
-        },
-        {
-            "id": 137,
-            "model": "이스마엘",
-            "content": "When I came to, floating in the vast coldness of the sea, holding onto my dear life to a piece of driftwood... there was nothing left.\nNothing."
-        },
-        {
-            "id": 138,
-            "model": "이스마엘",
-            "content": "And when I realized what I was holding onto wasn't a piece of driftwood, but the..."
-        },
-        {
-            "id": 139,
-            "model": "이스마엘",
-            "content": "That's why I can never forgive her..."
-        },
-        {
-            "id": 140,
-            "content": "At a certain point, this stopped being a conversation."
-        },
-        {
-            "id": 141,
-            "content": "Ishmael's words grew increasingly aimless like a vortex of the sea, endlessly whirling in place..."
-        },
-        {
-            "id": 142,
-            "content": "Now, it was clear what Ishmael's mission was. Where the tip of her razor-sharp harpoon aimed."
-        },
-        {
-            "id": 143,
-            "content": "It was aimed at the Captain that drove them all to damnation—an overwhelming tide of hatred and obsession burned fiercely in her direction."
-        },
-        {
-            "id": 144,
-            "model": "이스마엘",
-            "content": "I'm going to kill her... with my own two hands..."
-        },
-        {
-            "id": 145,
-            "content": "There was no room for reason or rationality to convince her otherwise."
-        },
-        {
-            "id": 146,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 147,
-            "content": "I suppose bringing up that I saw from Ishmael's obsession..."
-        },
-        {
-            "id": 148,
-            "content": "... a glimpse of her old Captain... won't do anything to help right now."
-        },
-        {
-            "id": 149,
-            "model": "단테2",
-            "content": "<Ishmael... We don't even know if that Captain is still alive.>"
-        },
-        {
-            "id": 150,
-            "model": "이스마엘",
-            "content": "I was... desperately hanging onto my best mate's coffin. The coffin of someone with whom I'd shared everything. That's when I, through the tempest, saw the Captain."
-        },
-        {
-            "id": 151,
-            "model": "이스마엘",
-            "content": "I saw that fucker standing alone, facing down that Whale as it devoured her ship. Laughing mad."
-        },
-        {
-            "id": 152,
-            "model": "이스마엘",
-            "content": "Her fiercely loyal crew were floating on the surface of the Outskirts sea, powerless to do anything but wait until they too were devoured. But none of that mattered to her."
-        },
-        {
-            "id": 153,
-            "model": "이스마엘",
-            "content": "That bastard is alive."
-        },
-        {
-            "id": 154,
-            "model": "이스마엘",
-            "content": "She has to be alive still. She has to be."
-        },
-        {
-            "id": 155,
-            "model": "이스마엘",
-            "content": "So... I have to find her..."
-        },
-        {
-            "id": 156,
-            "model": "이스마엘",
-            "content": "We have to... not before... we kill the Captain..."
-        },
-        {
-            "id": 157,
-            "model": "단테2",
-            "content": "<Ishmael...>"
-        },
-        {
-            "id": 158,
-            "content": "I wanted to ask her which \"we\" she was referring to,"
-        },
-        {
-            "id": 159,
-            "content": "But..."
-        },
-        {
-            "id": 160,
-            "content": "I was starting to think that nothing I say would improve anything, if it didn't outright bring everything crashing down."
-        },
-        {
-            "id": 161,
-            "content": "... That was when an imperceptibly light breeze broke through the silence."
-        },
-        {
-            "id": 162,
-            "content": "A solitary butterfly."
-        },
-        {
-            "id": 163,
-            "content": "It moved with grace tinged with fragility, as though it did not fear the weight of this heavy silence."
-        },
-        {
-            "id": 164,
-            "content": "It took a moment to gently flutter onto a puddle."
-        },
-        {
-            "id": 165,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 166,
-            "model": "파우스트",
-            "content": "... That is a butterfly."
-        },
-        {
-            "id": 167,
-            "model": "료슈",
-            "content": "Hmph, you think any ordinary butterfly would wander into a place like this?"
-        },
-        {
-            "id": 168,
-            "content": "After a quick respite, the butterfly fluttered its wings and took off once again."
-        },
-        {
-            "id": 169,
-            "model": "싱클레어",
-            "content": "It's like... the butterfly is asking us to follow."
-        },
-        {
-            "id": 170,
-            "model": "히스클리프",
-            "content": "Is it an Abnormality? Finally. I was wondering when they'd show their ugly mugs."
-        },
-        {
-            "id": 171,
-            "model": "이상",
-            "content": "……."
-        },
-        {
-            "id": 172,
-            "model": "단테2",
-            "content": "<It might be a trap... But we're lost. It's the only thing with any sense of direction we have at the moment.>"
-        },
-        {
-            "id": 173,
-            "model": "이상",
-            "content": "I am in agreement."
-        },
-        {
-            "id": 174,
-            "model": "이상",
-            "content": "I am... also quite intrigued by the butterfly."
-        },
-        {
-            "id": 175,
-            "model": "LCCB직원백화1",
-            "teller": "LCCB Agent?",
-            "title": "???",
-            "content": "… … …. …"
-        },
-        {
-            "id": 176,
-            "model": "싱클레어",
-            "content": "What do you think they are... saying?"
-        },
-        {
-            "id": 177,
-            "model": "이상",
-            "content": "I have been lending them my ear, yet none has yet to reach me."
-        },
-        {
-            "id": 178,
-            "model": "파우스트",
-            "content": "They are speaking in a certain pattern, though I am unable to decipher it."
-        },
-        {
-            "id": 179,
-            "model": "파우스트",
-            "content": "It is a code, of sorts. A mix of sound frequencies and encryption patterns."
-        },
-        {
-            "id": 180,
-            "model": "돈키호테",
-            "content": "Ah..."
-        },
-        {
-            "id": 181,
-            "content": "Don Quixote was at the far back end of the line, looking back at the figure."
-        },
-        {
-            "id": 182,
-            "model": "돈키호테",
-            "content": "I suppose... it is true that without Manager Esquire, there could be no resolution to thy predicament..."
-        },
-        {
-            "id": 183,
-            "content": "When I walked away, the pallid membrane grew over the face again, burying it."
-        },
-        {
-            "id": 184,
-            "content": "And... it began to shamble."
-        },
-        {
-            "id": 185,
-            "content": "Is it as Ishmael said...? Will they now roam the Great Lake, attacking everyone and everything they come across?"
-        },
-        {
-            "id": 186,
-            "content": "Not only their physical senses but also their sense of self... forgotten deep under the pallid membrane."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tàu Khoan Bỏ Hoang Của T.Đoàn Lobotomy",
+                "model":"돈키호테",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote đã dừng bước. Cô ấy đang nhìn vào một mảng tường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"로쟈",
+                "content":"Có gì mới không bé?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ở đây. Trong bức tường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hửm...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Có... một người bên trong bức tường này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"로쟈",
+                "content":"... C-chắc là điêu khắc thôi nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"료슈",
+                "content":"... Nếu có kẻ nào có thể điêu khắc thứ gì đó sống động đến nhường này, thì ta sẽ vứt bỏ tất cả mọi thứ và cầu xin danh hoạ ấy nhận ta làm đệ tử.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"로쟈",
+                "content":"À...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ôi... Không thể nào, họ là những người... anh Pilot đang tìm sao...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Xin chào! Nhà ngươi có ổn không vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "content":"Tại sao lại nói chuyện với nó chứ?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"... ... ....",
+                "teller":"Embedded... Agent",
+                "title":"???"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nhìn đi! Người đàn ông này còn sống!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chà, hôm nay tệ thiệt. Đúng là ngày tệ nhất trên đời mà. Làm tôi buồn nôn muốn chết đây...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Hừm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이상",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hỡi các chiến hữu của ta! Người đàn ông này còn sống! Chúng ta phải giải thoát người này khỏi chỗ kết dính đây ngay tắp lự!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"홍루",
+                "content":"Hừm... Chỉ e là dẫu có muốn thì bây giờ cũng trễ mất rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"료슈",
+                "content":"Chặt xác hắn ra từng mảnh là cách duy nhất ta thấy có thể thoát được ra khỏi đó. Hề.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Cái...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chà, tầm này thì ta cũng nên quen dần với những thất bại như vậy rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Cơ thể người này bị lún sâu vào tường. Sức của một con người bình thường sẽ không đủ để kéo anh ta ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Còn nếu dùng sức mạnh phi thường, cơ thể anh ta sẽ có nguy cơ bị xé toạc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Không, tội ác này chẳng thể bị ngó lơ được...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"료슈",
+                "content":"Thật ấn tượng... Không có dấu hiệu bị ai đó ép vào bên trong tường cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"료슈",
+                "content":"Đây quả là một triển lãm khá tự nhiên. Như thể đây là cách nó vốn được hình thành ngay từ lúc ban đầu vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi đã tin rằng lần này nhất định ta sẽ cứu được họ... Chúng ta đã hứa rồi cơ mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이상",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"Không như những Tội Nhân khác, Ishmael không thèm để mắt đến những người bị mắc kẹt bên trong bức tường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thi đọ mắt với họ không hô biến Cành Vàng ra tay ngài cái roẹt đâu quản lý ơi. Muốn gì thì xin nói lẹ để còn đi tiếp ạ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"단테2",
+                "content":"<Tôi đoán chúng ta không thể làm được gì cho họ nữa. Nhưng mà...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi cũng đã nhắc đi nhắc lại rồi, không lãng phí thì giờ vô ích nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"홍루",
+                "content":"Ở đây chúng ta không cần lo lắng về quy luật của Hồ Lớn đâu mà, nên có gì thì mọi người cứ thong thả...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Được thôi, ngài cứ thoải mái tìm đi. Nhưng tôi dám chắc sẽ không còn ai sống sót đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Một minh chứng phản bác lại tuyên bố của cô đang hiện hữu ở ngay kia!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Những thứ đó không phải người sống. Chúng chỉ giả vờ thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Dẫu vậy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhìn cái là nhận ra ngay. Chúng là tàn dư... do thứ đó để lại. Cái thứ băng hoại vạn vật trong tầm với chừng nào nó còn tồn tại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nó có thể nuốt chửng cả thế giới trong chớp mắt. Nhưng cũng chỉ để nhổ toẹt ra ngay sau đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mà những gì một khi đã vào bụng nó rồi... khi trở ra sẽ mãi mãi không còn như trước nữa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nực cười quá phải không? Nếu đằng nào cũng sẽ nhả ra thì ngay từ đầu còn cố ăn vào làm quái gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thật không hiểu nổi... Tại sao nó cứ phải cố nhồi vào bụng mọi thứ trên đường đi chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"단테2",
+                "content":"<Cô đang... nói về con Cá Voi mà cô đã từng nhắc đến trước đây sao...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Xuyên suốt những câu chuyện phiêu lưu xưa kia, ta đây chưa từng nghe danh con Cá Voi nào đáng sợ như thế! Nó có thực là một con Cá Voi không vậy?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế sao không nghe tôi cảnh báo ngay từ đầu đi? Chí ít chúng ta đã có thể nắm được thế chủ động rồi nhưng không, chẳng ai thèm quan tâm hết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"단테2",
+                "content":"<Vậy cô đang nói rằng...con Cá Voi mà cô đã gặp đó nuốt chửng toà kiến trúc này ư?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"단테2",
+                "content":"<Làm sao cô có thể chắc chắn được?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Là nhờ... những thứ trắng ởn mà con Cá Voi đó để lại đây. Mọi thứ đều bị hóa trắng hết... như tòa kiến trúc này vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":null,
+                "content":"T... chính... tôi... đa...",
+                "teller":"Đặc Vụ LCCB?",
+                "title":"???"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"오티스",
+                "content":"Ta thấy có kẻ khả nghi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Có thể đó là một Dị Thể? Chúng ta đang ở trong một Chi Nhánh của Tập Đoàn Lobotomy mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"로쟈",
+                "content":"À-ừ. Mình cứ mặc kệ nó là gì rồi chặt nó ra xem coi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Khoan, chờ chút đã! Có thể người đó vẫn còn sống!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"오티스",
+                "content":"Chà, chẳng phải ngươi nói không còn ai sống sót ở đây à? Vậy là như nào?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đúng, đáng lý ra là không còn ai. Thế nên... thật... đáng kinh ngạc...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"오티스",
+                "content":"Này!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"단테2",
+                "content":"<I-Ishmael! Cô không nên đến quá gần với...!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":null,
+                "content":"Ishmael tiến thẳng về phía cá nhân đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Lẽ nào cô Ishmael bị một Dị Thể nào đó tẩy não rồi?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Không phát hiện ra bất cứ dấu hiệu nào. Trong mắt cô ta không có gì bất thường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"LCCB직원백화1",
+                "content":"Hơ... la.",
+                "teller":"Đặc Vụ LCCB?",
+                "title":"???"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Ishmael càng đến gần, thì cơ thể của cá nhân đó càng bị lớp màng trắng nhợt bao phủ nhiều hơn. Chất giọng cũng bắt đầu phát ra những câu chữ không mạch lạc nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"LCCB직원백화2",
+                "content":"…. … …… … ……. …",
+                "teller":"Đặc Vụ LCCB?",
+                "title":"???"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không thể thế được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mới vừa... vừa nãy.... Nó nói chuyện. Cứ như người vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"단테2",
+                "content":"<... Ishmael...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ngài cũng thấy mà! Nó vừa mới...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ishmael! Cô phải mau chóng tránh xa khỏi—>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không, không. Chắc chắn không thể nào. N-Nếu mọi thứ tôi đã luôn đinh ninh nắm rõ về Hồ Lớn... từ trước đến nay hóa ra là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Cô ấy đang lâm vào trạng thái kích động.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"단테2",
+                "content":"<Chết tiệt, Ishmael ơi!!!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":null,
+                "content":"Tôi đã có thể yêu cầu một trong số các Tội Nhân ngăn cô ấy lại, nhưng... Trước khi tôi kịp nhận ra bản thân mình đang làm gì... tôi đang lao thẳng đến chỗ Ishmael.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"Tôi nghĩ cảm giác tội lỗi đã thôi thúc tôi hành động. Tội lỗi rằng tôi đã đóng vai trò như là một phần đẩy Ishmael đến bước đường này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"이상",
+                "content":"Dante! Ngài không được-",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ơ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":null,
+                "content":"Nhưng tội lỗi đôi cũng khi giúp được chút gì đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "content":"Gương mặt của cá nhân đó thay đổi một lần nữa khi tôi tiến đến chỗ Ishmael.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Lớp màng trắng bao phủ mặt của người đó bắt đầu rút lại, như thể một thế lực vô hình đang xé bỏ nó ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":null,
+                "content":"Khuôn miệng không hề xuất hiện trở lại... nhưng đôi mắt nhìn về phía chúng tôi thì không thể nhầm lẫn được rằng nó là của một con người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":null,
+                "content":"Họ đang chớp mắt. Bằng mọi nỗ lực có thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"LCCB직원백화1",
+                "content":"… … ……. … ……",
+                "teller":"Đặc Vụ LCCB?",
+                "title":"???"
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Lớp màng... biến mất rồi...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nó... Khi ngài tới gần, cái lớp màng khốn kiếp đó... nó... tan biến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có vẻ như Cành Vàng đang đảo ngược hiệu ứng của chính nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":null,
+                "content":"Faust tiếp cận chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"파우스트",
+                "content":"Ngài Dante, có vẻ như một mảnh Cành Vàng cộng hưởng trong đồng hồ của ngài đang đảo ngược lại sự xâm lấn của thứ... Bạch Hoá ở một mức nào đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":null,
+                "content":"Cá nhân đó, với khuôn miệng vẫn bị quấn bởi lớp màng trắng ấy, chớp mắt một cách mệt mỏi. Như thể họ có thể hiểu những gì chúng tôi đang nói.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Đảo... ngược?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Từ từ, vậy là chừng nào còn có Cành Vàng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Một Người Cá có thể được... Ha ha. Một Người Cá có thể được chuyển hóa lại thành người ư? Ý của cô là như vậy sao? Tôi đoán đúng chứ? Faust?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Trong khi giả thuyết này vẫn chưa được kiểm chứng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cứ nói thẳng ra đi! ... Được hay không!?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":null,
+                "content":"Mặc dù khá cộc lốc... nhưng tôi chưa bao giờ nghe thấy sự tuyệt vọng đến cùng cực như thế trong lời nói của cô ấy trước đây cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Đúng vậy. Mặc dù có thể chỉ giới hạn ở... những Người Cá mà con Cá Voi đã nuốt chửng công trình này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ha... Ha ha...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Quản Lý... Dante... Thực sự, ngài là cái thứ quái gì...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhận ra rằng tôi đã có thể làm được gì đó... Kí ức về cái ngày định mệnh ấy... cơn ác mộng mà tôi đã tìm mọi cách để quên đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng đang ùa về như sóng lũ ngay trước mắt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Họ đang ở ngay kia, bị con Cá Voi đó nôn ra, chìm nghỉm, nổi lềnh phềnh trên mặt biển mặn chát... Tất cả bọn họ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":null,
+                "content":"Ishmael nhìn tôi với vẻ mặt vô hồn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ngài cũng nghe thấy mà, đúng không...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tiếng sóng dữ tợn thét gào ngày ấy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":null,
+                "content":"Ishmael nói đúng... Cảm xúc trong quá khứ bắt đầu dồn dập lên, gào thét trước mắt tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":null,
+                "content":"Ishmael...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy một mình đứng giữa những cơn sóng biển cao cuồn cuộn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":null,
+                "content":"Tôi gật đầu, một cách thật cẩn thận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Đã từng có một thời, tôi là một tay chài lưới.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Một Fixer. Một thủy thủ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi đã từng là một kẻ lưng chừng ở giữa, chẳng kém cũng chẳng sang đó... hay còn gọi là Thợ Săn Cá Voi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ngài có hiểu không? À không... Ngài có thấy không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ngài có thấy gương mặt của những kẻ sẵn sàng đặt cược tất cả... và cả những kẻ không còn gì để đem ra cược nữa không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tàu săn cá voi chở trên lưng nó những kẻ như thế đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"단테2",
+                "content":"<Vậy... Cô đã tận mắt nhìn thấy nó sao? Con Cá Voi nuốt chửng cả nơi này sao?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đám Cá Voi mà chúng ta đã gặp cho tới giờ... biến đổi mọi thứ mà chúng nuốt được thành một dạng hoàn toàn khác. Thành một thứ quái thai dị hợm không nhận ra nổi hình thù, bằng cách xáo trộn toàn bộ cơ thể nạn nhân.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhưng riêng con đó... thì khác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Những nạn nhân mà nó nuốt phải không bị biến đổi. Họ vẫn là chính họ... chỉ là bị bao bọc thêm một lớp màng trắng nhợt lên khắp người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Haa. Nói họ vẫn còn là chính họ thì miễn cưỡng quá đi mất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đôi khi chúng tôi lái tàu ra tận Vùng Ngoại Ô.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng tôi đã thấy mấy con tàu như vậy ở đó. Mấy thứ.. từng là tàu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Những con tàu bị hóa thành trắng bóc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Dân săn cá voi đủ khôn ngoan sẽ luôn biết rằng phải né những con tàu kiểu đó bằng mọi giá, kể cả có phải đi đường vòng xung quanh vùng Hồ họ đang đi qua chăng nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Bởi tất cả những thủy thủ bị tiêu hóa bởi con Cá Voi đó vẫn còn y nguyên thói quen, kĩ năng, mọi thứ,...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chỉ trừ việc họ cứ lang thang khắp Hồ Lớn và tấn công bất kỳ ai đụng độ phải.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thuyền Trưởng của \"tàu Pequod\" chúng tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Bà ta có một mục tiêu. Đó là săn Cá Voi Trắng bằng chính hai bàn tay bà ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Suốt chuyến hải trình trên tàu Pequod... người đàn bà đó nhồi sọ chúng tôi rằng việc săn con Cá Voi đó là cả một danh dự thế này, là vinh quang thế nọ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhức hết cả đầu, với cả mọi người biết thừa bà ta chẳng đúng hoàn toàn đâu nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Không. Có lẽ mụ thực sự đã biết cách nhấn chìm tất cả mọi người xuống vực sâu điên loạn cùng mụ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mục tiêu của riêng mụ ta sớm rồi sẽ là của chúng ta. Đi săn con Cá Voi Hóa Trắng đó chính là sự cứu rỗi. Là vận mệnh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":134,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ả Thuyền Trưởng đó đã khiến thuyền viên hóa điên từng chút một.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":135,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Để rồi tới lúc thực sự đối mặt con Cá Voi, hiện thân của mọi cái ác, mọi nỗi thù hận của thế gian...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":136,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thì chúng ta lập tức bị nghiền nát như lũ kiến. Bị nuốt chửng. Tan tành thành từng mảnh gỗ trôi dạt trên đại dương bao la.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":137,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chỉ khi nhận ra bản thân đang tuyệt vọng bấu víu vào một khúc gỗ, bấp bênh giữa từng cái tát lạnh cóng của sóng biển... thì xung quanh đã chẳng còn gì nữa cả. Không một ai hay một thứ gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":138,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Và đến khi nhìn lại thứ mình đang bám lên còn chẳng phải một khúc gỗ bình thường mà chính là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":139,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đó là lý do mà mình căm hận con mụ đó tới nhường vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":140,
+                "place":null,
+                "model":null,
+                "content":"Đến một lúc nhất định, chuyện này đã không còn chỉ là một cuộc trò chuyện nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":141,
+                "place":null,
+                "model":null,
+                "content":"Những câu từ của Ishmael ngày càng trở nên vô phương như cơn bão tố giữa biển, quay cuồng không ngừng nghỉ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":142,
+                "place":null,
+                "model":null,
+                "content":"Bây giờ thì, đã quá rõ nhiệm vụ của Ishmael là gì rồi. Nơi đầu lao móc nhọn hoắt và sắc bén của cô ấy đang chĩa vào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":143,
+                "place":null,
+                "model":null,
+                "content":"Nó nhắm thẳng vào người Thuyền Trưởng đã tiễn bọn họ xuống địa ngục này—một làn sóng hận thù và nỗi ám ảnh bùng cháy dữ dội về hướng của bà ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":144,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi sẽ giết mụ ta... bằng chính hai bàn tay này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":145,
+                "place":null,
+                "model":null,
+                "content":"Đã không còn chỗ cho lý trí hay lý tính để thuyết phục cô ấy nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":146,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":147,
+                "place":null,
+                "model":null,
+                "content":"Tôi cho rằng khơi gợi việc tôi đã nhìn thấy trong cơn ám ảnh của Ishmael...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":148,
+                "place":null,
+                "model":null,
+                "content":"... hình ảnh thoáng qua của Thuyền Trưởng cũ của cô ấy... sẽ không giúp ích được một chút nào ngay lúc này cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":149,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ishmael... Chúng ta thậm chí còn không biết liệu bà Thuyền Trưởng đó có còn sống không.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":150,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi đã... tuyệt vọng bám lấy chiếc quan tài của người bạn thân nhất. Chiếc quan tài vốn thuộc về người mà tôi sẵn lòng san sẻ mọi thứ. Đó là lúc tôi đã nhìn thấy Thuyền Trưởng, giữa cơn bão tố.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":151,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi đã thấy bà ta đứng đó nhìn xuống con tàu đang dần trôi thẳng vào họng Cá Voi. Với một tràng cười điên dại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":152,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thủy thủ đoàn kiên trung với bà ta bất lực chơi vơi giữa dòng nước xiết của Vùng Ngoại Ô, không thể làm gì khác ngoài chờ đợi một số phận tương tự với con tàu. Bà ta cũng chẳng mảy may quan tâm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":153,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mụ khốn đó vẫn còn sống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":154,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chắc chắn mụ phải còn sống. Chắc chắn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":155,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nên tôi phải... tìm bằng được con mụ đó...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":156,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng ta phải tiếp tục tìm... cho đến khi... giết được Thuyền Trưởng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":157,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ishmael...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":158,
+                "place":null,
+                "model":null,
+                "content":"Tôi muốn hỏi rằng cô ấy đang đề cập đến 'chúng ta' nào trong lời nói ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":159,
+                "place":null,
+                "model":null,
+                "content":"Nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":160,
+                "place":null,
+                "model":null,
+                "content":"Tôi đã bắt đầu nghĩ rằng dù có nói thì cũng sẽ không vớt vát được gì, nếu nó không khiến tất cả mọi thứ sụp đổ đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":161,
+                "place":null,
+                "model":null,
+                "content":"...Đó là khi một làn gió nhẹ vô tình phá vỡ đi sự im lặng này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":162,
+                "place":null,
+                "model":null,
+                "content":"Một con bướm đơn độc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":163,
+                "place":null,
+                "model":null,
+                "content":"Nó chuyển động thật kiều diễm nhuốm màu mong manh, như thể nó không hề sợ sức nặng của sự im lặng nặng trĩu này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":164,
+                "place":null,
+                "model":null,
+                "content":"Mất một lúc để nó có thể lặng lẽ hạ mình trên một vũng nước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":165,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":166,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Đó là một con bướm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":167,
+                "place":null,
+                "model":"료슈",
+                "content":"Hừm, ngươi nghĩ có con bướm nào bình thường sẽ lảng vảng vào một chỗ khỉ ho cò gáy như này sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":168,
+                "place":null,
+                "model":null,
+                "content":"Sau một khoảnh khắc nghỉ ngơi chóng vánh, con bướm đập cánh và bay đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":169,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Cứ như là... con bướm đang bảo chúng ta đi theo nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":170,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Dị thể à? Đợi mãi cuối cùng cũng ra mặt rồi à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":171,
+                "place":null,
+                "model":"이상",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":172,
+                "place":null,
+                "model":"단테2",
+                "content":"<Nó có thể là một cái bẫy... Nhưng chúng ta cũng lạc lối rồi. Nó là thứ duy nhất có thể dẫn lối chúng ta ngay lúc này thôi.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":173,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi đồng ý.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":174,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi cũng... rất hứng thú với con bướm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":175,
+                "place":null,
+                "model":"LCCB직원백화1",
+                "content":"… … …. …",
+                "teller":"Đặc Vụ LCCB?",
+                "title":"???"
+            },
+            {
+                "id":176,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Mọi người nghĩ họ đang... nói gì thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":177,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi đã cố gắng lắng nghe họ, nhưng chẳng điều gì đến với tôi cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":178,
+                "place":null,
+                "model":"파우스트",
+                "content":"Họ đang nói theo một khuôn mẫu nhất định, tuy nhiên tôi không thể giải mã nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":179,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nó là một loại mã, hay đại loại thế. Một hỗn hợp giữa tần số âm thanh và khuôn mẫu được mã hoá.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":180,
+                "place":null,
+                "model":"돈키호테",
+                "content":"À...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":181,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote ở tuốt đằng sau, nhìn lại về hình bóng đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":182,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Phải chăng... nếu không có sự hiện diện của Ngài Quản Lý, thì thực chẳng hề có giải pháp nào cho nghịch cảnh đây...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":183,
+                "place":null,
+                "model":null,
+                "content":"Khi tôi rời đi, lớp màng trắng nhớt ấy bao trùm lấy khuôn mặt đó một lần nữa, chôn vùi nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":184,
+                "place":null,
+                "model":null,
+                "content":"Và... nó bắt đầu rung lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":185,
+                "place":null,
+                "model":null,
+                "content":"Liệu có đúng như Ishmael đã nói chăng...? Rằng họ sẽ lang thang khắp Hồ Lớn, tất công mọi người và mọi thứ chúng bắt gặp sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":186,
+                "place":null,
+                "model":null,
+                "content":"Không chỉ thể chất mà cả ý thức của họ... cũng bị quên lãng sâu bên trong lớp màng trắng bệch đó.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

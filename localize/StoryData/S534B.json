@@ -1,610 +1,894 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Cabins of Mephistopheles",
-            "model": "베르길리우스",
-            "content": "This was unexpected of you, Faust."
-        },
-        {
-            "id": 1,
-            "model": "베르길리우스",
-            "content": "For you of all Sinners to be the one to bring aboard a 'big shot' to our humble abode."
-        },
-        {
-            "id": 2,
-            "model": "히스클리프",
-            "content": "Tsk, do you have any idea how many times that prick killed us? The least you could do is—"
-        },
-        {
-            "id": 3,
-            "model": "베르길리우스",
-            "content": "Yes... that reminds me. I'll have to re-open my personal consultation hours for a certain kleptomaniac among us."
-        },
-        {
-            "id": 4,
-            "model": "히스클리프",
-            "content": "…….."
-        },
-        {
-            "id": 5,
-            "content": "Vergilius' obvious discontent at the involvement of an outsider didn't seem to bother Faust."
-        },
-        {
-            "id": 6,
-            "model": "파우스트",
-            "content": "I considered him indispensable to the completion of this mission."
-        },
-        {
-            "id": 7,
-            "model": "베르길리우스",
-            "content": "And why is that?"
-        },
-        {
-            "id": 8,
-            "model": "쪽빛노인",
-            "teller": "???",
-            "title": "???",
-            "content": "Because I am the only one who can hunt that Pallid Whale."
-        },
-        {
-            "id": 9,
-            "model": "베르길리우스",
-            "content": "... Of course you are."
-        },
-        {
-            "id": 10,
-            "model": "베르길리우스",
-            "content": "The Indigo Elder."
-        },
-        {
-            "id": 11,
-            "model": "돈키호테",
-            "content": "Indigo? He is a Color?! Thou meanest to say that I at this very moment am sharing a space with not one but TWO COLOR FIXERS...?"
-        },
-        {
-            "id": 12,
-            "model": "베르길리우스",
-            "content": "I heard that you were wandering the Great Lake to hunt its Whales."
-        },
-        {
-            "id": 13,
-            "model": "베르길리우스",
-            "content": "And last I heard, you hunted one of the five Calamities, the All-impaling Marlin Whale."
-        },
-        {
-            "id": 14,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "... Hrm."
-        },
-        {
-            "id": 15,
-            "content": "The old man grunted. It was neither a confirmation nor a denial, but that was the way the old man was. Everyone understood that."
-        },
-        {
-            "id": 16,
-            "model": "파우스트",
-            "content": "All circumstantial evidence suggests that the Golden Bough was devoured by the Whale stranded at the Great Lake."
-        },
-        {
-            "id": 17,
-            "model": "파우스트",
-            "content": "Yes, that very same Pallid Whale of the Five Calamities, normally observed in the Outskirts."
-        },
-        {
-            "id": 18,
-            "model": "베르길리우스",
-            "content": "... Hm. Of course. That's how these things always tend to flow."
-        },
-        {
-            "id": 19,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "We've wasted much time, so I'll be blunt. I wish to hunt the Pallid Whale."
-        },
-        {
-            "id": 20,
-            "model": "베르길리우스",
-            "content": "Yes. And time's all we have."
-        },
-        {
-            "id": 21,
-            "model": "파우스트",
-            "content": "Moreover, we know where the Whale is headed."
-        },
-        {
-            "id": 22,
-            "model": "파우스트",
-            "content": "And I am certain that you have spent a significant amount of time observing and learning that Whale to hunt it."
-        },
-        {
-            "id": 23,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 24,
-            "model": "이스마엘",
-            "content": "I've got a plan."
-        },
-        {
-            "id": 25,
-            "model": "이스마엘",
-            "content": "And I'll do anything to make it work. Even if you want me there only as bait."
-        },
-        {
-            "id": 26,
-            "model": "이스마엘",
-            "content": "And this is how we'll do it."
-        },
-        {
-            "id": 27,
-            "model": "이스마엘",
-            "content": "… …… … ……."
-        },
-        {
-            "id": 28,
-            "content": "The crowd fell silent when Ishmael finished explaining her plan."
-        },
-        {
-            "id": 29,
-            "model": "히스클리프",
-            "content": "... You're mad. All that thrashing's finally sent you off the deep end."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "I'm just going there for my mission. And the Golden Bough just happens to be in the same direction."
-        },
-        {
-            "id": 31,
-            "model": "이스마엘",
-            "content": "I'll leave it up to you. Well, to the manager, since their decision matters the most."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘",
-            "content": "This Company, me... We're both just trying to find a way to reach our goals. That's all this is."
-        },
-        {
-            "id": 33,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "Besides, does anyone have a better idea?"
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "No. Can't agree to that. We're making a mistake by even entertaining that barmy idea."
-        },
-        {
-            "id": 36,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "……"
-        },
-        {
-            "id": 37,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I must ask you one last thing."
-        },
-        {
-            "id": 38,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Will you join us to fish, Red?"
-        },
-        {
-            "id": 39,
-            "content": "The Indigo Elder suddenly broke his silence with a question."
-        },
-        {
-            "id": 40,
-            "model": "베르길리우스",
-            "content": "……."
-        },
-        {
-            "id": 41,
-            "model": "베르길리우스",
-            "content": "I'm not experienced or particularly skilled at hunting marine life, but..."
-        },
-        {
-            "id": 42,
-            "model": "베르길리우스",
-            "content": "... I have other, more important concerns that prevent me from joining."
-        },
-        {
-            "id": 43,
-            "model": "베르길리우스",
-            "content": "So, no. Unless the worst comes to pass, I will not take part."
-        },
-        {
-            "id": 44,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 45,
-            "content": "The old man rose from his seat and walked off as though he was about to leave."
-        },
-        {
-            "id": 46,
-            "model": "오티스",
-            "content": "Wait... Wait a moment."
-        },
-        {
-            "id": 47,
-            "model": "오티스",
-            "content": "We don't need the guide. With a proper plan, we are more than capable of completing this mission."
-        },
-        {
-            "id": 48,
-            "model": "오티스",
-            "content": "To give up so quickly is—"
-        },
-        {
-            "id": 49,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I never said I am."
-        },
-        {
-            "id": 50,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "This loud, screaming ship won't do in our hunt for the Pallid Whale."
-        },
-        {
-            "id": 51,
-            "model": "단테2",
-            "content": "<Screaming? I didn't think Mephistopheles was that loud.>"
-        },
-        {
-            "id": 52,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "To hunt it, the boat must remain near and covert. A narrow and sturdy boat is what we need."
-        },
-        {
-            "id": 53,
-            "model": "그레고르",
-            "content": "... Huh? So all you needed to hear was that Vergilius wasn't going to help out? Why?"
-        },
-        {
-            "id": 54,
-            "model": "로쟈",
-            "content": "Right? This could go much smoother if Vergie was with us."
-        },
-        {
-            "id": 55,
-            "model": "파우스트",
-            "content": "We can prepare a boat that fits your specifications, should you request it."
-        },
-        {
-            "id": 56,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "That's all right. I'll sail on my own skiff."
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "That old dinghy? That Whale could split it in two with a light wag of its tail."
-        },
-        {
-            "id": 58,
-            "model": "오티스",
-            "content": "... No. That skiff... It may not look like much, but it is extremely durable."
-        },
-        {
-            "id": 59,
-            "model": "이상",
-            "content": "I see that X Corp.'s alloys have been used in its construction. That could not have been an easy ingredient to come by."
-        },
-        {
-            "id": 60,
-            "model": "돈키호테",
-            "content": "Ooh... another benefit of having a Color bestowed upon thee, then?! I have heard tale of—"
-        },
-        {
-            "id": 61,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Hrm..."
-        },
-        {
-            "id": 62,
-            "content": "Instead of entertaining that bombardment of questions..."
-        },
-        {
-            "id": 63,
-            "content": "... he approached me."
-        },
-        {
-            "id": 64,
-            "model": "단테2",
-            "content": "<…?>"
-        },
-        {
-            "id": 65,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I noticed it in the earlier scuffle. That clock seems to have been you and your crew's lifeline."
-        },
-        {
-            "id": 66,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I know not how it works, but I presume it is a Singularity of sorts."
-        },
-        {
-            "id": 67,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "It will not work against the Whale."
-        },
-        {
-            "id": 68,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "So start now. Get used to the idea that not everything can be brought back."
-        },
-        {
-            "id": 69,
-            "model": "단테2",
-            "content": "<Why...>"
-        },
-        {
-            "id": 70,
-            "model": "단테2",
-            "content": "<Why did you accept? Even after Vergilius opted out?>"
-        },
-        {
-            "id": 71,
-            "content": "It was a question I've been unable to let go."
-        },
-        {
-            "id": 72,
-            "model": "파우스트",
-            "content": "Dante asks why you accepted our request, even after Vergilius opted out of it."
-        },
-        {
-            "id": 73,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "You ask me the wrong question. I would have denied your request, had Red agreed to take part."
-        },
-        {
-            "id": 74,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Let's say that Red joined us. We would together battle the Whale in a long and arduous struggle. In the end, the Whale would surely go down—taking one of us with it."
-        },
-        {
-            "id": 75,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "That is why I would have opted out if Red chose to join us."
-        },
-        {
-            "id": 76,
-            "model": "단테2",
-            "content": "<…?>"
-        },
-        {
-            "id": 77,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Because the hunt would no longer be mine."
-        },
-        {
-            "id": 78,
-            "model": "돈키호테",
-            "content": "Whatever doth thou mean? Thy intentions elude me..."
-        },
-        {
-            "id": 79,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I mean that I would not be able to test the limits."
-        },
-        {
-            "id": 80,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 81,
-            "model": "이스마엘",
-            "content": "The limits? What are you even talking about?"
-        },
-        {
-            "id": 82,
-            "model": "이스마엘",
-            "content": "Look, to hunt that Whale, we have to prepare with everything we have. And..."
-        },
-        {
-            "id": 83,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits."
-        },
-        {
-            "id": 84,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Beyond it are stars that lie beyond the edge of understanding, beyond even the concept of fear itself."
-        },
-        {
-            "id": 85,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I am but a fisherman seeking to cross the borders and challenge that very understanding."
-        },
-        {
-            "id": 86,
-            "model": "오티스",
-            "content": "... Are you talking about what lies beyond the Outskirts? Its outreaches?"
-        },
-        {
-            "id": 87,
-            "model": "이스마엘",
-            "content": "That Whale... devours everything. It brings nothing but calamity... How could you.."
-        },
-        {
-            "id": 88,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Ah, so you have been a prey once, sailor."
-        },
-        {
-            "id": 89,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Countless Lakes here also devour. Summon calamities."
-        },
-        {
-            "id": 90,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "If you find yourself at a crossroads, if you find that your life is worth nothing in the face of what lies before you..."
-        },
-        {
-            "id": 91,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Recall this conversation."
-        },
-        {
-            "id": 92,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 93,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I'm no good with advice. Never was."
-        },
-        {
-            "id": 94,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Still, I thought I'd part a few words..."
-        },
-        {
-            "id": 95,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "... as a fellow seafarer. Suppose I felt a bit of kinship."
-        },
-        {
-            "id": 96,
-            "content": "As per the old man's directions, we rode on the skiff prepared on Mephistopheles."
-        },
-        {
-            "id": 97,
-            "place": "Aboard Mephistopheles's Deck",
-            "content": "I saw Ishmael, moments before boarding the skiff on Mephistopheles."
-        },
-        {
-            "id": 98,
-            "content": "This was Ishmael's plan, but... I had no way of knowing what she was really thinking."
-        },
-        {
-            "id": 99,
-            "content": "I had an inkling, yes. And so far, I've been going along with those vague guesses. Vague guesses that led to disasters."
-        },
-        {
-            "id": 100,
-            "content": "So I had to ask her myself."
-        },
-        {
-            "id": 101,
-            "model": "단테2",
-            "content": "<Ishmael. What do you really want?>"
-        },
-        {
-            "id": 102,
-            "model": "이스마엘",
-            "content": "What I really want..."
-        },
-        {
-            "id": 103,
-            "model": "단테2",
-            "content": "<…!>"
-        },
-        {
-            "id": 104,
-            "content": "I see another vision of Ishmael."
-        },
-        {
-            "id": 105,
-            "content": "She was hiding it well from the other Sinners and Vergilius. But I could clearly see what she really wanted. Her true desire."
-        },
-        {
-            "id": 106,
-            "model": "단테2",
-            "content": "<Ishmael, you...!>"
-        },
-        {
-            "id": 107,
-            "content": "She was lifting a body from the waters."
-        },
-        {
-            "id": 108,
-            "content": "A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh... Ishmael trembled with elation before what looked like the Captain's mutilated corpse."
-        },
-        {
-            "id": 109,
-            "model": "이스마엘",
-            "content": "What?"
-        },
-        {
-            "id": 110,
-            "model": "이스마엘",
-            "content": "Come on, let's get going."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cabin của Mephistopheles",
+                "model":"베르길리우스",
+                "content":"Cô làm ta bất ngờ đấy, Faust à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Trong số tất cả Tội Nhân, cô lại là người mang một kẻ 'tai to mặt lớn' tới mái nhà tranh này..",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Chậc, ông biết thằng chó đó giết tụi tôi bao nhiêu lần không? Ít nhất ông cũng phải-",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"À rồi... quên mất. Ta phải chuẩn bị mở thêm buổi tư vấn cá nhân cho thành phần cắp vặt nào đó nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……..",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Sự bất mãn trông thấy của Vergilius trước sự tham gia của một người ngoài cuộc dường như không hề khiến Faust bận tâm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi cho rằng cá nhân này là mấu chốt cho thành công của nhiệm vụ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Bởi vì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Bởi vì lão là người duy nhất có thể săn con Cá Voi Trắng đó.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... Tất nhiên chỉ có già làm được rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Lão Chàm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Màu Chàm? Ông ấy là một Color sao?! Ngài đang nói rằng ngay tại thời khắc này đây, ta đang sẻ chia chung một không gian với không chỉ một mà là tận HAI COLOR FIXER sao...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Nghe đâu già vẫn còn chu du ngoài Hồ Lớn để săn lũ cá voi ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Và tôi nhớ có tin, chính già săn được một trong năm Thảm Hoạ, Cá Voi Marlin Kẻ Đâm Mọi Thứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"... Hừm.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Ông lão càu nhàu. Không phải xác nhận hay từ chối, chỉ là ông ấy vẫn luôn như thế mà thôi. Mọi người hiểu điều đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mọi bằng chứng đều cho thấy Cành Vàng đã bị con Cá Voi mắc cạn ở Hồ Lớn nuốt chửng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đúng thế, là con Cá Voi Trắng đó, một trong Năm Thảm Hoạ, thường được thấy ở ngoài Outskirts.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... Hừm. Tất nhiên. Đó là cách mọi chuyện luôn xảy ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Chúng ta đã lãng phí thời gian rồi nên lão sẽ nói thẳng vào vấn đề. Lão muốn săn Cá Voi Trắng.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Tất nhiên rồi. Và những gì ta có chỉ còn là thời gian.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"파우스트",
+                "content":"Thêm nữa, ta biết nơi mà con Cá Voi đó hướng đến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"파우스트",
+                "content":"Và tôi dám chắc rằng ông đã dành rất nhiều thời gian để quan sát và học cách để săn con Cá Voi đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"…….",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi có một kế hoạch.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Và tôi sẽ thực thi nó bằng mọi giá. Kể cả ngài có dùng tôi làm mồi nhử đi chăng nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng ta sẽ làm như sau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"이스마엘",
+                "content":"… …… … …….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Tất cả mọi người đều im lặng khi Ishmael giải thích xong xuôi kế hoạch của cô ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Mày điên thật rồi. Ăn đập riết rồi mày tẩu hoả nhập ma thật rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi chỉ tiến vào đó vì nhiệm vụ của riêng mình. Tình cờ thay chiếc Cành Vàng cũng ở đó thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mà, có theo hay không thì tùy mấy người. Suy cho cùng thì quản lý mới là người có toàn quyền quyết định mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Công ty này, bản thân tôi... Chúng ta chỉ đơn thuần là đang tìm cách đạt được mục đích của riêng mình. Thế thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"…….",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không thì có ai nảy ra ý tưởng nào hay hơn à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Không. Đéo đồng tình. Thậm chí ngồi cân nhắc cái ý tưởng này thôi đã là sai rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"…….",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Lão còn một câu hỏi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Cậu sẽ tham gia chứ, Xích?",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"Lão Chàm bỗng cất tiếng hỏi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Tuy không có kinh nghiệm hay có kỹ năng săn sinh vật biển, nhưng tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... còn những chuyện khác quan trọng hơn ngăn tôi tham gia với lão.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Cho nên, câu trả lời là không. Trừ phi chuyện tồi tệ nhất xảy ra, thì tôi sẽ không chen vào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"…….",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "content":"Ông lão đứng dậy và bước đi như thể chuẩn bị rời đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"오티스",
+                "content":"Chờ... Chờ một chút.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"오티스",
+                "content":"Ta không cần chỉ dẫn. Với kế hoạch cụ thể hơn, ta dư sức hoàn thành nhiệm vụ này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"오티스",
+                "content":"Việc bỏ cuộc dễ dàng thế chỉ-",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Lão đây chưa bao giờ bảo sẽ bỏ cuộc cả.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Với con tàu ầm ĩ, ồn ào thế này thì khó bắt được Cá Voi Trắng.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"단테2",
+                "content":"<Gào thét ư? Tôi không nghĩ Mephistopheles ồn ào đến thế.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Một con thuyền nhỏ và vững chắc là đủ để có thể tiếp cận nó một cách thầm lặng.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"그레고르",
+                "content":"...Hả? Vậy là ông chỉ cần biết là Vergilius có định tham gia không thôi á? Tại sao vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"로쟈",
+                "content":"Đúng không? Mọi chuyện có thể đã ổn thỏa nếu ông Vergie đi cùng chúng ta rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng tôi có thể chuẩn bị một con thuyền phù hợp với yêu cầu của ông, liệu ông có cần một cái?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Không cần đâu. Con thuyền này của lão là đủ.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cái ghe cũ kia à? Con Cá Voi nó quật đuôi phát là gãy làm hai bây giờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"오티스",
+                "content":"... Không. Chiếc thuyền nhỏ đó... Trông không đẹp mắt nhưng lại cực kì bền bỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi thấy là hợp kim của Tập Đoàn X đã được sử dụng trong việc chế tác con thuyền. Đấy không phải là một nguyên liệu dễ kiếm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ồ... một lợi ích của việc được phong là Color của ngài sao?! Ta đây đã nghe chuyện về—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Hừm...",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Thay vì trả lời mớ câu hỏi dồn dập đó...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"... ông ấy tiếp cận tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"단테2",
+                "content":"<...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Có vẻ như các thủy thủ ở đây đều sống sót nhờ chiếc đồng hồ của ngươi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Lão không biết nguyên lý hoạt động như thế nào nhưng lão đoán đây là một dạng Dị Biến.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Chiếc đồng hồ này có lẽ sẽ không hoạt động với Cá Voi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Vậy nên từ bây giờ, đừng nghĩ mọi thứ có thể quay ngược trở lại.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"단테2",
+                "content":"<Tại sao...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"단테2",
+                "content":"<Tại sao ông lại chấp nhận? Ngay sau khi Vergilius đã từ chối?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":null,
+                "content":"Đó là câu hỏi tôi không thể nào ngừng suy nghĩ được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"파우스트",
+                "content":"Ngài Dante hỏi rằng tại sao ông chấp nhận yêu cầu của chúng tôi, ngay cả khi Vergilius đã từ chối nó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Ngươi hỏi sai rồi. Ngược lại, nếu Xích tham gia chung thì lão đây đã từ chối yêu cầu rồi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Nếu lão và Xích đi cùng nhau thì dù mất bao lâu cũng săn được Cá Voi. Một trong hai chúng ta sẽ xuống biển sâu chung với nó.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Đấy là lý do vì sao lão sẽ từ chối yêu cầu nếu Xích tham gia.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"단테2",
+                "content":"<...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Vì lúc đó chuyến săn sẽ không chỉ của riêng lão.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ý của ngài là sao? Ta không hiểu mục đích của ngài...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Nghĩa là lão sẽ không thể đẩy giới hạn của bản thân.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Giới hạn bản thân? Ông nói cái quái gì thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nghe này, để săn Cá Voi thì chúng ta phải chuẩn bị mọi tài nguyên mà ta có. Và còn...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Phía bên kia biên giới, vượt xa viền ngoài bản đồ là vùng mà con người trong the City sợ hãi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Đằng sau đấy là những vì sao mà chúng ta không thể hiểu được vì quá sợ hãi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Lão chỉ là một người đánh cá muốn vượt viền đấy và thách thức những vì sao kia.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"오티스",
+                "content":"... Có phải ngươi đang nói tới thứ nằm ngoài Outskirts? Nó không thể tới được?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Con Cá Voi đó... ăn nuốt mọi thứ. Nó... chẳng mang lại tích sự gì ngoài tai họa... Sao ông dám...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"À, vậy cô đã từng là một con mồi, thủy thủ.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Vô số Hồ đây nuốt chửng mọi thứ và gây đại họa ở mọi nơi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Nếu như cô lạc lối giữa ngã tư của cuộc đời, khi cô không còn luyến tiếc với cuộc đời này nữa...",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Thì hãy nhớ lại những gì lão nói.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Lão không quen đưa lời khuyên.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Tuy nhiên, lão muốn có đôi lời...",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"쪽빛노인",
+                "content":"Hãy xem nó như là sự đồng cảm của những thủy thủ chung thuyền.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":null,
+                "content":"Theo chỉ dẫn của ông lão, chúng tôi lái chiếc thuyền được chuẩn bị sẵn trên Mephistopheles.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":"Boong Thuyền Buýt Mephistopheles",
+                "model":null,
+                "content":"Tôi nhìn Ishmael, trước khi lên chiếc thuyền ở trên Mephistopheles.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":null,
+                "content":"Đây là kế hoạch của Ishmael, nhưng... tôi không hề biết được cô ấy thật sự đang nghĩ về điều gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":null,
+                "content":"Tôi có một linh cảm. Và cho đến lúc này đây, tôi đã làm theo những phỏng đoán mơ hồ đó. Những phỏng đoán mơ hồ dẫn đến thảm hoạ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":null,
+                "content":"Nên tôi buộc phải tự mình đi hỏi cô ấy cho ra lẽ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ishmael. Cô thật sự mong muốn điều gì?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Điều tôi thực sự mong muốn...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"단테2",
+                "content":"<...!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":null,
+                "content":"Tôi nhìn thấy một viễn cảnh khác của Ishmael.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy giấu nó rất kỹ khỏi các Tội Nhân khác và Vergilius. Nhưng tôi có thể nhìn thấy thứ cô ấy thật sự mong muốn một cách rõ ràng. Khát khao thật sự của cô ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ishmael, cô...!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy đang nhấc một cơ thể khỏi mặt nước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":null,
+                "content":"Một cơ thể đã bị xâu xé. Xương gãy vụn, những dải mô cơ, thớ thịt... Ishmael run rẩy trong vui sướng trước thứ giống như xác chết bị cắt xẻo của Thuyền Trưởng vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Gì thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nào, mau đi thôi.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

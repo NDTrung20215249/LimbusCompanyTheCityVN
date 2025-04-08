@@ -3,52 +3,52 @@
     {
       "id": "battle_awaken_21001_1",
       "desc": "E.G.O Activation",
-      "dlg": "If I can sever it by my own hands…"
+      "dlg": "Nếu tôi có thể chặt đứt nó với đôi bàn tay này…"
     },
     {
       "id": "battle_awaken_21002_1",
       "desc": "E.G.O Activation",
-      "dlg": "I’ll crush you…"
+      "dlg": "Ta sẽ nghiền nát ngươi…"
     },
     {
       "id": "battle_erosion_21002_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "You, too, will be a live offering."
+      "dlg": "Và ngươi, cũng sẽ trở thành một vật tế sống."
     },
     {
       "id": "battle_awaken_21003_1",
       "desc": "E.G.O Activation",
-      "dlg": "This is the u-ultimate…! Whoa, uaaahh…"
+      "dlg": "Hãy nếm thử tuyệt phẩm này…! Hớ, oaaaaa…"
     },
     {
       "id": "battle_erosion_21003_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Phew… All… churned up…"
+      "dlg": "Phù… Đã tiêu hoá… xong…"
     },
     {
       "id": "battle_awaken_21004_1",
       "desc": "E.G.O Activation",
-      "dlg": "I'll chop you down... along with the trees."
+      "dlg": "Ai đi rừng mà không chú ý cái chân là gayyyyyyyy."
     },
     {
       "id": "battle_erosion_21004_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Should've watched your steps in the woods...!"
+      "dlg": "Bước vào rừng... thì ngươi phải chú ý cái chân chứ!"
     },
     {
       "id": "battle_awaken_21005_1",
       "desc": "E.G.O Activation",
-      "dlg": "Your weakness is written... Right here!"
+      "dlg": "Điểm yếu của ngươi được viết... Ngay đây!"
     },
     {
       "id": "battle_erosion_21005_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Ruin, devastation, ruin...! @#()*!%&#@&(!*)"
+      "dlg": "Tàn phá, diệt vong, tàn phá...!  @#()*!%&#@&(!*)"
     },
     {
       "id": "battle_awaken_21006_1",
       "desc": "E.G.O Activation",
-      "dlg": "If only I could gather all the sorrow, all the tears together, and cry in their stead..."
+      "dlg": "Giá như tôi có thể ôm trọn mọi nỗi buồn cùng nước mắt, và khóc thay cho mọi người thì..."
     },
     {
       "id": "battle_erosion_21006_1",
@@ -58,12 +58,12 @@
     {
       "id": "battle_awaken_21007_1",
       "desc": "E.G.O Activation",
-      "dlg": "Why don't you try impaling yourself with it, then.\nFeel what it's like to have someone curse you..."
+      "dlg": "Tại sao ngươi không thử tự đâm chính mình bằng nó xem.\nĐể hiểu được cảm giác khi bị nguyền rủa bởi một ai đó..."
     },
     {
       "id": "battle_erosion_21007_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Now that you're torn, I'll sew you up! Heheh... Get over here!"
+      "dlg": "Giờ đây ngươi đã bị rách rồi, thì hãy để ta khâu ngươi lại! He he... Lại đây mau!"
     }
   ]
 }

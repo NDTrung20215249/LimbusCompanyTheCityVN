@@ -1,214 +1,294 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Eunbong’s Bar & Fryers - The Past",
-            "model": "단테",
-            "content": "<I’m having visions I’ve never seen before!>"
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<These must be his memories.>"
-        },
-        {
-            "id": 2,
-            "model": "파우스트",
-            "content": "They might be recollections that he partially had lost due to the shock."
-        },
-        {
-            "id": 3,
-            "model": "보살치킨",
-            "teller": "Bodhisattva Chicken’s Manager",
-            "title": "Bodhisattva Chicken",
-            "content": "Phew… I’ve finally found it. I thought he’d keep his top-secret recipe locked up tight and away, but he was using it as a trivet to eat ramen…!"
-        },
-        {
-            "id": 4,
-            "model": "은봉치킨",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "I—Is that my restaurant’s recipe? How did you get your hands on it?"
-        },
-        {
-            "id": 5,
-            "model": "보살치킨",
-            "teller": "Bodhisattva Chicken’s Manager",
-            "title": "Bodhisattva Chicken",
-            "content": "I sent a spy. Did you really think a part-timer willing to come in an hour early to help with prep on minimum wage would actually exist?"
-        },
-        {
-            "id": 6,
-            "model": "은봉치킨",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "But why— Why would you…!"
-        },
-        {
-            "id": 7,
-            "model": "보살치킨",
-            "teller": "Bodhisattva Chicken’s Manager",
-            "title": "Bodhisattva Chicken",
-            "content": "I had no choice! If I don’t meet the quota HQ demands from me, my restaurant will be shut down!"
-        },
-        {
-            "id": 8,
-            "model": "은봉치킨",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "The… The recipe’s still in my head! Two spoons of sugar! One and a half spoons of soy sauce, then add minced garlic…"
-        },
-        {
-            "id": 9,
-            "model": "보살치킨",
-            "teller": "Bodhisattva Chicken’s Manager",
-            "title": "Bodhisattva Chicken",
-            "content": "It’s no use—I’ll have it burnt in the concept incinerator. Any trace of the recipe will be gone, including the memories in your head."
-        },
-        {
-            "id": 10,
-            "model": "은봉치킨",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "NOOOOOOO!!"
-        },
-        {
-            "id": 11,
-            "model": "은봉치킨",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "Two spoons of sugar! One and a half spoons of soy sauce…"
-        },
-        {
-            "id": 12,
-            "model": "보살치킨",
-            "teller": "Bodhisattva Chicken’s Manager",
-            "title": "Bodhisattva Chicken",
-            "content": "Like I said… You should’ve shut down your restaurant when I warned you!"
-        },
-        {
-            "id": 13,
-            "model": "은봉치킨",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "Two… S-Sugar… No, was it sugar? I can’t remember a thing…"
-        },
-        {
-            "id": 14,
-            "place": "Eunbong’s Bar & Fryers",
-            "model": "료슈",
-            "content": "I never liked that pest. Knew he was rotten from all the N.S.O.P. signs plastered over his walls."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "If it was put in the concept incinerator… That recipe is as good as gone…"
-        },
-        {
-            "id": 16,
-            "model": "그레고르",
-            "content": "What’s a concept incinerator ab—"
-        },
-        {
-            "id": 17,
-            "model": "그레고르",
-            "content": "…Nevermind, Ishmael. Your face tells me I don’t wanna ask about it."
-        },
-        {
-            "id": 18,
-            "model": "이스마엘",
-            "content": "Pardon?"
-        },
-        {
-            "id": 19,
-            "model": "이상",
-            "content": "The concept incinerator…"
-        },
-        {
-            "id": 20,
-            "model": "이상",
-            "content": "It is a trusted method of permanently erasing a technology."
-        },
-        {
-            "id": 21,
-            "model": "이상",
-            "content": "For instance… It has the ability to make it as if Miss Faust never invented Mephistopheles."
-        },
-        {
-            "id": 22,
-            "model": "홍루",
-            "content": "Does it turn things back in time?"
-        },
-        {
-            "id": 23,
-            "model": "이상",
-            "content": "No, not quite. It simply… is oblivionized, as though the brain had never conceived it."
-        },
-        {
-            "id": 24,
-            "model": "이상",
-            "content": "Any documentation, photography, the tiniest bits and parts of its composition, and even Miss Faust’s own memories will be dimmed and obliterated."
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "The effectiveness and range of the incineration will depend on the price of the product."
-        },
-        {
-            "id": 26,
-            "model": "뒤틀린주인",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "It’s true…! I can’t remember if the marinade was based on pepper or soy sauce… How much sugar or salt I should put… Nothing’s left in my head! None of my customers can remember how it tasted!"
-        },
-        {
-            "id": 27,
-            "model": "뒤틀린주인",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "There’s no use in trying at this point…! It’s all useless…"
-        },
-        {
-            "id": 28,
-            "model": "오티스",
-            "content": "Hmph, you’re soft-hearted. Eunbong’s? You should do away with that tacky name and give your restaurant a better title."
-        },
-        {
-            "id": 29,
-            "model": "뒤틀린주인",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "Eunbong is my mother’s name…"
-        },
-        {
-            "id": 30,
-            "model": "싱클레어",
-            "content": "Oh…"
-        },
-        {
-            "id": 31,
-            "model": "료슈",
-            "content": "T.W.H."
-        },
-        {
-            "id": 32,
-            "model": "오티스",
-            "content": "…I suppose tacky can also mean a friendly warmth."
-        },
-        {
-            "id": 33,
-            "model": "오티스",
-            "content": "The problem is still your weak will!"
-        },
-        {
-            "id": 34,
-            "model": "단테",
-            "content": "<Just… Why are you so eager to start fights…>"
-        },
-        {
-            "id": 35,
-            "model": "오티스",
-            "content": "Come! I will fix that helpless attitude of yours!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Quán Rượu Eunbong - Quá Khứ",
+                "model":"단테",
+                "content":"<Tôi đang chứng kiến những viễn cảnh mà tôi chưa bao giờ thấy trước đây!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테",
+                "content":"<Đây hẳn là ký ức của ông ấy.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đó có thể là những hồi ức mà ông ấy đã mất đi do cú sốc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"보살치킨",
+                "content":"Phù… Cuối cùng mình cũng tìm ra. Cứ tưởng hắn sẽ cất công thức quý giá chặt chẽ lắm nhưng lại dùng làm kiềng ba chân để ăn mì…!",
+                "teller":"Chủ Quán Gà Bồ Tát",
+                "title":"Gà Bồ Tát"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"은봉치킨",
+                "content":"Đ-Đó có phải là công thức của cửa hàng ta? Tại sao ngươi lại có được nó?",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"보살치킨",
+                "content":"Ta đã cử gián điệp. Ngươi còn tin là sẽ còn có kiểu nhân viên bán thời chấp nhận sống chết với chút đồng lương ít ỏi sao?",
+                "teller":"Chủ Quán Gà Bồ Tát",
+                "title":"Gà Bồ Tát"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"은봉치킨",
+                "content":"Nhưng tại— Tại sao ngươi…!",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"보살치킨",
+                "content":"Ta không còn cách nào khác! Nếu ta không đạt chỉ tiêu do trụ sở đề ra, nhà hàng của ta sẽ bị phá sản!",
+                "teller":"Chủ Quán Gà Bồ Tát",
+                "title":"Gà Bồ Tát"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"은봉치킨",
+                "content":"Công… công thức vẫn nằm trong đầu ta! Hai muỗng đường! Một muỗng rưỡi nước tương, sau đó thêm tỏi băm nhuyễn…",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"보살치킨",
+                "content":"Vô dụng thôi— Ta sẽ đốt nó bằng lò đốt khái niệm. Bất kỳ vết tích nào của công thức cũng đều sẽ tiêu biến, kể cả khi nó là ký ức trong đầu ngươi.",
+                "teller":"Chủ Quán Gà Bồ Tát",
+                "title":"Gà Bồ Tát"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"은봉치킨",
+                "content":"KHÔNGGGGGG!!!!",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"은봉치킨",
+                "content":"Hai muỗng đường! Một muỗng rưỡi nước tương…",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"보살치킨",
+                "content":"Như ta đã nói… Ngươi nên dẹp tiệm khi ta cảnh báo ngươi!",
+                "teller":"Chủ Quán Gà Bồ Tát",
+                "title":"Gà Bồ Tát"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"은봉치킨",
+                "content":"Hai… Đ-đường… Không, nó phải đường không? Ta không nhớ thứ gì cả…",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":14,
+                "place":"Quán Rượu Eunbong",
+                "model":"료슈",
+                "content":"Ta chẳng ưa gì gã đó ngay từ đầu rồi. Nhất là khi đống biển C.H.T. dán đầy trên tường của hắn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nếu đã bị ném vào lò đốt khái niệm… Thì công thức đó xác định là đi đời rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"그레고르",
+                "content":"Lò đốt khái niệm là cái g—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"그레고르",
+                "content":"…Thôi kệ đi, Ishmael. Nhìn biểu cảm của cô là tôi biết không nên thắc mắc về nó rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Anh có ý gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이상",
+                "content":"Lò đốt khái niệm…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이상",
+                "content":"Đó là phương pháp đảm bảo để xóa bỏ một công nghệ vĩnh viễn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이상",
+                "content":"Ví dụ… Nó có thể xóa sổ việc cô Faust từng sáng chế ra Mephistopheles.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"홍루",
+                "content":"Vậy là nó biết quay ngược thời gian sao ạ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이상",
+                "content":"Không, không hẳn. Nó chỉ… biến mất, như rằng ý tưởng về nó chưa bao giờ tồn tại vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이상",
+                "content":"Bất cứ tài liệu, tranh ảnh, những thành phần nhỏ nhất cấu tranh nên nó, và thậm chí là ký ức của cô Faust cũng sẽ phai mờ và tan biến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "content":"Hiệu quả và khả năng đốt sẽ phụ thuộc vào giá thành của sản phẩm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"뒤틀린주인",
+                "content":"Là thật cả…! Ta không thể nhớ nước ướp được làm từ nước tương hay tiêu… Bao nhiêu đường hoặc muối nên bỏ vào… Không còn thứ gì còn đọng lại! Không khách hàng nào nhớ vị của nó như thế nào cả!",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"뒤틀린주인",
+                "content":"Bây giờ cố gắng cũng chả ích gì…! Tất cả đều vô dụng thôi…",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"오티스",
+                "content":"Hừm, ngươi đã mềm lòng. Nhà hàng Eunbong? Ngươi nên bỏ cái tên rườm rà đó và cho nhà hàng ngươi cái tên tử tế hơn đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"뒤틀린주인",
+                "content":"Eunbong là tên của mẹ ta…",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ồ…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"료슈",
+                "content":"H.A.D.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"오티스",
+                "content":"…Thôi thì ta đoán rườm rà cũng có thể hiểu là sự ấm áp.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"오티스",
+                "content":"Vấn đề vẫn là cái ý chí yếu đuối của ngươi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"단테",
+                "content":"<Cô… Tại sao cô lại muốn gây hấn đến thế vậy…>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"오티스",
+                "content":"Tới đây! Ta sẽ bắt ngươi phải sửa ngay cái điệu bộ rúm ró đấy!",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

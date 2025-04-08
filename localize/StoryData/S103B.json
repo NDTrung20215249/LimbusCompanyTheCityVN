@@ -2,16 +2,16 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Some Backstreets of District 4",
-      "content": "With a guttural noise, the side of the bus lurches and splits open."
+      "place": "Backstreets đâu đó ở Quận 4",
+      "content": "Với tiếng khàn ứ trong cổ họng, một phía của xe buýt lắc lư và vạch mở ra."
     },
     {
       "id": 1,
-      "content": "A number of human shapes littered the ground before its maw. Some were still conscious, while others weren’t exactly in one piece."
+      "content": "Một số thứ có hình thù con người bị quẳng xuống trước bụng xe. Một số còn nhận dạng rõ, một số thì lại chẳng còn nguyên vẹn."
     },
     {
       "id": 2,
-      "content": "Then, the bus began devouring those served to it in the most literal sense. Gluttonously, voraciously."
+      "content": "Tiếp đó, chiếc xe bắt đầu nuốt chửng toàn bộ mọi thứ được dâng lên bằng một cách háu ăn, phàm tục nhất."
     },
     {
       "id": 3,
@@ -20,56 +20,56 @@
     },
     {
       "id": 4,
-      "content": "Ryōshū watched it with a satisfied expression, seemingly determined to savor every moment…"
+      "content": "Ryōshū quan sát quá trình với biểu cảm mãn nguyện, dường như đang tận hưởng từng khoảng khắc một..."
     },
     {
       "id": 5,
-      "content": "While in the corner of my eye, Sinclair was clearly distressed."
+      "content": "Trong khi đó ở nơi khoé mắt tôi, Sinclair đang khủng hoảng thấy rõ."
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "They… all look like they’re out of their minds. Don’t you think so too?"
+      "content": "Bọn họ... dường như đều điên cả rồi. Ngài có nghĩ thế không?"
     },
     {
       "id": 7,
-      "content": "His reaction got me curious to know their stories."
+      "content": "Phản ứng của cậu ấy khiến tôi càng tò mò thêm về câu chuyện của từng thành viên."
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "<Just to make sure… None of you were forced to join, right?>"
+      "content": "<Chỉ để chắc chắn thôi... Không ai trong số tất cả mọi người là bị ép buộc phải gia nhập vào đây, đúng không?>"
     },
     {
       "id": 9,
-      "content": "Though what I was involved in before my head’s change is a mystery, I myself was practically forced to join the company judging from what I know at the moment."
+      "content": "Nghĩ kĩ lại thì việc tôi bị liên lụy vào chuyện này trước khi đầu của tôi thay đổi vẫn vẫn còn là dấu chấm hỏi, bản thân tôi thực tế cũng đã bị ép gia nhập vào công ty nếu đánh giá từ những điều tôi biết tới hiện tại."
     },
     {
       "id": 10,
-      "content": "And maybe they aren’t so different from me, or so I thought, when…"
+      "content": "Và có thể họ cũng không khác biệt gì với tôi, hoặc do tôi nghĩ vậy, khi mà..."
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "Ah…"
+      "content": "À…"
     },
     {
       "id": 12,
-      "content": "Sinclair’s head drooped in response, like I struck a nerve."
+      "content": "Sinclair đáp lại với một cái cúi đầu, như thể tôi đã đặc biệt tác động vào cậu ta."
     },
     {
       "id": 13,
       "model": "싱클레어",
-      "content": "That’s right. It was by my choice. I’ll get used to all this… Right?"
+      "content": "Phải rồi. Đó là do quyết định của tôi. Tôi sẽ quen dần với việc này... Phải không?"
     },
     {
       "id": 14,
-      "content": "He muttered as if he were talking to someone other than me."
+      "content": "Cậu ta lẩm bẩm như thể đang nói chuyện với một ai đó khác ngoài tôi ra."
     },
     {
       "id": 15,
       "model": "돈키호테",
-      "content": "‘Tis what I would have done even if the company recruited me not! Look, yon horde of evil approaches!"
+      "content": "Đây là điều mà ta chắc chắn sẽ làm cho dù công ty có chiêu mộ ta hay không! Nhìn kìa, bè tôi của ác ma đang tiếp cận!"
     }
   ]
 }

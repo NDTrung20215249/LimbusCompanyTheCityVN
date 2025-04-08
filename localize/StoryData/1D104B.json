@@ -2,89 +2,89 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
       "model": "파우스트",
-      "content": "Well, I suppose this place is as good as any."
+      "content": "Tôi cho rằng nơi này sẽ tốt hơn."
     },
     {
       "id": 1,
-      "content": "As I opened the door, Faust suddenly stood before me."
+      "content": "Khi cánh cửa mở ra, Faust ngay lập tức đứng trước mặt tôi."
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "Dante, close your eyes and look for the glimmer hiding in the dark."
+      "content": "Dante, hãy nhắm mắt lại và tìm tia sáng đang ẩn giấu trong màn đêm."
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "Find the faint star of truth, twinkling gently."
+      "content": "Tìm kiếm ánh sao mờ nhạt của sự thật, đang lấp lánh nhẹ nhàng."
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<The star… This one won’t hurt, right?>"
+      "content": "<Ngôi sao... Chuyện này sẽ không khiến tôi đau đâu, đúng chứ?>"
     },
     {
       "id": 5,
       "model": "파우스트",
-      "content": "It shouldn’t cause you any pain since you’re simply locating it."
+      "content": "Nó sẽ không khiến ngài đau vì ngài chỉ đang tìm nó."
     },
     {
       "id": 6,
-      "content": "Something about the way Faust put that bothered me, but I decided to trust her and block my sight."
+      "content": "Cái cách mà Faust nói khiến tôi nghi ngờ, nhưng rồi tôi vẫn chọn cách tin tưởng cô ấy và che khuất tầm nhìn bản thân."
     },
     {
       "id": 7,
       "model": "파우스트",
-      "content": "When you open your eyes, what seemed so far away…"
+      "content": "Khi ngài mở mắt ra, thứ ngỡ như xa xôi kia..."
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "Will shine right into your vision."
+      "content": "Sẽ sáng rực trước mắt ngài."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<That’s… beautiful.>"
+      "content": "<Nó... thật đẹp.>"
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<That light… Is it only visible to me?>"
+      "content": "<Ánh sáng đó... Chỉ có tôi mới có thể nhìn thấy thôi sao?>"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "Not quite. Through you, now all of us can see it."
+      "content": "Không hẳn. Thông qua ngài, giờ chúng tôi đều có thể thấy."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "Even though we’re inside a dungeon, we can now reap the benefits of your ability through the star."
+      "content": "Ngay cả khi chúng ta hiện đang ở trong hầm ngục, ta vẫn có thể tận dụng được khả năng của ngài thông qua Ánh Sao."
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "Can you please hurry up with the clock, then? I think I dislocated my shoulder."
+      "content": "Ngài có thể quay đồng hồ nhanh lên chút được không? Hình như tôi trật khớp vai rồi."
     },
     {
       "id": 14,
       "model": "유리",
       "teller": "Yuri",
       "title": "Grade 8 Fixer",
-      "content": "The clock? It wasn’t just for show?"
+      "content": "Đồng hồ? Không phải thứ đó chỉ để trưng thôi sao?"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "That’s not all it does. They have a really neat power. You should come and take a look, Yuri."
+      "content": "Nó không chỉ dùng để trưng thôi đâu. Ngài ấy có một năng lực hay ho phết đấy. Cô nên tới xem thử đi, Yuri."
     },
     {
       "id": 16,
       "model": "단테",
-      "content": "<…Will no one recognize the pain I endure?>"
+      "content": "<... Không có ai chịu để ý tôi phải chịu đau đớn như thế nào à?>"
     }
   ]
 }

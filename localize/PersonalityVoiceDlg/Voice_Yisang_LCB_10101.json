@@ -3,107 +3,107 @@
     {
       "id": "get_10101_1",
       "desc": "Identity Acquisition",
-      "dlg": "I am Yi Sang. My name is all I have to say."
+      "dlg": "Tôi là Yi Sang. Cái tên này là điều duy nhất tôi muốn nói."
     },
     {
       "id": "lobby_morning_10101_1",
       "desc": "Morning Greeting",
-      "dlg": "Are you sound this morning? Have you returned to the waking world without leaving any memories behind in the night?"
+      "dlg": "Sáng nay ngài khỏe chứ? Khi về từ cõi mộng, liệu ngài có bỏ rơi ký ức nào trong đêm đen không?"
     },
     {
       "id": "lobby_noon_10101_1",
       "desc": "Afternoon Greeting",
-      "dlg": "The sun stares into my face. I can feel its glare even when my eyes are closed."
+      "dlg": "Vầng thái dương đang soi rọi tôi. Dù qua đôi mắt nhắm nghiền, tôi vẫn thấy cái gườm gắt gỏng của nó."
     },
     {
       "id": "lobby_night_10101_1",
       "desc": "Evening Greeting",
-      "dlg": "I have been merely standing here as the day has faded."
+      "dlg": "Tôi chỉ ở đây đợi ngày dài trôi qua thôi."
     },
     {
       "id": "smalltalk_10101_1",
       "desc": "Chatter #1",
-      "dlg": "Have you discovered a way to return to the past, or a way to repel the future?"
+      "dlg": "Ngài đã phát minh ra cách để trở về quá khứ, hay cự tuyệt tương lai chưa?"
     },
     {
       "id": "smalltalk_10101_2",
       "desc": "Chatter #2",
-      "dlg": "One moment, I stopped my sprint, and confined myself to this bus."
+      "dlg": "Trong một khắc, tôi ngừng cuộc chạy, và giam cầm bản thân mình vào chiếc xe buýt này."
     },
     {
       "id": "smalltalk_10101_3",
       "desc": "Chatter #3",
-      "dlg": "Your clock doesn’t seem to ever stop. It never ceases to bring me back to home each time I perish."
+      "dlg": "Đồng hồ của ngài xem ra chẳng bao giờ ngưng nghỉ. Nó không bao giờ ngừng lôi kéo tôi trở lại mỗi khi tôi tuyệt mệnh."
     },
     {
       "id": "neglect_10101_1",
       "desc": "Idle",
-      "dlg": "Have you finally located your destination?"
+      "dlg": "Ngài cuối cùng cũng thấy đích đến của mình rồi sao?"
     },
     {
       "id": "formation_10101_1",
       "desc": "Deployment",
-      "dlg": "Lead the way."
+      "dlg": "Hãy dẫn lối."
     },
     {
       "id": "battleentry_10101_1",
       "desc": "Stage Entry",
-      "dlg": "Our destination has many a bump."
+      "dlg": "Điểm đến của ta thật nhiều chông gai."
     },
     {
       "id": "battle_select_10101_1",
       "desc": "Viewed in Battle",
-      "dlg": "Have you found what you seek?"
+      "dlg": "Ngài tìm thấy thứ mình muốn chưa?"
     },
     {
       "id": "battle_endcommand_10101_1",
       "desc": "Commencing Attack",
-      "dlg": "I shall remove the bumps."
+      "dlg": "Tôi sẽ loại bỏ những chướng ngại này."
     },
     {
       "id": "battle_enemy_break_10101_1",
       "desc": "Enemy Stagger",
-      "dlg": "Such is the fate of a frequent target."
+      "dlg": "Hắn thua cuộc rồi."
     },
     {
       "id": "battle_break_10101_1",
       "desc": "Staggered",
-      "dlg": "Hnf…"
+      "dlg": "Hự…"
     },
     {
       "id": "battle_kill_10101_1",
       "desc": "Enemy Killed",
-      "dlg": "The mirror of this bump has shattered."
+      "dlg": "Gương của chúng đã vỡ thành trăm mảnh."
     },
     {
       "id": "battle_allydead_10101_1",
       "desc": "Ally Death",
-      "dlg": "Your clock shall have to wind."
+      "dlg": "Đồng hồ ngài sẽ phải xoay rồi."
     },
     {
       "id": "choice_success_p_10101_1",
       "desc": "Check Passed",
-      "dlg": "I was met with mirth."
+      "dlg": "Tôi gặp được chút may mắn."
     },
     {
       "id": "choice_fail_n_10101_1",
       "desc": "Check Failed",
-      "dlg": "Man will despair."
+      "dlg": "Mọi người đang tuyệt vọng."
     },
     {
       "id": "battle_clear_10101_1",
       "desc": "Victory Cry",
-      "dlg": "I’m certain this shan’t last forever. I am therefore apathetic."
+      "dlg": "Tôi chắc rằng chiến thắng chẳng kéo dài mãi. Nên tôi chỉ thấy hờ hững."
     },
     {
       "id": "battle_clear_ex_10101_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "The fruits of arduous labor. I feel as though I’m withering."
+      "dlg": "Trái ngọt sau lao động khổ sai. Tôi thấy như mình đang héo tàn đi vậy."
     },
     {
       "id": "battle_defeat_10101_1",
       "desc": "Defeat Wail",
-      "dlg": "Thus, in a haze, it pales…"
+      "dlg": "Rồi, trong cơn mơ hồ, mọi thứ tan biến…"
     }
   ]
 }

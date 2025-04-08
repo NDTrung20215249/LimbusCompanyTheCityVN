@@ -1,49 +1,55 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "이스마엘",
-            "content": "Starbuck...! You... you were the only crew of the ship that could challenge Ahab."
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "So how could you..."
-        },
-        {
-            "id": 2,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "How foolish, Ishmael! How foolish!"
-        },
-        {
-            "id": 3,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Starbuck was the first to kneel. It matters not how many waves a first mate has weathered... A first mate's station is still beneath his Captain...!"
-        },
-        {
-            "id": 4,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Out of his own volition, He blinded his eyes in that complacent belief that regardless of whatever paths we took, the Captain would lead him to his destination!"
-        },
-        {
-            "id": 5,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "If you knew that he had sought a better path, then why have you not helped him see it?!"
-        },
-        {
-            "id": 6,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "So the fault lies with you again, Ishmael!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"이스마엘",
+                "content":"Starbuck...! Anh... anh là thuyền viên duy nhất dám đứng lên thách thức Ahab kia mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"이스마엘",
+                "content":"Sao anh lại có thể...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"에이해브",
+                "content":"Thật ngu ngốc, Ishmael! Ngu đến mức đần độn!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":3,
+                "model":"에이해브",
+                "content":"Starbuck là kẻ đầu tiên gục ngã. Không quan trọng bao nhiêu cơn sóng một thuyền phó đã chống chịu... Vị trí của một thuyền phó vẫn luôn nằm bên dưới Thuyền Trưởng của mình...!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":4,
+                "model":"에이해브",
+                "content":"Một cách tự nguyện, hắn tự đâm mù mắt mình trong cái niềm tin đầy tự mãn ấy rằng dù bất kể chúng ta có chọn đi con đường nào đi nữa, Thuyền Trưởng sẽ luôn dẫn hắn tới đích đến của hắn!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":5,
+                "model":"에이해브",
+                "content":"Nếu mày đã biết hắn đã có thể chọn một con đường tốt hơn, vậy thì tại sao mày không giúp hắn sáng mắt ra?!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":6,
+                "model":"에이해브",
+                "content":"Thế nên tất cả đều lại do cái bản mặt cá của mày, Ishmael!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            }
+        ]
+    }
+

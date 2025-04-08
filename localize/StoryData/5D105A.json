@@ -1,281 +1,438 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Pequod Town",
-            "model": "퀴케그가면",
-            "teller": "???",
-            "title": "Pequod Town",
-            "content": "All of you. Strong."
-        },
-        {
-            "id": 1,
-            "model": "퀴케그가면",
-            "teller": "???",
-            "title": "Pequod Town",
-            "content": "But no sailors."
-        },
-        {
-            "id": 2,
-            "model": "료슈",
-            "content": "Why, talk, so, slow? Irritating."
-        },
-        {
-            "id": 3,
-            "model": "료슈",
-            "content": "If you're not abbreviating with acronyms... then all you're doing is wasting time."
-        },
-        {
-            "id": 4,
-            "content": "Ishmael's mace nicked the harpooneer's mask. She came dangerously close to smashing their skull."
-        },
-        {
-            "id": 5,
-            "model": "이스마엘",
-            "content": "Should've gotten out of my way when I gave you the chance... Now I'm going to have to bash your face in."
-        },
-        {
-            "id": 6,
-            "model": "퀴케그",
-            "teller": "???",
-            "title": "Pequod Town",
-            "content": "But you. You are sailor."
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "... Right."
-        },
-        {
-            "id": 8,
-            "model": "이스마엘",
-            "content": "... We both are."
-        },
-        {
-            "id": 9,
-            "model": "이스마엘",
-            "content": "Queequeg!!!"
-        },
-        {
-            "id": 10,
-            "content": "In a sudden, explosive burst of energy, Ishmael bolted forth like a cannonball toward Queequeg before holding her in a tight embrace."
-        },
-        {
-            "id": 11,
-            "model": "로쟈",
-            "content": "Whew... wasn't she saying something about bashing her face in just moments ago?"
-        },
-        {
-            "id": 12,
-            "model": "이상",
-            "content": "This embrace is what one does when meeting an old fellow."
-        },
-        {
-            "id": 13,
-            "model": "이상",
-            "content": "You fear they may flutter away unless you hold them tightly so."
-        },
-        {
-            "id": 14,
-            "model": "퀴케그",
-            "teller": "Queequeg",
-            "title": "Pequod Town",
-            "content": "Your hair color. Can't forget."
-        },
-        {
-            "id": 15,
-            "model": "퀴케그",
-            "teller": "Queequeg",
-            "title": "Pequod Town",
-            "content": "Your name. I know."
-        },
-        {
-            "id": 16,
-            "model": "퀴케그",
-            "teller": "Queequeg",
-            "title": "Pequod Town",
-            "content": "But no attacking Captain."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "Why...? I'm just..."
-        },
-        {
-            "id": 18,
-            "model": "퀴케그",
-            "teller": "Queequeg",
-            "title": "Pequod Town",
-            "content": "You attack Captain again, I attack you."
-        },
-        {
-            "id": 19,
-            "model": "퀴케그",
-            "teller": "Queequeg",
-            "title": "Pequod Town",
-            "content": "Then kill or be killed. One of us."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 21,
-            "model": "에이해브",
-            "content": "Well now, whatever shall you do? Starbuck here has, out of the kindness of his heart, rescued you from jaws of death. Invited you to my village!"
-        },
-        {
-            "id": 22,
-            "model": "에이해브",
-            "content": "Yet you've elected to attack me, as if to spit on that very kindness."
-        },
-        {
-            "id": 23,
-            "model": "에이해브",
-            "content": "Were we sailing the Great Lake, I would have had all of you tied and thrown overboard to be crushed underneath the keel of our ship, your lungs bloating with the Lake's waters."
-        },
-        {
-            "id": 24,
-            "content": "There were at least 40 people living in Pequod Town. And that was a conservative estimate."
-        },
-        {
-            "id": 25,
-            "content": "From their vicious glares, I could tell that every single one of them was a fiercely loyal follower of Ahab."
-        },
-        {
-            "id": 26,
-            "content": "Here we were in this unfamiliar environment, trapped and lost..."
-        },
-        {
-            "id": 27,
-            "model": "단테",
-            "content": "<Things aren't looking so good...>"
-        },
-        {
-            "id": 28,
-            "content": "A single word from Ahab, and they'll all be upon us..."
-        },
-        {
-            "id": 29,
-            "content": "If we were to retreat... behind us is the river of stomach acid. Ahead of us is an unknown territory."
-        },
-        {
-            "id": 30,
-            "model": "에이해브",
-            "content": "Haha!! Lads, lasses! Cast fear from your hearts."
-        },
-        {
-            "id": 31,
-            "model": "에이해브",
-            "content": "It is lucky for you, that..."
-        },
-        {
-            "id": 32,
-            "model": "에이해브",
-            "content": "... I am nothing if not merciful. I shall forgive your transgressions thus far."
-        },
-        {
-            "id": 33,
-            "model": "에이해브",
-            "content": "I have questions I would like to ask you, and I am certain that you have a few for me as well."
-        },
-        {
-            "id": 34,
-            "model": "에이해브",
-            "content": "If you are willing to talk, then enter the Captain's quarters."
-        },
-        {
-            "id": 35,
-            "model": "에이해브",
-            "content": "In peace, mind."
-        },
-        {
-            "id": 36,
-            "content": "Ahab casually turned around and marched into one of the buildings. She carried herself with utmost confidence."
-        },
-        {
-            "id": 37,
-            "content": "It was almost like she knew that we would follow. That we had no choice but to follow."
-        },
-        {
-            "id": 38,
-            "model": "히스클리프",
-            "content": "... Oi, them blokes that were glarin' at us... They're gone, like nothing happened."
-        },
-        {
-            "id": 39,
-            "model": "퀴케그",
-            "content": "Captain forgave. Then everyone also forgives. I forgive, too."
-        },
-        {
-            "id": 40,
-            "model": "히스클리프",
-            "content": "Huh... To turn her back on someone who was charging at her with murderous intent just moments ago... It's..."
-        },
-        {
-            "id": 41,
-            "model": "오티스",
-            "content": "Yes. She is confident."
-        },
-        {
-            "id": 42,
-            "model": "오티스",
-            "content": "Confident that she's got the numerical advantage, even if we were to press the offensive. Confident that we know there's more for us to lose by attacking her than by going along with her."
-        },
-        {
-            "id": 43,
-            "model": "오티스",
-            "content": "With what just happened... she's made it clear as day that, at least while we're in here, she has absolute control of the situation."
-        },
-        {
-            "id": 44,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 45,
-            "model": "이스마엘",
-            "content": "Talk with her? In peace...? Nonsense..."
-        },
-        {
-            "id": 46,
-            "model": "단테",
-            "content": "<It's not like we have a way out of here...>"
-        },
-        {
-            "id": 47,
-            "content": "Ishmael's gaze followed Queequeg, who walked wordlessly behind the Captain."
-        },
-        {
-            "id": 48,
-            "model": "이스마엘",
-            "content": "Haah."
-        },
-        {
-            "id": 49,
-            "model": "이스마엘",
-            "content": "... Let's go."
-        },
-        {
-            "id": 50,
-            "model": "이스마엘",
-            "content": "Let's listen to what that bastard's got to say."
-        },
-        {
-            "id": 51,
-            "model": "이스마엘",
-            "content": "There's nowhere to run, after all."
-        },
-        {
-            "id": 52,
-            "model": "이스마엘",
-            "content": "For her, or for us."
-        },
-        {
-            "id": 53,
-            "model": "퀴케그",
-            "content": "……."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Làng Pequod",
+                "model":"퀴케그가면",
+                "teller":"???",
+                "title":"Làng Pequod",
+                "content":"Mạnh. Tất cả các cậu."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"퀴케그가면",
+                "teller":"???",
+                "title":"Làng Pequod",
+                "content":"Nhưng không. Thủy thủ."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Tại sao, lại nói, quá, chậm? Khó chịu vãi."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Nếu ngươi không nói tắt những từ viết tắt nổi... thì việc ngươi làm chỉ là tổ phí thời gian."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chuỳ của Ishmael làm nứt được mặt nạ của người sử dụng cây lao. Cô ấy gần như đã xém đập vỡ sợ của người đó."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tránh đường khi được cho cơ hội có phải tốt hơn không... Giờ thì chường cái mặt ấy ra đây và chuẩn bị tinh thần đi."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"퀴케그",
+                "teller":"???",
+                "title":"Làng Pequod",
+                "content":"Nhưng cô. Cô là thủy thủ."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Phải."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Cả hai ta đều là thủy thủ."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Queequeg!!!"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Đột nhiên, trong thoáng chốc, Ishmael bay thẳng về phía trước như một khẩu đại bác về hướng của Queequeg trước khi ôm người cô ấy thật chặt."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Phù... hình như phút trước là cô ấy bảo sẽ đập mặt vào mà đúng không nhỉ?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Cái ôm này là khi người ta gặp lại người bạn cũ."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Ta sợ rằng họ sẽ cất cánh rời đi nếu ta không giữ chặt họ."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"퀴케그",
+                "teller":"Queequeg",
+                "title":"Làng Pequod",
+                "content":"Màu tóc của cô. Chẳng thể quên."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"퀴케그",
+                "teller":"Queequeg",
+                "title":"Làng Pequod",
+                "content":"Tên của cô. Tôi biết."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"퀴케그",
+                "teller":"Queequeg",
+                "title":"Làng Pequod",
+                "content":"Nhưng không được tấn công Thuyền Trưởng."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tại sao chứ...? Tớ chỉ..."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"퀴케그",
+                "teller":"Queequeg",
+                "title":"Làng Pequod",
+                "content":"Cô tấn công Thuyền Trưởng. Tôi tấn công cô."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"퀴케그",
+                "teller":"Queequeg",
+                "title":"Làng Pequod",
+                "content":"Giết hoặc bị giết. Một trong hai chúng ta."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Giờ thì, các ngươi tính làm gì? Starbuck đây, vì lòng tốt của bản thân, đã cứu các ngươi khỏi lưỡi hái của tử thần, mời các ngươi đến làng của ta!"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng các ngươi lại quyết định tấn công ta, như thể phỉ nhổ vào chính cái lòng tốt đó..."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Nếu chúng ta đang đi biển ở Đại Hồ, thì ta sẽ bắt trói tất cả các ngươi lại rồi ném ra khỏi tàu để các ngươi bị sống tàu cán nát bét, để phổi các người tràn ngập nước biển của Hồ."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Có ít nhất 40 người cư trú trong Làng Pequod. Và đó chỉ mới là con số ước chừng thôi đấy."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Từ những ánh nhìn cay nghiệt của họ, tôi có thể biết rằng từng người một trong số bọn họ đều là một bề tôi trung thành mãnh liệt của Ahab."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta đang ở trong một môi trường xa lạ, bị mắc kẹt và lạc lối..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Mọi chuyện trông không được tốt cho lắm...>"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chỉ cần một lời của Ahab, thì tất cả bọn họ sẽ bổ nhào đến chúng tôi..."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nếu chúng tôi rút lui... sau lưng chúng tôi là dòng sông axit dạ dày. Trước mặt chúng tôi là vùng lãnh thổ không xác định được."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Haha!! Các chàng trai, cô gái! Vứt bỏ nỗi sợ khỏi con tim đi."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Rất may cho các ngươi, rằng..."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"...Ta sẽ chẳng là cái thá gì nếu không có lòng nhân từ. Ta sẽ tha thứ cho những vị phạm vừa rồi của các ngươi."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Ta có một vài câu muốn hỏi các ngươi, và ta chắc rằng các ngươi cũng vậy."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Nếu các ngươi muốn nói chuyện, thì hãy tiến vào văn phòng Thuyền Trưởng."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"에이해브",
+                "teller":null,
+                "title":null,
+                "content":"Trong yên bình, nhớ cho kỹ."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ahab ung dung xoay người lại và tiến vào một trong số những dãy nhà. Bà ta khoác lên phong thái tràn đầy tự tin."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cứ như thể bà ta biết chúng tôi sẽ nghe theo vậy. Rằng chúng tôi không còn sự lựa chọn nào khác ngoài đi theo."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... Ê, mấy cái đứa hồi nãy nhìn chằm chằm bọn tao... đi hết rồi, như không có gì xảy ra."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"퀴케그",
+                "teller":null,
+                "title":null,
+                "content":"Thuyền Trưởng tha thứ. Nên mọi người tha thứ. Tôi cũng vậy."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Hờ... Mới đòi giết nhau xong mà giờ ả quay lưng đi nhởn nhơ thế à... Vậy là..."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Phải. Ả ta rất tự tin."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Tự tin rằng ả có lợi thế số lượng, kể cả khi ta có tấn công ả. Tự tin rằng ta tự biết chúng ta sẽ thua nhiều hơn thắng khi tấn công ả hơn khi đi theo ả."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Với những gì đã xảy ra... ả ta muốn cho ta biết, khi ta còn ở đây, ả hoàn toàn là kẻ kiểm soát mọi tình huống."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<......>"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Trò chuyện với mụ? Bằng thiện chí...? Vớ vẩn..."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Không như chúng ta còn cách nào khác để rời khỏi đây...>"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ánh mắt của Ishmael dõi theo Queequeg, người không nói một lời nào đang bước đi đằng sau Thuyền Trưởng."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Hừ."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Đi thôi."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Đi nghe xem con khọm già ấy định nói cái gì nào."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Dù sao cũng chả còn nơi nào để chạy."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta bị kẹt ở đây thì con mụ ấy cũng vậy."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"퀴케그",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            }
+        ]
+    }
+

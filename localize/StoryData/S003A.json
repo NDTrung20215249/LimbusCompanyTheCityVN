@@ -2,114 +2,114 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "이스마엘",
-      "content": "Give me a second."
+      "content": "Gượm chút đã."
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "What is it?"
+      "content": "Có việc gì sao?"
     },
     {
       "id": 2,
       "model": "이스마엘",
-      "content": "I joined this company because I was told that I’ll be able to advance my career without slowing down."
+      "content": "Tôi gia nhập công ty này vì được nghe tuyển dụng rằng tôi sẽ được thăng tiến công việc một cách thuận lợi."
     },
     {
       "id": 3,
       "model": "이스마엘",
-      "content": "But right now… it’s nothing but meaningless violence, like we’re Rats or something."
+      "content": "Nhưng lúc này tôi chỉ thấy toàn là bạo lực vô nghĩa... bộ chúng ta là đám Chuột hay gì?"
     },
     {
       "id": 4,
       "model": "돈키호테",
-      "content": "I object to its meaninglessness! Those were evildoers who attacked us!"
+      "content": "Ta phản đối việc nói nó vô nghĩa! Những kẻ gian ác kia đã tấn công chúng ta trước!"
     },
     {
       "id": 5,
       "model": "이스마엘",
-      "content": "Please, just—be quiet for a moment."
+      "content": "Làm ơn im lặng tí đi, xin đấy."
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "…Anyway, if all we’re gonna do is beat up people under orders like hired thugs, I’ll have to consider changing jobs sooner or later."
+      "content": "...Đằng nào thì nếu việc của chúng ta chỉ có đi ẩu đả lung tung theo chỉ đạo như lũ bặm trợn đánh thuê, tôi phải đành cân nhắc chuyện nhảy việc sau vậy."
     },
     {
       "id": 7,
       "model": "파우스트",
-      "content": "Haven’t you read your contract?"
+      "content": "Cô đã đọc hợp đồng của mình chưa?"
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "…Resignation is not permitted."
+      "content": "...Việc nghỉ việc là không khả thi."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "…Do you think the contract has any sway if it’s based on lies?"
+      "content": "...Chứ cô nghĩ xem hợp đồng lừa lọc thì dễ gì có sơ hở?"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Of course it does."
+      "content": "Tất nhiên."
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "There were no lies on it."
+      "content": "Là không có gì dối trá trên đó cả."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "…Huh?"
+      "content": "...Hở?"
     },
     {
       "id": 13,
       "model": "파우스트",
-      "content": "You didn’t think Mephistopheles was built to be a mere means of transportation, did you?"
+      "content": "Cô không nghĩ rằng Mephistopheles được lắp ráp chỉ vì việc vận chuyển thôi, phải không?"
     },
     {
       "id": 14,
       "model": "카론",
-      "content": "Mephi is always hungry. It keeps crying."
+      "content": "Mephi lúc nào cũng đói cả. Nó cứ kêu hoài."
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<The bus gets hungry?>"
+      "content": "<Xe buýt biết đói bụng á?>"
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "When the engine “ingests” fuel, it yields a byproduct…"
+      "content": "Khi động cơ 'nạp' nhiên liệu, nó cho ra phụ phẩm..."
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Using that, you can grow more powerful."
+      "content": "Dùng thứ đó, cô có thể trở nên mạnh hơn."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "I’m sure Yi Sang knows this well. When all possibilities are drawn from the mirror…"
+      "content": "Tôi chắc rằng Yi Sang biết rõ việc này. Khi mọi năng lực đều đến từ trong gương..."
     },
     {
       "id": 19,
       "model": "이상",
-      "content": "There is no limit to one’s growth."
+      "content": "Năng lực của một cá nhân là không giới hạn."
     },
     {
       "id": 20,
       "model": "이상",
-      "content": "Is the self in the mirror my reflection, or another being entirely?"
+      "content": "Liệu bản thể trong gương đó là phản chiếu của tôi, hay là một cá thể hoàn toàn khác biệt?"
     },
     {
       "id": 21,
       "model": "단테",
-      "content": "<Possibilities…? You draw what, exactly?>"
+      "content": "<Những khả năng có thể xảy ra...? Mấy người mang cái gì ra cơ?>"
     }
   ]
 }

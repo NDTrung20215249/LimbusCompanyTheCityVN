@@ -1,543 +1,750 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Abandoned Lobotomy Corp. Drilling Ship",
-            "model": "LCCB직원백화1",
-            "teller": "LCCB Agent?",
-            "title": "Mermaid",
-            "content": "… … …. …"
-        },
-        {
-            "id": 1,
-            "model": "싱클레어",
-            "content": "The Mermaids... I think there's less of them now..."
-        },
-        {
-            "id": 2,
-            "content": "Someone stood there, waiting for us. He must have arrived here much earlier than we have."
-        },
-        {
-            "id": 3,
-            "model": "림",
-            "teller": "???",
-            "title": "???",
-            "content": "Quite the arduous journey you've endured."
-        },
-        {
-            "id": 4,
-            "content": "The butterfly we were following folded its wings and settled gently..."
-        },
-        {
-            "id": 5,
-            "content": "... into his sloshing head."
-        },
-        {
-            "id": 6,
-            "content": "The figure's voice was clear and precise unlike that of the Mermaids."
-        },
-        {
-            "id": 7,
-            "content": "And not like an Abnormality."
-        },
-        {
-            "id": 8,
-            "model": "오티스",
-            "content": "…!"
-        },
-        {
-            "id": 9,
-            "model": "싱클레어",
-            "content": "I didn't expect to find any unharmed survivors..."
-        },
-        {
-            "id": 10,
-            "model": "단테2",
-            "content": "<No, wait. Is he... a Distortion...?>"
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "Oi, clockhead. You friends with that bowlhead?"
-        },
-        {
-            "id": 12,
-            "model": "그레고르",
-            "content": "A Distortion? Like... that Bingbong's Bar & Fryers owner from earlier?"
-        },
-        {
-            "id": 13,
-            "model": "림",
-            "teller": "???",
-            "title": "???",
-            "content": "I see that many of you are rather flummoxed by my appearance."
-        },
-        {
-            "id": 14,
-            "model": "림",
-            "teller": "???",
-            "title": "???",
-            "content": "This is but one of the many ways one may choose to understand the journey that is the world."
-        },
-        {
-            "id": 15,
-            "model": "림",
-            "teller": "???",
-            "title": "???",
-            "content": "So, please do not be so wary."
-        },
-        {
-            "id": 16,
-            "model": "돈키호테",
-            "content": "Oooh... Thy head... splishes and sploshes so."
-        },
-        {
-            "id": 17,
-            "model": "림",
-            "teller": "???",
-            "title": "???",
-            "content": "Under the night sky where the stars have gone out, I await the coming dawn."
-        },
-        {
-            "id": 18,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Call me Rim."
-        },
-        {
-            "id": 19,
-            "model": "이상",
-            "content": "……."
-        },
-        {
-            "id": 20,
-            "model": "오티스",
-            "content": "We're not here to introduce ourselves. So why don't we cut to the chase."
-        },
-        {
-            "id": 21,
-            "model": "오티스",
-            "content": "Explain yourself. You must have some reason for coming to this mad Mermaid-infested place."
-        },
-        {
-            "id": 22,
-            "model": "오티스",
-            "content": "And we didn't see any other boat than our own by the docks of this structure. So explain how you—"
-        },
-        {
-            "id": 23,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I have no need of ships should I wish to cross the ocean."
-        },
-        {
-            "id": 24,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I am simply here to have a look at all of you."
-        },
-        {
-            "id": 25,
-            "model": "홍루",
-            "content": "Wow~ We're really starting to put our name out there!"
-        },
-        {
-            "id": 26,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "You are those who follow the bough's golden ray."
-        },
-        {
-            "id": 27,
-            "model": "로쟈",
-            "content": "Okay, if you're here to see us, knowing what we're looking for..."
-        },
-        {
-            "id": 28,
-            "model": "로쟈",
-            "content": "... No way, are you about to tell us where the Golden Bough is?"
-        },
-        {
-            "id": 29,
-            "model": "그레고르",
-            "content": "Huh, isn't it obvious that he's here to stop us from—"
-        },
-        {
-            "id": 30,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Yes, indeed I am."
-        },
-        {
-            "id": 31,
-            "model": "그레고르",
-            "content": "... Man, I'm really off my game."
-        },
-        {
-            "id": 32,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "To seek the bough within this structure is to understand the futility of time."
-        },
-        {
-            "id": 33,
-            "content": "I still can't sense the Golden Bough this deep into the Branch; there was truth to what he said. The Bough was no longer here."
-        },
-        {
-            "id": 34,
-            "model": "돈키호테",
-            "content": "Then to where must we journey?!"
-        },
-        {
-            "id": 35,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I am certain that you are already aware that there are parties other than your own that are interested in the Boughs."
-        },
-        {
-            "id": 36,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "You have surrendered one to them after toiling for it, in fact."
-        },
-        {
-            "id": 37,
-            "model": "그레고르",
-            "content": "Tsk..."
-        },
-        {
-            "id": 38,
-            "model": "싱클레어",
-            "content": "H-how do you know that?"
-        },
-        {
-            "id": 39,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "The Whale, once fated to roam the Outskirts for all eternity... is now drawn by that same incandescent, gilded calling."
-        },
-        {
-            "id": 40,
-            "model": "오티스",
-            "content": "You're saying that the Whale came from the Outskirts all the way to the Great Lake of U Corp. for the Golden Bough?"
-        },
-        {
-            "id": 41,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Quite. And swallowed this structure whole with that delicate Bough."
-        },
-        {
-            "id": 42,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "The Abnormalities here have also left with that magnificent yet fragile Whale, drawn by that selfsame calling."
-        },
-        {
-            "id": 43,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "What you seek is no longer to be found here."
-        },
-        {
-            "id": 44,
-            "model": "홍루",
-            "content": "Excuse me, why are you sharing this information with us?"
-        },
-        {
-            "id": 45,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "It matters not who lays claim upon the Golden Bough, or to what end they use it. It is no more than a mere fluttering of wings."
-        },
-        {
-            "id": 46,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "We simply seek to steer the echoes of that fluttering toward a better direction."
-        },
-        {
-            "id": 47,
-            "model": "료슈",
-            "content": "We? Who are you talking about?"
-        },
-        {
-            "id": 48,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "We are those who watch all, those who bide the time. Those who will be sovereigns of a Star."
-        },
-        {
-            "id": 49,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Yet, we are those who cannot all embody the same Star."
-        },
-        {
-            "id": 50,
-            "content": "A red mark briefly flashed on his head."
-        },
-        {
-            "id": 51,
-            "content": "I've seen that mark before."
-        },
-        {
-            "id": 52,
-            "model": "싱클레어",
-            "content": "…!"
-        },
-        {
-            "id": 53,
-            "model": "이상",
-            "content": "Those who watch, you say..."
-        },
-        {
-            "id": 54,
-            "content": "Yi Sang shot a silent gaze in Rim's direction."
-        },
-        {
-            "id": 55,
-            "model": "이상",
-            "content": "Rim."
-        },
-        {
-            "id": 56,
-            "model": "이상",
-            "content": "Have you also watched the breaking of the League, then? Have you any idea of what fate has befallen our old fellows?"
-        },
-        {
-            "id": 57,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I do."
-        },
-        {
-            "id": 58,
-            "model": "이상",
-            "content": "Yet you have done... naught but observe?"
-        },
-        {
-            "id": 59,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 60,
-            "model": "홍루",
-            "content": "Is he one of your old... friends, Yi Sang?"
-        },
-        {
-            "id": 61,
-            "model": "이상",
-            "content": "A part of my life that you have witnessed afore."
-        },
-        {
-            "id": 62,
-            "model": "이상",
-            "content": "One of those who left when the League of Nine scattered into the winds."
-        },
-        {
-            "id": 63,
-            "model": "이상",
-            "content": "You have last uttered to me that you would journey to the ocean, yet..."
-        },
-        {
-            "id": 64,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Indeed, I was one of them. Once."
-        },
-        {
-            "id": 65,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I shall answer your question, Yi Sang. You ask whether I have done naught but watch?"
-        },
-        {
-            "id": 66,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "That is a question born of vacuity."
-        },
-        {
-            "id": 67,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "For you, the League is dead. Yet, for some, its death was but a beginning."
-        },
-        {
-            "id": 68,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I am certain that you are... well aware of that yourself."
-        },
-        {
-            "id": 69,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "When does something end? When does something begin? The distinction is arbitrary and signifies naught."
-        },
-        {
-            "id": 70,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "The shattering of the League was a beginning for Brother Young-ji as well."
-        },
-        {
-            "id": 71,
-            "model": "이상",
-            "content": "……."
-        },
-        {
-            "id": 72,
-            "model": "이상",
-            "content": "I see... You have cast it aside long, long time ago."
-        },
-        {
-            "id": 73,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "My eyes were simply opened to the stem of this world."
-        },
-        {
-            "id": 74,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "The singular, yet all-important stem."
-        },
-        {
-            "id": 75,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Once your eyes are opened to it... everything else becomes..."
-        },
-        {
-            "id": 76,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "... As hollow as the fall of wilted petals."
-        },
-        {
-            "id": 77,
-            "model": "이스마엘",
-            "content": "I just need to know one thing."
-        },
-        {
-            "id": 78,
-            "model": "이스마엘",
-            "content": "If... the Golden Bough is inside the Whale that devoured this place... And if the Golden Boughs can really..."
-        },
-        {
-            "id": 79,
-            "model": "이스마엘",
-            "content": "Somehow... counteract the Pallidification effects..."
-        },
-        {
-            "id": 80,
-            "content": "Ishmael's breathing was quick and light. She couldn't finish her sentence."
-        },
-        {
-            "id": 81,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "It can be said that, indeed, what you believe, what you wish to be true, is correct."
-        },
-        {
-            "id": 82,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 83,
-            "model": "이스마엘",
-            "content": "I see."
-        },
-        {
-            "id": 84,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I hope I have been a useful signpost to you all."
-        },
-        {
-            "id": 85,
-            "model": "이상",
-            "content": "To where do you seek to depart again?"
-        },
-        {
-            "id": 86,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "I was once a mere pond who only knew where the sea, the rivers, and the City were."
-        },
-        {
-            "id": 87,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Now I seek to reach there with my wings."
-        },
-        {
-            "id": 88,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "That is all."
-        },
-        {
-            "id": 89,
-            "model": "오티스",
-            "content": "Stop right there... You know too much! Think we're about to let you leave, just like that?"
-        },
-        {
-            "id": 90,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Pity. Try as you might to hold me now, I flow betwixt your fingers."
-        },
-        {
-            "id": 91,
-            "model": "림",
-            "teller": "Rim",
-            "title": "???",
-            "content": "Well, then."
-        },
-        {
-            "id": 92,
-            "content": "With that, he stepped into the puddle... and disappeared into its depths."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tàu Khoan Bỏ Hoang Của T.Đoàn Lobotomy",
+                "model":"LCCB직원백화1",
+                "teller":"Đặc Vụ LCCB?",
+                "title":"Người Cá",
+                "content":"… … …. …"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Đám Người Cá ấy... càng ngày càng ít đi thì phải..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một ai đó đang đứng, đợi chờ chúng tôi. Anh ta chắc chắn đã đến đây sớm hơn chúng tôi rất nhiều."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"림",
+                "teller":"???",
+                "title":"???",
+                "content":"Quả là một chặng hành trình đầy gian khổ."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Con bướm chúng tôi đi theo gập cánh lại và nhè nhẹ an vị..."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... vào bên trong đầu của anh ta."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Giọng nói của người ấy rất trong veo và chuẩn xác không giống như những Người Cá kia."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và không giống như Dị Thể."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"...!"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Tôi không ngờ sẽ tìm thấy người còn sống sót an toàn..."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Không, đợi đã. Anh ta có phải... là một Biến Dị không...?>"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Ê, đầu đồng hồ. Đầu bát kia bạn mày hả?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Biến Dị á? Giống với... cái ông chủ Quán Rượu Bingbong hồi trước phải không?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"림",
+                "teller":"???",
+                "title":"???",
+                "content":"Thế gian này có nhiều điều thần bí và huyền ảo."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"림",
+                "teller":"???",
+                "title":"???",
+                "content":"Hình dạng này đây chỉ là một trong nhiều cách ta đã chọn để đón nhận thế giới này."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"림",
+                "teller":"???",
+                "title":"???",
+                "content":"Vậy nên, xin đừng giận dữ đến vậy."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Oaaa... Đầu của nhà ngươi... sóng sánh nước kìa."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"림",
+                "teller":"???",
+                "title":"???",
+                "content":"Lấp lánh ánh sao đêm giữa bầu trời đêm huyền diệu, ta đợi chờ khi hoàng hôn buông xuống."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Gọi ta là Rim."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta không ở đây để giới thiệu bản thân nên nói thẳng vào vấn đề đi."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Khai báo danh tính của ngươi. Ngươi hẳn phải có lí do khi tới nơi điên rồ bị nhiễm Người Cá này."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Và chúng ta không thấy thuyền nào khác ngoài ngươi ở bến cảng của nơi này. Nên giải thích sao ngươi—"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta không có mong muốn vượt biển cả nên tàu thuyền là vô nghĩa."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta đến đây chỉ để ngắm nhìn mọi người."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Oa~ Cảm giác như đoàn mình bắt đầu có tiếng tăm hơn rồi ấy nhỉ!"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Các người là đám đuổi theo tia sáng của Cành Vàng."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Được rồi, nếu anh đến đây để đến gặp chúng tôi, và biết rằng chúng tôi đang kiếm thứ gì..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"... Không thể nào, chẳng lẽ anh sẽ nói cái Cành Vàng đang ở đâu sao?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Gì cơ, chẳng phải là hắn ta ở đây để ngăn chúng ta—"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Sự thật đúng là như thế."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Má ơi, con già thật rồi."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Nếu các người muốn tìm kiếm Cành Vàng thì nơi này chỉ phí thời gian thôi."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi vẫn không thể cảm nhận được Cành Vàng ẩn sâu bên trong Chi Nhánh này; lời anh ta nói có phần rất đúng. Cành Vàng đã không còn ở đây nữa."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Vậy thì bọn ta phải đi đâu đây?!"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta tin rằng các người không phải là bên duy nhất có hứng thú với Cành Vàng."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Thực chất, các người đã để Cành vuột khỏi tầm tay."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Chậc..."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"L-làm sao mà anh biết chuyện đó?"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"... Kể cả những con Cá Voi cũng cảm nhận được ánh sáng chói lóa đấy... khi mà trước đây chúng chỉ vẩn vơ quanh the Outskirts."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Ngươi nói là Cá Voi từ Outskirts bơi thẳng tới Hồ Lớn của Tập Đoàn U vì Cành Vàng?"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Đúng. Và nó đã nuốt chửng toàn bộ kiến trúc cùng với Cành Vàng mong manh ấy."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Những Dị Biến cũng đã đầu hàng trước tiếng gọi và chọn rời đi cùng với con Cá Voi vĩ đại và mỏng manh ấy."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Thứ mà các người đang truy đuổi đã không còn hiện diện ở đây nữa."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Tại sao anh lại chia sẻ thông tin này với chúng tôi thế?"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ai là người sẽ nắm giữ Cành Vàng hay sử dụng vào mục đích gì đều không quan trọng, nó chỉ là một tiếng vỗ cánh cỏn con."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Chúng ta chỉ đang... dẫn lối tiếng cánh vỗ ấy theo một hướng tốt đẹp hơn thôi."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta? Ngươi đang nói đến ai cơ?"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Chúng ta là những người sẽ làm chủ vì sao xa xôi kia, quan sát tất cả và chờ đợi thời điểm thích hợp."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ấy vậy mà, tất cả đều không thể ngự trị cùng một Vì sao."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một dấu ấn màu đỏ sáng lên trên đầu anh ta."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi đã nhìn thấy dấu ấn đó trước đây."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"…!"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Cậu bảo những người quan sát à..."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Yi Sang chiếu một ánh nhìn lặng thinh về phía Rim."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Rim."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Vậy tức là, cậu cũng đã chứng kiến sự tan rã của Hội? Cậu có biết tí nào về chuyện gì xảy ra với những gì xảy ra với những người bạn cũ của chúng ta không?"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta biết."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Và cậu không làm gì... ngoài quan sát?"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"……."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Anh Yi Sang ơi. Có phải người đó là một trong số bạn cũ của anh không ạ?"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Một phần đời của tôi cậu đã từng chứng kiến."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Một trong những người rời bỏ Cửu Nhân Hội và tan vào cơn gió."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Lời cuối cùng cậu nói với tôi là cậu sẽ đi tới đại dương, vậy mà..."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Đúng, ta từng là một trong số họ."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta sẽ trả lời cậu, Yi Sang. Cậu hỏi ta đã không làm gì ngoài việc đứng nhìn?"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Đấy là một câu hỏi thừa thãi."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Với cậu, Cửu Nhân Hội đã chết rồi. Nhưng một số người khác lại thấy đấy là một sự khởi đầu mới."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta tin rằng cậu... cũng nhận thức điều đó."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Đâu là điểm bắt đầu? Đâu là điểm kết thúc? Định nghĩa những thứ đó một cách khách quan chẳng có nghĩa lý gì cả."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Sự suy tàn của Hội cũng mở ra con đường dẫn lối cho Anh Young-ji."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Tôi hiểu... Cậu đã gạt nó sang từ lâu, rất lâu rồi."
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta đã có thể nhìn thấy cội nguồn của thế giới."
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Tựa như một thân cây ngay thẳng, nơi mà mọi nhánh cây đều vươn tay đón nắng."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Nếu cậu có thể cảm nhận được... mọi thứ khác đều sẽ..."
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Phù du... như những cánh hoa rơi."
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi chỉ muốn biết một điều thôi."
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Rằng nếu... chiếc Cành Vàng đó đang nằm trong người con Cá Voi đã nuốt nơi này... Và nó thực sự có thể..."
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Đẩy lùi được hiệu ứng Bạch Hóa... bằng cách nào đó..."
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hơi thở của Ishmael rất nhanh và dốc. Cô ấy không thể nói hết câu."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Ta tin rằng thứ cô đang nghĩ và mong chờ đều là đúng."
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi hiểu rồi."
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Nơi tiếp theo cậu muốn đi là đâu?"
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Xưa kia, ta chỉ là một vũng nước bé nhỏ, chỉ nghe đến những nơi như biển cả, dòng sông và The City..."
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Giờ đây, ta muốn chạm đến những nơi ấy với đôi cánh của mình."
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Chỉ vậy thôi."
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Đứng lại đấy... Với một kẻ biết quá nhiều thứ thì ngươi nghĩ tụi ta sẽ để ngươi rời đi như thế à?"
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Đáng tiếc, kể cả khi cô tóm được, ta sẽ chảy qua những khe hở giữa các ngón tay."
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"림",
+                "teller":"Rim",
+                "title":"???",
+                "content":"Chào tạm biệt."
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cùng với lời nói ấy, anh ta bước vào trong vũng nước... và biến mất vào nơi sâu thẳm của nó."
+            }
+        ]
+    }
+

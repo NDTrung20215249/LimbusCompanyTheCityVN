@@ -1,63 +1,69 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "핍",
-            "content": "Ehehehe, heheh. Hehe!"
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "Stubb's death did this to you, didn't it...?"
-        },
-        {
-            "id": 2,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Stubb's not dead, Miss Ishmael!"
-        },
-        {
-            "id": 3,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Pip would have said as such! He crushed his own heart and gave himself to me, so that he would be freed from his guilt!"
-        },
-        {
-            "id": 4,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Be not so cruel to a mere child, Ishmael! Cast your eyes upon me!"
-        },
-        {
-            "id": 5,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "His broken heart led him to me, and I have freed him from his guilt to the best of my abilities!"
-        },
-        {
-            "id": 6,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "But what did you do? Nothing! The least you could have done was to volunteer to row in Pip's place on that fateful day!"
-        },
-        {
-            "id": 7,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "The fault lies with you, Ishmael!"
-        },
-        {
-            "id": 8,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Yet I am the evil here?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"핍",
+                "content":"E he he he, he he. He he!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"이스마엘",
+                "content":"Cái chết của Stubb đã khiến cậu thành ra thế này, đúng không...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"에이해브",
+                "content":"Stubb không chết, Chị Ishmael à!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":3,
+                "model":"에이해브",
+                "content":"Pip có thể sẽ nói như thế! Nó đã nghiền nát trái tim mình và đưa nó cho ta, để nó có thể được tự do khỏi tội lỗi của nó!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":4,
+                "model":"에이해브",
+                "content":"Đừng khắc nghiệt với một đứa trẻ như thế, Ishmael! Hướng mắt ngươi về phía ta này!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":5,
+                "model":"에이해브",
+                "content":"Trái tim vỡ nát của nó đã dẫn nó đến với ta, và ta đã giải thoát nó khỏi tội lỗi của nó bằng tất cả những gì ta có thể làm được!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":6,
+                "model":"에이해브",
+                "content":"Nhưng mày đã làm cái gì? Không gì cả! Điều ít nhất mà mày có thể làm chính là tự nguyện chèo thuyền thay cho Pip vào cái ngày định mệnh đó!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":7,
+                "model":"에이해브",
+                "content":"Tất cả đều là tại mày, tại mày đấy, Ishmael!",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":8,
+                "model":"에이해브",
+                "content":"Thế nhưng ta mới là kẻ ác ở đây sao?",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            }
+        ]
+    }
+

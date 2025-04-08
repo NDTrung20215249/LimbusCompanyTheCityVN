@@ -1,106 +1,132 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Basement Area",
-      "content": "We entered the charred mansion, and Sinclair led us to the basement."
-    },
-    {
-      "id": 1,
-      "content": "When he opened the door…"
-    },
-    {
-      "id": 2,
-      "place": "Underground Passage",
-      "content": "A long underpass leading to an unknown destination was revealed to us."
-    },
-    {
-      "id": 3,
-      "model": "단테",
-      "content": "<To think there’d be a tunnel down here…>"
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "So… if my guess is right, then this passage should lead to the branch facility."
-    },
-    {
-      "id": 5,
-      "model": "히스클리프",
-      "content": "Why’re you keeping this shifty shaft in your basement?"
-    },
-    {
-      "id": 6,
-      "model": "싱클레어",
-      "content": "It wasn’t here before."
-    },
-    {
-      "id": 7,
-      "model": "히스클리프",
-      "content": "What? Then how’d you know we oughta go to the basement?"
-    },
-    {
-      "id": 8,
-      "model": "싱클레어",
-      "content": "It’s like how magnetic fields draw a compass needle northward… I was brought here by intuition."
-    },
-    {
-      "id": 9,
-      "model": "파우스트",
-      "content": "……"
-    },
-    {
-      "id": 10,
-      "model": "싱클레어",
-      "content": "…Isn’t that what it is?"
-    },
-    {
-      "id": 11,
-      "model": "싱클레어",
-      "content": "You’re bringing us along to use as sensors for the Boughs."
-    },
-    {
-      "id": 12,
-      "content": "Sinclair quietly looked at Faust."
-    },
-    {
-      "id": 13,
-      "content": "Instead of answering him, she strode past him and stood before the door."
-    },
-    {
-      "id": 14,
-      "model": "파우스트",
-      "content": "Judging from the material, this tunnel seems to have been made relatively recently."
-    },
-    {
-      "id": 15,
-      "model": "파우스트",
-      "content": "It was likely dug by N Corp’s expeditionary forces when they had occupied the town."
-    },
-    {
-      "id": 16,
-      "model": "파우스트",
-      "content": "It won’t be a short trip. Given that this passage was excavated for their use, we will assuredly run into foes on the way."
-    },
-    {
-      "id": 17,
-      "model": "파우스트",
-      "content": "…We should move once we are ready."
-    },
-    {
-      "id": 18,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 19,
-      "model": "파우스트",
-      "content": "Don’t give me that look, Dante."
-    },
-    {
-      "id": 20,
-      "model": "파우스트",
-      "content": "…I am simply not in the position to comment on it."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Khu Vực Tầng Hầm",
+                "content":"Chúng tôi bước vào căn biệt thự bị cháy, và Sinclair dẫn chúng tôi xuống tầng hầm.",
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Khi mở cửa ra…",
+                "model":null
+            },
+            {
+                "id":2,
+                "place":"Lối Đi Dưới Lòng Đất",
+                "content":"Một đường hầm dài dẫn đến một nơi nào đó được hé lộ.",
+                "model":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"<Không thể nào nghĩ được là lại có một đường hầm ở bên dưới này đấy…>",
+                "model":"단테"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Vậy… Nếu tôi đoán đúng thì con đường này dẫn thẳng đến nhánh cơ sở.",
+                "model":"싱클레어"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Xong tầng hầm nhà mày lại xây cái đường này?",
+                "model":"히스클리프"
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Trước đây không có thứ này.",
+                "model":"싱클레어"
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Hả? Thế sao mày biết để bảo tụi tao xuống tầng hầm?",
+                "model":"히스클리프"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Giống như cách trường điện từ trong la bàn luôn chỉ về hướng bắc ấy… Trực giác mách bảo tôi đến đây.",
+                "model":"싱클레어"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"…….",
+                "model":"파우스트"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Không phải là thế sao?",
+                "model":"싱클레어"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Chúng ta được đưa đi khắp nơi để sử dụng như những máy cảm biến dò tìm những chiếc Cành.",
+                "model":"싱클레어"
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Sinclair nhìn về phía của Faust.",
+                "model":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Thay vì trả lời, cô bước qua cậu ấy và đứng trước một cánh cửa.",
+                "model":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Dựa vào nguyên vật liệu, đường hầm này có lẽ mới được đào gần đây.",
+                "model":"파우스트"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Nó có lẽ đã được đào xới bởi lực lượng viễn chinh của Tập Đoàn N sau khi họ chiếm thị trấn.",
+                "model":"파우스트"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Đây sẽ không phải là một chuyến đi ngắn. Vì đường hầm này được đào để họ sử dụng, nên chúng ta chắc chắn sẽ gặp phải kẻ thù trên đường đi.",
+                "model":"파우스트"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"…Chúng ta nên di chuyển khi đã sẵn sàng.",
+                "model":"파우스트"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"<……>",
+                "model":"단테"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Đừng nhìn tôi như vậy, Dante.",
+                "model":"파우스트"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"…Tôi chỉ đơn giản là không có tư cách để bình phẩm gì về điều đó.",
+                "model":"파우스트"
+            }
+        ]
     }
-  ]
-}
+

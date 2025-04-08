@@ -1,251 +1,314 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "model": "싱클레어",
-      "content": "It was Christmas Eve, and the whole town was filled with jingles and joy."
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "Under the blessing of the holy night, I was planning to confess my sin to my family."
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "I wanted to tell them that I made the foolish mistake of stealing the basement key and that I’d go back to being a good son."
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "That the short time I spent away from the right path was agonizing. That I learned how peaceful and fulfilling the world I’d been living in truly was."
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "My family might be surprised at first, but I was sure they’d welcome me back into their paradise."
-    },
-    {
-      "id": 5,
-      "model": "싱클레어",
-      "content": "That was how it should’ve been."
-    },
-    {
-      "id": 6,
-      "model": "싱클레어",
-      "content": "However…"
-    },
-    {
-      "id": 7,
-      "model": "싱클레어",
-      "content": "Huh…?"
-    },
-    {
-      "id": 8,
-      "model": "싱클레어",
-      "content": "I was supposed to hear a robot dog greet me when I stood at the gate, but my home was covered in silence and darkness."
-    },
-    {
-      "id": 9,
-      "model": "싱클레어",
-      "content": "When I walked inside, I was confronted with a fallen paradise."
-    },
-    {
-      "id": 10,
-      "teller": "Sister",
-      "title": "My Dear Family",
-      "content": "Sinclair… Run…"
-    },
-    {
-      "id": 11,
-      "teller": "Father",
-      "title": "My Dear Family",
-      "content": "Si… Sincl… S-S-Sisisi―"
-    },
-    {
-      "id": 12,
-      "model": "싱클레어",
-      "content": "Someone smashes my father’s head."
-    },
-    {
-      "id": 13,
-      "model": "싱클레어",
-      "content": "It’s a disturbing individual wearing rusty silver armor."
-    },
-    {
-      "id": 14,
-      "teller": "???",
-      "title": "Reminisced Person",
-      "content": "How unsightly of these non-humans to still admire humanity and display false emotion."
-    },
-    {
-      "id": 15,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Let those impure things be, Guido. It’s their survival instincts kicking in."
-    },
-    {
-      "id": 16,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Or should I say… they’re scared of shutting down? Haha!"
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "Pieces of metal, flesh, and blood fly into the air before hitting the floor."
-    },
-    {
-      "id": 18,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Sinclair! You’re here!!!"
-    },
-    {
-      "id": 19,
-      "model": "싱클레어",
-      "content": "Ah… Ahh…"
-    },
-    {
-      "id": 20,
-      "model": "싱클레어",
-      "content": "Kromer approaches, carrying a hammer stained with blood and flesh."
-    },
-    {
-      "id": 21,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Oh, this thing?"
-    },
-    {
-      "id": 22,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Ever since I was little, I couldn’t stand being involved with filthy affronts to humanity like these."
-    },
-    {
-      "id": 23,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Because I’m a humanitarian who loves all things human!"
-    },
-    {
-      "id": 24,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Now imagine how it feels to face the son of a pack of those affronts to humanity…"
-    },
-    {
-      "id": 25,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Just what should I do with you, Sinclair? Hmm?"
-    },
-    {
-      "id": 26,
-      "model": "싱클레어",
-      "content": "My legs have long given up."
-    },
-    {
-      "id": 27,
-      "model": "싱클레어",
-      "content": "My mouth couldn’t move. It was as if my whole body refused to cooperate."
-    },
-    {
-      "id": 28,
-      "model": "싱클레어",
-      "content": "I saw Kromer standing right before me. I couldn’t dare look up. Terror kicked in with the realization that she was so close to me, and my eyes shut themselves tight."
-    },
-    {
-      "id": 29,
-      "model": "싱클레어",
-      "content": "The thought that the same hammer that crushed my father, mother, and sister would now come for me was unbearable."
-    },
-    {
-      "id": 30,
-      "model": "싱클레어",
-      "content": "……"
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "But nothing happened."
-    },
-    {
-      "id": 32,
-      "model": "싱클레어",
-      "content": "Confused, I carefully opened my eyes and lifted my head."
-    },
-    {
-      "id": 33,
-      "model": "싱클레어",
-      "content": "Kromer was watching me."
-    },
-    {
-      "id": 34,
-      "model": "싱클레어",
-      "content": "Making a perfect smile just like the one she’d made when she first came to my desk and told me her name."
-    },
-    {
-      "id": 35,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Well, you are my hero, Sinclair."
-    },
-    {
-      "id": 36,
-      "model": "싱클레어",
-      "content": "She then reaches into the pocket on my school shirt and takes out a coin."
-    },
-    {
-      "id": 37,
-      "model": "싱클레어",
-      "content": "It’s one of the two she handed me the other day."
-    },
-    {
-      "id": 38,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "From now on… You’ll doubt everything, be anxious of everything… and live in ever-constant terror as your memories of me haunt you."
-    },
-    {
-      "id": 39,
-      "model": "싱클레어",
-      "content": "Nhh… Ungh…"
-    },
-    {
-      "id": 40,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "And, when the time comes… I will call for you."
-    },
-    {
-      "id": 41,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student?",
-      "content": "Hey! Someone take this kid to safety! Lay a finger on him and I’ll make you regret it."
-    },
-    {
-      "id": 42,
-      "model": "싱클레어",
-      "content": "Amidst the piercing noise, storms of heavy footsteps, and disorientation…"
-    },
-    {
-      "id": 43,
-      "model": "싱클레어",
-      "content": "I lost consciousness."
+        "dataList":[
+            {
+                "id":0,
+                "model":"싱클레어",
+                "content":"Đêm Giáng Sinh đã đến, và cả thị trấn đều rộn ràng niềm vui cùng tiếng chuông ngân vang.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"싱클레어",
+                "content":"Trong phước lành của đêm thánh lễ này, tôi đã định sẽ thú tội với gia đình của mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"싱클레어",
+                "content":"Tôi muốn nói với họ rằng mình đã phạm phải một lỗi lầm ngớ ngẩn đó là lén trộm chìa khoá tầng hầm và mình sẽ quay trở lại làm một người con hiếu thảo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "model":"싱클레어",
+                "content":"Rằng khoảng thời gian ngắn ngủi mà mình lạc lối khỏi con đường đúng đắn thật đớn đau làm sao. Rằng mình đã nhận ra thế giới mà mình đã luôn sống thật yên bình và ấm cúng biết bao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "model":"싱클레어",
+                "content":"Có thể mới đầu thì gia đình tôi sẽ hơi bỡ ngỡ, nhưng chắc chắn rồi họ cũng sẽ chào đón tôi về với thiên đàng trong vòng tay của họ mà thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "model":"싱클레어",
+                "content":"Lẽ ra nó phải là như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "model":"싱클레어",
+                "content":"Vậy mà…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "model":"싱클레어",
+                "content":"Hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "model":"싱클레어",
+                "content":"Đáng lẽ phải có một con chó rô-bốt chào tôi khi tôi đứng trước cổng, nhưng nhà tôi lại bị bao trùm bởi bóng tối và sự tĩnh lặng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "model":"싱클레어",
+                "content":"Khi bước vào, thứ chờ đợi tôi bên trong là một thiên đàng đã sụp đổ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "model":null,
+                "content":"Sinclair… Chạy đi…",
+                "teller":"Chị",
+                "title":"Gia đình Yêu dấu"
+            },
+            {
+                "id":11,
+                "model":null,
+                "content":"Si… Sincl… S-S-Sisisi―",
+                "teller":"Bố",
+                "title":"Gia đình Yêu dấu"
+            },
+            {
+                "id":12,
+                "model":"싱클레어",
+                "content":"Ai đó đập nát đầu của cha tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "model":"싱클레어",
+                "content":"Một con người đáng sợ đang mặc bộ giáp sắt rỉ sét.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "model":null,
+                "content":"Thật khó coi làm sao khi những kẻ không phải con người này vẫn khát khao trở thành con người và phô bày ra thứ cảm xúc giả tạo.",
+                "teller":"???",
+                "title":"Kẻ không bao giờ quên"
+            },
+            {
+                "id":15,
+                "model":"학생크로머",
+                "content":"Cứ mặc kệ thứ vấy bẩn bọn chúng như thế đi, Guido. Bản năng sinh tồn của bọn chúng đang gào lên đấy.",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":16,
+                "model":"학생크로머",
+                "content":"Hay nên nói là… chúng đang hoảng sợ vì sắp bị sập nguồn? À á ha ha ha ha!",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":17,
+                "model":"싱클레어",
+                "content":"Những mảnh sắt vụn và máu thịt bắn tung tóe vào không trung rồi rơi xuống sàn nhà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "model":"학생크로머",
+                "content":"Sinclair! Cậu đây rồi!!!",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":19,
+                "model":"싱클레어",
+                "content":"A… Á…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "model":"싱클레어",
+                "content":"Kromer tiến lại gần, tay cầm một cây búa nhuốm máu thịt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "model":"학생크로머",
+                "content":"À, cái này sao?",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":22,
+                "model":"학생크로머",
+                "content":"Kể hồi nhỏ, tôi đã không chịu nổi việc dính dáng đến những thứ sỉ nhục vấy bẩn con người như thế.",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":23,
+                "model":"학생크로머",
+                "content":"Vì tôi là một người nhân đạo yêu mọi thứ về con người!",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":24,
+                "model":"학생크로머",
+                "content":"Giờ hãy tượng tượng cái cảm giác khi phải đối mặt với đứa con của những kẻ xúc phạm cơ thể con người đi nào…",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":25,
+                "model":"학생크로머",
+                "content":"Hừmm… Tớ nên làm gì với cậu đây nào, Sinclair?",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":26,
+                "model":"싱클레어",
+                "content":"Chân tôi từ lâu đã không còn sức lực.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "model":"싱클레어",
+                "content":"Miệng tôi không thể cử động. Cứ như toàn bộ cơ thể không còn nghe lời tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "model":"싱클레어",
+                "content":"Kromer đang đứng trước mặt tôi. Tôi không dám ngước mặt lên nhìn. Nỗi khiếp sợ ăn sâu vào tôi khi nhận ra ả đứng gần tôi thế nào, và mắt tôi tự nhắm chặt lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "model":"싱클레어",
+                "content":"Cái ý nghĩ rằng chính đầu búa đã nhuốm máu cha, mẹ và chị gái tôi, giờ sẽ nghiền nát cả xương thịt tôi nữa thật quá sức chịu đựng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "model":"싱클레어",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "model":"싱클레어",
+                "content":"Nhưng không chuyện gì xảy ra cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "model":"싱클레어",
+                "content":"Bối rối, tôi cẩn thận mở mắt ra và ngước đầu lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "model":"싱클레어",
+                "content":"Kromer đang nhìn tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "model":"싱클레어",
+                "content":"Nở một nụ cười hoàn hảo như cái lần đầu tiên ả tới bàn tôi và nói cho tôi biết tên của ả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "model":"학생크로머",
+                "content":"Cậu là người hùng của tớ đấy, Sinclair.",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":36,
+                "model":"싱클레어",
+                "content":"Nói rồi, ả đưa tay vào túi áo đồng phục của tôi và lấy ra một đồng xu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "model":"싱클레어",
+                "content":"Nó là một trong hai đồng xu mà ả đưa tôi bữa trước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "model":"학생크로머",
+                "content":"Kể từ giờ phút này… Cậu sẽ luôn nghi ngờ, lo ngại về mọi thứ xung quanh… và sống trong nỗi kinh hoàng thường trực khi những ký ức về tớ cứ đeo bám cậu.",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":39,
+                "model":"싱클레어",
+                "content":"Hơ… Hức…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "model":"학생크로머",
+                "content":"Và, khi thời điểm đó tới… Tớ sẽ gọi cậu đến.",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":41,
+                "model":"학생크로머",
+                "content":"Này! Ai đó mang đứa trẻ này đến nơi an toàn đi! Động một ngón tay vào cậu ấy đi và người đó sẽ phải trả giá.",
+                "teller":"Kromer",
+                "title":"Học sinh?"
+            },
+            {
+                "id":42,
+                "model":"싱클레어",
+                "content":"Giữa tiếng vang chói tai, tiếng bước chân thình thịnh, và sự chóng mặt của mình…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "model":"싱클레어",
+                "content":"Tôi mất đi ý thức.",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

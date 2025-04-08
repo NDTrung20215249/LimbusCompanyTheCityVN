@@ -1,560 +1,690 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pequod",
-            "model": "이스마엘과거",
-            "content": "Queequeg?"
-        },
-        {
-            "id": 1,
-            "model": "이스마엘과거",
-            "content": "What are you doing?!"
-        },
-        {
-            "id": 2,
-            "model": "이스마엘과거",
-            "content": "Queequeg used to spend some nights..."
-        },
-        {
-            "id": 3,
-            "model": "이스마엘과거",
-            "content": "... in crushing loneliness. In unbearable pain."
-        },
-        {
-            "id": 4,
-            "model": "이스마엘과거",
-            "content": "Queequeg sat in the corner of a dark, dark room. She looked down at her arms."
-        },
-        {
-            "id": 5,
-            "model": "이스마엘과거",
-            "content": "Then, with a small dagger she uses for cutting harpoon ropes..."
-        },
-        {
-            "id": 6,
-            "model": "이스마엘과거",
-            "content": "She mercilessly tore into her arms. Like she was carving something into her flesh."
-        },
-        {
-            "id": 7,
-            "model": "퀴케그과거",
-            "content": "This is price."
-        },
-        {
-            "id": 8,
-            "model": "이스마엘과거",
-            "content": "I peered closer. Her body was covered with countless, strange tattoos. Over them were scars of old and gnashed wounds, cut as though to hide the tattoos drawn on her skin."
-        },
-        {
-            "id": 9,
-            "model": "이스마엘과거",
-            "content": "Did you... do that to yourself?"
-        },
-        {
-            "id": 10,
-            "model": "퀴케그과거",
-            "content": "I did."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘과거",
-            "content": "But... why?"
-        },
-        {
-            "id": 12,
-            "model": "퀴케그과거",
-            "content": "Because of shame. Because the tattoos... I engraved them. Myself."
-        },
-        {
-            "id": 13,
-            "model": "이스마엘과거",
-            "content": "Queequeg... don't do this."
-        },
-        {
-            "id": 14,
-            "model": "이스마엘과거",
-            "content": "We'll go look for a place that could erase your tattoos. There's got to be one out there, at one of the nests. So... stop hurting yourself like this."
-        },
-        {
-            "id": 15,
-            "model": "퀴케그과거",
-            "content": "My tattoos, tattooed in a special way. So no normal way to erase."
-        },
-        {
-            "id": 16,
-            "model": "퀴케그과거",
-            "content": "And... even if there is..."
-        },
-        {
-            "id": 17,
-            "model": "퀴케그과거",
-            "content": "I won't erase like that."
-        },
-        {
-            "id": 18,
-            "model": "이스마엘과거",
-            "content": "... Why?"
-        },
-        {
-            "id": 19,
-            "model": "퀴케그과거",
-            "content": "No way to be free from... past."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘과거",
-            "content": "On a Whaling ship, any discussion of the crew's pasts was an unspoken taboo."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘과거",
-            "content": "Whalers were often running from their pasts,"
-        },
-        {
-            "id": 22,
-            "model": "이스마엘과거",
-            "content": "Wanted to wash their pasts away in the Waves,"
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "Or threw themselves against the Waves in their desperate need for money."
-        },
-        {
-            "id": 24,
-            "model": "퀴케그과거",
-            "content": "Ishmael. You already knew."
-        },
-        {
-            "id": 25,
-            "model": "퀴케그과거",
-            "content": "I come from the Middle."
-        },
-        {
-            "id": 26,
-            "model": "이스마엘과거",
-            "content": "... I had a hunch when I saw your tattoos."
-        },
-        {
-            "id": 27,
-            "model": "이스마엘과거",
-            "content": "The Middle... never forgets."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘과거",
-            "content": "Everyone in the Backstreets knows the story. Though it may just be one of those tall tales, it's not a tale one can so casually laugh off."
-        },
-        {
-            "id": 29,
-            "model": "이스마엘과거",
-            "content": "Once, a child bumped into a stranger and spilled ice cream on his clothes."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘과거",
-            "content": "The stranger, whose clothes were spoiled, comforted the crying child and sent him on his way home."
-        },
-        {
-            "id": 31,
-            "model": "이스마엘과거",
-            "content": "That stranger was an officer of the Middle. And the spoiled clothes happened to be his favorite set."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘과거",
-            "content": "That day was the last day anyone, including the child, ever saw the child's family."
-        },
-        {
-            "id": 33,
-            "model": "이스마엘과거",
-            "content": "Maybe it's just dark humor. Maybe it's just one of those countless, baseless urban legends. But no one dares to treat this tale like it is."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘과거",
-            "content": "Because the Middle really was like that."
-        },
-        {
-            "id": 35,
-            "model": "이스마엘과거",
-            "content": "But the Middle that I've heard of..."
-        },
-        {
-            "id": 36,
-            "model": "퀴케그과거",
-            "content": "……."
-        },
-        {
-            "id": 37,
-            "model": "이스마엘과거",
-            "content": "I know that the Middle accepts anyone into their fold... But... I also heard that once you're a part of the Middle... they'll never let you go..."
-        },
-        {
-            "id": 38,
-            "model": "퀴케그과거",
-            "content": "Yes. The Middle remembers. The Middle never forgets. Never."
-        },
-        {
-            "id": 39,
-            "model": "퀴케그과거",
-            "content": "So, can't leave. So they captured me."
-        },
-        {
-            "id": 40,
-            "model": "퀴케그과거",
-            "content": "They said to me... to really leave, erase everything of the Middle from me. If not, they catch me again."
-        },
-        {
-            "id": 41,
-            "model": "퀴케그과거",
-            "content": "My tattoo is the Middle's brand. So I cut up the brand. Have to."
-        },
-        {
-            "id": 42,
-            "model": "퀴케그과거",
-            "content": "My speech, also touched by the Middle. So I went to doctor... to cut up my tongue. To cut up my brain. To break myself."
-        },
-        {
-            "id": 43,
-            "model": "이스마엘과거",
-            "content": "......"
-        },
-        {
-            "id": 44,
-            "model": "퀴케그과거",
-            "content": "And I ran. Again."
-        },
-        {
-            "id": 45,
-            "model": "이스마엘과거",
-            "content": "Even after you lost your speech... even after you cut your whole body up to erase your tattoos... they're still coming after you...? That's too high a price..."
-        },
-        {
-            "id": 46,
-            "model": "퀴케그과거",
-            "content": "Not true."
-        },
-        {
-            "id": 47,
-            "model": "퀴케그과거",
-            "content": "Back then... I was..."
-        },
-        {
-            "id": 48,
-            "model": "퀴케그과거",
-            "content": "... a maggot."
-        },
-        {
-            "id": 49,
-            "model": "이스마엘과거",
-            "content": "Hey, you're being too hard on yourself, even if it's just a metaphor..."
-        },
-        {
-            "id": 50,
-            "model": "퀴케그과거",
-            "content": "Crawling in filth. Thinking filth was everything."
-        },
-        {
-            "id": 51,
-            "model": "퀴케그과거",
-            "content": "Thought filth was the world. Thought I knew the world."
-        },
-        {
-            "id": 52,
-            "model": "퀴케그과거",
-            "content": "They wanted to make me 'Big Sister'."
-        },
-        {
-            "id": 53,
-            "model": "퀴케그과거",
-            "content": "So I killed. And killed. And killed. Not because of orders. Killed with my own hands. Because I wanted to. Because I wanted respect as Big Sister."
-        },
-        {
-            "id": 54,
-            "model": "이스마엘과거",
-            "content": "... No."
-        },
-        {
-            "id": 55,
-            "model": "이스마엘과거",
-            "content": "We're all... still in our cocoons. Soon, we'll break out of our shells and be born again… okay?"
-        },
-        {
-            "id": 56,
-            "model": "퀴케그과거",
-            "content": "Born again..."
-        },
-        {
-            "id": 57,
-            "model": "이스마엘과거",
-            "content": "Yeah. Once this voyage is over..."
-        },
-        {
-            "id": 58,
-            "model": "이스마엘과거",
-            "content": "... let's go find it together."
-        },
-        {
-            "id": 59,
-            "model": "이스마엘과거",
-            "content": "A way to break out of our cocoons..."
-        },
-        {
-            "id": 60,
-            "model": "퀴케그과거",
-            "content": "How?"
-        },
-        {
-            "id": 61,
-            "model": "이스마엘과거",
-            "content": "I dunno. That's why I want to go find it with you, together."
-        },
-        {
-            "id": 62,
-            "model": "퀴케그과거",
-            "content": "This is first time."
-        },
-        {
-            "id": 63,
-            "model": "퀴케그과거",
-            "content": "First time I heard Ishmael... saying she don't know."
-        },
-        {
-            "id": 64,
-            "model": "이스마엘과거",
-            "content": "……."
-        },
-        {
-            "id": 65,
-            "model": "이스마엘과거",
-            "content": "That's how we started looking beyond this voyage."
-        },
-        {
-            "id": 66,
-            "model": "스타벅과거",
-            "content": "Kraken Port. That's gonna be the home of my very own seafood grill joint. I've eyed up a nice place during our last voyage, y'know."
-        },
-        {
-            "id": 67,
-            "model": "이스마엘과거",
-            "content": "Aren'tcha just copying that one popular place from Marlin Port?"
-        },
-        {
-            "id": 68,
-            "model": "스타벅과거",
-            "content": "I ain't!"
-        },
-        {
-            "id": 69,
-            "model": "핍과거",
-            "content": "Pip wants to be rich."
-        },
-        {
-            "id": 70,
-            "model": "핍과거",
-            "content": "Pip wants to be a landlord. Landlords make a ton of money, y'know."
-        },
-        {
-            "id": 71,
-            "model": "스타벅과거",
-            "content": "Heh. I've got my eyes on you, kid. You're gonna be my dishwasher. I've seen how you scrape the oil off the ship!"
-        },
-        {
-            "id": 72,
-            "model": "핍과거",
-            "content": "No, Starbuck. You'll rent Pip's building. And you better pay rent on time."
-        },
-        {
-            "id": 73,
-            "model": "스타벅과거",
-            "content": "... My first mate badge don't mean crap to you guys, don't it?"
-        },
-        {
-            "id": 74,
-            "model": "이스마엘과거",
-            "content": "Pfft."
-        },
-        {
-            "id": 75,
-            "model": "이스마엘과거",
-            "content": "People who wanted to bury their pasts. People living from one day to the next without dreams, without futures.\nPeople like me."
-        },
-        {
-            "id": 76,
-            "model": "이스마엘과거",
-            "content": "Between every close call, between every moment of triumph, amidst the brutal trials we endured in solidarity, we began to sketch the rough pictures of our futures."
-        },
-        {
-            "id": 77,
-            "model": "이스마엘과거",
-            "content": "I sketched something for myself, too."
-        },
-        {
-            "id": 78,
-            "model": "이스마엘과거",
-            "content": "In that sketch... I'm walking alongside Queequeg in some small port shrouded in mist and the smell of fish."
-        },
-        {
-            "id": 79,
-            "model": "이스마엘과거",
-            "content": "Maybe we're holding large textbooks in our hands."
-        },
-        {
-            "id": 80,
-            "model": "이스마엘과거",
-            "content": "Or... maybe we're carrying suspiciously well-maintained weapons."
-        },
-        {
-            "id": 81,
-            "model": "이스마엘과거",
-            "content": "Or maybe we're just heading somewhere with our hands full of tasty treats for the day."
-        },
-        {
-            "id": 82,
-            "model": "이스마엘과거",
-            "content": "And... we kept sketching."
-        },
-        {
-            "id": 83,
-            "model": "이스마엘과거",
-            "content": "How we will continue to live out the rest of our days. How we will persevere."
-        },
-        {
-            "id": 84,
-            "place": "The Pallid Whale's Right Atrium",
-            "content": "Here, Ishmael stared wordlessly into her shimmering reflection. Into the rippling and opaque river of acid surrounding the boat."
-        },
-        {
-            "id": 85,
-            "content": "Just as she stared into the Lake back aboard Mephistopheles."
-        },
-        {
-            "id": 86,
-            "content": "Her expression was so solemn and withdrawn... that I couldn't bring myself to even approach her."
-        },
-        {
-            "id": 87,
-            "content": "In the opaque waters, Ishmael saw..."
-        },
-        {
-            "id": 88,
-            "content": "Herself."
-        },
-        {
-            "id": 89,
-            "content": "Her future that now rested forever out of reach, at the cold abyss of the Lake."
-        },
-        {
-            "id": 90,
-            "content": "Her friends who could never return."
-        },
-        {
-            "id": 91,
-            "content": "How would it feel to know that your dreams will never come true?"
-        },
-        {
-            "id": 92,
-            "content": "I was too absorbed in this hazy, ruminating thought to realize that I'd approached Ishmael and struck up a conversation."
-        },
-        {
-            "id": 93,
-            "model": "단테",
-            "content": "<Ishmael, once this whole ordeal is over and we go back to Mephistopheles...>"
-        },
-        {
-            "id": 94,
-            "content": "She turns around."
-        },
-        {
-            "id": 95,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 96,
-            "model": "단테",
-            "content": "<How about we all go get ice cream together?>"
-        },
-        {
-            "id": 97,
-            "model": "단테",
-            "content": "<You know, the one Don Quixote wanted.>"
-        },
-        {
-            "id": 98,
-            "content": "It won't matter whatever future I bring up with Ishmael now. None of it would reach her."
-        },
-        {
-            "id": 99,
-            "content": "So... the most I could offer her now was a hopeful, immediate tomorrow."
-        },
-        {
-            "id": 100,
-            "content": "Something a little closer than the future that Ishmael is trying so hard to take back."
-        },
-        {
-            "id": 101,
-            "model": "이스마엘",
-            "content": "Go... back?"
-        },
-        {
-            "id": 102,
-            "model": "이스마엘",
-            "content": "What will you do, manager..."
-        },
-        {
-            "id": 103,
-            "model": "이스마엘",
-            "content": "... if I told you that I don't want to go back?"
-        },
-        {
-            "id": 104,
-            "model": "단테",
-            "content": "<... What do you mean?>"
-        },
-        {
-            "id": 105,
-            "model": "이스마엘",
-            "content": "Once we destroy the heart, and once I squeeze the life out of Ahab with my own two hands..."
-        },
-        {
-            "id": 106,
-            "model": "퀴케그",
-            "content": "……."
-        },
-        {
-            "id": 107,
-            "model": "이스마엘",
-            "content": "... What... would I... go back to? Why would I... go on?"
-        },
-        {
-            "id": 108,
-            "model": "오티스",
-            "content": "Is that an official resignation request?"
-        },
-        {
-            "id": 109,
-            "model": "이스마엘",
-            "content": "... No. Forget it."
-        },
-        {
-            "id": 110,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 111,
-            "content": "If Ishmael finally gets what she wants..."
-        },
-        {
-            "id": 112,
-            "content": "What's 'next'? Would there even be anything left?"
-        },
-        {
-            "id": 113,
-            "content": "Should I... is it right for me to even ask her to continue onto the 'next'?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đoàn Pequod",
+                "model":"이스마엘과거",
+                "content":"Queequeg?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Cậu đang làm gì thế?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Queequeg đã từng trải qua..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... những đêm cô độc thấu tâm can. Trong cơn đau khôn xiết."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Queequeg ngồi một góc trong căn phòng cực kì, cực kì tối tăm. Cô nhìn xuống cánh tay mình."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Và rồi, bằng chiếc dao găm vẫn thường dùng để cắt dây lao móc..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Cô ấy cứa thẳng vào da thịt. Như thể đang khắc sâu thứ gì đó."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Đây là cái giá."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi nhìn kĩ hơn. Vô số những hình xăm quái lạ phủ kín trên cơ thể cô ấy. Các vết thương cả cũ lẫn mới đè lên chúng, chồng chéo vào nhau như thể muốn xòa nhòa vết mực xăm."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Cậu... tự gây thương tích lên mình sao?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Đúng vậy."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nhưng... tại sao?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Vì tủi nhục. Vì tôi đã tự khắc... những hình xăm. Chính tay tôi."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Queequeg... dừng lại đi."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Chúng mình sẽ tìm một nơi xóa xăm cho cậu. Chắc hẳn phải có cửa tiệm như thế trong một Nest nào đó. Nên là xin cậu... đừng tự hủy hoại bản thân nữa."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Hình xăm này, được xăm đặc biệt. Không có cách để xóa."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Và... kể cả nếu có..."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Tôi sẽ không xóa bằng cách đấy."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Vì sao chứ?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Không có cách... thoát khỏi quá khứ."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nói về quá khứ của nhau trên tàu săn Cá Voi là điều cấm kị."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Thợ săn Cá Voi thường là những kẻ chạy trốn khỏi quá khứ,"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nghĩ rằng Con Sóng sẽ gột rửa tất cả,"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hoặc đơn giản là bất chấp lao vào hiểm nguy để kiếm chác, với hi vọng mong manh sẽ đổi đời."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Ishmael. Cô đã biết."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Tôi từ Băng Đảng Middle."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Tớ cũng có linh cảm từ khi thấy hình xăm của cậu rồi."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Băng Middle... không bao giờ quên thù."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Ai sống ở Backstreets cũng đều biết tới một câu chuyện. Dù nghe như chuyện bịa nhưng chẳng kẻ nào dám cười cả."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Một ngày nọ, có đứa trẻ va phải người lạ và chẳng may dây kem ra áo người đó."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Người lạ ấy đã dỗ dành đứa trẻ và dắt nó về tận nhà."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Kẻ đó là một thành viên chính thức của Băng Middle. Và bộ quần áo bị bẩn đó là bộ mà hắn yêu thích nhất."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Đó là ngày cuối cùng mà người ta còn nhìn thấy gia đình đứa trẻ, bản thân đứa trẻ ấy cũng vậy."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Có thể đó chỉ là hài kịch đen. Hoặc là một trong vô vàn những truyền thuyết đô thị vô căn cứ. Nhưng tuyệt nhiên không ai dám coi thường nó."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Vì Băng Middle thực sự hoạt động như thế."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nhưng theo những gì mà tớ được nghe kể về họ..."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"……."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tớ biết là Băng Middle chấp thuận bất kỳ ai tham gia... Nhưng... tớ cũng từng nghe là một khi cậu đã trở thành một phần của Băng Đảng... thì họ sẽ không để cậu rời đi..."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Đúng. Băng Middle ghi nhớ. Băng Middle không quên. Không bao giờ."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Nên, không thể rời. Nên họ bắt tôi về."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Họ nói tôi rằng... để rời, phải xóa mọi thứ của Băng Middle trên người. Nếu không, họ sẽ bắt tôi lần nữa."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Hình xăm tôi là dấu ấn của Băng Middle. Nên tôi cắt dấu ấn. Phải cắt."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Khả năng giao tiếp, cũng bị động đến bởi Băng Middle. Nên tôi đến bác sĩ... để cắt lưỡi. Cắt não. Để thoát."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"……."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Và tôi bỏ chạy. Một lần nữa."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Cậu đã đã đánh đổi khả năng giao tiếp... đã cắt xẻ cả cơ thể chỉ để xóa xăm rồi... mà họ vẫn còn truy đuổi cậu sao...? Một cái giá quá đắt..."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Không đúng."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Khi xưa... Tôi là..."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"... Giòi bọ."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nào, dù là ẩn dụ đi nữa thì cũng đừng quá khắt khe với bản thân vậy chứ..."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Lăn lộn trong bùn lầy. Nghĩ bùn lầy là tất cả."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Nghĩ bùn lầy là thế giới. Nghĩ tôi biết thế giới."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Họ muốn tôi làm \"Chị Đại\""
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Nên tôi giết. Giết rất nhiều. Bằng đôi tay này. Không vì mệnh lệnh. Vì tôi muốn giết. Vì tôi muốn được tôn trọng như Chị Đại."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Không."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Chúng ta vẫn đang... ở trong cái kén của mình. Sớm thôi ta sẽ phá kén rồi tái sinh... được chứ?"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Được tái sinh..."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Đúng vậy. Một khi chuyến hải trình này kết thúc..."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... hãy cùng nhau tìm cách nhé."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tìm ra cách phá kén."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Bằng cách nào?"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tớ chịu. Thế nên tớ mới muốn đi tìm với cậu đó, cùng nhau."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Đây là lần đầu."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Lần đầu tôi nghe Ishmael... nói cô ấy không biết."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"……."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Chúng tôi đã nhìn về một tương lai xa hơn chuyến hải trình này như vậy đấy."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Cảng Kraken. Đấy sẽ là nơi ta mở nhà hàng nướng của riêng mình. Ta đã để mắt đến một nơi khá tốt trong chuyển đi biển trước đấy."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Ông chỉ học lỏm cái cửa hàng nổi tiếng đó trên Cảng Marlin thôi chứ gì?"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Không có!"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"핍과거",
+                "content":"Pip muốn trở nên giàu có."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"핍과거",
+                "content":"Pip muốn trở thành địa chủ. Địa chủ kiếm nhiều lắm đấy."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Ha ha. Ta đã để mắt đến cậu lâu rồi đấy, nhóc. Cậu sẽ làm rửa chén của ta. Ta đã để ý cách cậu chà rửa dầu khỏi con tàu đấy!"
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"핍과거",
+                "content":"Không, bác Starbuck. Bác sẽ thuê nhà của Pip. Và bác phải trả tiền nhà đúng hạn."
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"... Huy hiệu phó tàu này chẳng có ý nghĩa gì với các cô cậu sao?"
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Phụt."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Những kẻ muốn chôn vùi quá khứ. Những kẻ sống không mục đích, không ước mơ ngày qua ngày.\nNhững kẻ như tôi."
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Dù ngàn cân treo sợi tóc, dù thắng lợi vẻ vang, dù giữa ngàn giông tố khi chung cõi đày ải thế này, mọi người bắt đầu phác họa những nét đầu tiên cho bức tranh tương lai."
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi cũng có một vài bản phác cho riêng mình."
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Trong bức tranh ấy... tôi đang dạo bước cùng Queequeg trong tờ mờ sương sớm, trên một bến cảng còn vương mùi cá tươi."
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Chắc là vừa đi vừa ôm chồng sách dày cộp cũng nên."
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Hoặc... cũng có khi chúng tôi đang tay xách nách mang mấy thứ vũ khí được mài bén, nom rất đáng ngờ."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Mà cũng có thể hai đứa chỉ đơn giản là đi tản bộ đâu đó, với một mớ đồ ăn vặt ngon lành trong tay chờ chia nhau thưởng thức."
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Và cứ như vậy... chúng tôi tiếp tục để trí tưởng tượng bay xa."
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Rằng mình sẽ tiếp tục sống tới cuối đời này như thế nào. Rằng mình sẽ nhẫn nại sinh tồn ra sao."
+            },
+            {
+                "id":84,
+                "place":"Lối Vào Tâm Nhĩ Phải của Cá Voi Trắng",
+                "model":null,
+                "content":"Tại đây, Ishmael nhìn chằm chằm vào hình ảnh phản chiếu của cô ấy. Nhìn vào dòng nước axit mờ đục xung quanh con thuyền."
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":null,
+                "content":"Hệt như lúc cô ấy nhìn vào cái Hồ khi còn ở trên Mephistopheles."
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":null,
+                "content":"Biểu cảm của cô ấy trông rất nghiêm nghị và xa cách... đến nỗi tôi cũng không dám tiếp cận cô ấy."
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":null,
+                "content":"Trong mặt nước mờ đục, Ishmael nhìn thấy..."
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":null,
+                "content":"Chính mình."
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":null,
+                "content":"Tương lai của cô ấy giờ đã yên giấc mãi mãi không thể chạm đến được, tận dưới đáy vực sâu thẳm lạnh lẽo của cái Hồ."
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":null,
+                "content":"Những người bạn của cô ấy không bao giờ có thể quay trở lại được nữa."
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":null,
+                "content":"Sẽ ra sao khi biết rằng giấc mơ của bản thân sẽ không bao giờ có thể trở thành sự thật?"
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":null,
+                "content":"Tôi đã quá chú tâm vào cái suy nghĩ mơ hồ này để nhận ra rằng tôi đã tiếp cận Ishmael và mở đầu một cuộc đối thoại."
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"단테",
+                "content":"<Ishmael, một khi toàn bộ thử thách này kết thúc và chúng ta quay trở về Mephistopheles...>"
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy quay người lại."
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"단테",
+                "content":"<......>"
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"단테",
+                "content":"<Sao chúng ta không đi ăn kem cùng nhau nhỉ?>"
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"단테",
+                "content":"<Cô biết đấy, cái món mà Don Quixote muốn ấy.>"
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":null,
+                "content":"Không quan trọng bất kỳ tương lai nào mà tôi mang đến cho Ishmael ngay lúc này đây. Bởi vì không có cái nào trong số chúng với đến được cô ấy."
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":null,
+                "content":"Cho nên... điều tốt nhất mà tôi có thể trao cho cô ấy lúc này đây là một ngày mơi tươi mới và đầy hy vọng."
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":null,
+                "content":"Một thứ gì đó gần hơn với cái tương lai mà Ishmael đang cố gắng hết mực để giành lại."
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Quay... trở về ư?"
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ngài sẽ làm gì..."
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...nếu tôi bảo rằng tôi không muốn về nữa, thưa quản lý?"
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"단테",
+                "content":"<...Ý của cô là sao?>"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Một khi trái tim của Cá Voi bị phá hủy, và một khi tôi đã băm vằm Ahab ra thành từng mảnh bằng chính đôi tay này rồi..."
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"퀴케그",
+                "content":"……."
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Thì... tôi còn... quay về làm gì nữa? Về đâu cơ chứ...?"
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"오티스",
+                "content":"Đó có phải mong muốn xin nghỉ việc không ta?"
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Thôi. Bỏ đi."
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"단테",
+                "content":"<......>"
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":null,
+                "content":"Nếu như Ishmael cuối cùng cũng đạt được thứ cô ấy mong muốn..."
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":null,
+                "content":"Tiếp theo' sẽ là gì? Liệu có còn gì sót lại nữa không?"
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":null,
+                "content":"Liệu tôi... liệu đó có phải là điều đúng đắn cho tôi nếu hỏi cô ấy tiếp tục đến với thứ 'tiếp theo' không?"
+            }
+        ]
+    }
+

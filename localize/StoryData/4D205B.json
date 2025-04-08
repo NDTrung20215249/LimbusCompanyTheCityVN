@@ -1,164 +1,254 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Withering League of Nine Littérateurs",
-            "model": "이상",
-            "content": "There was wilting among the nine."
-        },
-        {
-            "id": 1,
-            "model": "이상",
-            "content": "Those who indulged in research with purity and astonishment on their faces as they did in the old days have already withdrawn their buds."
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "In exchange, unfamiliar sounds began to fill the air."
-        },
-        {
-            "id": 3,
-            "model": "이상",
-            "content": "Orderly footsteps, sounds of wind-up keys that signify their position, and heavy, low voices."
-        },
-        {
-            "id": 4,
-            "model": "오티스",
-            "content": "Why... Why did you tell them the League's location, Aneung?"
-        },
-        {
-            "id": 5,
-            "model": "싱클레어",
-            "content": "...Anyone would have done the same."
-        },
-        {
-            "id": 6,
-            "model": "싱클레어",
-            "content": "They said if I don't reveal the source of the technology... I'll be forcefully repatriated to S Corp."
-        },
-        {
-            "id": 7,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!"
-        },
-        {
-            "id": 8,
-            "model": "이스마엘",
-            "content": "W-Why are these people dragging me away?"
-        },
-        {
-            "id": 9,
-            "model": "이스마엘",
-            "content": "Why is it a crime that I couldn't yield my technology?"
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "My technology was worthless! You said it yourself, Young-ji! Help! I don't want to go!"
-        },
-        {
-            "id": 11,
-            "model": "홍루",
-            "content": "……"
-        },
-        {
-            "id": 12,
-            "model": "홍루",
-            "content": "No matter how hard we think... There's really only one way."
-        },
-        {
-            "id": 13,
-            "model": "홍루",
-            "content": "It'll all be over once I go back. If I give away the glass..."
-        },
-        {
-            "id": 14,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "If you're caught, the League will be done for. Who knows what might they do with your technology once it falls into their hands?"
-        },
-        {
-            "id": 15,
-            "model": "이상",
-            "content": "The voices of desperation ringing in the air did not change a thing."
-        },
-        {
-            "id": 16,
-            "model": "이상",
-            "content": "And so, there were those who rejected the notion of yielding their creations..."
-        },
-        {
-            "id": 17,
-            "model": "뫼르소",
-            "content": "I knew my turn would come."
-        },
-        {
-            "id": 18,
-            "model": "뫼르소",
-            "content": "And... I don't believe we'll ever see each other again."
-        },
-        {
-            "id": 19,
-            "model": "이상",
-            "content": "Those who calmly let themselves be taken away..."
-        },
-        {
-            "id": 20,
-            "model": "그레고르",
-            "content": "I'm bored of living in hiding."
-        },
-        {
-            "id": 21,
-            "model": "그레고르",
-            "content": "I've decided to go my own way. Let's hope we never meet again."
-        },
-        {
-            "id": 22,
-            "model": "이상",
-            "content": "Those who left on their own..."
-        },
-        {
-            "id": 23,
-            "model": "파우스트",
-            "content": "I saw a child who resembled the ocean."
-        },
-        {
-            "id": 24,
-            "model": "파우스트",
-            "content": "It's not like the glass... or the mirror, but I like the things reflected on the waves and tides of the ocean."
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "Since I couldn't fathom the depth of the waters, I decided to follow along."
-        },
-        {
-            "id": 26,
-            "model": "이상",
-            "content": "And those who forever disappeared, leaving unknowable parting remarks."
-        },
-        {
-            "id": 27,
-            "model": "이상",
-            "content": "Like that... winter approached."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "……"
-        },
-        {
-            "id": 29,
-            "model": "이스마엘",
-            "content": "That was a painful experience. It was like I was actually in the shoes of a League of Nine member..."
-        },
-        {
-            "id": 30,
-            "model": "파우스트",
-            "content": "We're synchronizing with their memories. It's only natural that their traces will influence us."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cửu Nhân Hội Úa Tàn",
+                "model":"이상",
+                "content":"Giữa chín người bọn tôi có gì đó đã tàn úa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이상",
+                "content":"Những con người từng nghiên cứu với niềm hào hứng ngây ngô ngày trước giờ đây đã để những nụ hoa héo tàn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이상",
+                "content":"Thay vào đó, những tiếng động kỳ lạ bắt đầu xâm nhập bầu không khí.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이상",
+                "content":"Những bước chân trật tự, tiếng chìa khóa khởi động đánh dấu chức vụ của họ và những giọng nói trầm, nặng nề.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"오티스",
+                "content":"Tại sao... tại sao cậu lại tiết lộ vị trí Hội cho chúng, Aneung?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"싱클레어",
+                "content":"...Ai cũng sẽ làm thế thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Họ nói rằng nếu tôi không khai ra nguồn gốc của công nghệ ấy... Tôi sẽ bị cưỡng chế hồi hương về Tập Đoàn S.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"과거동백",
+                "content":"Vậy thì lẽ ra anh nên chấp nhận chuyện đó đi chứ! Có gan thì cắn lưỡi tự sát đi nếu như không thể chịu đựng được việc tự mình sinh tồn ở quê nhà!",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "content":"T-Tại sao mấy người này lại kéo tôi đi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tại sao tôi lại là người có tội khi còn không thể sở hữu được chính phát minh của mình chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Sáng chế của tôi là đồ vô giá trị! Chính anh cũng từng nói rồi mà, Young-ji! Mau cứu tôi với! Tôi không muốn đi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"홍루",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"홍루",
+                "content":"Có cố nghĩ bao nhiêu... thì bây giờ, kế sách cũng chỉ còn một mà thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"홍루",
+                "content":"Chỉ cần anh quay trở lại thì mọi thứ sẽ chấm dứt. Nếu anh giao chiếc kính ra...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"과거동백",
+                "content":"Nếu anh bị bắt, thì coi như Hội sẽ tan rã mất. Ai mà biết được bọn họ sẽ làm gì với công nghệ của anh nếu nó rơi vào tay của bọn họ chứ?",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이상",
+                "content":"Những tiếng kêu đầy tuyệt vọng chẳng thay đổi được gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이상",
+                "content":"Và rồi, có những người nhất quyết từ chối ý tưởng giao lại phát minh của họ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Tôi biết thời khắc của tôi đã tới.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Hơn nữa... Tôi không nghĩ chúng ta sẽ có cơ hội gặp lại nhau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이상",
+                "content":"Những người bình thản để bị bắt đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi chán việc phải trốn chạy lắm rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"그레고르",
+                "content":"Vậy nên tôi sẽ rời đi. Mong là sau này ta không phải nhìn mặt nhau thêm một lần nào nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"이상",
+                "content":"Những người tự thân rời đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi từng thấy một đứa trẻ trông giống như đại dương.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nó không như tấm kính... hay là cái gương, nhưng tôi thích những thứ phản chiếu trên những cơn sóng và thuỷ triều của biển cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "content":"Khi tôi không thể đo lường được độ sâu của mực nước, tôi chọn cách chìm theo nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이상",
+                "content":"Có những người vĩnh viễn biến mất, để lại những lời từ biệt bí ẩn...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"이상",
+                "content":"Cứ thế... mùa đông đã đến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cảm giác thật tồi tệ. Cứ như thể tôi đã thực sự trải qua cuộc đời của thành viên Cửu Nhân Hội đó vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng ta đang đồng hoá với ký ức của họ. Và cũng là lẽ tự nhiên khi tính cách của họ ảnh hưởng đến ta.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

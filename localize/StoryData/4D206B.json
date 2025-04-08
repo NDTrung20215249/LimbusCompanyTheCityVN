@@ -1,56 +1,78 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Withering League of Nine Littérateurs",
-            "model": "이상",
-            "content": "As it turned out, each of us wanted to protect a different point in time."
-        },
-        {
-            "id": 1,
-            "model": "이상",
-            "content": "Some wished it to stop where it was,"
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "While some wished it to advance."
-        },
-        {
-            "id": 3,
-            "model": "이상",
-            "content": "In my case..."
-        },
-        {
-            "id": 4,
-            "content": "*Wham! Wham! Wham!*"
-        },
-        {
-            "id": 5,
-            "teller": "Class 2 Collector",
-            "title": "T Corp.",
-            "content": "We have received a report that you are in possession of unauthorized technology."
-        },
-        {
-            "id": 6,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "I sent Young-ji a letter in advance telling him to seek refuge."
-        },
-        {
-            "id": 7,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "We must hide the glass window and the mirror in the basement before they can take them."
-        },
-        {
-            "id": 8,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "Dongrang and I will carry them to safety... I want the rest of you to hold the door while we do."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cửu Nhân Hội Úa Tàn",
+                "model":"이상",
+                "content":"Cuối cùng thì, mỗi người chúng tôi muốn bảo vệ một thời điểm khác nhau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이상",
+                "content":"Vài người muốn dừng lại tại đó,",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이상",
+                "content":"Vài người lại muốn nó tiến lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이상",
+                "content":"Còn tôi thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"*Rầm! Rầm! Rầm!*",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Bọn ta đã nhận được báo cáo rằng các người đang sở hữu công nghệ trái phép.",
+                "teller":"N.Viên Thu Thuế Hạng 2",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"과거동백",
+                "content":"Tôi đã gửi trước cho anh Young-ji một lá thư nói anh ấy tìm chỗ trú ẩn rồi.",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"과거동백",
+                "content":"Chúng ta phải giấu cửa sổ kính và gương trong tầng hầm trước khi bọn họ có thể lấy được chúng.",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"과거동백",
+                "content":"Dongrang và tôi sẽ mang chúng đến nơi an toàn... Tôi muốn tất cả mọi người chặn cửa lại trong lúc hai chúng tôi hành động.",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            }
+        ]
+    }
+

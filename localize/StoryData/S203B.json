@@ -1,878 +1,1326 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "A Pawnshop",
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Now… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks."
-    },
-    {
-      "id": 1,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Check the documents in this envelope, and do exactly, preciiiiisely as the papers say."
-    },
-    {
-      "id": 2,
-      "content": "The way Saude dragged out that vowel needled me a bit, but I decided not to argue."
-    },
-    {
-      "id": 3,
-      "content": "Even if I did, the ticking of a clock would be all she’d hear."
-    },
-    {
-      "id": 4,
-      "model": "그레고르",
-      "content": "There’s not a lot of joining together at all in this “joint operation”, is there? You’re just telling us to follow from behind."
-    },
-    {
-      "id": 5,
-      "model": "이스마엘",
-      "content": "This is insulting. Are they taking us for lubbers or what?"
-    },
-    {
-      "id": 6,
-      "model": "이스마엘",
-      "content": "Look, Manager, we’ve got to put our foot down and…"
-    },
-    {
-      "id": 7,
-      "model": "이스마엘",
-      "content": "And…"
-    },
-    {
-      "id": 8,
-      "model": "이스마엘",
-      "content": "…do as they say, I guess?"
-    },
-    {
-      "id": 9,
-      "model": "단테",
-      "content": "<Huh?>"
-    },
-    {
-      "id": 10,
-      "model": "이스마엘",
-      "content": "…The documents they gave us. They’re flawless."
-    },
-    {
-      "id": 11,
-      "model": "이스마엘",
-      "content": "Look at this. It has routes drawn out and everything. It’s been ages since I saw a plan this clear and meticulous."
-    },
-    {
-      "id": 12,
-      "model": "오티스",
-      "content": "Mhm, surely. This is certainly indicative of their knowledge in writing up proper plans of operation."
-    },
-    {
-      "id": 13,
-      "model": "오티스",
-      "content": "Ah, this isn’t to say that it holds a candle to the level of forethought you display, Manager."
-    },
-    {
-      "id": 14,
-      "content": "Convinced by Ishmael’s commendation, I opened the envelope and carefully read the rundown of the operation."
-    },
-    {
-      "id": 15,
-      "content": "The goal could be summarized as the following:"
-    },
-    {
-      "id": 16,
-      "content": "‘Reach the top floor of the casino.’"
-    },
-    {
-      "id": 17,
-      "content": "The main reason behind organizing this plan was the first-place prize for the table game to be held today."
-    },
-    {
-      "id": 18,
-      "content": "According to the papers, winning the competition held on the top floor of the casino is the only way to gain access to the area with the Golden Bough."
-    },
-    {
-      "id": 19,
-      "content": "Four Syndicates that jointly bid on the casino will be playing in this game of chance…"
-    },
-    {
-      "id": 20,
-      "content": "Of the four… We will be using the name of the infamous…"
-    },
-    {
-      "id": 21,
-      "model": "단테",
-      "content": "<Tingtang Gang?>"
-    },
-    {
-      "id": 22,
-      "model": "파우스트",
-      "content": "A name doesn’t necessarily reflect the nature of an organization. That’s a shallow prejudice."
-    },
-    {
-      "id": 23,
-      "model": "이상",
-      "content": "It is unideal for one to choose to see things through the tinted lens that is bias."
-    },
-    {
-      "id": 24,
-      "model": "단테",
-      "content": "<…Right.>"
-    },
-    {
-      "id": 25,
-      "content": "…Back to the plan, we’ll disguise as the boss of the ‘Tingtang Gang’ and win that game of chance."
-    },
-    {
-      "id": 26,
-      "content": "Afterwards, we have to go to the underground floors where the Golden Bough lies."
-    },
-    {
-      "id": 27,
-      "content": "Leading up to the game, we’ll use the items and clothing we can find in pawnshops to disguise as our given roles, enter the casino, and wait for the team on the top floor to win the game."
-    },
-    {
-      "id": 28,
-      "content": "That’s about it for the outline of this plan, I think…"
-    },
-    {
-      "id": 29,
-      "content": "Hey, wait a second. Won’t this entire thing fall apart if our player doesn’t win?"
-    },
-    {
-      "id": 30,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "We’ve prepared fake identification as well. It’s just in case the casino security runs random inspections on visitors."
-    },
-    {
-      "id": 31,
-      "model": "그레고르",
-      "content": "Alright, that’s all fine and dandy… But how do you plan to win once you’re at the top floor?"
-    },
-    {
-      "id": 32,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "What do you think our outfits are for?"
-    },
-    {
-      "id": 33,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "We practiced for months to pass off as bona fide croupiers."
-    },
-    {
-      "id": 34,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "We’ll give you good luck. The game is in your bag, all you need is a pair of functioning eyes."
-    },
-    {
-      "id": 35,
-      "content": "Effie mumbled the last part to himself again while casting a sidelong scowl at our group."
-    },
-    {
-      "id": 36,
-      "content": "He’s making it painfully obvious he has no faith in us."
-    },
-    {
-      "id": 37,
-      "model": "그레고르",
-      "content": "And how are we gonna take the place of the Tingtang Gang’s boss?"
-    },
-    {
-      "id": 38,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "We’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef."
-    },
-    {
-      "id": 39,
-      "model": "이상",
-      "content": "Sedatives…"
-    },
-    {
-      "id": 40,
-      "content": "Saude and Effie winked at each other."
-    },
-    {
-      "id": 41,
-      "content": "It was a gesture demonstrating that the two were ideal partners, able to tell each other’s thoughts just from exchanging glances."
-    },
-    {
-      "id": 42,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Hey, Dear Pawnbroker~ We’ll be taking a look at the goods on showcase from here to there~"
-    },
-    {
-      "id": 43,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Hyes? Oh! No yeah, sure, of course. Please take your time, ma’am."
-    },
-    {
-      "id": 44,
-      "content": "The pawnbroker’s attitude took a sharp turn from disdainful to kowtowing."
-    },
-    {
-      "id": 45,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Now then, let’s take what we need from the display."
-    },
-    {
-      "id": 46,
-      "model": "홍루",
-      "content": "Oh my! This is a Guppcha Designer Brooch, isn’t it?"
-    },
-    {
-      "id": 47,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Hyah~ What discerning eyes you have there, sir. This beaut is the mainstay of our shop’s catalogue. Only 10 of those were ever made, so its worth is positively un­—"
-    },
-    {
-      "id": 48,
-      "model": "홍루",
-      "content": "My dog used to have one of these on its collar whenever we took it out for walkies. It’s so nice to see something that brings back pleasant memories!"
-    },
-    {
-      "id": 49,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "……"
-    },
-    {
-      "id": 50,
-      "model": "로쟈",
-      "content": "I’m down for these cowhide gloves. Whoever had ‘em must’ve been a fashionista~"
-    },
-    {
-      "id": 51,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Please take items that suit what’s written in the envelopes. You have roles to play."
-    },
-    {
-      "id": 52,
-      "model": "돈키호테",
-      "content": "Pardon, but the envelope I have received says “janitor”, this must be an error of some sort!"
-    },
-    {
-      "id": 53,
-      "model": "그레고르",
-      "content": "Okay, it’s good and all, but… Do you have the money to pay for all this?"
-    },
-    {
-      "id": 54,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Worrying about spendings? Who do you think we are, some low-rank hirelings? There’s nothing I can’t afford using this ‘Black Card’."
-    },
-    {
-      "id": 55,
-      "model": "로쟈",
-      "content": "Dante! What’s this about?! You told me we can’t have prime beef ‘cause we don’t have the budget!"
-    },
-    {
-      "id": 56,
-      "model": "파우스트",
-      "content": "So the rumors were true that teams with notable performance are given a company card with no spending limit."
-    },
-    {
-      "id": 57,
-      "content": "While everyone was shocked by the proven existence of the fabled Black Card…"
-    },
-    {
-      "id": 58,
-      "content": "A loud voice came from outside."
-    },
-    {
-      "id": 59,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Oi, dotard! Didn’t I say ya payment was due today?"
-    },
-    {
-      "id": 60,
-      "content": "Someone who clearly belongs to a vicious Syndicate entered the pawnshop."
-    },
-    {
-      "id": 61,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "P-Please… give me one more chance. I swear I’ll have the money ready."
-    },
-    {
-      "id": 62,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "One more? Can’t ya do basic math? Ya said the same thing last time! Boss won’t like me wasting precious time reteaching you kindergarten, ya hear?"
-    },
-    {
-      "id": 63,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "I-I’m just a frail old man standing on doddery feet, there’s really nothing you’ll get out of shaking me down…!"
-    },
-    {
-      "id": 64,
-      "content": "Pleading with an overtly loud voice, the pawnbroker looked at us."
-    },
-    {
-      "id": 65,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Eh? Ya talking back now? Yeah, go on then, get mad! I won’t feel so guilty that way!"
-    },
-    {
-      "id": 66,
-      "content": "In a way, he looked like he was covertly begging us to help him, based on his expression."
-    },
-    {
-      "id": 67,
-      "content": "The Sinners’ attention was naturally drawn to the ongoing row."
-    },
-    {
-      "id": 68,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "What’re ya lookin’ at? Ya think I’m playing?!"
-    },
-    {
-      "id": 69,
-      "model": "이스마엘",
-      "content": "Gee… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?"
-    },
-    {
-      "id": 70,
-      "model": "싱클레어",
-      "content": "Shouldn’t we… help out, maybe?"
-    },
-    {
-      "id": 71,
-      "content": "Unlike Ishmael, who scoffed at the goon, Sinclair anxiously glanced over."
-    },
-    {
-      "id": 72,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "We have no choice, the Backstreets have their own rules and order. We aren’t the ones to disturb that complex web of their society."
-    },
-    {
-      "id": 73,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Outsiders like us will only cause a bigger scene if we try to step in."
-    },
-    {
-      "id": 74,
-      "content": "Pleased by the Sinners choosing to stay away, the goon continued with the extortion."
-    },
-    {
-      "id": 75,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Hmph, if y’ain’t got money, why don’t ya pay your dues in that instead? We keep telling you."
-    },
-    {
-      "id": 76,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "A-Anything but that… Please…"
-    },
-    {
-      "id": 77,
-      "model": "단테",
-      "content": "<…Is it really okay to leave them be?>"
-    },
-    {
-      "id": 78,
-      "model": "오티스",
-      "content": "Shall I settle the dispute for them so it does not bother you, Manager?"
-    },
-    {
-      "id": 79,
-      "model": "그레고르",
-      "content": "What does that toughster mean by “that”, anyway?"
-    },
-    {
-      "id": 80,
-      "model": "파우스트",
-      "content": "…A currency more valuable than money exists in this District."
-    },
-    {
-      "id": 81,
-      "model": "파우스트",
-      "content": "It’s well known that J Corp’s Singularity is a powerful security technology capable of locking anything."
-    },
-    {
-      "id": 82,
-      "model": "파우스트",
-      "content": "What is less known, however, is the extensive cultural and historical background of the Backstreets of Nest J that lead to the Singularity’s creation."
-    },
-    {
-      "id": 83,
-      "model": "히스클리프",
-      "content": "H, history…? Are you seriously about to lecture us here and now…? I was never told about any mandatory education when I joined this company!"
-    },
-    {
-      "id": 84,
-      "content": "In spite of the opposition, Faust went on with her explanation."
-    },
-    {
-      "id": 85,
-      "model": "파우스트",
-      "content": "Here, a technology exists to extract ‘wishpower’ from people."
-    },
-    {
-      "id": 86,
-      "model": "파우스트",
-      "content": "Though it’s not widely known outside this District since it didn’t quite have the generality to be recognized as a Singularity."
-    },
-    {
-      "id": 87,
-      "model": "파우스트",
-      "content": "In essence, it’s processing ‘luck’ into a commodity that can be traded. Like a form of money."
-    },
-    {
-      "id": 88,
-      "model": "파우스트",
-      "content": "It brought forth the need for a way to stop others from forcibly extracting this wishpower, leading to the creation of a security technology that ultimately developed into the Singularity we know today."
-    },
-    {
-      "id": 89,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Gee-wee, Faust~ Must be tiring having to teach these dunces in ways they can get it."
-    },
-    {
-      "id": 90,
-      "model": "파우스트",
-      "content": "It’s fine, this was within my anticipated scenario."
-    },
-    {
-      "id": 91,
-      "model": "히스클리프",
-      "content": "I don’t like the way you say that…"
-    },
-    {
-      "id": 92,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Come on now, gather the items to help with your disguises so we can leave."
-    },
-    {
-      "id": 93,
-      "content": "Saude flapped the document full of scheduled plans to emphasize that we’d be busy."
-    },
-    {
-      "id": 94,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "We’re salaried workers, not “heroes” fighting for justice."
-    },
-    {
-      "id": 95,
-      "model": "단테",
-      "content": "<Wait… Not that word…!>"
-    },
-    {
-      "id": 96,
-      "content": "A bad feeling rushing through my head prompted me to count the Sinners I could see."
-    },
-    {
-      "id": 97,
-      "model": "단테",
-      "content": "<That… does not align with a certain someone’s… beliefs…>"
-    },
-    {
-      "id": 98,
-      "content": "And it’s one that would severely provoke her principles…!"
-    },
-    {
-      "id": 99,
-      "model": "이스마엘",
-      "content": "…!"
-    },
-    {
-      "id": 100,
-      "content": "Ishmael seems to have noticed what I meant, and hurriedly looked around."
-    },
-    {
-      "id": 101,
-      "model": "돈키호테",
-      "content": "Thou darest try to pilfer the valuables of others? This behavior can only be seen as wholehearted villainy!"
-    },
-    {
-      "id": 102,
-      "model": "단테",
-      "content": "<Oh no…! Don Quixote…!>"
-    },
-    {
-      "id": 103,
-      "content": "But it was a moment too late."
-    },
-    {
-      "id": 104,
-      "content": "Don Quixote had already sprinted forward and was swinging her lance at the Tingtanger who gripped the pawnbroker by the collar."
-    },
-    {
-      "id": 105,
-      "content": "WHACK!"
-    },
-    {
-      "id": 106,
-      "content": "Caught completely unaware, the goon was hit right on the head with the blunt side of her lance."
-    },
-    {
-      "id": 107,
-      "content": "Knocked out on the floor in a frisky swing, the fainted goon became the center of attention for all of us inside the pawnshop for a solid minute."
-    },
-    {
-      "id": 108,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "……"
-    },
-    {
-      "id": 109,
-      "model": "파우스트",
-      "content": "Ah, for your information, keeping the Sinners in check is not part of my job description. That would be the job of this person here."
-    },
-    {
-      "id": 110,
-      "model": "단테",
-      "content": "<Don’t give me that look. There’s nothing in my abilities to keep her under control…>"
-    },
-    {
-      "id": 111,
-      "content": "I couldn’t stop myself from defending my position even when I was aware that my voice wouldn’t reach anyone besides the Sinners."
-    },
-    {
-      "id": 112,
-      "content": "Oh well. It’s not like my defense would’ve made them look any less baffled towards me if they could hear it."
-    },
-    {
-      "id": 113,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Oooh…!"
-    },
-    {
-      "id": 114,
-      "content": "The pawnbroker was the only one chuffed by this turn of events."
-    },
-    {
-      "id": 115,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Great work, ma’am. Serves that hooligan right! But I’ll say, you could’ve whopped ‘em a tad harder, maybe."
-    },
-    {
-      "id": 116,
-      "model": "돈키호테",
-      "content": "Vergilius advised me that while I am free to deliver justice unto villains, I must do so without unduly involving irrevelants in our mission! Thus, I showed moderation!"
-    },
-    {
-      "id": 117,
-      "content": "Her proud expression never looked so provoking."
-    },
-    {
-      "id": 118,
-      "model": "단테",
-      "content": "<Uh-huh. So you remembered his words and still leapt forward?>"
-    },
-    {
-      "id": 119,
-      "model": "돈키호테",
-      "content": "‘Twas a necessary action to stay true to my creed. Please understand my virtuous violence!"
-    },
-    {
-      "id": 120,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Not to kill the mood, but… That ruffian isn’t actually dead, right?"
-    },
-    {
-      "id": 121,
-      "model": "그레고르",
-      "content": "I thought you wanted her to get straight to wallops, old sport?"
-    },
-    {
-      "id": 122,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "I did, I did… But things would get fairly complicated if the Yurodiviye showed up, you know."
-    },
-    {
-      "id": 123,
-      "model": "로쟈",
-      "content": "The Yurodiviye? What are they doing here… No, forget that, why are you worrying about them?"
-    },
-    {
-      "id": 124,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Not up to date with the news, are you, ma’am? They’ve been causing trouble here for months now."
-    },
-    {
-      "id": 125,
-      "model": "돈키호테",
-      "content": "Are they villains as well?!"
-    },
-    {
-      "id": 126,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Oh, they’re villains to us humble merchants for sure. They were going on about, what was it, roughing up greedy peddlers keeping money to themselves, and giving it to those who need it. Distributing something, they said…"
-    },
-    {
-      "id": 127,
-      "model": "뫼르소",
-      "content": "The redistribution of wealth."
-    },
-    {
-      "id": 128,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Aah~ That’s it, yes. Those scoundrels are robbing us poor saps of what little wealth we have. And they don’t even do the dirty work themselves, it’s always the local brutes they send. Can you believe it?"
-    },
-    {
-      "id": 129,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Anyhoo, life has been hard for us because of those self-righteous bunches. Looked like they were here to find something at first, but all they do now is squeeze money outta us…"
-    },
-    {
-      "id": 130,
-      "model": "로쟈",
-      "content": "…Ah! I-I just realized, shouldn’t we take our leave now? More toughies from the Tingtang Gang might be coming this way."
-    },
-    {
-      "id": 131,
-      "content": "It seemed like Rodya deliberately cut off the pawnbroker in a hurry, but I had little time to think about the implications."
-    },
-    {
-      "id": 132,
-      "content": "The gang member Don Quixote had knocked out began to flinch as though to get back up soon."
-    },
-    {
-      "id": 133,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Sigh, what a hassle… You’re making the problem bigger than it had to be."
-    },
-    {
-      "id": 134,
-      "model": "그레고르",
-      "content": "Hey, Muffin and Sablé, was it? Don’t be so tart now. There are plenty of pawnshops around here, right? We can always find a different—"
-    },
-    {
-      "id": 135,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "It’s Effie and Saude. Please don’t mistake our names for confections."
-    },
-    {
-      "id": 136,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "And your statement that there are plenty of pawnshops in the vicinity won’t mean much…"
-    },
-    {
-      "id": 137,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…When said pawnshops notice the trouble happening here and close…"
-    },
-    {
-      "id": 138,
-      "model": "단테",
-      "content": "<Don Quixote…!>"
-    },
-    {
-      "id": 139,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "I’m getting tired of lecturing these idiots on every little thing. We should just leave."
-    },
-    {
-      "id": 140,
-      "content": "Right as I tried to leave, someone wearing similar thuggish clothes to the one we’d just knocked out—with a face that looked just as rough—stormed into the shop."
-    },
-    {
-      "id": 141,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ayo, codger, have you seen our li’l—"
-    },
-    {
-      "id": 142,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Wee slimmy! Just what’s going on here?!"
-    },
-    {
-      "id": 143,
-      "content": "We did our best to pretend to be innocent customers who just happened to be in the pawnshop at the wrong time."
-    },
-    {
-      "id": 144,
-      "content": "However, in an unfortunate concurrence of events, the goon came back to senses…"
-    },
-    {
-      "id": 145,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Who did this?! Tell me now! That bean is gonna regret the day they grew stems!"
-    },
-    {
-      "id": 146,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Gnh… O… Over there…"
-    },
-    {
-      "id": 147,
-      "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "That red… timepuss…"
-    },
-    {
-      "id": 148,
-      "content": "The direction that finger was pointing was simply too unambiguous for me to pretend otherwise."
-    },
-    {
-      "id": 149,
-      "content": "Plus, there’s no point in denying that I was meant by “red timepuss”, as I’m sure there would be literally no one else matching that description in this entire District."
-    },
-    {
-      "id": 150,
-      "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Just so you don’t get the wrong idea, I have nothing to do with these people or what happened here. I was just about to bring a towel to cool this poor fellow’s head."
-    },
-    {
-      "id": 151,
-      "model": "히스클리프",
-      "content": "That smarmy gaffer…"
-    },
-    {
-      "id": 152,
-      "model": "이스마엘",
-      "content": "I had no expectations for him in the first place, but that man really has a shaky reed for his backbone."
-    },
-    {
-      "id": 153,
-      "content": "Although the pawnbroker switching sides in a heartbeat and the finger-pointing clock slander—over something I wasn’t responsible for, too—hurt me a little, I was determined to stand firm."
-    },
-    {
-      "id": 154,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Jah… Frijolitos over there… Stop. Freeze in your tracks."
-    },
-    {
-      "id": 155,
-      "content": "Mostly because it was clear that we had to run right now."
-    },
-    {
-      "id": 156,
-      "content": "If I kept letting small things bother me, I would be reduced to a pulp sooner rather than later."
-    },
-    {
-      "id": 157,
-      "model": "료슈",
-      "content": "Bah. No need to run. Let’s just kill them all and be done with it."
-    },
-    {
-      "id": 158,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "What’s next? You’re going to wipe out the whole Syndicate?"
-    },
-    {
-      "id": 159,
-      "model": "료슈",
-      "content": "Heh. That doesn’t sound too bad."
-    },
-    {
-      "id": 160,
-      "model": "돈키호테",
-      "content": "The forces of evil must be uprooted with haste in order to raise the banner of justice high!"
-    },
-    {
-      "id": 161,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Uh, so, is there seriously no one on your team who’s in their right mind?"
-    },
-    {
-      "id": 162,
-      "content": "Ishmael looked insulted by this remark and seemed to be thinking of a counterargument, but the Tingtang goons arming themselves were a more pressing matter."
-    },
-    {
-      "id": 163,
-      "model": "단테",
-      "content": "<Let’s just…>"
-    },
-    {
-      "id": 164,
-      "model": "단테",
-      "content": "<Let’s get outta here first!>"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tiệm Cầm Đồ",
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Giờ thì... Trong nhiệm vụ lần này, chúng tôi sẽ chỉ đơn giản là phục vụ tận miệng mọi người. Điều mà tất cả cần làm chỉ là há miệng ra và nhai nát cái nhiệm vụ đơn giản này."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Hãy xem qua tài liệu bên trong phong thư này, và làm chính xác, thật chuẩnnnnn theo trong đống tài liệu này đã ghi."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cái cách Saude kéo dài âm tiết đó khiến tôi có chút chột dạ, nhưng tôi quyết định không tranh luận về điều đó."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và nếu tôi có nói đi nữa, cô ấy cũng chỉ nghe được mỗi tiếng tích tắc từ đồng hồ mà thôi."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Cái đợt \"chiến dịch hợp tác\" này không có phần \"hợp tác\" nào hết nhỉ? Hai người chỉ đang kêu chúng tôi đi theo sau thôi."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Này là đang sỉ nhục mà. Bộ họ coi chúng ta là lũ đần độn hay gì?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Nghe này Quản Lý, chúng ta phải tiến ra đó và..."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Và..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...cứ làm theo những gì họ bảo đi nhỉ?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Hả?>"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...Chỗ tài liệu họ đưa cho chúng ta ấy. Kế hoạch quá hoàn hảo."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ngài xem này. Họ tính đường đi nước bước nọ kia không sai chỗ nào. Lâu lắm rồi tôi mới được thấy kế hoạch nào chỉn chu và toàn diện đến mức vậy."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Hừm, chắc vậy. Điều này thể hiện kiến thức của chúng trong việc viết ra những kế hoạch hoạt động phù hợp."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"À, những thứ này không bao giờ có thể sánh bằng những suy tính ngài chuẩn bị sẵn đâu, thưa Quản Lý."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bị thuyết phục bởi lời khen ngợi từ Ishmael, tôi mở phong thư và cẩn thận đọc kĩ bản tóm lược kế hoạch."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Mục tiêu được tóm gọn như sau:"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"’Tiến tới tầng cao nhất của sòng bạc."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Lí do chính đằng sau việc tổ chức kế hoạch như này, là nhằm lấy được giải lớn nhất tại một vị trí ở bàn chơi được đặc biệt tổ chức hôm nay."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Theo như tài liệu, chiến thắng cuộc thi được tổ chức tại tầng trên cùng của sòng bạc là cách duy nhất để nhận được quyền lợi tiến vào khu vực có tồn tại Cành Vàng."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bốn Băng Đảng cũng đồng thời tham gia trò chơi để giành lấy cơ hội này..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Trong số bọn chúng... chúng tôi sẽ phải dùng đến một cái tên khét tiếng..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Băng Tình Tang?>"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Tên không nhất thiết phải phản ánh bản chất của một tổ chức. Đó là một định kiến nông cạn."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Nhìn đời một cách phiến diện qua đôi kính mờ là điều không lý tưởng."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<... Phải rồi.>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"...Trở lại kế hoạch, chúng tôi sẽ cải trang thành tên trùm của 'Băng Tình Tang' và giành lấy cơ hội này."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sau đó, chúng tôi sẽ phải tiến xuống tầng hầm nơi cất giữ Cành Vàng."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Để tham gia được ván chơi, chúng tôi sẽ sử dụng mọi vật phẩm và quần áo kiếm được tại tiệm cầm đồ rồi giả trang với các vai trò cụ thể, tiến vào sòng bạc, và đợi cho đội trên tầng trên chiến thắng trò chơi."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Đó là tất cả được ghi trong kế hoạch lần này, tôi nghĩ vậy..."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Này, đợi một chút. Không phải toàn bộ mọi việc sẽ hoàn toàn đổ bể nếu người chơi bên phía chúng ta thua sao?"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Nhân tiện, chúng tôi cũng đã chuẩn bị cả căn cước giả. Phòng trường hợp nếu bảo vệ của sòng bạc có ngẫu nhiên kiểm tra khách hàng của họ."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Được rồi, vậy thì ngon ăn luôn... Nhưng mà một khi đã lên tầng cao nhất rồi thì mấy người định thắng kiểu nào?"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Thế anh nghĩ đồng phục của chúng tôi để cho vui sao?"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Tôi và Saude đã tập luyện cả tháng trời chỉ để trở thành những nhân viên chia bài thật thà thôi đấy."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Chúng tôi sẽ tạo cơ hội cho mấy người. Ván bài cầm chắc trong tay mấy người rồi, tất cả những gì mấy người cần là một cặp mắt vẫn còn hoạt động được thôi."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Effie lại lẩm bẩm câu cuối với bản thân khi vẫn còn đang bất mãn với nhóm chúng tôi."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cậu ta thể hiện rõ đến đau lòng rằng chả có tí sự tin tưởng nào ở phía bọn tôi."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Vậy thì chúng ta sẽ thế chỗ ông trùm của Băng Tình Tang bằng cách nào đây?"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Chúng tôi sẽ phục vụ thức ăn có thuốc an thần tại sòng bạc. Việc đàm phán chi tiết với đầu bếp cũng đã hoàn thành."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Thuốc an thần..."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Saude và Effie nháy mắt với nhau."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Đó là cử chỉ chứng minh rõ họ là một cặp ăn ý tới mức nào, đủ để hiểu ý nhau chỉ với vài cái liếc mắt."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Ngài Chủ tiệm Cầm đồ ơi~ Chúng tôi sẽ xem qua những món đồ đang trưng bày ở đây nha~"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Ơ Vâng? Ây! À Không, tất nhiên rồi. Cứ tự nhiên, thưa quý cô."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thái độ của ông chủ tiệm thay đổi chóng mặt từ khinh thường sang phục tùng."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Giờ thì, hãy lấy mấy thứ cần thiết từ hàng trưng bày nào."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Oa! Đây là ghim cài được chế tác bởi Nhà thiết kế Guppcha phải không?"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Ây da~ Ngài quả thật có cặp mắt tinh tường. Thứ đẹp đẽ này là món hàng độc nhất trong danh sách vật phẩm từ cửa hàng chúng tôi. Chỉ có 10 bản sao từng được chế tác thôi, nên trị giá của nó có lẽ—"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Ngày trước, cún cảnh nhà tôi mỗi khi ra ngoài đi dạo đều đeo một chiếc giống như thế trên xích cổ ấy mà. Giờ lại được trông thấy nó lần nữa, vui thật đấy!"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"……"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Tôi hơi thích đôi găng tay da bò này nè. Ai từng có nó chắc hẳn là siêu sao thời trang đó~"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Vui lòng hãy lấy những thứ phù hợp với những điều được ghi trong phong thư của mọi người. Đúng theo vai trò được giao cho từng người."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Xin thất lễ, nhưng phong thư mà ta nhận được ghi là \"lao công\", ắt hẳn là có nhầm lẫn gì rồi!"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Được rồi, nghe có vẻ ngon ăn đấy, nhưng mà... Hai người kiếm đâu ra tiền để chi trả cho mớ này vậy?"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Bắt đầu lo lắng việc chi tiêu rồi? Mấy người nghĩ chúng tôi là gì, mấy tên công ăn lương hạ đẳng hay sao? Chả có thứ gì mà tôi không thể chi trả được với cái 'Thẻ Đen' này."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Dante? Thế này là sao?! Ngài đã nói không mua thịt bò hảo hạng cho chúng ta chỉ vì không có ngân sách mà!"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Vậy thì tin đồn rằng các đội có thành tích đáng chú ý sẽ được cấp thẻ công ty không giới hạn chi tiêu là sự thật."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Khi mọi người vẫn còn đang sốc về sự tồn tại của cái Thẻ Đen huyền thoại..."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một giọng nói to quát tới từ bên ngoài."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang Quê mùa",
+                "title":"Băng Tình Tang",
+                "content":"Này, thằng khọm già! Chẳng phải tao nói hôm nay đến hạn trả tiền à?"
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một kẻ rõ ràng thuộc về Băng Đảng xấu xa nào đó bước vào cửa tiệm."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"L-làm ơn... cho tôi thêm một cơ hội nữa. Tôi hứa tôi sẽ có tiền vào lần sau mà."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang Quê mùa",
+                "title":"Băng Tình Tang",
+                "content":"Nữa à? Mày không biết làm toán hay gì? Mày nói y chang như lần trước lúc bọn tao tới! Đại ca không thích tao phí phạm đống thời gian quý báu để dạy lại mấy thằng nhóc ranh đâu."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"T-tôi chỉ là một cụ già yếu đuối với đôi chân đứng còn không vững, tôi thực sự không còn gì để đưa cho cậu nữa cả...!"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ông ta khẩn khoản rõ to, liếc mắt về phía bọn tôi."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang Quê mùa",
+                "title":"Băng Tình Tang",
+                "content":"Hể? Lão giờ dám bật lại á? Tốt, tiếp tục đi, gào to lên xem nào! Để tao khỏi cảm thấy tội lỗi cho mày!"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Không biết có phải do tôi nhìn nhầm không nhưng lão trông như đang muốn cầu xin bọn tôi giúp đỡ."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sự náo loạn đang dần thu hút chú ý từ phía các Tội Nhân."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang Quê mùa",
+                "title":"Băng Tình Tang",
+                "content":"Tụi bây nhìn đéo gì? Mày nghĩ tao đùa à?!"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Trời đất... Nghe rập khuôn đến độ chẳng muốn trả lời nữa luôn ấy. Mấy người không biết cách khiêu khích nào sáng tạo hơn à?"
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta có nên... giúp không?"
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Không như Ishmael đang chế giễu tên bất lương kia, Sinclair bối rối nhìn qua."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Không có cách nào khác, Backstreets có luật và lệnh của riêng nó. Chúng ta không phải là những người can thiệp được vào hệ thống phức tạp ở xã hội nơi đây."
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Những người ngoài cuộc như chúng ta chỉ gây thêm rắc rối không cần thiết nếu can thiệp vào."
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hài lòng với việc các Tội Nhân không nhúng tay vào, tên côn đồ tiếp tục màn tống tiền của hắn."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang Quê mùa",
+                "title":"Băng Tình Tang",
+                "content":"Hừm, nếu mày không có tiền thì sao không trả nợ bằng thứ đó đi? Cái thứ mà bọn tao nhắc mãi ấy."
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"B-bất cứ thứ gì ngoại trừ nó... Làm ơn..."
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...Thật sự có ổn khi để mặc mọi chuyện diễn ra như này không?>"
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Liệu tôi có nên 'dẹp loạn' tụi kia trước khi chúng làm phiền ngài không, thưa Quản Lý?"
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Mà cái tên giang hồ đó bảo \"nó\" là ý đang ám chỉ cái gì vậy?"
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"...Một loại đơn vị giá trị hơn tiền ở Quận này."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Dị Biến của Tập Đoàn J được biết đến là công nghệ bảo mật mạnh mẽ có khả năng khóa mọi thứ."
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng ít ai biết rằng, nền văn hóa khổng lồ và bề dày lịch sử các Backstreet của Nest J chính là nguồn gốc dẫn đến Dị Biến."
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"L, lịch sử...? Mày thật sự nghiêm túc về việc sẽ đứng đây dạy đời ngay sao...? Cóc có đứa nào cho tao hay về mấy cái giáo dục bắt buộc khi tao gia nhập công ty cả!"
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bất chấp sự phản đối, Faust tiếp tục giải thích."
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Ở đây có một loại công nghệ tồn tại với mục đích là trích xuất 'Ước Nguyện' từ người khác."
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Mặc dù nó không được biết đến rộng rãi bên ngoài Quận này vì nó không có tính tổng quát để được công nhận là một Dị Biến."
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Về bản chất, đó là quá trình biến đổi 'may mắn' thành một loại hàng hóa có thể giao dịch được. Giống như một hình thức tiền tệ."
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Nó nảy sinh ra nhu cầu tìm ra cách ngăn những cá nhân khác cưỡng ép trích xuất loại ước nguyện này, dẫn đến sự hình thành của thứ công nghệ bảo mật mà sau này trở thành Dị Biến mà chúng ta biết ngày nay."
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Ôiii chaaa, Faust à~ Chắc cô cũng mệt mỏi với việc dạy dỗ lại mấy tên ngu đần này theo cách chúng có thể hiểu được rồi nhỉ."
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Không sao cả, điều này nằm trong dự tính của tôi."
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao không thích cái kiểu mày đang nói tí nào..."
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Thôi nào mọi người, gom lại những thứ có ích cho việc cải trang và rời khỏi đây thôi."
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Saude vỗ xấp tài liệu dày đặc lộ trình đã được lên kế hoạch từ trước để nói rằng chúng ta sẽ rất bận rộn trong thời gian tới."
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Chúng ta là nhân viên lương bổng, không phải những “anh hùng“ chiến đấu vì công lý."
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Đợi đã... Không phải cụm từ đó...!>"
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một cảm giác không lành lấn tới khiến tôi ngay lập tức đếm lại số Tội Nhân hiện tại."
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Cái đấy... đi ngược lại với lý tưởng... của người đó...>"
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và câu nói đó sẽ cực kì đả động đến nguyên tắc của cô ấy...!"
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...!"
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ishmael cũng nhận ra điều tôi muốn nói tới, và ngay lập tức nhìn xung quanh."
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Nhà ngươi dám cướp bóc tài sản quý báu của kẻ khác sao? Hành vi này chỉ có thể được xem là tội ác có chủ đích!"
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Ôi không...! Don Quixote...!>"
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nhưng đã quá trễ."
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Don Quixote đã lao thẳng về phía trước và vung cây thương của cô ấy về phía tên côn đồ Băng Tình Tang đang siết lấy cổ áo của ông già cầm đồ."
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"PHỊCH!"
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hoàn toàn mất cảnh giác, tên bất lương bị phần cùn trên ngọn giáo của cô ấy đập vào đầu."
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên côn đồ ngay lập tức bị đánh cho bất tỉnh bởi cú đánh đầy mạnh mẽ, trở thành tâm điểm chú ý của toàn bộ người ở đây trong suốt một phút."
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"......"
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"À, để cậu biết, quản lý các Tội Nhân không nằm trong công việc của tôi. Đó là việc của người này."
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Đừng có nhìn tôi như thế. Kiểm soát cô ấy nằm ngoài khả năng của tôi...>"
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi cố biện hộ cho bản thân kể cả khi biết rằng ngoại trừ các Tội Nhân ra thì không ai có thể hiểu được lời tôi nói hết."
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thôi thì, có biện hộ thêm cho bản thân cũng không khiến tình hình bớt rối rắm đi nếu họ có nghe được hay không."
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Ôiiiiii...!"
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên chủ tiệm cầm đồ là người duy nhất hân hoan trong tình huống này."
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Tuyệt lắm, thưa quý cô. Đáng đời tên côn đồ ấy! Nhưng để phải nói, cô đáng lý nên đánh tên này mạnh tay hơn một chút thì hay biết bao."
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Vergilius khuyên rằng trong khi ta có thể tự do đem công lý trừng trị cái ác, ta buộc phải thực thi mà không gây ảnh hưởng đến những kẻ ngoài cuộc trong nhiệm vụ của chúng ta! Vì thế nên ta đã tiết chế lại!"
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Lời phát biểu đầy tự hào của cô ấy chưa bao giờ cảm thấy khích tướng đến như này."
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Hiểu rồi. Vậy là cô nhớ lời dặn của ông ấy mà vẫn lao thẳng về phía trước sao?>"
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Đó là một hành động cần thiết để ta giữ vững đức tin. Mong ngài hãy hiểu cho sự bạo lực đoan chính này!"
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Không muốn làm mất hứng mọi người đâu, nhưng mà... Tên côn đồ đấy chưa chết, đúng chứ?"
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Tôi tưởng ông muốn cô ấy xử lý gọn lẹ bọn chúng chứ, ông già?"
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Phải, phải rồi... Nhưng mọi chuyện sẽ phức tạp hơn nếu bọn Yurodiviye xuất hiện, mọi người biết đấy."
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Yurodiviye? Họ đang làm gì ở đây thế... Không, bỏ qua đi, sao ông lại sợ bọn họ vậy?"
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Chưa nắm bắt kịp tình hình sao, thưa quý cô? Bọn chúng đã gây rối hàng tháng trời ở đây rồi."
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Bọn chúng cũng là kẻ xấu sao?!"
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Ồ, chúng chắc chắn là kẻ ác đối với mấy thương nhân tốt bụng bọn tôi đây. Chúng cứ liên tục nói về, gì nhỉ, trừng trị bọn gian thương giữ tiền cho riêng mình, và đưa cho những người cần nó. Chúng bảo là phân phát gì đấy..."
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Ban phát của cải."
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"A~ Đúng, là nó. Bọn côn đồ đấy cướp hết chút của cải còn sót từ người nghèo bọn tôi. Và chúng còn không thèm nhúng tay vào cơ, luôn là bọn côn đồ từ địa phương đến quấy rầy. Mọi người có tin được không chứ?"
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Dù gì thì, cuộc sống đã khó khăn với bọn tôi vì cái đám tự cho mình là đúng kia. Trông có vẻ bọn chúng vốn đến để tìm thứ gì đó, nhưng giờ bọn chúng chỉ biết cuỗm sạch hết tiền từ bọn tôi mà thôi..."
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"...À! N-Nhớ rồi, chẳng phải chúng ta nên lượn đi sao? Mấy bọn côn đồ từ Băng Tình Tang sẽ tới đây liền đó."
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hình như Rodya cố tình cắt ngang lời chủ tiệm, nhưng tôi cũng không còn thì giờ để mà nghĩ tới ý định đằng sau hành động đó nữa."
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên thành viên băng đảng mà Don Quixote đánh ngất vừa nãy bắt đầu co giật như sắp tỉnh lại tới nơi."
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Hà, quả là rắc rối... Giờ thì mấy người đang làm vấn đề lớn hơn mức cần thiết."
+            },
+            {
+                "id":134,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Này, cậu Muffin và cô Sablé nhỉ? Đừng có chua ngoa thế. Quanh đây có nhiều tiệm cầm đồ mà? Chúng ta luôn có thể tìm-"
+            },
+            {
+                "id":135,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Là Saude và Effie. Xin đừng nhầm lẫn tên chúng tôi vì chúng nghe như bánh kẹo."
+            },
+            {
+                "id":136,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Và anh bảo rằng ở đây có rất nhiều tiệm cầm đồ ở khu vực lân cận, nhưng điều đấy cũng chẳng có nghĩa lý gì..."
+            },
+            {
+                "id":137,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"...Khi mà các tiệm cầm đồ đã để ý tới rắc rối ở đây và đóng cửa hết..."
+            },
+            {
+                "id":138,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Don Quixote...!>"
+            },
+            {
+                "id":139,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Tôi bắt đầu phát mệt với việc hướng dẫn bọn đần này từng thứ một rồi. Chúng ta cứ việc bỏ mặc chúng cho xong đi."
+            },
+            {
+                "id":140,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ngay khi tôi định rời đi, một người khác mặc đồ bộ quần áo tương tự với cái tên mà chúng tôi vừa đánh ngất—với vẻ mặt trông cũng cộc cằn chả kém—xông vào trong cửa tiệm."
+            },
+            {
+                "id":141,
+                "place":null,
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang",
+                "content":"Này, thằng già, ông có thấy..."
+            },
+            {
+                "id":142,
+                "place":null,
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang",
+                "content":"Chời ạ nhóc con! Chuyện quái gì đang diễn ra vậy?!"
+            },
+            {
+                "id":143,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chúng tôi đã cố gắng hết mức để hành xử như các vị khách hàng vô hại tình cờ có mặt ở tiệm cầm đồ này."
+            },
+            {
+                "id":144,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tuy nhiên là, cái sự xui xẻo lại không buông tha chúng tôi, tên xấu xa kia đã tỉnh lại..."
+            },
+            {
+                "id":145,
+                "place":null,
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang",
+                "content":"Đứa nào làm?! Nói ngay! Thằng đấy sẽ phải hối hận ngày nó đã chui ra khỏi bụng mẹ."
+            },
+            {
+                "id":146,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang",
+                "content":"Hự... Ở... Ở đằng kia...."
+            },
+            {
+                "id":147,
+                "place":null,
+                "model":"촌스러운말투의콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang",
+                "content":"Tên khốn... đồng hồ... đỏ..."
+            },
+            {
+                "id":148,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hướng ngón tay chỉ về kia đã quá rõ ràng đến mức tôi không thể giả vờ được nữa."
+            },
+            {
+                "id":149,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thêm nữa là, không còn lí do để chối bỏ việc \"đồng hồ đỏ\" là đang ám chỉ tới tôi, như việc tôi chắc rằng cũng không còn ai hợp với miêu tả đó trong toàn bộ cái Quận này."
+            },
+            {
+                "id":150,
+                "place":null,
+                "model":"전당포주인",
+                "teller":"Người cầm đồ",
+                "title":"Tiệm Cầm Đồ ở Quận J",
+                "content":"Để tránh bị hiểu nhầm ở đây, tôi xin nói trước là bản thân không liên quan gì tới những người này hay chuyện gì đang xảy ra ở đây. Tôi chỉ đang chuẩn bị mang khăn ra để chườm mát cho anh bạn tội nghiệp này...."
+            },
+            {
+                "id":151,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Thằng già điếm thúi này..."
+            },
+            {
+                "id":152,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ngay từ đầu cũng chả kì vọng gì đâu nhưng mà gã đó thực sự là đồ nhát cáy mà."
+            },
+            {
+                "id":153,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cứ cho là việc tên chủ tiệm đổi phe ngay trong cái nháy mắt và chỉ tay bôi nhọ cái đồng hồ—vì một việc mà bản thân tôi không có trách nhiệm—khiến tôi có chút tổn thương, cơ mà tôi vẫn quyết giữ lập trường của mình."
+            },
+            {
+                "id":154,
+                "place":null,
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang",
+                "content":"Ê... Đám đậu thối đằng kia... Đứng đó. Ngừng cái chân tụi bây lại."
+            },
+            {
+                "id":155,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hầu như bởi vì chúng tôi buộc phải chạy ngay bây giờ."
+            },
+            {
+                "id":156,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nếu tôi tiếp tục để mấy chuyện nhỏ nhặt này làm phiền nữa, thì sớm muộn gì tôi cũng sẽ bị đấm cho bét nhè hết."
+            },
+            {
+                "id":157,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Hà. Đếch cần phải chạy đâu. Cứ giết sạch bọn chúng là xong chứ gì."
+            },
+            {
+                "id":158,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Giờ sao nữa? Cô tính quét sạch cả Băng Đảng hay gì?"
+            },
+            {
+                "id":159,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Hề. Nghe cũng chả tệ đến thế."
+            },
+            {
+                "id":160,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Các thế lực tà ác sẽ bị diệt trừ ngay tức khắc để giương cao lá cờ của công lý!"
+            },
+            {
+                "id":161,
+                "place":null,
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Vậy, giờ, không còn ai trong cái đội này suy nghĩ như một con người được à?"
+            },
+            {
+                "id":162,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ishmael cảm thấy bị xúc phạm bởi lời lẽ đó và dường như đang nghĩ tới việc phản biện lại, cơ mà bọn Băng Tình Tang có vũ trang lại là vấn đề rắc rối hơn cần giải quyết."
+            },
+            {
+                "id":163,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Hãy...>"
+            },
+            {
+                "id":164,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Mau rời khỏi đây thôi!>"
+            }
+        ]
     }
-  ]
-}
+

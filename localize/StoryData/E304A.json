@@ -1,491 +1,706 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "model": "뒤틀린주인카운트2",
-      "teller": "Eunbong’s Bar & Fryers Owner",
-      "title": "Eunbong’s Bar & Fryers",
-      "content": "……"
-    },
-    {
-      "id": 1,
-      "model": "돈키호테",
-      "content": "Nay, what manner of foul trickery is this?! The number has gone down whilst the judge has yet to even touch his dish!"
-    },
-    {
-      "id": 2,
-      "model": "단테",
-      "content": "<He says it’s not even worth evaluating since what you said of it scared away his appetite…>"
-    },
-    {
-      "id": 3,
-      "model": "그레고르요리사",
-      "content": "That’s a few more syllables than what the owner spoke, isn’t it?"
-    },
-    {
-      "id": 4,
-      "model": "돈키호테",
-      "content": "Right he is! May this rejection be revoked!!"
-    },
-    {
-      "id": 5,
-      "model": "단테",
-      "content": "<H-Hold it! Let me ask you guys this first!>"
-    },
-    {
-      "id": 6,
-      "model": "단테",
-      "content": "<Have any of you even tasted this thing?>"
-    },
-    {
-      "id": 7,
-      "model": "그레고르요리사",
-      "content": "……"
-    },
-    {
-      "id": 8,
-      "model": "이상",
-      "content": "……"
-    },
-    {
-      "id": 9,
-      "model": "히스클리프",
-      "content": "……"
-    },
-    {
-      "id": 10,
-      "model": "돈키호테",
-      "content": "……"
-    },
-    {
-      "id": 11,
-      "model": "단테",
-      "content": "<You can’t just feed others things you haven’t tried yourselves, we’re trying to please someone here!>"
-    },
-    {
-      "id": 12,
-      "model": "히스클리프",
-      "content": "Mggrrr… Clockface’s got a point, I have to admit. Who wants to try this?"
-    },
-    {
-      "id": 13,
-      "content": "The tension was thicker than when we were preparing for battle."
-    },
-    {
-      "id": 14,
-      "model": "이상",
-      "content": "…I urge you not to look at me with such eyes…"
-    },
-    {
-      "id": 15,
-      "model": "돈키호테",
-      "content": "Permit me! If my sacrifice helpeth to unfurl the wickedness of the world…!"
-    },
-    {
-      "id": 16,
-      "content": "Don Quixote shut her eyes tight."
-    },
-    {
-      "id": 17,
-      "model": "히스클리프",
-      "content": "Bugger all! Someone just get the damn stuff in their jaw!"
-    },
-    {
-      "id": 18,
-      "content": "Heathcliff grabbed a lump out of the serving and shoved it into the nearest person’s mouth…"
-    },
-    {
-      "id": 19,
-      "model": "뫼르소",
-      "content": "……"
-    },
-    {
-      "id": 20,
-      "content": "Meursault stood completely still at the unexpected taste test."
-    },
-    {
-      "id": 21,
-      "model": "단테",
-      "content": "<Did that kill him on the spot?>"
-    },
-    {
-      "id": 22,
-      "model": "돈키호테",
-      "content": "I swear upon mine honor that I have done nothing to cause troubles this time. If Sir Vergilius is ever to ask who was responsible…"
-    },
-    {
-      "id": 23,
-      "content": "Meursault turned to Heathcliff, very slowly."
-    },
-    {
-      "id": 24,
-      "model": "뫼르소",
-      "content": "The…"
-    },
-    {
-      "id": 25,
-      "model": "히스클리프",
-      "content": "The… What?"
-    },
-    {
-      "id": 26,
-      "model": "뫼르소",
-      "content": "The dressing is erroneous overall; failure to properly cook the chicken has resulted in a residual stench of blood and other unpleasant odors; the sauce is too thick to bring out a deep flavor; the inconsistent cuts of the meat contribute to the serving’s inability to rouse one’s appetite."
-    },
-    {
-      "id": 27,
-      "model": "히스클리프",
-      "content": "I… Have you gone loony? That what you have to say?"
-    },
-    {
-      "id": 28,
-      "model": "뫼르소",
-      "content": "Non."
-    },
-    {
-      "id": 29,
-      "model": "뫼르소",
-      "content": "I have not finished."
-    },
-    {
-      "id": 30,
-      "model": "뫼르소",
-      "content": "The seasons and spices are a complete disaster, and the taste in my mouth is even worse than plaster. Lacking sugar, you tossed two and a half spoons of butter, and the end result simply belongs right in the gutter."
-    },
-    {
-      "id": 31,
-      "model": "돈키호테",
-      "content": "I… I am… quite sorry…"
-    },
-    {
-      "id": 32,
-      "model": "뫼르소",
-      "content": "Yi Sang. I must ask if you aim to throng my teeth and prong my tongue by cooking wrong—seeing as this plate’s a headstrong lens to ding-dong notions of what food is to you all along."
-    },
-    {
-      "id": 33,
-      "model": "이상",
-      "content": "…I have not one excuse."
-    },
-    {
-      "id": 34,
-      "model": "히스클리프",
-      "content": "One bloody moment, is he… possessed by something or?"
-    },
-    {
-      "id": 35,
-      "model": "뫼르소",
-      "content": "Most people were unable to accept my point when I elaborated on my statements in detail."
-    },
-    {
-      "id": 36,
-      "model": "뫼르소",
-      "content": "Because of that, I have not bothered to expand upon them until now."
-    },
-    {
-      "id": 37,
-      "model": "뫼르소",
-      "content": "Additionally…"
-    },
-    {
-      "id": 38,
-      "model": "홍루",
-      "content": "I know, why don’t we let Meursault take charge this time!"
-    },
-    {
-      "id": 39,
-      "content": "Hong Lu swiftly made a suggestion with a shower of claps to break the frigid tension before his turn to be condemned came around."
-    },
-    {
-      "id": 40,
-      "model": "홍루",
-      "content": "We’ll help you with everything you need!"
-    },
-    {
-      "id": 41,
-      "model": "뫼르소",
-      "content": "…I do not prefer to have assistants around."
-    },
-    {
-      "id": 42,
-      "model": "돈키호테",
-      "content": "Fret not! We shan’t disappoint you!"
-    },
-    {
-      "id": 43,
-      "content": "Don Quixote bravely exclaimed, rolling up her sleeves."
-    },
-    {
-      "id": 44,
-      "model": "뫼르소",
-      "content": "Hmm… Cooking is not my specialty, but if you so insist, I will readily attempt it."
-    },
-    {
-      "id": 45,
-      "model": "단테",
-      "content": "<L—Let’s have a look at Ryōshū’s team, then.>"
-    },
-    {
-      "id": 46,
-      "content": "While there was a spectacle occurring on Gregor’s team, the air had grown tense among Ryōshū’s crew."
-    },
-    {
-      "id": 47,
-      "model": "싱클레어",
-      "content": "B—But…"
-    },
-    {
-      "id": 48,
-      "model": "싱클레어",
-      "content": "How in the Wings’ names am I supposed to make food that’s both salty and clean, sweet but not too sugary, and lightly cooked but somehow also crispy!"
-    },
-    {
-      "id": 49,
-      "content": "Sinclair yelled, throwing the apron he had been wearing to the floor."
-    },
-    {
-      "id": 50,
-      "model": "싱클레어",
-      "content": "I can’t do this anymore! I guess Ishmael was right, beating Heathcliff at arm wrestling is gonna be easier than this!"
-    },
-    {
-      "id": 51,
-      "model": "이스마엘",
-      "content": "That—That was a joke…"
-    },
-    {
-      "id": 52,
-      "model": "파우스트",
-      "content": "Statistically speaking, it is as likely as Sinclair’s height increasing by five centimeters in just one week; in other words, a nigh impossib—"
-    },
-    {
-      "id": 53,
-      "model": "싱클레어",
-      "content": "Shut up already! It’s all the same!!!"
-    },
-    {
-      "id": 54,
-      "model": "오티스",
-      "content": "How weak, you cannot withstand a few criticisms and come whining like the pathetic soldier you are."
-    },
-    {
-      "id": 55,
-      "model": "싱클레어",
-      "content": "If you’re so darn sure of yourself, Outis… W-Why don’t you do it yourself then?"
-    },
-    {
-      "id": 56,
-      "content": "As courageous as his rebuttal was, his eyes were shut tight."
-    },
-    {
-      "id": 57,
-      "model": "오티스",
-      "content": "…You leave me no choice."
-    },
-    {
-      "id": 58,
-      "model": "오티스요리사",
-      "content": "Out of my way, stragglers. It’s about time someone led this troop."
-    },
-    {
-      "id": 59,
-      "content": "In a series of turbulent events I didn’t fully catch, Meursault took up Gregor’s culinary antennae and toque blanche."
-    },
-    {
-      "id": 60,
-      "content": "The kitchen grew busy as Gregor’s Sinners moved according to Meursault’s order."
-    },
-    {
-      "id": 61,
-      "model": "돈키호테",
-      "content": "Behold, Meursault! I have carved this one into the adorable shape of a star…"
-    },
-    {
-      "id": 62,
-      "model": "뫼르소요리사",
-      "content": "Potatoes should be cut into square pieces so that they may be evenly cooked on all sides."
-    },
-    {
-      "id": 63,
-      "model": "돈키호테",
-      "content": "Nevertheless…!!"
-    },
-    {
-      "id": 64,
-      "model": "뫼르소요리사",
-      "content": "Square shapes. Five centimeters."
-    },
-    {
-      "id": 65,
-      "model": "돈키호테",
-      "content": "……"
-    },
-    {
-      "id": 66,
-      "content": "Meursault looked more charismatic than ever with the mantle of head chef upon his shoulders."
-    },
-    {
-      "id": 67,
-      "model": "그레고르",
-      "content": "Eh, whatever. A chicken’s a chicken, it can only be so special."
-    },
-    {
-      "id": 68,
-      "model": "그레고르",
-      "content": "Who knows, that lost recipe of his might’ve been all superficial stuff like “one spoon of earnestness and three scoops of effort”, ‘ne?"
-    },
-    {
-      "id": 69,
-      "model": "홍루",
-      "content": "Oho~ So this is how you cook potatoes~"
-    },
-    {
-      "id": 70,
-      "model": "히스클리프",
-      "content": "What the… Ya thought they harvested baked potatoes out in the fields?"
-    },
-    {
-      "id": 71,
-      "model": "홍루",
-      "content": "Taking me for a fool, aren’t you…!"
-    },
-    {
-      "id": 72,
-      "model": "홍루",
-      "content": "Obviously, ripe potatoes fall from their trees when the time is right."
-    },
-    {
-      "id": 73,
-      "model": "히스클리프",
-      "content": "……"
-    },
-    {
-      "id": 74,
-      "model": "홍루",
-      "content": "Pft, I was just kidding, Heathcliff."
-    },
-    {
-      "id": 75,
-      "model": "홍루",
-      "content": "Oh? What are you planning to do with that tenderizer—"
-    },
-    {
-      "id": 76,
-      "model": "이상",
-      "content": "A serene flower has blossomed on this yam. Ah, so a bud can indeed bloom even upon this barren ground."
-    },
-    {
-      "id": 77,
-      "model": "뫼르소요리사",
-      "content": "That is a sign that the potato is poisonous; it must be disposed of immediately. Don Quixote, confiscate it."
-    },
-    {
-      "id": 78,
-      "model": "돈키호테",
-      "content": "Righty-ho!!!"
-    },
-    {
-      "id": 79,
-      "model": "이상",
-      "content": "Ah… Please do not do such…"
-    },
-    {
-      "id": 80,
-      "model": "이상",
-      "content": "Burnt things are significant in their own ways. In truth, the state of being “burnt” may as well be an imaginary concept defined by man when the essence of an object has remained unchanged."
-    },
-    {
-      "id": 81,
-      "model": "뫼르소요리사",
-      "content": "“Burnt” refers to the condition in which a food item is discolored beyond a certain degree and produces an acrid smell after prolonged exposure to high heat."
-    },
-    {
-      "id": 82,
-      "model": "뫼르소요리사",
-      "content": "And this one has burnt to its core. It is only right to discard it as long-term consumption of burnt food can negatively impact the body."
-    },
-    {
-      "id": 83,
-      "model": "이상",
-      "content": "How regrettable…"
-    },
-    {
-      "id": 84,
-      "content": "Meursault became a ruthless chef, while Yi Sang remained mostly unhelpful."
-    },
-    {
-      "id": 85,
-      "content": "Heathcliff was peeling ingredients at a surprisingly brisk pace."
-    },
-    {
-      "id": 86,
-      "model": "히스클리프",
-      "content": "Don’t gab at me. It’ll ruin my focus."
-    },
-    {
-      "id": 87,
-      "model": "히스클리프",
-      "content": "Knives are a luxury. A real pauper can peel any spud with nothing more than a metal spoon."
-    },
-    {
-      "id": 88,
-      "model": "뫼르소요리사",
-      "content": "……"
-    },
-    {
-      "id": 89,
-      "model": "뫼르소요리사",
-      "content": "This gets a pass. You are rewarded extra points for the expertise displayed in your aslant strokes."
-    },
-    {
-      "id": 90,
-      "model": "히스클리프",
-      "content": "That’s class!!!!"
-    },
-    {
-      "id": 91,
-      "model": "오티스요리사",
-      "content": "Watch closely. You need to employ a wide variety of ingredients. Being a picky eater is what’s stunted your growth."
-    },
-    {
-      "id": 92,
-      "model": "싱클레어",
-      "content": "I… I can still get taller from here…!"
-    },
-    {
-      "id": 93,
-      "model": "싱클레어",
-      "content": "…I think."
-    },
-    {
-      "id": 94,
-      "model": "오티스요리사",
-      "content": "Also, an unbalanced diet is the reason why your hair’s turned all grey."
-    },
-    {
-      "id": 95,
-      "model": "파우스트",
-      "content": "Faust has… always had…"
-    },
-    {
-      "id": 96,
-      "model": "오티스요리사",
-      "content": "Your hands in particular have become coarse and rough for the same reason."
-    },
-    {
-      "id": 97,
-      "model": "이스마엘",
-      "content": "Excuse me? This is because of all the work I did aboard the ship!"
-    },
-    {
-      "id": 98,
-      "model": "로쟈",
-      "content": "Me next, Outis! What about me? What’s the diagnosis?"
-    },
-    {
-      "id": 99,
-      "model": "오티스요리사",
-      "content": "Don’t yell frivolously like that! You’re being a distraction!"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"뒤틀린주인카운트2",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong",
+                "content":"……"
+            },
+            {
+                "id":1,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Kìa, hành động gian trá gì đây chứ? Con số đã nhảy xuống trước khi giám khảo kịp nếm món ăn được bày ra nữa!"
+            },
+            {
+                "id":2,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Ông ấy nói nó thậm chí còn không đáng để đánh giá nữa bởi vì những lời cô nói đã khiến ông ấy hết muốn ăn rồi…>"
+            },
+            {
+                "id":3,
+                "model":"그레고르요리사",
+                "teller":null,
+                "title":null,
+                "content":"Hình như ngài có nhét thêm vài từ vào lời đánh giá của chủ quán phải không?"
+            },
+            {
+                "id":4,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Đúng đúng! Ta muốn phản đối lại quyết định này!!"
+            },
+            {
+                "id":5,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<C-Chờ đã! Để tôi hỏi mọi người câu này trước!>"
+            },
+            {
+                "id":6,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Đã có bất kỳ ai thử thứ này chưa?>"
+            },
+            {
+                "id":7,
+                "model":"그레고르요리사",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":8,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":9,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":10,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":11,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Mấy người không thể nào dồn họng người ta mấy cái món mà chính mấy người còn chưa dám thử nữa, chúng ta đang cố gắng làm hài lòng chủ quán và cứu ông ấy đấy!>"
+            },
+            {
+                "id":12,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Gừ… Tao phải công nhận đầu đồng hồ nói có lý. Ai muốn thử nào?"
+            },
+            {
+                "id":13,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bầu không khí còn căng thẳng hơn lúc chúng tôi chuẩn bị chiến đấu nữa."
+            },
+            {
+                "id":14,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"…Tôi khẩn cầu anh đừng nhìn tôi với ánh mắt như thế…"
+            },
+            {
+                "id":15,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Để ta! Nếu sự hy sinh của ta có thể góp phần xua tan đi tà ác của thế giới này…!"
+            },
+            {
+                "id":16,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Don Quixote nhắm chặt mắt lại."
+            },
+            {
+                "id":17,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Con mẹ tụi mày!! Nhét cái đống này vào mõm đứa nào là được chứ gì!"
+            },
+            {
+                "id":18,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Heathcliff nắm lấy cái dĩa thức ăn rồi thồn nó vô mồm của người gần anh ta nhất…"
+            },
+            {
+                "id":19,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":20,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Meursault đứng lặng người lặng tiếng trước thứ hương vị đầy bất ngờ được cho vào miệng của anh ta."
+            },
+            {
+                "id":21,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Anh ấy chết rồi á?>"
+            },
+            {
+                "id":22,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Ta xin thề với danh dự của bản thân rằng ta không hề gây ra bất kỳ rắc rối gì lần này hết. Nếu như Ngài Vergilius có truy cứu ai là người chịu trách nhiệm cho vụ này…"
+            },
+            {
+                "id":23,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Meursault quay sang Heathcliff, rất chậm rãi."
+            },
+            {
+                "id":24,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Nước…"
+            },
+            {
+                "id":25,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nước… gì?"
+            },
+            {
+                "id":26,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Nước trộn này nói thẳng là tệ. Việc xử lý thịt gà sai cách khiến mùi tanh của máu và nhiều mùi vị tởm lợm khác còn đọng lại trong thịt; sốt thì quá đặc để vực được chiều sâu hương vị; thịt bị cắt miếng dày miếng mỏng dẫn tới ai nhìn đều không thể thấy ngon miệng nổi."
+            },
+            {
+                "id":27,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao… Mày hoá điên rồi à? Tự nhiên nói ghê vậy?"
+            },
+            {
+                "id":28,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Chưa."
+            },
+            {
+                "id":29,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Tôi chưa trình bày xong."
+            },
+            {
+                "id":30,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Nêm nếm gia vị phải gọi là thảm họa, cái mùi vị còn vương vấn trong miệng tôi còn dở còn hơn cả xi măng. Đường thì thiếu, bơ thì thừa, món ăn xứng đáng được trượt một phát thẳng xuống cống."
+            },
+            {
+                "id":31,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Ta… ta đây… thật sự xin lỗi…"
+            },
+            {
+                "id":32,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Yi Sang à. Tôi đang không biết liệu cậu có cố ý mòn răng mài lưỡi tôi với cái trình nấu ăn thậm tệ này hay không. Vì khi nhìn vào đĩa gà này, tôi khá quan ngại với khái niệm trừu tượng về đồ ăn của cậu."
+            },
+            {
+                "id":33,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"... Tôi chẳng có lời nào để biện hộ cả.."
+            },
+            {
+                "id":34,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Con mẹ nó từ từ, nó bị…. tẩu hoả nhập ma hay gì?"
+            },
+            {
+                "id":35,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Mọi người thường không tiếp nhận ý kiến của tôi mỗi khi tôi trình bày chi tiết luận điểm của mình."
+            },
+            {
+                "id":36,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Chính vì vậy, tôi đã không nói gì thêm cho tới thời điểm hiện tại."
+            },
+            {
+                "id":37,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Hơn nữa..."
+            },
+            {
+                "id":38,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Thế thì lần này, chúng ta để anh Meursault lên nấu chính đi ha!"
+            },
+            {
+                "id":39,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hong Lu đề xuất ý tưởng cùng một tràng vỗ tay để phá tan đi sự căng thẳng và bầu không khí ngột ngạt này trước khi đến lượt anh ấy bị chỉ trích."
+            },
+            {
+                "id":40,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Chúng tôi cũng sẽ hỗ trợ anh cả về vật chất lẫn tinh thần luôn!"
+            },
+            {
+                "id":41,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"…Tôi không cần phụ bếp."
+            },
+            {
+                "id":42,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Đừng lo! Chúng ta sẽ không làm anh thất vọng đâu!"
+            },
+            {
+                "id":43,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Don Quixote tuyên bố một cách dõng dạc, rồi xắn tay áo lên."
+            },
+            {
+                "id":44,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Hừm… Nấu ăn không phải sở trường của tôi, nhưng nếu mọi người vẫn muốn, tôi sẽ sẵn lòng thử."
+            },
+            {
+                "id":45,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<H—Hãy xem bên đội của Ryōshū ra sao rồi.>"
+            },
+            {
+                "id":46,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Trong khi bên đội của Gregor đang diễn ra một cảnh tượng có một không hai, thì bên phía của Ryōshū toát ra sự căng thẳng tột độ."
+            },
+            {
+                "id":47,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Nh—Nhưng…"
+            },
+            {
+                "id":48,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Wing ơi, làm thế quái nào tôi nấu được cái món vi diệu vừa mặn mà vẵn thanh đạm, vừa ngọt mà vẫn không quá nhiều đường, vừa chín sơ sơ mà vẫn giòn tan được đây hả!"
+            },
+            {
+                "id":49,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sinclair hét lên, ném cái tạp dề đang mặc trên người xuống sàn bếp."
+            },
+            {
+                "id":50,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Tôi chịu hết nổi rồi! Chắc cô Ishmael nói đúng, vật tay thắng anh Heathcliff còn dễ hơn đi làm ba cái việc chết tiệt này!"
+            },
+            {
+                "id":51,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"T-Tôi chỉ nói đùa thôi mà…"
+            },
+            {
+                "id":52,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Về mặt thống kê, khả năng này cũng giống như việc chiều cao của Sinclair tăng thêm năm centimet chỉ trong một tuần; Nói cách khác, gần như không t—"
+            },
+            {
+                "id":53,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Im ngay đi! Bộ khác gì nhau chắc!!!"
+            },
+            {
+                "id":54,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Quá yếu đuối, mới bị phê bình cỡ này mà ngươi đã không chịu được rồi hả, lại còn rên rỉ như một người lính yếu đuối thảm hại nữa."
+            },
+            {
+                "id":55,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Nếu cô tự tin về bản thân đến thế… S-Sao cô Outis không tự nấu đi cho rồi?"
+            },
+            {
+                "id":56,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cậu ấy phản bác lại một cách đầy quyết liệt, nhưng đôi mắt vẫn nhắm chặt lại."
+            },
+            {
+                "id":57,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"…Nếu ngươi muốn thế thì."
+            },
+            {
+                "id":58,
+                "model":"오티스요리사",
+                "teller":null,
+                "title":null,
+                "content":"Đám lạc hậu này, tránh đường ra. Để ta cho các ngươi thấy khả năng của một người lãnh đạo thực thụ."
+            },
+            {
+                "id":59,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Theo một chuỗi sự kiện nào đó mà tôi hoàn toàn không thể hiểu được, Meursault đứng ra thay thế Gregor không có tài nấu nướng trở thành bếp trưởng và đội chiếc mũ trùm lên."
+            },
+            {
+                "id":60,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Căn bếp bắt đầu rộn rã hơn khi các Tội Nhân bên đội Gregor di chuyển và hành động theo mệnh lệnh của Meursault."
+            },
+            {
+                "id":61,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Chiêm ngưỡng nè, Meursault! Ta đã gọt miếng này thành hình ngôi sao thật dễ thương rồi…"
+            },
+            {
+                "id":62,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"Khoai tây cần được cắt thành những miếng vuông để chúng chín đều các mặt."
+            },
+            {
+                "id":63,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Dẫu vậy…!!"
+            },
+            {
+                "id":64,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"Vuông. Năm xăng ti."
+            },
+            {
+                "id":65,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":66,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Meursault trông thật ra dáng lãnh đạo với chiếc mũ bếp trưởng ấy."
+            },
+            {
+                "id":67,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Hầy, kệ đi. Chỉ là gà thôi mà, có gì đặc biệt đâu kia chứ."
+            },
+            {
+                "id":68,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Có khi cái công thức mà gã đánh mất lại ghi toàn mấy thứ khỉ gió như \"một thìa chân thành và ba muỗng nỗ lực\" thì sao?"
+            },
+            {
+                "id":69,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Ồ~ Hóa ra mọi người nấu khoai tây như thế này nhỉ~"
+            },
+            {
+                "id":70,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Vãi cả… Mày tưởng khoai tây nhặt ngoài vườn nó luộc sẵn rồi à?"
+            },
+            {
+                "id":71,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Ha, anh nghĩ tôi là đồ ngốc đấy à…!"
+            },
+            {
+                "id":72,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Tôi còn biết là, khi nào chín thì khoai sẽ tự rụng từ trên cành cây xuống đó nha."
+            },
+            {
+                "id":73,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":74,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Phì, tôi đùa ấy mà, anh Heathcliff."
+            },
+            {
+                "id":75,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Ơ? Sao tự dưng anh lại cầm cái cây dần thịt lên…"
+            },
+            {
+                "id":76,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Một đóa hoa thật tươi đẹp đã bung cánh trên củ khoai này. À, vậy ra một nụ hoa có thể nở rộ dù cho ở những nơi sỏi đá khắc nghiệt nhất."
+            },
+            {
+                "id":77,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"Đây là dấu hiệu khoai tây có độc; nó cần phải bị tiêu hủy ngay lập tức. Don Quixote, vui lòng hãy tịch thu nó."
+            },
+            {
+                "id":78,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Đã rõ!!!"
+            },
+            {
+                "id":79,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"A… Xin đừng làm thế…"
+            },
+            {
+                "id":80,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Những thứ đã cháy có tầm quan trọng theo cách riêng của chúng. Thực ra, tình trạng ’’cháy’’ có khi chỉ là một khái niệm được con người tự tưởng tượng ra dù cho bản chất của sự vật chẳng thay đổi."
+            },
+            {
+                "id":81,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"\"Cháy\" là chỉ tình trạng của đồ ăn khi chúng bị đổi màu tới một mức độ nhất định và sản sinh ra mùi khét sau khi đã tiếp xúc với nhiệt độ cao."
+            },
+            {
+                "id":82,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"Củ khoai này đã cháy tận lõi rồi. Vứt nó đi là lựa chọn hợp lý nhất khi việc tiêu thụ thức ăn bị cháy lâu dài có ảnh hưởng tiêu cực tới cơ thể."
+            },
+            {
+                "id":83,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Thật đáng tiếc…"
+            },
+            {
+                "id":84,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Meursault đã trở thành một đầu bếp không khoan nhượng, trong khi Yi Sang vẫn không giúp ích được gì."
+            },
+            {
+                "id":85,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Heathcliff đang cắt gọt nguyên liệu với tốc độ chóng mặt."
+            },
+            {
+                "id":86,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Đừng nói gì hết. Để tao tập trung."
+            },
+            {
+                "id":87,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Dao là đồ xa xỉ. Anh em bọn tao gọt đồ ăn bằng thìa còn được."
+            },
+            {
+                "id":88,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":89,
+                "model":"뫼르소요리사",
+                "teller":null,
+                "title":null,
+                "content":"Thế này tạm được. Anh được cộng điểm với sự chuyên nghiệp thể hiện trong những vết khứa chéo này."
+            },
+            {
+                "id":90,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Ngầu chưa!!!!"
+            },
+            {
+                "id":91,
+                "model":"오티스요리사",
+                "teller":null,
+                "title":null,
+                "content":"Nhìn cho kĩ. Ngươi cần sử dụng đa dạng các loại nguyên liệu vào. Kén ăn là thứ đang kìm hãm sự phát triển của ngươi."
+            },
+            {
+                "id":92,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Tôi… Tôi vẫn còn cao hơn được nữa mà…!"
+            },
+            {
+                "id":93,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"…Chắc vậy."
+            },
+            {
+                "id":94,
+                "model":"오티스요리사",
+                "teller":null,
+                "title":null,
+                "content":"Còn nữa, bữa ăn mất cân đối cũng là lý do sao tóc ngươi bạc hết cả lên như bà cụ đấy."
+            },
+            {
+                "id":95,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Faust… vốn đã… thế này…"
+            },
+            {
+                "id":96,
+                "model":"오티스요리사",
+                "teller":null,
+                "title":null,
+                "content":"Bàn tay thô và cứng của ngươi cũng do cùng một lý do mà ra."
+            },
+            {
+                "id":97,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Này nhé? Tay tôi thô ráp là do lao động cực nhọc mỗi ngày trên tàu cá đấy!"
+            },
+            {
+                "id":98,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Đến tôi, Outis! Còn tôi thì sao? Cô phán xét thế nào?"
+            },
+            {
+                "id":99,
+                "model":"오티스요리사",
+                "teller":null,
+                "title":null,
+                "content":"Bớt la lên một cách vô tích sự như thế đi! Ngươi đang gây mất trật tự đấy!"
+            }
+        ]
     }
-  ]
-}
+

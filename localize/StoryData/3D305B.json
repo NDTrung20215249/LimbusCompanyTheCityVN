@@ -1,99 +1,125 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "So you ended up giving Kromer the key."
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "How do you know that?"
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "Demian had this ability to get a grip on things I’d never mentioned to him."
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "When I asked him about it, he just said it's “something you learn by carefully observing others”, and didn’t elaborate further."
-    },
-    {
-      "id": 4,
-      "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Sinclair, a series of much more painful events may await you in the future."
-    },
-    {
-      "id": 5,
-      "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "But you mustn’t give up."
-    },
-    {
-      "id": 6,
-      "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "That pain will foster your growth into a beautiful being."
-    },
-    {
-      "id": 7,
-      "model": "싱클레어",
-      "content": "No matter how complicated and perplexing those statements seemed, Demian’s mystic charm made them all sound convincing."
-    },
-    {
-      "id": 8,
-      "model": "싱클레어",
-      "content": "Listening to his speech gave me the hope that I could really grow. I was hopeful that I could become a worthy being."
-    },
-    {
-      "id": 9,
-      "model": "싱클레어",
-      "content": "Yeah… But I don’t really get it though, Demian."
-    },
-    {
-      "id": 10,
-      "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "It’s up to you to find out. Make sure to tell me your answer when you do."
-    },
-    {
-      "id": 11,
-      "model": "싱클레어",
-      "content": "His voice was soft, and his eyes imparted pleasantness, but I still felt compelled to do as he said."
-    },
-    {
-      "id": 12,
-      "model": "싱클레어",
-      "content": "His eyes must have held some kind of power."
-    },
-    {
-      "id": 13,
-      "model": "싱클레어",
-      "content": "Disarming those who make eye contact with him, sapping them of mental strength."
-    },
-    {
-      "id": 15,
-      "model": "싱클레어",
-      "content": "But…"
-    },
-    {
-      "id": 16,
-      "model": "싱클레어",
-      "content": "If that’s the case, why didn’t he warn me?"
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "It’s something I still ask myself to this day."
+        "dataList":[
+            {
+                "id":0,
+                "model":"학생데미안",
+                "teller":"Demian",
+                "title":"Học sinh Chuyển trường Bí ẩn",
+                "content":"Và rồi cậu đã đưa cho Kromer chiếc chìa khóa."
+            },
+            {
+                "id":1,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Làm sao cậu biết?"
+            },
+            {
+                "id":2,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Demian có khả năng nắm thóp được những việc tôi chưa hề nói với cậu ta."
+            },
+            {
+                "id":3,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Khi tôi hỏi như thế, câu ta chỉ đáp rằng nó là \"một thứ học được từ việc chú tâm quan sát người khác\", và không giải thích gì thêm."
+            },
+            {
+                "id":4,
+                "model":"학생데미안",
+                "teller":"Demian",
+                "title":"Học sinh Chuyển trường Bí ẩn",
+                "content":"Sinclair à, nhiều sự kiện đau thương đang chờ đón cậu vào một tương lai không xa."
+            },
+            {
+                "id":5,
+                "model":"학생데미안",
+                "teller":"Demian",
+                "title":"Học sinh Chuyển trường Bí ẩn",
+                "content":"Nhưng cậu không được bỏ cuộc."
+            },
+            {
+                "id":6,
+                "model":"학생데미안",
+                "teller":"Demian",
+                "title":"Học sinh Chuyển trường Bí ẩn",
+                "content":"Nỗi đau ấy sẽ nuôi dưỡng cậu thành một thực thể xinh đẹp."
+            },
+            {
+                "id":7,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Dù những lời lẽ ấy có phức tạp và trừu tượng đến nhường nào, sức cuốn hút huyền bí của Demian luôn khiến mọi thứ nghe hết sức thuyết phục."
+            },
+            {
+                "id":8,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Lắng nghe lời nói của cậu ta trao cho tôi hy vọng rằng tôi thật sự có thể trưởng thành. Rằng tôi có thể trở thành một con người xứng đáng với điều đó."
+            },
+            {
+                "id":9,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Ờ… Nhưng mà tớ vẫn không hiểu lắm, Demian."
+            },
+            {
+                "id":10,
+                "model":"학생데미안",
+                "teller":"Demian",
+                "title":"Học sinh Chuyển trường Bí ẩn",
+                "content":"Tất cả đều tùy vào cậu. Khi ấy, hãy nói cho tôi biết câu trả lời của cậu."
+            },
+            {
+                "id":11,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Tuy lời nói của cậu ta nghe thật nhẹ nhàng, tuy ánh mắt của cậu ta mang vẻ dịu dàng, tôi vẫn cảm thấy như mình buộc phải làm theo điều cậu ta nói."
+            },
+            {
+                "id":12,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Đôi mắt của cậu ta ắt hẳn phải có một sức mạnh gì đó."
+            },
+            {
+                "id":13,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Rút cạn tinh thần của bất kỳ ai nhìn thẳng vào mắt cậu ta."
+            },
+            {
+                "id":15,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng…"
+            },
+            {
+                "id":16,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Nếu thật là như thế, tại sao lại không cảnh báo cho tôi trước?"
+            },
+            {
+                "id":17,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Đó là một điều tôi vẫn luôn tự hỏi đến ngày hôm nay."
+            }
+        ]
     }
-  ]
-}
+

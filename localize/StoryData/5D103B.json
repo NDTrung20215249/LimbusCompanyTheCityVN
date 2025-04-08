@@ -1,385 +1,550 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pallid Whale's Stomach",
-            "content": "And so we ran, trying to weave our way between the pouring stomach acid..."
-        },
-        {
-            "id": 1,
-            "content": "... without even knowing where we were supposed to go."
-        },
-        {
-            "id": 2,
-            "teller": "???",
-            "title": "???",
-            "content": "Wow, man. What a... what a funny sight, eh?"
-        },
-        {
-            "id": 3,
-            "teller": "???",
-            "title": "???",
-            "content": "Funny? That's more suspicious than funny."
-        },
-        {
-            "id": 4,
-            "teller": "???",
-            "title": "???",
-            "content": "You're too loud...! Great, now we caught their attention."
-        },
-        {
-            "id": 5,
-            "model": "단테",
-            "content": "<...? Who's there?>"
-        },
-        {
-            "id": 6,
-            "teller": "???",
-            "title": "???",
-            "content": "Hey. I heard you guys... talking down there."
-        },
-        {
-            "id": 7,
-            "model": "이상",
-            "content": "Those Mermaids... speak...?"
-        },
-        {
-            "id": 8,
-            "teller": "???",
-            "title": "???",
-            "content": "We're not... Mermaids. Ever seen a Mer...maid this chatty?"
-        },
-        {
-            "id": 9,
-            "model": "뫼르소",
-            "content": "Their Pallidification effects have only partially progressed."
-        },
-        {
-            "id": 10,
-            "model": "로쟈",
-            "content": "So what does that make them? Half-human, half-fish?"
-        },
-        {
-            "id": 11,
-            "teller": "???",
-            "title": "???",
-            "content": "Well, we don't got... much time. So I'll make it... short."
-        },
-        {
-            "id": 12,
-            "teller": "???",
-            "title": "???",
-            "content": "This zone... floods with acid every 10 minutes... or so."
-        },
-        {
-            "id": 13,
-            "teller": "???",
-            "title": "???",
-            "content": "Unless you guys are all... made of steel..."
-        },
-        {
-            "id": 14,
-            "teller": "???",
-            "title": "???",
-            "content": "... you better decide fast! Either ta...ke the rope we're about to lower down, or..."
-        },
-        {
-            "id": 15,
-            "teller": "???",
-            "title": "???",
-            "content": "... become sludgy nutrient... for the Whale and be one with it... forever and ever."
-        },
-        {
-            "id": 16,
-            "teller": "???",
-            "title": "???",
-            "content": "Well, even if you were to all turn into sludge, we can still salvage your weapons. We don't got nothing to lose."
-        },
-        {
-            "id": 17,
-            "teller": "???",
-            "title": "???",
-            "content": "Some of 'em are already starting to melt."
-        },
-        {
-            "id": 18,
-            "model": "단테",
-            "content": "<Do we even have a choice?>"
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "ROPE! NOW!"
-        },
-        {
-            "id": 20,
-            "content": "They muttered something amongst themselves, as though they found something funny about this situation... and tossed an odd-looking rope in our direction."
-        },
-        {
-            "id": 21,
-            "model": "그레고르",
-            "content": "This rope feels funny."
-        },
-        {
-            "id": 22,
-            "teller": "???",
-            "title": "???",
-            "content": "That rope right... there's made of capillary we pulled straight... from its lungs. It'll last more than... an hour, even in its stomach acid."
-        },
-        {
-            "id": 23,
-            "model": "로쟈",
-            "content": "Greg... Why'd you even ask that...? Eugh, I hate it..."
-        },
-        {
-            "id": 24,
-            "content": "With Rodya and her grumblings in tow, we struggled up the bundle of capillary rope."
-        },
-        {
-            "id": 25,
-            "model": "단테",
-            "content": "<... Phew. I don't know who you guys are... But thanks.>"
-        },
-        {
-            "id": 26,
-            "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Hell yeah, what a catch! We'll net us upwards of 3 gold coins for this."
-        },
-        {
-            "id": 27,
-            "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "I think this tick-tocking friend might be worth more than that."
-        },
-        {
-            "id": 28,
-            "model": "료슈",
-            "content": "A catch? You think you fished us up?"
-        },
-        {
-            "id": 29,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "We come here every... once in a while to check if... anyone's washed up, yeah."
-        },
-        {
-            "id": 30,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "But most of 'em poor castaways... are already almost full Mermaids by the time we find 'em. In a matter of... minutes, they're all rearing to kill us. And the rest are... just your every-day Mermaids."
-        },
-        {
-            "id": 31,
-            "model": "홍루",
-            "content": "Haha, so this is a special occasion, then?"
-        },
-        {
-            "id": 32,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "This is probably the first time ever... that we found sailors that could not only... talk, but also weren't halfway turned... into Mermaids."
-        },
-        {
-            "id": 33,
-            "model": "단테",
-            "content": "<So why do you guys come here every once in a while, then?>"
-        },
-        {
-            "id": 34,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "The clock friend... here keeps tick-tockin'. Are they saying some...thing? Doubt they're a full-on robot."
-        },
-        {
-            "id": 35,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Don't most... people prefer to keep the ability to speak even when re...placing their bodies with prosthetics? Guess the trends have re...ally changed since we got here."
-        },
-        {
-            "id": 36,
-            "model": "그레고르",
-            "content": "Uh, so that buddy there... Well, it's a long story. But yeah, they can't communicate normally."
-        },
-        {
-            "id": 37,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Hm, all... good. Everyone's got a sto...ry they don't want to tell."
-        },
-        {
-            "id": 38,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "We can sympathize a little. Talking ain't... the easiest thi...ng to do."
-        },
-        {
-            "id": 39,
-            "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Consider yourselves lucked out, fellas! You guys ran into us, of all things!"
-        },
-        {
-            "id": 40,
-            "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "Cuz we'll be getting out of here real soon!"
-        },
-        {
-            "id": 41,
-            "content": "We followed their confident, guiding steps, but there was no way to look at this situation without a bit of suspicion."
-        },
-        {
-            "id": 42,
-            "model": "단테",
-            "content": "<Where do you think they're taking us?>"
-        },
-        {
-            "id": 43,
-            "model": "단테",
-            "content": "<What if they're leading us into a trap...?>"
-        },
-        {
-            "id": 44,
-            "model": "이스마엘",
-            "content": "If they were trying to attack us, they would've done so when we were almost at the top of the cliff. We were completely vulnerable to attacks there."
-        },
-        {
-            "id": 45,
-            "model": "이스마엘",
-            "content": "And..."
-        },
-        {
-            "id": 46,
-            "content": "Ishmael opened her mouth as though she was about to say something, then stopped herself before turning around. It looked like she hadn't finished processing her thoughts yet."
-        },
-        {
-            "id": 47,
-            "model": "이스마엘",
-            "content": "... I'm sure I've seen that harpoon before somewhere..."
-        },
-        {
-            "id": 48,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "So what ship a...re you guys from again?"
-        },
-        {
-            "id": 49,
-            "model": "그레고르",
-            "content": "Um... It's called the... The Limbus. You probably haven't heard of it, yeah..."
-        },
-        {
-            "id": 50,
-            "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Well, talk straight, man! It's not like you're a Mermaid. Who's your Captain? If they're from U Corp, their name just might ring a bell."
-        },
-        {
-            "id": 51,
-            "model": "그레고르",
-            "content": "Um... who's... our Captain again?"
-        },
-        {
-            "id": 52,
-            "model": "단테",
-            "content": "<I dunno, guys. I've never taken the helm. Not sure if I can call myself a Captain here.>"
-        },
-        {
-            "id": 53,
-            "model": "돈키호테",
-            "content": "The helm... Forsooth... If this be all about who handles the wheel..."
-        },
-        {
-            "id": 54,
-            "model": "돈키호테",
-            "content": "I am quite well aware of our Captain!!! Charon is our Captain, indeed!"
-        },
-        {
-            "id": 55,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Aha... nope. Never hea...rd of 'em. I guess it's really been... a while, then..."
-        },
-        {
-            "id": 56,
-            "content": "He scratched his head. 'Captain' Charon clearly didn't ring a bell."
-        },
-        {
-            "id": 57,
-            "model": "이스마엘",
-            "content": "You... How long has it been since you were trapped in here?"
-        },
-        {
-            "id": 58,
-            "model": "피쿼드호주민1",
-            "teller": "???",
-            "title": "???",
-            "content": "Eight months."
-        },
-        {
-            "id": 59,
-            "model": "피쿼드호주민2",
-            "teller": "???",
-            "title": "???",
-            "content": "No, dumbass! This is our third year! Our last count was at 644 days, so..."
-        },
-        {
-            "id": 60,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "I dunno, la...dy. I quit coun...ting the days a while ago. I've completely lost tra...ck of time since we got stuck deep in...side where the sun don't shine."
-        },
-        {
-            "id": 61,
-            "model": "이스마엘",
-            "content": "... I see."
-        },
-        {
-            "id": 62,
-            "model": "이스마엘",
-            "content": "I know only one person who ties a knot to their harpoon like that..."
-        },
-        {
-            "id": 63,
-            "model": "스타벅",
-            "teller": "???",
-            "title": "???",
-            "content": "Oh, this? It's called the Desper...ate's Knot. Even in our town, only the... experienced few knows how to tie it."
-        },
-        {
-            "id": 64,
-            "model": "이스마엘",
-            "content": "So... they're here...?"
-        },
-        {
-            "id": 65,
-            "model": "이스마엘",
-            "content": "I... I think I know you."
-        },
-        {
-            "id": 66,
-            "content": "Ishmael comes to a sudden stop. So do our guides."
-        },
-        {
-            "id": 67,
-            "content": "... Not because of what she said."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trong Dạ Dày Cá Voi Trắng",
+                "content":"Và thế là chúng tôi chạy, cố gắng len lỏi giữa những giọt axit dạ dày rơi xuống...",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"... thậm chí không hề biết chúng tôi phải đi về hướng nào.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Chà chà. Đúng là một cảnh tượng... kì lạ nhỉ?",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Nó đáng ngờ hơn là kì lạ đấy.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Cậu lớn tiếng quá đấy...! Tuyệt, giờ họ để ý đến chúng ta rồi.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"<...? Ai đó?>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Các cậu... nói chuyện.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Đám Người Cá đó... biết nói...?",
+                "teller":null,
+                "title":null,
+                "model":"이상"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Bọn tôi... không phải là Người Cá. Các cậu đã thấy... Tiên Cá nào nói nhiều thế này chưa?",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Quá trình Bạch Hóa của họ mới ở những giai đoạn đầu.",
+                "teller":null,
+                "title":null,
+                "model":"뫼르소"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Thế chúng là cái gì giờ? Nửa người, hay nửa cá?",
+                "teller":null,
+                "title":null,
+                "model":"로쟈"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Thời gian không có nhiều... nên ta sẽ nói ngắn gọn thôi.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Khu vực này... sẽ ngập đầy acid mỗi 10 phút...",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Trừ khi cơ thể các cậu được làm... từ sắt thép...",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Thì các cậu nên... quyết định nhanh đi! Hoặc là... nắm sợi dây thừng bọn tôi sẽ hạ... xuống, hoặc...",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Trở thành... chất nhầy dinh dưỡng cho Cá Voi... và hòa làm một với nó.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Cho dù các cậu có thành chất nhầy thì bọn tôi vẫn sẽ trèo xuống để lấy đống vũ khí ấy.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Một vài người đã bắt đầu tan chảy rồi.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"<Chúng ta thậm chí còn lựa chọn nào khác không?>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"DÂY! NGAY!",
+                "teller":null,
+                "title":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Bọn họ lẩm bẩm với nhau gì đó, như thể họ tìm thấy thứ gì đó hài hước và thú vị về tình hình hiện tại này... và quăng một sợi dây thừng rất kỳ lạ về hướng chúng tôi.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Cái dây thừng này kì lạ thật.",
+                "teller":null,
+                "title":null,
+                "model":"그레고르"
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Dây đó... được làm từ ống mao mạch của phổi. Nó có thể chịu được một tiếng... trong dịch a xít dạ dày.",
+                "teller":"???",
+                "title":"???",
+                "model":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Anh Greg... Sao anh lại hỏi vậy chứ...? Ọe, ghét quá...",
+                "teller":null,
+                "title":null,
+                "model":"로쟈"
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Rodya cằn nhằn liên hồi, và chúng tôi khổ sở leo lên sợi dây thừng làm từ mao mạch đó.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"<...Phù. Tôi không biết mọi người là ai... Nhưng cảm ơn nhé.>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Tuyệt, mẻ cá này lớn đó! Chúng ta sẽ được thưởng tận 3 đồng vàng.",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민1"
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Tôi nghĩ bạn tích tắc này đáng giá hơn thế đấy.",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민2"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Mẻ lớn? Các ngươi xem tụi ta là lũ cá hay gì ?",
+                "teller":null,
+                "title":null,
+                "model":"료슈"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Chúng tôi đến đây... thường xuyên để kiểm tra... có ai bị trôi dạt không.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Nhưng một nửa số đấy... đều trên bờ vực sắp trở thành Người Cá. Chỉ trong vài phút... họ sẽ giết chúng tôi. Nửa còn lại... chỉ là Người Cá.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"À ha ha, vậy đây là trường hợp đặc biệt rồi nhỉ?",
+                "teller":null,
+                "title":null,
+                "model":"홍루"
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Đây chắc là lần đầu... chúng tôi gặp thủy thủ... còn có thể nói chuyện và không biến dạng thành... Người Cá.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"<Vậy tại sao thỉnh thoảng mọi người lại đến đây thế?>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Bạn đồng hồ này... cứ tích tắc. Người này... đang nói gì sao? Chắc không phải là cỗ máy đâu.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Chắc... xu thế thay đổi từ khi chúng tôi đến đây. Nếu tôi thay thế cơ thể mình... bằng bộ phận nhân tạo thì tôi vẫn nói chuyện bình thường được nhỉ?",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Ờm, người bạn này của chúng tôi... Chà, chuyện kể ra thì cũng dài dòng lắm. Nhưng mà ừm, ngài ấy không thể giao tiếp bình thường được.",
+                "teller":null,
+                "title":null,
+                "model":"그레고르"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Hừm, tôi... hiểu. Ai cũng có... hoàn cảnh của mình mà họ không muốn chia sẻ.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Thủy thủ chúng tôi cũng vậy. Nói chuyện... luôn là một khó khăn...",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Đám bay nên cảm thấy may mắn khi gặp bọn tôi đấy!",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민1"
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Vì chúng tôi sẽ ra khỏi chỗ này sớm thôi!",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민2"
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Chúng tôi theo sau những bước chân chỉ lối đầy tự tin ấy, nhưng không lý nào chúng tôi không xem xét lại tình hình hiện tại mà không có bất kỳ nghi ngờ nào được.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"<Mọi người nghĩ họ đang dẫn chúng ta đi đâu?>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"<Lỡ như họ đang đẩy chúng ta vào một cái bẫy thì sao...?>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Nếu mấy người đó định hãm hại ta thì họ đã làm thế từ cái lúc đứng trên mép vực rồi. Khi ấy chúng ta đang hoàn toàn gặp bất lợi mà.",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Với cả...",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Ishmael mở miệng như thể định nói điều gì đó, nhưng ngừng lại giữa chừng trước khi quay người lại. Có vẻ như cô ấy vẫn chưa thể suy nghĩ thông suốt được.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"...Tôi dám chắc là đã từng nhìn thấy kiểu lao móc đó ở đâu rồi...",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Nhân tiện... các cô cậu từ thuyền nào ấy nhỉ?",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Ờm... Con tàu đó có tên là... Tàu Limbus. Anh hẳn là chưa nghe về nó đâu, ừm...",
+                "teller":null,
+                "title":null,
+                "model":"그레고르"
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Cứ nói thẳng đi, anh bạn! Anh đâu phải Người Cá đâu. Thuyền Trưởng của cậu là ai? Nếu người đó từ Tập Đoàn U thì có thể chúng tôi sẽ biết.",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민1"
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Ờm... Thuyền Trưởng... của chúng ta là ai ấy nhỉ?",
+                "teller":null,
+                "title":null,
+                "model":"그레고르"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"<Tôi không biết nữa. Tôi chưa bao giờ cầm bánh lái cả. Không chắc liệu tôi có nên gọi bản thân mình là Thuyền Trưởng không.>",
+                "teller":null,
+                "title":null,
+                "model":"단테"
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Bánh lái sao... Quả thực... Nếu là chỉ về người điều khiển bánh lái...",
+                "teller":null,
+                "title":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Thì ta đây biết quá rõ về Thuyền Trưởng của đoàn!! Thật vậy, Charon chính là Thuyền Trưởng của chúng ta!",
+                "teller":null,
+                "title":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Ha ha... Chưa nghe... bao giờ. Có lẽ đã lâu... quá rồi...",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Anh ta gãi đầu. 'Thuyền Trưởng' Charon rõ ràng không phải là cái tên quen thuộc gì.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Các anh... bị mắc kẹt ở đây bao lâu rồi?",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"8 tháng rồi.",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민1"
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Không, đồ ngu! Đã 3 năm rồi! Lần cuối chúng ta đếm là 644 ngày nên...",
+                "teller":"???",
+                "title":"???",
+                "model":"피쿼드호주민2"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Tôi... không nhớ nữa. Tôi đã dừng... đếm ngày lâu rồi. Không có ánh sáng mặt trời nên... thời gian như thế nào cũng không biết.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"...Ra vậy.",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Tôi từng quen duy nhất một người biết cách thắt nút dây lao móc kiểu đó...",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"À, cái này à? Nó được gọi... là Nút Thắt Liều Lĩnh. Kể cả trong thị trấn của chúng tôi, chỉ... một số người có kinh nghiệm mới biết cách thắt.",
+                "teller":"???",
+                "title":"???",
+                "model":"스타벅"
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Vậy là... họ ở đây cả sao...?",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Này... Có lẽ là... tôi biết các anh đấy.",
+                "teller":null,
+                "title":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Ishmael bất chợt dừng lại. Và những người hướng dẫn chúng tôi cũng thế.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"...Không phải bởi vì điều mà cô ấy nói.",
+                "teller":null,
+                "title":null,
+                "model":null
+            }
+        ]
+    }
+

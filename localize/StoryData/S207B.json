@@ -1,66 +1,86 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino Entrance",
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Hm? What’s up?"
-    },
-    {
-      "id": 1,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Boss! Some fasole who haven’t even told where they’re from rolled into town all of a sudden!"
-    },
-    {
-      "id": 2,
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Who sent ya? The way you’re dressed tells me it ain’t Los Habaneros or the Butchers…"
-    },
-    {
-      "id": 3,
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "I’ll give you a chance to grovel fer forgiveness. Do that and I’ll let ya leave with your limbs in tow."
-    },
-    {
-      "id": 4,
-      "model": "이상",
-      "content": "…We should gladly part if you were to take off your clothing for us."
-    },
-    {
-      "id": 5,
-      "model": "그레고르",
-      "content": "That makes it sound kinda weird."
-    },
-    {
-      "id": 6,
-      "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Boss… I think they might be the… odd pods people have been talking about… y’know, rumored to fadangle with people’s odors."
-    },
-    {
-      "id": 7,
-      "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Greh… Disgusting bunch… Lemme tell ya, that’s no way to live…"
-    },
-    {
-      "id": 8,
-      "content": "Now, our assumed big boss of the gang is looking at us with genuine disgust."
-    },
-    {
-      "id": 9,
-      "model": "단테",
-      "content": "<…I have not wanted to win a fight as desperately as I do now.>"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cổng Vào Sòng Bạc",
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Hở? Gì đấy?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Bằng Tình Tang",
+                "content":"Đại ca! Có mấy thằng đậu trắng chả nói bọn nó thuộc băng nào, tự dưng xông vào thị trấn!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Ai cử bọn mày tới đây? Nhìn cách ăn mặc của tụi mày không giống của bọn Los Habaneros hay đám Đồ tể..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Tao cho bọn mày một cơ hội để quỳ xuống xin tha. Làm cho tốt vào và tất cả chúng bay sẽ được rời khỏi đây với toàn vẹn tay chân."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"...Chúng tôi sẽ vui vẻ rời khỏi đây nếu mấy người cởi bỏ quần áo cho bọn tôi."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Nói vậy nghe hơi kì nha."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"콩을싫어하는콩콩파조직원",
+                "teller":"Thằng Băng TÌnh Tang Ghét Đậu",
+                "title":"Bằng Tình Tang",
+                "content":"Đại ca... Em nghĩ chúng có thể là... cái lũ mà mọi người hay bàn tán... đại ca biết đấy, tin đồn về cái đám vọc vạch mùi cơ thể người khác ấy."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"콩콩이파보스",
+                "teller":"Tên trùm Tingtang",
+                "title":"Bằng Tình Tang",
+                "content":"Uệ... Một lũ kinh tởm... Để tao nói cho mà nghe nhá, bọn mày chết đến nơi rồi..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Giờ thì, cái tên được cho là tên trùm băng đảng này đang nhìn chúng tôi với cặp mắt đầy sự khinh miệt."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<... Tôi chưa bao giờ muốn thắng một trận đánh một cách tuyệt vọng đến thế này.>"
+            }
+        ]
     }
-  ]
-}
+

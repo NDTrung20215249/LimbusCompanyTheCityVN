@@ -1,38 +1,48 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Rendezvous Area Before the Heart",
-            "model": "싱클레어",
-            "content": "Finally, once this is over... We can get out of here."
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<I guess Ahab's not here yet...>"
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "Tsk... is that an Abnormality?"
-        },
-        {
-            "id": 3,
-            "content": "Something twitched before us. An entity skewered by numerous fluorescent bars."
-        },
-        {
-            "id": 4,
-            "model": "이스마엘",
-            "content": "… Get out of my way."
-        },
-        {
-            "id": 5,
-            "model": "단테",
-            "content": "<Watch out, it's charging!>"
-        },
-        {
-            "id": 6,
-            "content": "Perhaps it felt threatened when Ishmael grabbed her harpoon. It leaped out of the Lake and began rushing toward us."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Điểm Tập Kết Trước Quả Tim",
+                "model":"싱클레어",
+                "content":"Cuối cùng, sau khi mọi chuyện kết thúc... Chúng ta có thể rời khỏi đây."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi đoán Ahab vẫn chưa đến đây...>"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chậc... là Dị Thể à?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"Có thứ gì đó cử động trước mặt chúng tôi. Một thực thể bị vô số thanh huỳnh quang đâm xuyên người."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Tránh đường cho tao."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "content":"<Cẩn thận, nó đang lao tới kìa!>"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Có thể nó cảm thấy bị đe doạ khi Ishmael cầm lấy cây lao của cô ấy. Nó nhảy khỏi cái Hồ và bắt đầu xông thẳng đến chỗ chúng tôi."
+            }
+        ]
+    }
+

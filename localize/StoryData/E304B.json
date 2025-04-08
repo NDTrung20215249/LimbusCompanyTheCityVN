@@ -1,72 +1,97 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "단테",
-            "content": "<Hm…>"
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<Can anyone tell me what this food is meant to be?>"
-        },
-        {
-            "id": 2,
-            "model": "돈키호테",
-            "content": "‘Tis quite simple!"
-        },
-        {
-            "id": 3,
-            "model": "돈키호테",
-            "content": "Manager Esquire! Is not chocolate such a delicacy? Thus, we put it in the cooking."
-        },
-        {
-            "id": 4,
-            "model": "돈키호테",
-            "content": "Next, I utilized oranges as a substitute for potatoes, for I much dislike the tuber."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "What? Who do you think you are to take spuds out like that? You’re a right baffling bird."
-        },
-        {
-            "id": 6,
-            "model": "단테",
-            "content": "<Okay, but why is the chicken so brutally torn to bits?>"
-        },
-        {
-            "id": 7,
-            "model": "이상",
-            "content": "It was customary in our town to rip chickens into bite-sized pieces using one’s hands. It was a treat to remember."
-        },
-        {
-            "id": 8,
-            "model": "단테",
-            "content": "<And what’s this black thing? Why’s a lump of coal in the pan…>"
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "Complaining an awful lot for a mouthless cuss. Do you even know how to eat this stuff?"
-        },
-        {
-            "id": 10,
-            "model": "뒤틀린주인카운트1",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "……"
-        },
-        {
-            "id": 11,
-            "model": "뒤틀린주인카운트2",
-            "teller": "Eunbong’s Bar & Fryers Owner",
-            "title": "Eunbong’s Bar & Fryers",
-            "content": "Grhkk!"
-        },
-        {
-            "id": 12,
-            "content": "The chickens rushed at us under the Distorted restaurant owner’s short yet decisive order."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"단테",
+                "content":"<Hừm…>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"단테",
+                "content":"<Ai đó cho tôi biết cái món này là cái quái gì được không?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"돈키호테",
+                "content":"Rất đơn giản!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "model":"돈키호테",
+                "content":"Ngài Quản Lý! Chẳng phải sô-cô-la là cao lương mĩ vị sao? Vì vậy, đội ta đã thêm nó vào món ăn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "model":"돈키호테",
+                "content":"Tiếp theo, ta đã sử dụng cam thay thế cho khoai tây, bởi vì ta rất ghét thứ rau củ này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "model":"히스클리프",
+                "content":"Hả? Mày là ai mà đòi tự tiện lấy khoai tây ra vậy? Đúng thứ não chim.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "model":"단테",
+                "content":"<Được thôi, nhưng tại sao nguyên con gà lại bị xé thành từng miếng nhỏ thế kia?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "model":"이상",
+                "content":"Ở quê tôi có lệ xé gà ra thành miếng nhỏ bằng tay không. Mọi người ở đâu ai thử chưa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "model":"단테",
+                "content":"<Và thứ đen ngòm này là gì đây? Tại sao lại có một cục than trong chảo thế…>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "model":"히스클리프",
+                "content":"Mồm mày không có mà sao than nhiều thế. Mày có ăn được đâu mà lo?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "model":"뒤틀린주인카운트1",
+                "content":"……",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":11,
+                "model":"뒤틀린주인카운트2",
+                "content":"Gặc ó…",
+                "teller":"Chủ Quán Rượu Eunbong",
+                "title":"Quán Rượu Eunbong"
+            },
+            {
+                "id":12,
+                "model":null,
+                "content":"Lũ gà lập tức xông đến chúng tôi dưới mệnh lệnh dứt khoát của chủ nhà hàng Biến Dị.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

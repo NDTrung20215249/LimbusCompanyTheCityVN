@@ -1,671 +1,965 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "뫼르소",
-            "content": "The weather there is quite hostile."
-        },
-        {
-            "id": 1,
-            "content": "Meursault was right. The Lake beyond the borders was nigh pitch-black. The waves crested tall, rising and crashing violently under the thundering rainstorm."
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "Mm... The wild winds have begun to sway the boat..."
-        },
-        {
-            "id": 3,
-            "content": "Yi Sang's face was starting to grow pale."
-        },
-        {
-            "id": 4,
-            "model": "싱클레어",
-            "content": "I'm starting to wonder if we can... really do this."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "Did we ever let that stop us from trying?"
-        },
-        {
-            "id": 6,
-            "model": "로쟈",
-            "content": "Ha, I guess that's true~"
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "... All right. Heading into the zone."
-        },
-        {
-            "id": 8,
-            "model": "오티스",
-            "content": "Are there any laws of that Lake that we must be mindful of?"
-        },
-        {
-            "id": 9,
-            "model": "이스마엘",
-            "content": "I don't know the laws of that Lake, nor its Waves."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "I remember the way the fog split open. I remember the obsidian sea and the endless tempest."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘",
-            "content": "But the rest of it... All I remember is that the Captain was excitedly delivering a speech at witnessing the legends come to life, and that we were all busy preparing for the Whale hunt."
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "... So, what awaits us ahead is a real adventure. We'll be sailing blindly into the night."
-        },
-        {
-            "id": 13,
-            "model": "돈키호테",
-            "content": "... Gulp."
-        },
-        {
-            "id": 14,
-            "model": "오티스",
-            "content": "Then... we'll have to face everything head-on."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "Yes. If the Waves come to claim us, we will face them. Head-on."
-        },
-        {
-            "id": 16,
-            "model": "이스마엘",
-            "content": "... Even the Whale."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "... No signs of that Whale yet, though."
-        },
-        {
-            "id": 18,
-            "model": "이스마엘",
-            "content": "Back then, it attacked us mere minutes after we entered the Lake."
-        },
-        {
-            "id": 19,
-            "content": "Everyone was as tense as they could ever be, looking around nervously..."
-        },
-        {
-            "id": 20,
-            "model": "싱클레어",
-            "content": "Wait, what's... that? There's something there, something tall."
-        },
-        {
-            "id": 21,
-            "model": "뫼르소",
-            "content": "A close approach is recommended. I have a source of light to improve our visibility."
-        },
-        {
-            "id": 22,
-            "content": "Meursault got up with a lantern and pointed the light toward where Sinclair indicated."
-        },
-        {
-            "id": 23,
-            "model": "싱클레어",
-            "content": "There's... several of them...?"
-        },
-        {
-            "id": 24,
-            "model": "그레고르",
-            "content": "What's that...? Hell, who put 'em there? What are they even for?"
-        },
-        {
-            "id": 25,
-            "model": "로쟈",
-            "content": "Maybe they're like lighthouses...?"
-        },
-        {
-            "id": 26,
-            "model": "싱클레어",
-            "content": "Lighthouses? Yeah, I can kinda see that..."
-        },
-        {
-            "id": 27,
-            "model": "이스마엘",
-            "content": "......"
-        },
-        {
-            "id": 28,
-            "model": "단테2",
-            "content": "<Do you remember seeing anything like that, Ishmael?>"
-        },
-        {
-            "id": 29,
-            "model": "이스마엘",
-            "content": "No... I don't even have a hazy recollection of it. I've never seen it before in my..."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "...!"
-        },
-        {
-            "id": 31,
-            "model": "이상",
-            "content": "I-Ishmael. Has the nausea of the swaying sea gotten to you as well?"
-        },
-        {
-            "id": 32,
-            "model": "이상",
-            "content": "Your face has grown rather pale..."
-        },
-        {
-            "id": 33,
-            "content": "I knew that that can't be true."
-        },
-        {
-            "id": 34,
-            "content": "A seasick sailor only exists in jokes. Besides, Ishmael was doing just fine mere moments ago."
-        },
-        {
-            "id": 35,
-            "content": "Then... she must've had a sudden realization."
-        },
-        {
-            "id": 36,
-            "model": "이스마엘",
-            "content": "I see... So that's what it looked like. Even a small part of it is..."
-        },
-        {
-            "id": 37,
-            "content": "A terrifying realization."
-        },
-        {
-            "id": 38,
-            "model": "싱클레어",
-            "content": "W-what is it?"
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "You'll find out soon enough. Even if you don't want to."
-        },
-        {
-            "id": 40,
-            "model": "오티스",
-            "content": "There, a rogue wave ahead...!"
-        },
-        {
-            "id": 41,
-            "model": "오티스",
-            "content": "All hands, brace! Grab onto what you can!"
-        },
-        {
-            "id": 42,
-            "model": "싱클레어",
-            "content": "A-ah! Agh...!"
-        },
-        {
-            "id": 43,
-            "content": "Before we even had the chance to say anything, a leviathan of a wave rose to its crest, then crashed onto us from above..."
-        },
-        {
-            "id": 44,
-            "content": "And sucked us deep into the Lake before throwing us back to the surface."
-        },
-        {
-            "id": 45,
-            "model": "파우스트",
-            "content": "Pah...!"
-        },
-        {
-            "id": 46,
-            "model": "파우스트",
-            "content": "... We were lucky. There was a high chance that the following vortex would have dragged the vessel deep underwater."
-        },
-        {
-            "id": 47,
-            "model": "히스클리프",
-            "content": "L-lucky? You saw what was down there, that was..."
-        },
-        {
-            "id": 48,
-            "model": "단테2",
-            "content": "<... Everyone okay?>"
-        },
-        {
-            "id": 49,
-            "content": "Everyone was soaking wet, nearly hyperventilating, but... mostly awestruck by what we've just witnessed."
-        },
-        {
-            "id": 50,
-            "model": "오티스",
-            "content": "We have everyone, but..."
-        },
-        {
-            "id": 51,
-            "model": "싱클레어",
-            "content": "Huh? Huh...? What we just saw down there... were..."
-        },
-        {
-            "id": 52,
-            "model": "홍루",
-            "content": "They weren't lighthouses... They were..."
-        },
-        {
-            "id": 53,
-            "model": "홍루",
-            "content": "Tails of colossal Whales...!"
-        },
-        {
-            "id": 54,
-            "model": "로쟈",
-            "content": "Wow... Okay... I really wanna give up now, ha ha."
-        },
-        {
-            "id": 55,
-            "model": "로쟈",
-            "content": "I wanna go back to the time when I didn't know what the Whales really looked like..."
-        },
-        {
-            "id": 56,
-            "model": "이스마엘",
-            "content": "So this is the Lake where the Whales come to sleep..."
-        },
-        {
-            "id": 57,
-            "model": "이스마엘",
-            "content": "Yeah. If they're deep in the water with their necks bent like that... I could see their tails rising tall over the surface."
-        },
-        {
-            "id": 58,
-            "model": "이스마엘",
-            "content": "But... There's no way they missed this commotion."
-        },
-        {
-            "id": 59,
-            "model": "싱클레어",
-            "content": "T-t-t-the ship is... We're... we're keeling over!"
-        },
-        {
-            "id": 60,
-            "model": "이스마엘",
-            "content": "... The Whales are waking up."
-        },
-        {
-            "id": 61,
-            "content": "'We're finally here.'"
-        },
-        {
-            "id": 62,
-            "content": "... I think that's what Ishmael whispered. But the storm, the waves buried her voice deep into the Lake."
-        },
-        {
-            "id": 63,
-            "model": "파우스트",
-            "content": "If the Indigo Elder made it here as we planned..."
-        },
-        {
-            "id": 64,
-            "model": "돈키호테",
-            "content": "WOAAAAAAHHHHH!"
-        },
-        {
-            "id": 65,
-            "model": "돈키호테",
-            "content": "OVER YONDER, I-IS THAT THE WHALE?!"
-        },
-        {
-            "id": 66,
-            "content": "We didn't have to wonder even for a second about what Don Quixote was screaming at."
-        },
-        {
-            "id": 67,
-            "content": "An entire herd of entities, each dwarfing every single Whale we've weathered throughout this journey, emerged from the waters all at once. In unison, they began migrating in a singular direction. To witness something like that was..."
-        },
-        {
-            "id": 68,
-            "model": "뫼르소",
-            "content": "……."
-        },
-        {
-            "id": 69,
-            "content": "... enough to make even Meursault gape with plain bewilderment."
-        },
-        {
-            "id": 70,
-            "model": "파우스트",
-            "content": "Looks like things are going according to plan."
-        },
-        {
-            "id": 71,
-            "model": "오티스",
-            "content": "Then we'll have to do our part."
-        },
-        {
-            "id": 72,
-            "model": "이스마엘",
-            "content": "Ah!"
-        },
-        {
-            "id": 73,
-            "model": "이스마엘",
-            "content": "There, there!"
-        },
-        {
-            "id": 74,
-            "content": "There was a Whale that stood out even among the herd of ineffably immense Whales."
-        },
-        {
-            "id": 75,
-            "content": "Pallid as the pale death... Its hide, thick with scar tissue."
-        },
-        {
-            "id": 76,
-            "model": "오티스",
-            "content": "That one's particularly scarred."
-        },
-        {
-            "id": 77,
-            "model": "이스마엘",
-            "content": "Ha, ha ha ha... I've found it!"
-        },
-        {
-            "id": 78,
-            "model": "이스마엘",
-            "content": "Yes... He was right. The wounds, the scars that we... the Pequod made... they're all still there."
-        },
-        {
-            "id": 79,
-            "model": "베르길리우스",
-            "content": "I assume that you have finally located the Whale?"
-        },
-        {
-            "id": 80,
-            "model": "파우스트",
-            "content": "I believe so, yes."
-        },
-        {
-            "id": 81,
-            "model": "베르길리우스",
-            "content": "As always... the chance of success must be miniscule."
-        },
-        {
-            "id": 82,
-            "model": "파우스트",
-            "content": "Indeed it is."
-        },
-        {
-            "id": 83,
-            "model": "이스마엘",
-            "content": "OARSMEN!!!!!!!"
-        },
-        {
-            "id": 84,
-            "content": "Ishmael thundered."
-        },
-        {
-            "id": 85,
-            "model": "단테2",
-            "content": "<Ishmael...?>"
-        },
-        {
-            "id": 86,
-            "content": "No, louder than the thunder itself. As though her personality itself had suddenly shifted. Her voice seemed to overwhelm the very storm itself."
-        },
-        {
-            "id": 87,
-            "model": "이스마엘",
-            "content": "ANSWERS, YOU DOGS!!!!! OARSMEN!!!!"
-        },
-        {
-            "id": 88,
-            "model": "히스클리프",
-            "content": "Huh?! A-aye!"
-        },
-        {
-            "id": 89,
-            "model": "이스마엘",
-            "content": "Set route to that pallid thing! FULL SPEED AHEAD!!!! ROW!"
-        },
-        {
-            "id": 90,
-            "model": "오티스",
-            "content": "... Full speed ahead! Row!"
-        },
-        {
-            "id": 91,
-            "content": "Even Outis was swept up in this sudden turn of events, repeating after Ishmael's bellowing commands."
-        },
-        {
-            "id": 92,
-            "content": "Is this what Ishmael was like when she sailed the Lakes? Or..."
-        },
-        {
-            "id": 93,
-            "model": "이스마엘",
-            "content": "Ha... HA HA...!"
-        },
-        {
-            "id": 94,
-            "content": "... Or is this the Captain?"
-        },
-        {
-            "id": 95,
-            "model": "파우스트",
-            "content": "I see light. ... It's the Indigo Elder."
-        },
-        {
-            "id": 96,
-            "content": "The old man and his skiff was sliding across the waters toward the Whale."
-        },
-        {
-            "id": 97,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Listen well!"
-        },
-        {
-            "id": 98,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "The rest of the awakened Whales have gone after the bait I've laid for them!"
-        },
-        {
-            "id": 99,
-            "model": "오티스",
-            "content": "Then the plan worked! Now... Ah...!"
-        },
-        {
-            "id": 100,
-            "content": "It wasn't clear whether it was the thunder or the old man's bellow that awakened the Pallid Whale. Its eyelids began to lift."
-        },
-        {
-            "id": 101,
-            "model": "오티스",
-            "content": "... It's been so long since I've witnessed anything like this up close."
-        },
-        {
-            "id": 102,
-            "content": "It was an eye of astronomical proportions, so immense that it no longer resembled an eye—but a reflective mirror of the world."
-        },
-        {
-            "id": 103,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Oh, how I wished to see you eye-to-eye."
-        },
-        {
-            "id": 104,
-            "content": "The old man, harpoon in hand, draws closer to the whale with a grim, stony expression. Ishmael also aims her harpoon at the great Whale, her face nearly tearing with uncontainable joy. Some sinners tremble with fear, while others prepare themselves."
-        },
-        {
-            "id": 105,
-            "content": "All of it, the world... contained in a single reflective eye that stretched even beyond our peripheral visions."
-        },
-        {
-            "id": 106,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "... Now here's your bait, fish. Bite on it."
-        },
-        {
-            "id": 107,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I know you have no other choice. Biting, devouring's all you've ever known."
-        },
-        {
-            "id": 108,
-            "model": "이스마엘",
-            "content": "OARSMEN!!!!! SPLIT THE SEA WITH YOUR OARS!!!!!"
-        },
-        {
-            "id": 109,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I respect you, Pallid Whale. I respect that you have lived years in numbers that I cannot even begin to imagine. I respect that you hail from a place beyond my ken."
-        },
-        {
-            "id": 110,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "But..."
-        },
-        {
-            "id": 111,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "I will take this chance to stand before you, to challenge you. And with this challenge, to the edge of understanding I will row."
-        },
-        {
-            "id": 112,
-            "content": "The giant harpoon soars across the black sky like a bolt of levin and strikes the Pallid Whale."
-        },
-        {
-            "id": 113,
-            "model": "오티스",
-            "content": "Now is our chance! Row on, row on!"
-        },
-        {
-            "id": 114,
-            "content": "Ishmael rose tall and alone, looking straight out beyond the speeding boat's swaying bow, harpoon in her hand."
-        },
-        {
-            "id": 115,
-            "model": "이스마엘",
-            "content": "I've been thinking... ever since then... about what feelings you might dig up from my heart if I saw you again."
-        },
-        {
-            "id": 116,
-            "model": "이스마엘",
-            "content": "Ha... But this feeling is much more straightforward than I expected."
-        },
-        {
-            "id": 117,
-            "model": "이스마엘",
-            "content": "... Nice meeting you again, you FUCKING WHALE!"
-        },
-        {
-            "id": 118,
-            "model": "창백한 고래",
-            "teller": "The Pallid Whale",
-            "title": "The Outskirts",
-            "content": "…! ……!"
-        },
-        {
-            "id": 119,
-            "content": "Compared to the old man's harpoon, the harpoon Ishmael hurled was like a needle."
-        },
-        {
-            "id": 120,
-            "content": "But once struck, as though its body was wracked by an immense, unbearable pain, the Pallid Whale's maw opened—and the air itself began to vibrate."
-        },
-        {
-            "id": 121,
-            "model": "오티스",
-            "content": "Its maw opens!"
-        },
-        {
-            "id": 122,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "......"
-        },
-        {
-            "id": 123,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "Go. I will now fish this beast."
-        },
-        {
-            "id": 124,
-            "content": "Every Sinner heard the old man's voice."
-        },
-        {
-            "id": 125,
-            "content": "Every Sinner begins rowing with all their might."
-        },
-        {
-            "id": 126,
-            "content": "In desperation. As though death itself was in our pursuit."
-        },
-        {
-            "id": 127,
-            "content": "As though it was our fate, our destiny to row."
-        },
-        {
-            "id": 128,
-            "content": "We were sucked into an endless abyss..."
-        },
-        {
-            "id": 129,
-            "content": "... and a rapid vortex pulled us into the maws of the beast, tenebrous as a well under a moonless sky."
-        },
-        {
-            "id": 130,
-            "model": "단테2",
-            "content": "<…!>"
-        },
-        {
-            "id": 131,
-            "content": "There was a deep noise."
-        },
-        {
-            "id": 132,
-            "content": "And like a droplet in sea, we melted into the fathomless dark."
-        },
-        {
-            "id": 133,
-            "model": "베르길리우스",
-            "content": "Acknowledge. Acknowledge. How goes the plan?"
-        },
-        {
-            "id": 134,
-            "model": "베르길리우스",
-            "content": "Acknowledge. Hey!"
-        },
-        {
-            "id": 135,
-            "model": "베르길리우스",
-            "content": "... Looks like the radio's broken for good."
-        },
-        {
-            "id": 136,
-            "model": "카론",
-            "content": "Mhm. Worrying."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"뫼르소",
+                "content":"Thời tiết bên đó có vẻ xấu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":null,
+                "content":"Meursault nói đúng. Cái Hồ bên kia biên giới tối mù. Những cơn sóng biển dâng cao và đập một cách dữ dội dưới bầu trời đêm sấm sét bão tố đùng đùng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"이상",
+                "content":"Ưm... Gió lớn đang làm con thuyền chao đảo...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "model":null,
+                "content":"Mặt của Yi Sang bắt đầu xanh xao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "model":"싱클레어",
+                "content":"Chúng ta... thật sự có thể làm được chuyện này chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "model":"히스클리프",
+                "content":"Có bao giờ ta để điều đó cản đường chưa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "model":"로쟈",
+                "content":"Chà, chắc là đúng vậy đấy~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "model":"이스마엘",
+                "content":"... Rồi. Chuẩn bị vượt qua đường biên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "model":"오티스",
+                "content":"Có luật nào của Lake ta phải để ý tới không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "model":"이스마엘",
+                "content":"Tôi không rõ về luật và Con Sóng của Hồ đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "model":"이스마엘",
+                "content":"Đúng là tôi vẫn nhớ cái cảnh sương mù rẽ đôi như cắt giấy. Cái cảnh mặt biển đen ngòm dậy sóng trong bão tố vô tận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "model":"이스마엘",
+                "content":"Nhưng ngoài ra... Tất cả những gì còn đọng lại trong đầu tôi là Thuyền Trưởng hào hứng diễn thuyết về việc chứng kiến huyền thoại sống xuất hiện, và cái lúc chúng tôi bận rộn chuẩn bị cho cuộc săn Cá Voi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "model":"이스마엘",
+                "content":"... Vậy nên, những gì sắp hiện ra trước mắt kia sẽ là một chuyến phiêu lưu thực sự. Chúng ta sẽ chèo thuyền thẳng vào màn đêm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "model":"돈키호테",
+                "content":"... Ực.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "model":"오티스",
+                "content":"Vậy... ta phải đối đầu mọi thứ trực tiếp.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "model":"이스마엘",
+                "content":"Đúng. Và khi Con Sóng ập tới, ta sẽ đương đầu trực tiếp.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "model":"이스마엘",
+                "content":"... Kể cả Cá Voi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "model":"이스마엘",
+                "content":"... Mà, có vẻ nó vẫn chưa xuất hiện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "model":"이스마엘",
+                "content":"Ngày đó, nó đã lao ra tấn công chúng tôi chỉ ngay sau vài phút tiến vào vùng Hồ này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "model":null,
+                "content":"Tất cả mọi người đều căng thẳng hết mức có thể, nhìn xung quanh một cách đầy lo lắng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "model":"싱클레어",
+                "content":"Khoan đã, đó là... gì thế? Có thứ gì đó ở đó, thứ gì đó rất cao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "model":"뫼르소",
+                "content":"Tôi xin đề xuất chúng ta tiến gần hơn. Tôi có mang nguồn sáng giúp cải thiện tầm nhìn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "model":null,
+                "content":"Meursault đứng dậy cùng một chiếc lồng đèn và hướng ánh sáng về phía Sinclair chỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "model":"싱클레어",
+                "content":"Không chỉ có một cái thôi sao...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "model":"그레고르",
+                "content":"Cái gì vậy trời...? Thật luôn, ai đặt đống đó ở đấy vậy? Chúng phục vụ mục đích gì nữa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "model":"로쟈",
+                "content":"Hình như là ngọn hải đăng thì phải...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "model":"싱클레어",
+                "content":"Ngọn hải đăng ư? Ừm, trông cũng giống thật...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "model":"이스마엘",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "model":"단테2",
+                "content":"<Cô có nhớ đã nhìn thấy thứ gì như thế không, Ishmael?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "model":"이스마엘",
+                "content":"Không hề... Một mảnh kí ức mờ nhạt nhất về nó cũng không có. Tôi chưa từng thấy nó bao giờ trong...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "model":"이스마엘",
+                "content":"...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "model":"이상",
+                "content":"I- Ishmael. Liệu cơn say sóng từ thuyền chòng chành cũng ảnh hưởng cô rồi sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "model":"이상",
+                "content":"Trông mặt cô hơi tái đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "model":null,
+                "content":"Tôi biết điều đó không thể nào là sự thật được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "model":null,
+                "content":"Một thuỷ thủ bị say sóng chỉ tồn tại trong những câu đùa mà thôi. Với lại, Ishmael mới phút trước còn bình thường kia mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "model":null,
+                "content":"Vậy thì... cô ấy hẳn đã chợt nhận ra điều gì đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "model":"이스마엘",
+                "content":"Hiểu rồi... Thì ra nó trông như thế. Mà mới chỉ là phần nhỏ nhất thôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "model":null,
+                "content":"Một nhận thức đáng sợ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "model":"싱클레어",
+                "content":"N-Nó là gì vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "model":"이스마엘",
+                "content":"Cậu sẽ nhìn ra sớm thôi. Dù có muốn hay không đi chăng nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "model":"오티스",
+                "content":"Kia, một cơn sóng dữ đang tới...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "model":"오티스",
+                "content":"Tất cả, giữ chặt! Bám vào bất cứ thứ gì có thể nắm được!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "model":"싱클레어",
+                "content":"A-Á! Áa...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "model":null,
+                "content":"Trước khi chúng tôi kịp nói bất kỳ điều gì khác, một cơn thuỷ triều dâng cao lên, rồi đập thẳng vào chúng tôi từ phía trên xuống...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "model":null,
+                "content":"Và hút chúng tôi vào sâu xuống dưới mặt Hồ trước khi ném chúng tôi trở lại bề mặt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "model":"파우스트",
+                "content":"Hà...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "model":"파우스트",
+                "content":"... Ta may mắn thật. Vì khả năng cao là xoáy nước tiếp theo sẽ kéo con thuyền chìm xuống nước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "model":"히스클리프",
+                "content":"M-may mắn? Mày thấy cái gì dưới đó rồi đấy, đó là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "model":"단테2",
+                "content":"<...Mọi người ổn chứ?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "model":null,
+                "content":"Mọi người đều ướt súng người, gần như bị tăng thông khí và thở rất gấp, nhưng... hầu hết đều choáng ngợp và hãi hùng trước thứ chúng tôi vừa chứng kiến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "model":"오티스",
+                "content":"Ta còn đủ người, nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "model":"싱클레어",
+                "content":"Hả? Hả...? Cái chúng ta vừa mới thấy dưới kia... là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "model":"홍루",
+                "content":"Không phải hải đăng đâu... Tất cả đều là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "model":"홍루",
+                "content":"Đuôi của những con Cá Voi khổng lồ...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "model":"로쟈",
+                "content":"Chà... Được rồi... Bây giờ bỏ cuộc là được rồi nhé, ha ha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "model":"로쟈",
+                "content":"Ước gì tôi trở lại cái khoảng thời gian mà tôi chẳng biết con Voi đó trông như thế nào...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "model":"이스마엘",
+                "content":"Vậy ra đây là Hồ mà con Cá Voi đó tới để ngủ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "model":"이스마엘",
+                "content":"Phải. Nếu nó oằn mình nằm sâu dưới nước như thế... thì cũng dễ hiểu tại sao đuôi nó lại nổi lên trên mặt nước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "model":"이스마엘",
+                "content":"Nhưng... Không đời nào nó lại lờ đi sự náo động trên này được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "model":"싱클레어",
+                "content":"C-c-c-con tàu đang... Chúng ta đang... chúng ta đang bị lật úp lại!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "model":"이스마엘",
+                "content":"... Cá Voi thức giấc rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "model":null,
+                "content":"Chúng ta cuối cùng đã đến được đây.'",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "model":null,
+                "content":"...Tôi nghĩ đó là lời mà Ishmael đã thì thầm. Nhưng cơn bão, cơn sóng đã chôn vùi giọng nói của cô ấy xuống sâu vào bên trong Hồ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "model":"파우스트",
+                "content":"Nếu Lão Chàm đến đây như dự định...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "model":"돈키호테",
+                "content":"OÁÁÁÁÁÁÁÁÁÁÁÁÁ!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "model":"돈키호테",
+                "content":"Ở NƠI KIA, P-PHẢI CHĂNG ĐÓ LÀ CON CÁ VOI?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "model":null,
+                "content":"Chúng tôi không cần phải thắc mắc về thứ mà Don Quixote đang gào thét.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "model":null,
+                "content":"Cả một bầy thực thể, mỗi con đều nhỏ hơn những con Cá Voi chúng tôi đã đối mặt suốt chuyến hành trình này, đều đồng loạt xuất hiện khỏi mặt nước. Cùng nhau, chúng đều bắt đầu di cư về một hướng nhất định. Được chứng kiến điều gì đó như thế là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "model":"뫼르소",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "model":null,
+                "content":"... đủ để khiến cả Meursault cũng phải há hốc miệng mà kinh ngạc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "model":"파우스트",
+                "content":"Có vẻ như mọi thứ đang diễn ra suôn sẻ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "model":"오티스",
+                "content":"Vậy ta phải làm phần của mình thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "model":"이스마엘",
+                "content":"A!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "model":"이스마엘",
+                "content":"Đó, kia kìa!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "model":null,
+                "content":"Có một con Cá Voi nổi bật hơn giữa đàn Cá Voi to lớn không thể nào diễn tả được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "model":null,
+                "content":"Trắng như màu sắc cái chết trắng... Da thịt của nó, dày cộm cùng những vết sẹo xước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "model":"오티스",
+                "content":"Thứ đấy đặc biệt có sẹo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "model":"이스마엘",
+                "content":"Ha, ha ha ha... Cuối cùng cũng tìm ra rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "model":"이스마엘",
+                "content":"Đúng vậy... Ông ta nói đúng. Những vết thương đó, những vết sẹo do chúng tôi... do tàu Pequod gây ra... vẫn còn nguyên đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "model":"베르길리우스",
+                "content":"Ta cho rằng các cô cậu đã xác định được vị trí của con Cá Voi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "model":"파우스트",
+                "content":"Tôi tin chắc là thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "model":"베르길리우스",
+                "content":"Như mọi khi... cơ hội thành công là rất nhỏ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "model":"파우스트",
+                "content":"Đúng vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "model":"이스마엘",
+                "content":"CÁC TAY CHÈO!!!!!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "model":null,
+                "content":"Ishmael gào lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "model":"단테2",
+                "content":"<Ishmael...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "model":null,
+                "content":"Không, còn to hơn cả sấm sét nữa. Cứ như thể tính cách của cô ấy bỗng dưng thay đổi vậy. Giọng của cô ấy dường như đàn áp cả chính cơn bão.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "model":"이스마엘",
+                "content":"TRẢ LỜI TA NGAY, LŨ CHÓ CHẾT NÀY!!!!! CHÈO THUYỀN ĐÂU!!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "model":"히스클리프",
+                "content":"Hả?! D-dạ!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "model":"이스마엘",
+                "content":"Nhắm thẳng tới cái thứ trắng ởn đó! HẾT TỐC LỰC VỀ PHÍA TRƯỚC!!!! CHÈO!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "model":"오티스",
+                "content":"... Bật hết tốc lực về trước! Chèo!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "model":null,
+                "content":"Đến cả Outis cũng bị cuốn vào sự thay đổi bất chợt này, lặp lại mệnh lệnh rống tiếng của Ishmael.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "model":null,
+                "content":"Đây chính là Ishmael khi cô ấy căng buồm ra Hồ sao? Hay...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "model":"이스마엘",
+                "content":"Ha... HA HA...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "model":null,
+                "content":"...Hay đấy chính là người Thuyền Trưởng?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "model":"파우스트",
+                "content":"Tôi thấy được ánh đèn. ...Là Lão Chàm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "model":null,
+                "content":"Ông lão cùng chiếc thuyền của ông ấy đang trôi dạt theo dòng nước tiến thẳng đến con Cá Voi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "model":"쪽빛노인",
+                "content":"Nghe kĩ đây!",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":98,
+                "model":"쪽빛노인",
+                "content":"Những con Cá Voi khác đã đớp mồi lão đã giăng!",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":99,
+                "model":"오티스",
+                "content":"Vậy kế hoạch đã hoạt động! Giờ... A...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "model":null,
+                "content":"Không rõ là do sấm sét hay tiếng rống của ông lão đã đánh thức Cá Voi Trắng. Mí mắt của nó bắt đầu mở ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "model":"오티스",
+                "content":"... Đã lâu rồi từ khi ta chứng kiến bất cứ thứ gì gần như này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "model":null,
+                "content":"Nó là một con mắt với kích cỡ khổng lồ, to lớn đến mức nó không còn giống với một con mắt nữa—mà là chiếc gương phản chiếu thế giới.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "model":"쪽빛노인",
+                "content":"Ồ, lão đã mong chờ nhìn con mắt gần thế này.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":104,
+                "model":null,
+                "content":"Ông lão, với cây lao trong tay, tiến gần con cá voi hơn với vẻ mặt nghiêm nghị và lạnh lùng. Ishmael cũng nhắm cây lao móc của cô ấy vào con Cá Voi khổng lồ, gương mặt cô ấy gần như sắp rách ra với niềm vui sướng không thể nào kìm nén được. Một vài tội nhân run rẩy vì lo sợ, trong khi số còn lại chuẩn bị sẵn tinh thần.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "model":null,
+                "content":"Tất cả mọi thứ, cả thế giới... chứa trong một ánh mắt phản chiếu giãn ra khỏi tầm mắt có thể nhìn thấy được của chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "model":"쪽빛노인",
+                "content":"... Nào, mồi của ngươi đây. Đớp đi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":107,
+                "model":"쪽빛노인",
+                "content":"Lão biết ngươi không còn lựa chọn nào khác. Vì nuốt chửng mọi thứ là bản chất thật sự của ngươi.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":108,
+                "model":"이스마엘",
+                "content":"CÁC TAY CHÈO!!!!! RẼ TOẠC BIỂN CẢ BẰNG MÁI CHÈO CỦA CHÚNG BAY ĐI!!!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "model":"쪽빛노인",
+                "content":"Lão khâm phục ngươi, Cá Voi Trắng à. Ngươi đã sống lâu hơn lão ta đây và được cấu thành từ nơi mà lão chưa từng biết đến.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":110,
+                "model":"쪽빛노인",
+                "content":"Nhưng...",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":111,
+                "model":"쪽빛노인",
+                "content":"Lão quyết sẽ đối đầu trực diện ngươi với tất cả những gì lão có và chèo đến những vì sao kia.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":112,
+                "model":null,
+                "content":"Cây lao móc khổng lồ bay xuyên màn đêm đen như một tia nước và đâm trúng Cá Voi Trắng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "model":"오티스",
+                "content":"Giờ là cơ hội của ta! Chèo tiếp, chèo đi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "model":null,
+                "content":"Ishmael vươn cao đứng đó một mình đơn độc, nhìn thẳng về phía trước con thuyền đang lao đi với tốc độ chóng mặt, với cây lao móc thủ sẵn trên tay.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "model":"이스마엘",
+                "content":"Kể từ ngày đó... tao đã luôn tự hỏi... liệu thứ cảm xúc gì sẽ trỗi dậy trong trái tim này... khi tao gặp lại mày một lần nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "model":"이스마엘",
+                "content":"Ha... Thế mà nó lại thẳng thắn hơn tao tưởng đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "model":"이스마엘",
+                "content":"... Rất vui khi được gặp lại mày, CON CÁ VOI KHỐN NẠN!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "model":"창백한 고래",
+                "content":"…! ……!",
+                "teller":"Cá Voi Trắng",
+                "title":"The Outskirts"
+            },
+            {
+                "id":119,
+                "model":null,
+                "content":"So với cây lao của ông lão, cây lao mà Ishmael phóng ra giống như một mũi kim vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "model":null,
+                "content":"Nhưng một khi nó đâm trúng, cả cơ thể nó như hứng chịu một cơn đau khổng lồ và dữ dội không thể tả xiết, hàm của Cá Voi Trắng mở ra—và bầu không khí bắt đầu rung chuyển.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "model":"오티스",
+                "content":"Nó mở miệng!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "model":"쪽빛노인",
+                "content":"......",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":123,
+                "model":"쪽빛노인",
+                "content":"Đi đi. Giờ lão sẽ câu con quái vật này.",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":124,
+                "model":null,
+                "content":"Tất cả Tội Nhân đều nghe rõ giọng nói của ông lão.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "model":null,
+                "content":"Tất cả Tội Nhân đều bắt đầu chèo bằng mọi sức lực có thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "model":null,
+                "content":"Trong sự tuyệt vọng. Như thể chính cái chết đang truy lung chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "model":null,
+                "content":"Như thể đây chính là định mệnh của chúng tôi, số phận phải chèo thuyền mãi mãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "model":null,
+                "content":"Chúng tôi bị cuốn vào trong vực sâu vô tận...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "model":null,
+                "content":"... và một xoáy nước cuồn cuộn hút chúng tôi vào bên trong hàm của con quái thú, ảm đạm hệt như miệng dưới dưới bầu trời không một ánh trăng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "model":"단테2",
+                "content":"<...!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "model":null,
+                "content":"Có một tiếng động sâu lắng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "model":null,
+                "content":"Và như một giọt nước giữa biển, chúng tôi hoà vào bóng tối vô tận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "model":"베르길리우스",
+                "content":"Nghe rõ trả lời. Nghe rõ trả lời. Kế hoạch ra sao rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":134,
+                "model":"베르길리우스",
+                "content":"Nghe rõ trả lời. Này!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":135,
+                "model":"베르길리우스",
+                "content":"...Có vẻ như bộ đàm hỏng rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":136,
+                "model":"카론",
+                "content":"Ừm ừm. Lo lắng quá trời.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

@@ -1,27 +1,31 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "에이해브",
-            "content": "What... What have you...!"
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "Look at me."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "And tell me that we're still \"one and the same\"."
-        },
-        {
-            "id": 3,
-            "model": "에이해브",
-            "content": "Why... Why...!"
-        },
-        {
-            "id": 4
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"에이해브",
+                "content":"Cái gì... Mày đã làm cái...!"
+            },
+            {
+                "id":1,
+                "model":"이스마엘",
+                "content":"Nhìn tôi đi."
+            },
+            {
+                "id":2,
+                "model":"이스마엘",
+                "content":"Và nói thử xem liệu hai ta có còn \"như nhau và như một\" nữa không."
+            },
+            {
+                "id":3,
+                "model":"에이해브",
+                "content":"Tại sao... Tại sao...!"
+            },
+            {
+                "id":4,
+                "model":null,
+                "content":null
+            }
+        ]
+    }
+

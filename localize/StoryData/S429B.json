@@ -1,95 +1,134 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K - LC Branch Manager's Office",
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Oh dear..."
-        },
-        {
-            "id": 1,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It seems a radio communication device was installed in this branch."
-        },
-        {
-            "id": 2,
-            "content": "His phone was intensely vibrating as though the calls set it on fire."
-        },
-        {
-            "id": 3,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Yes, I understand. I'll return right away."
-        },
-        {
-            "id": 4,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It seems the laboratory has been raided again."
-        },
-        {
-            "id": 5,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "There are apparently more terrorists this time, on a fiercer offense than before."
-        },
-        {
-            "id": 6,
-            "model": "오티스",
-            "content": "So the commotion earlier was a distraction to keep us here."
-        },
-        {
-            "id": 7,
-            "model": "오티스",
-            "content": "Kgh... This could have easily been prevented if it weren't for your collusion."
-        },
-        {
-            "id": 8,
-            "content": "Outis lashed out in frustration."
-        },
-        {
-            "id": 9,
-            "model": "싱클레어",
-            "content": "It does feel rather strange... I think this is the first time we're going through a Lobotomy Corp. branch without facing a single Abnormality."
-        },
-        {
-            "id": 10,
-            "model": "홍루",
-            "content": "That's true indeed. Those we did see were resting still in their eggs."
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "The bounders from tech liberation whatever must have got some way to put Abnormalities in their eggs without lifting a hand, eh?"
-        },
-        {
-            "id": 12,
-            "model": "파우스트",
-            "content": "Though we will have to see the details with our own eyes... If they really do have the technology to revert Abnormalities into their inactive forms..."
-        },
-        {
-            "id": 13,
-            "model": "파우스트",
-            "content": "It's certain that they possess the technologies to achieve more."
-        },
-        {
-            "id": 14,
-            "model": "그레고르",
-            "content": "Well well, sounds like you've gotta look out, Dongrang, bud... Ms. Faust isn't one to say ominous stuff for nothing, you know."
-        },
-        {
-            "id": 15,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It'll work out somehow. In our group is K Corp's most successful researcher... and better yet, two of the greatest geniuses in the City."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nest K - Văn phòng Giám Đốc Chi nhánh LC",
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Ôi trời ạ..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Xem ra thiết bị liên lạc radio đã được lắp đặt ở chi nhánh này."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Điện thoại của anh ta rung lên dữ dội như thể đang báo cuộc gọi nào đó."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Được, tôi hiểu. Tôi sẽ quay lại ngay bây giờ."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Có vẻ như khu nghiên cứu bị tấn công lần nữa rồi."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Lần này bọn chúng sẽ đông hơn và tấn công dồn dập hơn trước đó nhiều."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Vậy là cuộc bạo động khi nãy là mồi nhử để giữ chúng ta ở đây."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Khực... Nếu không phải do lũ các ngươi thông đồng với nhau thì việc này đã dễ ngăn chặn hơn rồi."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Outis giận dữ thốt lên."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Cũng lạ thật đấy... Tôi nghĩ đây là lần đầu tiên chúng ta đi vào một nhánh cơ sở của Tập Đoàn Lobotomy mà không gặp phải một con Dị Thể nào cả."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Cậu nói đúng đó. Nãy giờ đoàn mình toàn gặp mấy con ngoan ngoãn nằm yên trong trứng thôi."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mấy đứa hèn hạ thuộc hội thống nhất công nghệ gì đấy chắc là tìm được cách đặt lũ Dị Thể vào trứng mà không cần động tay nhể?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Dù ta không được thấy trực tiếp... Nhưng nếu họ thực sự có một công nghệ có thể chuyển ngược Dị Thể về dạng trứng của nó..."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Thì chắc chắn rằng họ có những loại công nghệ có thể vượt xa hơn thế nữa."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Ái chà, có vẻ cậu phải coi chừng rồi đó, Dongrang thân mến... Cô Faust không phải là loại người thích nói những lời sáo rỗng đâu."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Mọi chuyện sẽ đâu vào đấy thôi. Trong nhóm của chúng ta đã có nghiên cứu viên thành công nhất của Tập Đoàn K... và tốt hơn nữa là, hai trong số những thiên tài vĩ đại nhất của The City."
+            }
+        ]
+    }
+

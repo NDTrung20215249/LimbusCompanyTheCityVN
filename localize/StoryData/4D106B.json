@@ -1,167 +1,238 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Outreaches of the Outskirts",
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "It's quiet."
-        },
-        {
-            "id": 1,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "Nothing like the Outskirts..."
-        },
-        {
-            "id": 2,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "You're right. Was the world beyond the Outskirts one filled with such beautiful and tranquil beings?"
-        },
-        {
-            "id": 3,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "Yeah, I guess that must be the reason everyone tried to keep quiet about it."
-        },
-        {
-            "id": 4,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "Right, do you, by any chance... know a story about the things beyond the Outskirts? It's said there's a thing that lives here... granting wishes to those who are earnest. Wanna hear it?"
-        },
-        {
-            "id": 5,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "Sure. I always look forward to your stories."
-        },
-        {
-            "id": 6,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "Can it wait just a moment? I saw something nice over there."
-        },
-        {
-            "id": 7,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "……"
-        },
-        {
-            "id": 8,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "When we look up at our sky... all we see is a pinch of muddled light."
-        },
-        {
-            "id": 9,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "But here..."
-        },
-        {
-            "id": 10,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "I can see lone stars looking down at us."
-        },
-        {
-            "id": 11,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "Since the city I can see from here is filled with cries of pain and despair..."
-        },
-        {
-            "id": 12,
-            "teller": "Unknown Boy",
-            "title": "???",
-            "content": "I'd rather... gaze down at people from the loneliness up in the sky and shed tears with them..."
-        },
-        {
-            "id": 13
-        },
-        {
-            "id": 14,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "Sorry, I was a bit late. There were flowers I'd never seen before, maybe we could smell them as I tell my story..."
-        },
-        {
-            "id": 15,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "……"
-        },
-        {
-            "id": 16,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "I see, have you... finally fulfilled your wish?"
-        },
-        {
-            "id": 17,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "Starting today, even if the handful of stars doesn't rise in a corner of the night sky..."
-        },
-        {
-            "id": 18,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "Those stars will light the dark of the lands below instead..."
-        },
-        {
-            "id": 19,
-            "teller": "Stephanette",
-            "title": "???",
-            "content": "So it'll all be okay."
-        },
-        {
-            "id": 20,
-            "content": "　"
-        },
-        {
-            "id": 21,
-            "place": "Blossoming League of Nine Littérateurs",
-            "model": "싱클레어",
-            "content": "What was that just now? It felt like a story from long ago."
-        },
-        {
-            "id": 22,
-            "model": "파우스트",
-            "content": "As the Golden Bough generated the fathoms of ego in a frenzy... foreign matters were mixed into them."
-        },
-        {
-            "id": 23,
-            "model": "파우스트",
-            "content": "K Corp's Singularity: Tears of the so-called 'Tearful Thing'."
-        },
-        {
-            "id": 24,
-            "model": "그레고르",
-            "content": "Can sure see that... It's bringing back dead people to fight us."
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "Yes, they seem to be relevant to the experiences... of melting down."
-        },
-        {
-            "id": 26,
-            "model": "홍루",
-            "content": "Did the mind of that Tearful Thing melt into this resonance as well, then?"
-        },
-        {
-            "id": 27,
-            "model": "싱클레어",
-            "content": "That means... the Tearful Thing is... no different from people..."
-        },
-        {
-            "id": 28,
-            "model": "파우스트",
-            "content": "Dante, in this world... there are many who seek after stars."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Rìa Ngoài Vùng Ngoại Ô",
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Thật yên tĩnh."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Không gì như Vùng Ngoại Ô cả..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Cậu nói đúng. Có phải thế giới bên ngoài Vùng Ngoại Ô từng là một nơi tràn ngập những sinh vật tuyệt đẹp và bình yên phải không?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Đúng thế, tôi đoán đó chắc hẳn là lý do mọi người cố gắng không nói về nó."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Phải rồi, cậu có biết... câu chuyện về những thứ nằm ngoài Vùng Ngoại Ô không? Tương truyền rằng có một thứ sống ngoài đó... ban tặng những điều ước cho bất kỳ ai nghiêm túc và quyết tâm. Có muốn nghe không?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Tất nhiên rồi. Tôi luôn mong ngóng những câu chuyện cậu kể đấy."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Vậy có thể nào chờ một chút được không? Tôi vừa thấy thứ gì đó khá tuyệt ở đằng kia."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"......"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Khi nhìn lên trên bầu trời kia... tất cả những gì mà chúng ta thấy chỉ là một nhúm ánh sáng lộn xộn."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Nhưng tại đây..."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Tôi có thể thấy những vì sao cô đơn đang nhìn xuống chúng ta."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Bởi vì thành phố mà tôi có thể nhìn thấy từ đây tràn ngập những tiếng than khóc đầy khổ đau và sự tuyệt vọng..."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Tôi thà... ngước nhìn mọi người từ sự cô độc trên trời cao và rơi lệ cùng họ..."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Xin lỗi, tôi về hơi trễ. Đây là những bông hoa mà tôi chưa từng nhìn thấy trước đây, có lẽ chúng ta có thể ngửi mùi hương của chúng khi tôi kể chuyện cho cậu nghe..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"......"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Tôi hiểu rồi, có phải cậu... cuối cùng cũng đã hoàn thiện được điều ước của mình rồi không?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Bắt đầu từ hôm nay, cho dù các vì sao trên trời không hiện lên từ góc khuất của bầu trời đêm nữa..."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Thì những ngôi sao đó sẽ chiếu sáng và xua tan đi bóng tối của vùng đất bên dưới chúng..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":"???",
+                "content":"Nên mọi thứ rồi sẽ ổn cả thôi."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":21,
+                "place":"Cửu Nhân Hội Trổ Hoa",
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Vừa nãy là gì thế? Trông cứ như một câu chuyện từ rất lâu rồi vậy."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Khi Cành Vàng tạo bề dày cái tôi trong cơn điên loạn... những vật chất ngoại lai đã lọt vào cùng."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Dị Biến của Tập Đoàn K: Nước Mắt của 'Vật Đẫm Lệ'"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"그레고르",
+                "teller":"Gregor",
+                "title":null,
+                "content":"Có thể thấy là... Nó đang hồi sinh người chết để đấu với chúng ta."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Đúng thế, đó giống như là đang trải qua... quá trình bị tan chảy."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"홍루",
+                "teller":"Hong Lu",
+                "title":null,
+                "content":"Có phải tâm trí của Vật Đẫm Lệ cũng đã hòa tan vào cộng hưởng này rồi không ạ?"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Nghĩa là... Vật Đẫm Lệ cũng... không khác gì con người..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Dante, trong thế giới này... có nhiều kẻ cũng tìm kiếm những vì sao."
+            }
+        ]
+    }
+

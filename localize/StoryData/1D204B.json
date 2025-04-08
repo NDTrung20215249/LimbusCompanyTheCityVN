@@ -2,245 +2,245 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
       "model": "단테",
-      "content": "<Were those Abnormalities responsible for killing all the employees?>"
+      "content": "<Những Dị Thể đó có phải nguyên nhân giết chết tất cả nhân viên ở đây không?>"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I doubt that. If my guess is right…"
+      "title": "Fixer Cấp 8",
+      "content": "Tôi nghi ngờ điều đó. Nếu như giả thuyết của tôi đã đúng..."
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "Keep your eyes ahead, Manager. There’s another one of them."
+      "content": "Xin hãy tập trung nhìn về phía trước, thưa Quản Lý. Có một kẻ khác trong số chúng ở kia."
     },
     {
       "id": 3,
-      "content": "A humanoid being wearing the head of a statue was sitting against the wall."
+      "content": "Một thứ hình người mang trên đầu một cái tượng đang ngồi đối mặt với bức tường."
     },
     {
       "id": 4,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Hi…? Are you… here to… draw your lot…?"
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Xin... chào...? Có phải mọi người... ở đây... để... bốc thăm...?"
     },
     {
       "id": 5,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Gather all your IDs… and give them… to me… Then we’ll find the winner."
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Gom lại toàn bộ thẻ nhân viên... và đưa chúng... cho tôi... Và rồi... chúng ta sẽ tìm kẻ thắng... cuộc."
     },
     {
       "id": 6,
-      "content": "Its hand was barely grasping onto the strap of an employee ID card. “Alex” was the name written on it."
+      "content": "Trên tay thứ đó đang nắm chặt dây đeo với thẻ ID nhân viên. “Alex” là cái tên ghi trên đấy."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Cấp 8",
       "content": "…Alex."
     },
     {
       "id": 8,
       "model": "히스클리프",
-      "content": "Gone nuts, hasn’t she? And what’s that babble about winners?"
+      "content": "Hoá điên rồi à? Và nó lảm nhảm cái gì về thắng cuộc ấy?"
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Some Abnormalities… demanded regular offerings as part of the managerial guidelines."
+      "title": "Fixer Cấp 8",
+      "content": "Một số Dị Thể... yêu cầu một giao kèo thông thường như trong phần hướng dẫn quản thúc có nhắc đến."
     },
     {
       "id": 10,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "You shouldn’t go that way… They will find you…"
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Mọi người... không nên đi hướng... đó... Nó... sẽ tìm thấy mọi người..."
     },
     {
       "id": 11,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…And the offering happened, didn’t it?"
+      "title": "Fixer Cấp 8",
+      "content": "...Vậy là giao kèo đã diễn ra, hẳn là vậy?"
     },
     {
       "id": 12,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "It’s your turn… to draw…"
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Đến lượt mọi người... rút thăm..."
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<Offering…?>"
+      "content": "<Giao kèo...?>"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "What happens if no human sacrifice is made?"
+      "content": "Nếu không có ai hi sinh thì chuyện gì sẽ xảy ra?"
     },
     {
       "id": 15,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "We never found out… We followed every procedure without fail."
+      "title": "Fixer Cấp 8",
+      "content": "Chúng tôi sẽ không bao giờ biết được... Chúng tôi chỉ làm theo thủ tục với không một chút sai sót."
     },
     {
       "id": 16,
       "model": "이스마엘",
-      "content": "I guess it escaped and started killing people left and right."
+      "content": "Chắc là khi đó nó sẽ thoát ra và giết người vô tội vạ nhỉ?"
     },
     {
       "id": 17,
       "model": "히스클리프",
-      "content": "Ha! That “Abnormality” must’ve been one spineless bugger. Does it thwack victims in the back of the head?"
+      "content": "Ha! “Dị Thể” này chắc kiếp trước sống nhục ác. Nó hay đi đập vỡ đầu nạn nhân à?"
     },
     {
       "id": 18,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "What… do you mean?"
+      "title": "Fixer Cấp 8",
+      "content": "Là sao... ý của anh là?"
     },
     {
       "id": 19,
       "model": "히스클리프",
-      "content": "Did you all get jabbed in the eyes or what? Those wounds were clearly left by humans. You can tell they were beating the shite out of each other."
+      "content": "Bọn mày bị mù hết à? Mấy cái vết thương này là do con người gây ra. Rõ ràng tụi này trước đó đang đánh lộn đây mà."
     },
     {
       "id": 20,
       "model": "히스클리프",
-      "content": "Those thickos killed each other in a fight."
+      "content": "Xong rồi tụi nó giết nhau luôn."
     },
     {
       "id": 21,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "B—But for what reason?"
+      "title": "Fixer Cấp 8",
+      "content": "N-Nhưng vì lý do gì chứ?"
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "S’clear as day."
+      "content": "Quá rõ ràng."
     },
     {
       "id": 23,
       "model": "히스클리프",
-      "content": "Probably figured they could survive a while even after the branch was buried."
+      "content": "Chắc bọn nó nhận ra rằng bọn nó có thể tồn tại lâu ngay cả sau khi cái chi nhánh bị chôn vùi."
     },
     {
       "id": 24,
       "model": "히스클리프",
-      "content": "Keep offering folks from time to time, and the rest might get rescued one day."
+      "content": "Lâu lâu cứ tế vài đứa, thì bọn còn lại một ngày nào đó sẽ được cứu."
     },
     {
       "id": 25,
       "model": "히스클리프",
-      "content": "Guess they kept the lots going for a few months. It was the safest way they had to keep the thing in check."
+      "content": "Bọn nó tiếp tục làm thế trong vài tháng. Đó là cách an toàn nhất để đảm bảo mọi thứ."
     },
     {
       "id": 26,
       "model": "히스클리프",
-      "content": "Problem, though: Y’think the one picked as the fall guy would gladly accept his fate?"
+      "content": "Vấn đề là: Tụi bây nghĩ thằng bị tế sẽ chịu chấp nhận số phận à?"
     },
     {
       "id": 27,
       "model": "히스클리프",
-      "content": "If I was them, I’d rather strangle the bloke next to me."
+      "content": "Nếu tao là nó, tao thà bóp cổ chết thằng đứng kế."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Better them than me, ain’t that right?"
+      "content": "Thà bọn nó còn hơn tao, đúng không?"
     },
     {
       "id": 29,
       "model": "히스클리프",
-      "content": "…An’ the rest is history, I bet."
+      "content": "... Và còn lại ai cũng biết."
     },
     {
       "id": 30,
       "model": "이스마엘",
-      "content": "And the last survivor… put on the stone mask belonging to the statueheads…"
+      "content": "Rồi người cuối cùng sống sót... đã đeo chiếc mặt nạ đá của một trong mấy cái đầu tượng kia..."
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "Believing that it’ll save her from being sacrificed."
+      "content": "Với hi vọng rằng mình sẽ được tha mạng."
     },
     {
       "id": 32,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That can’t be. Alex wouldn’t kill others just so she could live…"
+      "title": "Fixer Cấp 8",
+      "content": "Không thể nào. Alex chắc chắn sẽ không giết ai khác chỉ để bản thân được sống sót..."
     },
     {
       "id": 33,
       "model": "히스클리프",
-      "content": "How do you know that? You can’t even be sure if that’s actually Alex or not."
+      "content": "Làm sao mày biết được? Mày còn không biết đó có phải Alex hay không."
     },
     {
       "id": 34,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Let me… give you a tip…"
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Để tôi... cho mọi người... lời khuyên..."
     },
     {
       "id": 35,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "You’ll be much better off… going on your own foot… before they come take you… Kehe… Kehe…"
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Tất cả tốt nhất... nên tự lo cho bản thân... trước khi chúng tới bắt mọi người... đi... Kehe... Kehe."
     },
     {
       "id": 36,
       "model": "오티스",
-      "content": "Let us be on our way. This person will perish before long."
+      "content": "Chúng ta hãy tiếp tục đi tiếp. Tên kia sớm muộn gì cũng chết thôi."
     },
     {
       "id": 37,
-      "content": "While everyone else moved along, Yuri remained in place and continued to stare down the statue-clad individual."
+      "content": "Trong khi toàn bộ mọi người đi qua, Yuri vẫn nán lại tại chỗ và tiếp tục nhìn xuống hình hài bọc tượng kia."
     },
     {
       "id": 38,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "It wasn’t your fault… You know it’s not, right?"
+      "title": "Fixer Cấp 8",
+      "content": "Đó không phải là lỗi của cô đâu... Cô thừa biết mà, phải không?"
     },
     {
       "id": 39,
       "model": "석상머리",
-      "teller": "Statuehead",
-      "title": "A Survivor?",
-      "content": "Leave me behind, Yuri… Please leave me…"
+      "teller": "Đầu Tượng",
+      "title": "Người sống sót?",
+      "content": "Bỏ tôi lại đằng sau đi, Yuri... Làm ơn... hãy rời bỏ tôi..."
     },
     {
       "id": 40,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Cấp 8",
       "content": "……"
     },
     {
       "id": 41,
       "model": "단테",
-      "content": "<…Time to go.>"
+      "content": "<... Đến lúc đi tiếp rồi.>"
     }
   ]
 }

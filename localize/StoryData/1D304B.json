@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Central Front in the Smoke War",
+      "place": "Trung tâm Tuyền tuyến Smoke War",
       "model": "그레고르",
-      "content": "What’s the delay, Yuri?"
+      "content": "Sao chậm trễ vậy, Yuri?"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "G-Give me a second, please. The gas mask fell off my bag…"
+      "title": "Fixer Cấp 8",
+      "content": " L-Làm ơn đợi chút. Mặt nạ khí rơi khỏi túi của tôi..."
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "I don’t see it serving any practical purpose now. You’re only weighing yourself down."
+      "content": "Ta không thấy nó phục vụ bất kì mục đích cụ thể nào. Ngươi chỉ đang tự phế bản thân thôi."
     },
     {
       "id": 3,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I mean, it’s… Aya’s memento."
+      "title": "Fixer Cấp 8",
+      "content": "Ý tôi là... Nó... là di vật của Aya."
     },
     {
       "id": 4,
       "model": "오티스",
-      "content": "You indulge in the most pointless activity in the world, and you aren’t even from N Corp."
+      "content": "Ngươi thật sự ham làm cái việc vô nghĩa nhất trên cái thế giới này, và ngươi còn không tới từ Tập Đoàn N."
     },
     {
       "id": 5,
@@ -38,79 +38,79 @@
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Tie it the other way."
+      "content": "Buộc nó theo hướng ngược lại đi."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Sorry?"
+      "title": "Fixer Cấp 8",
+      "content": "Gì cơ?"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "The knot. It’ll come loose again if you tie it that way."
+      "content": "Nút thắt ấy. Cô mà buộc kiểu đó thì tí nữa nó sẽ tuột ra thôi."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "There’s a sailor’s knot I learned on the boat. I’ll teach you how to do it back on the bus."
+      "content": "Tôi từng học cách thắt dây thừng thủy thủ từ hồi còn đi tàu. Khi nào về xe buýt tôi sẽ dạy lại cho cô sau."
     },
     {
       "id": 10,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Oh… Thank you."
+      "title": "Fixer Cấp 8",
+      "content": "Ô... Cảm ơn cô."
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "What now. Since when were you so friendly?"
+      "content": "Vậy luôn. Từ bao giờ tụi mày thân nhau thế?"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "Yuri~ Y’know what? Why don’t you join our company while you’re at it?"
+      "content": "Yuri~ Cô biết không? Sao cô không gia nhập vào công ty chúng tôi trong khi cô còn ở đây?"
     },
     {
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "M-Me?"
+      "title": "Fixer Cấp 8",
+      "content": "T-Tôi ư?"
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "That’s…"
+      "content": "Điều đó..."
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "I know, I know. We need to get the okay from Vergilius or his superiors and all that. But a little suggestion doesn’t hurt."
+      "content": "Tôi biết, tôi biết mà. Chúng ta chỉ cần sự đồng ý từ ông Vergilius hoặc cấp trên của ổng và vậy đấy. Nhưng một ý kiến nhỏ chắc không to tát đâu."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "Hm… I wonder."
+      "content": "Hừm... tôi tự hỏi rằng."
     },
     {
       "id": 17,
       "model": "로쟈",
-      "content": "Plus, pink hair makes a perfect mascot to represent us. C’mon, won’t you give it some thought? Please?"
+      "content": "Thêm nữa, cô có thể làm linh vật cho bọn tôi nhờ mái tóc hồng hào đó đấy. Thôi nào, cô nghĩ sao nè? Làm ơn đi?"
     },
     {
       "id": 18,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "A—A mascot…? Huhu."
+      "title": "Fixer Cấp 8",
+      "content": " L-Linh vật sao...? Hi hi."
     },
     {
       "id": 19,
-      "content": "Yuri made a smile for the first time, albeit faintly."
+      "content": "Lên đầu tiên Yuri cười, dù cho vô cùng gượng gạo."
     }
   ]
 }

@@ -1,362 +1,470 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Private Room",
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "We’re at the final round. You all keeping a good eye on your chips?"
-    },
-    {
-      "id": 1,
-      "model": "로쟈",
-      "content": "Hm, I’m all in."
-    },
-    {
-      "id": 2,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "…All in?"
-    },
-    {
-      "id": 3,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Ooh~ Dealt a nice hand, huh, Rodya?"
-    },
-    {
-      "id": 4,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Hah~ That swagger of yours’s been rubbin’ me the wrong way, y’know that? You’re pushin’ yourself to the edge, so what’re you counting on?"
-    },
-    {
-      "id": 5,
-      "model": "로쟈",
-      "content": "I’m the kind of gal who bets everything she has at the end."
-    },
-    {
-      "id": 6,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 7,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Stop right there. Pull your sleeve up. Don’t think I didn’t see you bein’ sneaky."
-    },
-    {
-      "id": 8,
-      "model": "로쟈",
-      "content": "Huh?!"
-    },
-    {
-      "id": 9,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "You just put one of them wish stickers you got from the Tingtang bossman on your arm."
-    },
-    {
-      "id": 10,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "You were tryin’ to rake in all the chips this round so you can have the Golden Bough all to yourself."
-    },
-    {
-      "id": 11,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Look, everyone! Right ‘ere ‘neath her hand, this thing. ‘S got to be the sticker, ey?"
-    },
-    {
-      "id": 12,
-      "model": "로쟈",
-      "content": "…Got proof?"
-    },
-    {
-      "id": 13,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Sorry, Rodya, but can I take a look at your wrist for a second?"
-    },
-    {
-      "id": 14,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 15,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Nah, you aren’t! Don’t you touch ‘er. Far as I know, you two might be in cahoots."
-    },
-    {
-      "id": 16,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Nooow, I’ll lay ‘er arm bare, so keep your eyes peeled, aight? I knew this sly little fox would play dirty."
-    },
-    {
-      "id": 17,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Hold on now… This situation… and dialogue… all feel awfully familiar. Have I seen this before somewhere?"
-    },
-    {
-      "id": 18,
-      "model": "로쟈",
-      "content": "Small-minded for someone so big. Do you really have to be petty about this?"
-    },
-    {
-      "id": 19,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "And didn’t they teach you that with stolen wishpower comes strict responsibility?"
-    },
-    {
-      "id": 20,
-      "model": "로쟈",
-      "content": "…You’ve watched too many movies man. What’s stolen?"
-    },
-    {
-      "id": 21,
-      "model": "로쟈",
-      "content": "If you find nothing, will you fold and walk out?"
-    },
-    {
-      "id": 22,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Hah, you’ve got guts. Fine, I’ll bet all my stakes that there’s a piece o’ the wishpower on your wrist. What do you say?"
-    },
-    {
-      "id": 23,
-      "model": "로쟈",
-      "content": "Same as yours. So, one of us is about to go bust then? Scared, are you?"
-    },
-    {
-      "id": 24,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Pahahahah! Oh that’s cute, you get that somewhere? Anyway, that means your words’re final, ey?"
-    },
-    {
-      "id": 25,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Oh my… This is going exactly how I remember… I’m pretty sure the conclusion was…"
-    },
-    {
-      "id": 26,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Here goes, let us confirm then~"
-    },
-    {
-      "id": 27,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "……"
-    },
-    {
-      "id": 28,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Wuhuh? What’s going on ‘ere?"
-    },
-    {
-      "id": 29,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "I saw it. I saw the little fox rub ‘er wrist! There’s—there’s no way…"
-    },
-    {
-      "id": 30,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "That means you’re out. What a pity."
-    },
-    {
-      "id": 31,
-      "model": "로쟈",
-      "content": "What happens to the loser, then? Lop off a hand or something?"
-    },
-    {
-      "id": 32,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "You’re joking, right, Rodya? There’s no point in removing a prosthetic hand."
-    },
-    {
-      "id": 33,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "No, this is… This can’t be right…"
-    },
-    {
-      "id": 34,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "The defeated will be shown generosity, but false accusations need to be taken care of with more caution."
-    },
-    {
-      "id": 35,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Hang on, are you…?"
-    },
-    {
-      "id": -1,
-      "content": "[DEVELOPER COMMENT NOT TO DISPLAY]"
-    },
-    {
-      "id": 36,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 37,
-      "model": "로쟈",
-      "content": "Gweh… What in the…!"
-    },
-    {
-      "id": 38,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "For Wings’ sake, can you PLEASE give me a warning—just a little one!"
-    },
-    {
-      "id": 39,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Ugh… Look at all the grease and spinal fluid… Bwegh."
-    },
-    {
-      "id": 40,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Remember, Rodya? It’s a trash compactor we saw at the waste disposal in our Backstreets."
-    },
-    {
-      "id": 41,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 42,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "I told you back then."
-    },
-    {
-      "id": 43,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "That we proletarians should unite to take down the ruling class and build a new society."
-    },
-    {
-      "id": 44,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "So then you replied:"
-    },
-    {
-      "id": 45,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "“If you mean we should round up the rich and flatten ‘em under one of those compactors, then I’m all for it.”"
-    },
-    {
-      "id": 46,
-      "model": "로쟈",
-      "content": "…Small correction: I said “crush and pop ‘em”."
-    },
-    {
-      "id": 47,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "…Is that so."
-    },
-    {
-      "id": 48,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Rodya, are you still unwilling to return to the Yurodiviye?"
-    },
-    {
-      "id": 49,
-      "model": "로쟈",
-      "content": "I…"
-    },
-    {
-      "id": 50,
-      "model": "그레고르",
-      "content": "Didn’t you all… hear a loud slam just now?"
-    },
-    {
-      "id": 51,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Undoubtedly. After a quarrel about… wishpower and the like."
-    },
-    {
-      "id": 52,
-      "model": "히스클리프",
-      "content": "What? Did they find out? Oi, quit gawking and turn that clock."
-    },
-    {
-      "id": 53,
-      "model": "이스마엘",
-      "content": "Gosh, please stop pushing. …Aaah!"
-    },
-    {
-      "id": 54,
-      "model": "싱클레어",
-      "content": "Huh, woah—?!"
-    },
-    {
-      "id": 55,
-      "content": "Unfortunately, the door we were leaning against was a flimsy wooden frame covered with rice paper."
-    },
-    {
-      "id": 56,
-      "content": "We all tumbled into the room as the door fell."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Riêng",
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Chúng ta đang ở ván bài cuối cùng rồi, các ngươi đều nhìn rõ số phỉnh của mình chứ?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Hừm, tôi chơi tất tay."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"...Chơi tất tay?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Ồ... Bài tốt rồi sao, Rodya?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Ha~ Cái thái độ tự mãn của mày làm tao ngứa mắt lắm rồi đấy, có biết không hả? Mày tự đẩy bản thân vào đường cùng rồi, định toan tính cái gì đây?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Tôi là kiểu con gái hay đặt cược toàn bộ vào phút chót đấy."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Dừng ngay đó. Kéo tay áo mày lên. Mày không nghĩ tao sẽ không thấy mày lén lút à."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Hả?!"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Mày vừa mới dán miếng dán ước nguyện lấy từ cái thằng chủ Tingtang lên tay."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Mày tính cuỗm sạch hết đống phỉnh ở lượt này rồi lấy mất cái Cành Vàng đi cho riêng mày chứ gì."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Nhìn này, mọi người! Ngay dưới cái tay cô ta, là nó. Chính là cái miếng dán ước nguyện, phải không?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"...Có bằng chứng không?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Xin lỗi, Rodya, nhưng mà cậu có thể cho tớ xem qua cổ tay cậu một lúc được không?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Nà, đừng có mà làm vậy! Bỏ cái tay của mày ra. Theo những gì tao biết, tụi mày có thể là đồng lõa với nhau."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Giờ thhhhhì, để tao lật ra cho tụi mày xem, nhìn cho mà rõ đây, nghe chứ? Tao thừa biết cái con hồ ly này sẽ chơi bẩn mà."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Khoan đã nào... tình huống này... đến cả lời thoại đó... tất cả đều quen thuộc đến rùng mình. Có khi nào ta đã nhìn thấy điều này từ trước đó rồi chăng?"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Người to mà óc bé vậy. Ông có cần phải làm lớn chuyện vậy không?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Và không phải bọn nó dạy mày là đánh cắp ước nguyện sẽ gánh phải tránh nhiệm nặng nề à?"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"...Ông chắc coi nhiều phim lắm rồi ấy. Cái gì bị cướp cơ?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Nếu không thấy gì, mong ông vác cái thân rồi ra khỏi đây được không?"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Ha, mày cũng gan lì đấy. Tốt thôi, tao đánh cược toàn bộ tiền của tao là con nhãi này giấu một miếng dán ước nguyện dưới tay áo nó. Tụi mày nghĩ thế nào?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Tôi cũng vậy. Vậy, một trong hai ta sẽ toang đời đấy nhé? Sợ khiếp à, phải không?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Khặc há há há! Ôi trời cưng đấy, mày kiếm đâu ra câu đó thế? Thôi thì, mấy từ đó chắc là lời trăn trối của mày nhỉ?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Trời... Chuyện này sẽ xảy ra chính xác như những gì ta nhớ... Ta khá chắc kết quả là..."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Giờ thì, để chúng ta xác nhận nào~"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"......"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Ơ hở? Chuyện đéo gì thế này?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Tao rõ đã thấy nó. Tao thấy con cáo ranh này chà xát nó vào tay! Không thể—không thể nào..."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Đồng nghĩa với việc ông đã bị loại, thật đáng tiếc."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Thế kẻ thua thì làm gì giờ? Cụt mất một tay hay sao đây?"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Cậu đang đùa thôi đúng không, Rodya? Thật vô nghĩa khi loại bỏ cánh tay máy đó."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"철공회보스",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội",
+                "content":"Không, không thể nào... có chuyện này được..."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Người thua cuộc sẽ chỉ mất trắng, nhưng tội vu khống người khác thì cần phải bị xử lý thích đáng."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Đợi đã, anh đang...?"
+            },
+            {
+                "id":-1,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Ựa... Cái quái gì...!"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Lạy Chúa, LÀM ƠN các ngươi có thể báo trước cho ta một tiếng được không - chỉ một tiếng thôi!"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Uề... Nhìn cái mớ hỗn độn từ dầu nhớt và dịch tủy này... Ọe."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Cậu còn nhớ chứ, Rodya? Đó là máy nén rác mà tụi mình đã tìm thấy ở bãi phế liệu tại Backstreet đấy."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Trước đây tớ đã từng nói với cậu rồi."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Rằng tầng lớp vô sản như chúng ta nên đoàn kết lại để triệt hạ tầng lớp thống trị và xây dựng một xã hội mới."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Và rồi cậu đáp lại:"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"“Nếu ý của cậu là chúng ta nên gom đám nhà giàu lại và đập chúng bẹp dí dưới một cái máy nén rác, thì tôi sẽ theo cậu.”"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"...Chỉnh chút: Tôi bảo \"bóp nát chúng.\""
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"...Là vậy ư?"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Rodya, cậu vẫn đang còn đắn đo về việc trở lại Yurodiviye sao?"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Tôi..."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Mọi người... có vừa nghe thấy tiếng đập mạnh không?"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"Không còn nghi ngờ gì nữa. Sau tất cả cuộc cãi vã... về ước nguyện và mấy thứ tương tự khác."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Cái gì? Bọn chúng phát hiện ra rồi à? Này, ngưng đứng đó dòm và quay đồng hồ đi."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Trời ạ, đừng có đẩy nữa. ....Á á á!"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Hả, á—?!"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thật không may, cánh cửa mà chúng tôi tựa mặt vào chỉ là tấm ván gỗ được bọc bằng giấy."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cả đoàn đều ngỡ ngàng khi cánh cửa rơi xuống."
+            }
+        ]
     }
-  ]
-}
+

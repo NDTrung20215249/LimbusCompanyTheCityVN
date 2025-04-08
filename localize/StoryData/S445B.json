@@ -1,279 +1,291 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "료슈",
-            "content": "E. Y."
-        },
-        {
-            "id": 1,
-            "model": "이상",
-            "content": "...Did you call?"
-        },
-        {
-            "id": 2,
-            "model": "료슈",
-            "content": "That man who keeps clinging to us claiming to be your friend. What's the relationship?"
-        },
-        {
-            "id": 3,
-            "model": "이상",
-            "content": "As can be seen, the tie has long been severed."
-        },
-        {
-            "id": 4,
-            "model": "료슈",
-            "content": "I don't like butting in, and I hate speaking for long even more..."
-        },
-        {
-            "id": 5,
-            "model": "료슈",
-            "content": "But I'm telling you this since the smile of that ignorance-feigning scoundrel Dongrang is detestable."
-        },
-        {
-            "id": 6,
-            "model": "료슈",
-            "content": "That one desk, one that was even more disgusting than the others because it was clean and empty."
-        },
-        {
-            "id": 7,
-            "model": "료슈",
-            "content": "The nametag below it had your name."
-        },
-        {
-            "id": 8,
-            "model": "이상",
-            "content": "……"
-        },
-        {
-            "id": 9,
-            "model": "단테",
-            "content": "<He was planning to give Yi Sang that position all along?>"
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "Do you think he's trying to headhunt him? That's supposedly a violation of moral principles between firms or something like that, isn't it?"
-        },
-        {
-            "id": 11,
-            "model": "료슈",
-            "content": "BAFFLED."
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "...What's that supposed to be an acronym for?"
-        },
-        {
-            "id": 13,
-            "model": "료슈",
-            "content": "It's not. I'm just baffled."
-        },
-        {
-            "id": 14,
-            "model": "료슈",
-            "content": "Orange hair, you say you used to work on a ship for a long while? As a Fixer?"
-        },
-        {
-            "id": 15,
-            "model": "료슈",
-            "content": "You have serious delusions about Wings and firms. Did you dump your common sense into the great lake as chum?"
-        },
-        {
-            "id": 16,
-            "model": "료슈",
-            "content": "Bringing up morality in the world we live in... Pretty amusing for a joke."
-        },
-        {
-            "id": 17,
-            "model": "뫼르소",
-            "content": "Headhunting and changing jobs between firms are done based on interests and efficiency."
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "Heh, so you're a hillbilly in your own language, eh. Or should I say boatbilly?"
-        },
-        {
-            "id": 19,
-            "model": "이스마엘",
-            "content": "Erggh..."
-        },
-        {
-            "id": 20,
-            "model": "단테",
-            "content": "<Even if that was the case... This really is strange.>"
-        },
-        {
-            "id": 21,
-            "model": "단테",
-            "content": "<He's not taking Yi Sang's thoughts into account at all...>"
-        },
-        {
-            "id": 22,
-            "model": "이상",
-            "content": "Pay it no heed. Thoughts are rather meager things."
-        },
-        {
-            "id": 23,
-            "model": "이상",
-            "content": "I am quite used to the life of being taxidermied."
-        },
-        {
-            "id": 24,
-            "model": "싱클레어",
-            "content": "Are you sure you don't mind? Yi Sang, when you joined the company..."
-        },
-        {
-            "id": 25,
-            "model": "싱클레어",
-            "content": "No, actually... Didn't all of us receive the same offer?"
-        },
-        {
-            "id": 26,
-            "content": "The job offer."
-        },
-        {
-            "id": 27,
-            "content": "In my case, I was promised I'd get my aspect carved."
-        },
-        {
-            "id": 28,
-            "content": "I could barely remember a thing, but as soon as I heard that word, I nodded as if I was possessed."
-        },
-        {
-            "id": 29,
-            "content": "They acted like they knew my only choice would be to accept it..."
-        },
-        {
-            "id": 30,
-            "model": "싱클레어",
-            "content": "If I joined this company..."
-        },
-        {
-            "id": 31,
-            "model": "이상",
-            "content": "When I do..."
-        },
-        {
-            "id": 32,
-            "model": "이상",
-            "content": "The thing I wished for dearly..."
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "The thing I recited to myself every night..."
-        },
-        {
-            "id": 34,
-            "model": "오티스",
-            "content": "Yes, the thing I thought would be impossible..."
-        },
-        {
-            "id": 35,
-            "model": "파우스트",
-            "content": "They promised to make it a possibility. Most certainly."
-        },
-        {
-            "id": 36,
-            "model": "돈키호테",
-            "content": "……"
-        },
-        {
-            "id": 37,
-            "model": "그레고르",
-            "content": "How thoroughly did they look into our backgrounds?"
-        },
-        {
-            "id": 38,
-            "model": "히스클리프",
-            "content": "Hah... Guess we had our version of wish-granting tales just like that storybook we read earlier."
-        },
-        {
-            "id": 39,
-            "model": "이상",
-            "content": "In truth, even that wish was no more than a futile dream."
-        },
-        {
-            "id": 40,
-            "model": "히스클리프",
-            "content": "What, you weren't that desperate for it? Why did you join, then?"
-        },
-        {
-            "id": 41,
-            "model": "이상",
-            "content": "Simply..."
-        },
-        {
-            "id": 42,
-            "model": "이상",
-            "content": "I walked for so long that my feet hurt. A shower of rain was pouring down as well."
-        },
-        {
-            "id": 43,
-            "model": "이상",
-            "content": "The bus I saw then appeared rather inviting."
-        },
-        {
-            "id": 44,
-            "model": "료슈",
-            "content": "Hah. That can't be it, can it?"
-        },
-        {
-            "id": 45,
-            "model": "료슈",
-            "content": "We all..."
-        },
-        {
-            "id": 46,
-            "model": "파우스트",
-            "content": "That's enough of it."
-        },
-        {
-            "id": 47,
-            "model": "파우스트",
-            "content": "Our company rules forbid disclosing the contents of the job contract in detail."
-        },
-        {
-            "id": 48,
-            "model": "료슈",
-            "content": "Acting all high and mighty when you're in the same boat with the rest. Foul."
-        },
-        {
-            "id": 49,
-            "model": "파우스트",
-            "content": "……"
-        },
-        {
-            "id": 50,
-            "model": "파우스트",
-            "content": "Let's proceed."
-        },
-        {
-            "id": 51,
-            "content": "That's when a thought struck me."
-        },
-        {
-            "id": 52,
-            "content": "Unlike most other Sinners, Yi Sang wouldn't vocalize his pain."
-        },
-        {
-            "id": 53,
-            "content": "Because of that, I would often discover his injuries late."
-        },
-        {
-            "id": 54,
-            "content": "Where has he been holding all that pain?"
-        },
-        {
-            "id": 55,
-            "content": "I was reminded of the void in his chest I caught a glimpse of."
-        },
-        {
-            "id": 56,
-            "content": "Was he keeping it in... or was it spilling out?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"료슈",
+                "content":"E.Y."
+            },
+            {
+                "id":1,
+                "model":"이상",
+                "content":"...Cô gọi tôi à?"
+            },
+            {
+                "id":2,
+                "model":"료슈",
+                "content":"Cái tên cứ bám lấy chúng ta tự nhận là bạn ngươi. Mối quan hệ là gì?"
+            },
+            {
+                "id":3,
+                "model":"이상",
+                "content":"Như cô thấy đấy, từ lâu bọn tôi đã chẳng còn là gì."
+            },
+            {
+                "id":4,
+                "model":"료슈",
+                "content":"Mặc dù ta không phải dạng thích soi mói đời tư, và ta ghét nói nhiều..."
+            },
+            {
+                "id":5,
+                "model":"료슈",
+                "content":"Nhưng ta nói ngươi biết bởi vì nụ cười giả tạo của tên ngu cặn bã xảo trá Dongrang đó rất đáng khinh."
+            },
+            {
+                "id":6,
+                "model":"료슈",
+                "content":"Cái bàn đó, thứ còn ghê tởm hơn những cái khác bởi vì nó sạch sẽ và trống rỗng."
+            },
+            {
+                "id":7,
+                "model":"료슈",
+                "content":"Tấm bảng gắn bên dưới có tên ngươi."
+            },
+            {
+                "id":8,
+                "model":"이상",
+                "content":"……"
+            },
+            {
+                "id":9,
+                "model":"단테",
+                "content":"<Anh ta đã định trao cho Yi Sang vị trí đó sao?>"
+            },
+            {
+                "id":10,
+                "model":"이스마엘",
+                "content":"Ý cô là anh ta đang cố săn tuyển Yi Sang sao? Như thế là vi phạm nguyên tắc đạo đức giữa công ty và ứng viên hay gì đó nhỉ?"
+            },
+            {
+                "id":11,
+                "model":"료슈",
+                "content":"NGU."
+            },
+            {
+                "id":12,
+                "model":"이스마엘",
+                "content":"...Và nó là chữ viết tắt cho cái gì?"
+            },
+            {
+                "id":13,
+                "model":"료슈",
+                "content":"Không gì cả. Ngu thì chửi thôi."
+            },
+            {
+                "id":14,
+                "model":"료슈",
+                "content":"Đầu cam, ngươi nói ngươi từng làm việc trên thuyền một thời gian dài? Như một Fixer?"
+            },
+            {
+                "id":15,
+                "model":"료슈",
+                "content":"Ngươi bị ảo tưởng trầm trọng về Wing và các công ty rồi. Ngươi vứt lẽ thường xuống hồ lớn như mồi cho cá ăn rồi à?"
+            },
+            {
+                "id":16,
+                "model":"료슈",
+                "content":"Đề cập đến đạo đức trong cái thế giới oái oăm này... Câu đùa khá buồn cười đấy."
+            },
+            {
+                "id":17,
+                "model":"뫼르소",
+                "content":"Tuyển dụng và đổi việc giữa các công ty đều được thực hiện dựa trên sở thích và hiệu quả."
+            },
+            {
+                "id":18,
+                "model":"히스클리프",
+                "content":"Hừm, hóa ra mày nói tiếng người nhà quê à? Hay tao nên gọi là dân thuyền chài?"
+            },
+            {
+                "id":19,
+                "model":"이스마엘",
+                "content":"Hừ..."
+            },
+            {
+                "id":20,
+                "model":"단테",
+                "content":"<Cho dù có là thế... Chuyện này thật sự rất kỳ lạ.>"
+            },
+            {
+                "id":21,
+                "model":"단테",
+                "content":"<Anh ta không hề để tâm đến suy nghĩ của Yi Sang gì cả...>"
+            },
+            {
+                "id":22,
+                "model":"이상",
+                "content":"Đừng để tâm làm gì. Cảm nhận là thứ khá vô nghĩa."
+            },
+            {
+                "id":23,
+                "model":"이상",
+                "content":"Tôi quá quen với việc bị nhồi nhét rồi."
+            },
+            {
+                "id":24,
+                "model":"싱클레어",
+                "content":"Anh có chắc là mình không để tâm không? Anh Yi Sang, khi anh gia nhập công ty này..."
+            },
+            {
+                "id":25,
+                "model":"싱클레어",
+                "content":"Không, lúc đầu... Chẳng phải chúng ta đều nhận được cùng một lời đề nghị sao?"
+            },
+            {
+                "id":26,
+                "model":null,
+                "content":"Lời đề nghị công việc."
+            },
+            {
+                "id":27,
+                "model":null,
+                "content":"Trong trường hợp của tôi, tôi đã được hứa hẹn sẽ có thể khắc ghi chòm sao của mình."
+            },
+            {
+                "id":28,
+                "model":null,
+                "content":"Tôi không thể nhớ được một điều gì, nhưng ngay khi tôi nghe thấy cụm từ đó, tôi gật đầu như thể bản thân đang bị điều khiển vậy."
+            },
+            {
+                "id":29,
+                "model":null,
+                "content":"Họ hành xử như thể họ biết lựa chọn duy nhất của tôi chính là chấp nhận nó..."
+            },
+            {
+                "id":30,
+                "model":"싱클레어",
+                "content":"Nếu tôi đồng ý gia nhập công ty này..."
+            },
+            {
+                "id":31,
+                "model":"이상",
+                "content":"Lúc tôi vào..."
+            },
+            {
+                "id":32,
+                "model":"이상",
+                "content":"Thứ mà tôi thiết tha mong ước...."
+            },
+            {
+                "id":33,
+                "model":"이스마엘",
+                "content":"Thứ mà tôi đau đáu nghiền ngẫm hằng đêm..."
+            },
+            {
+                "id":34,
+                "model":"오티스",
+                "content":"Ừ, thứ mà ta đã nghĩ là bất khả thi..."
+            },
+            {
+                "id":35,
+                "model":"파우스트",
+                "content":"Họ chắc chắn sẽ biến những điều đó thành hiện thực."
+            },
+            {
+                "id":36,
+                "model":"돈키호테",
+                "content":"……"
+            },
+            {
+                "id":37,
+                "model":"그레고르",
+                "content":"Họ đã điều tra gia thế của chúng ta kĩ càng tới mức nào vậy?"
+            },
+            {
+                "id":38,
+                "model":"히스클리프",
+                "content":"Hàa... Cá là chúng ta có cái thứ giai thoại về ban điều ước như trong quyển truyện đọc hồi nãy."
+            },
+            {
+                "id":39,
+                "model":"이상",
+                "content":"Thực ra, cả mong ước đó cũng chẳng là gì hơn một giấc mộng phù phiếm."
+            },
+            {
+                "id":40,
+                "model":"히스클리프",
+                "content":"Sao, chẳng phải mày khao khát nó dữ lắm à? Vậy sao mày lại gia nhập công ty này, hả?"
+            },
+            {
+                "id":41,
+                "model":"이상",
+                "content":"Đơn giản thôi..."
+            },
+            {
+                "id":42,
+                "model":"이상",
+                "content":"Tôi đã bước đi quá lâu tới mức đôi chân đau nhức. Trời cũng còn đang mưa nữa."
+            },
+            {
+                "id":43,
+                "model":"이상",
+                "content":"Chiếc xe buýt lúc đó tôi thấy trông thật ấm cúng."
+            },
+            {
+                "id":44,
+                "model":"료슈",
+                "content":"Hà. Không thể nào?"
+            },
+            {
+                "id":45,
+                "model":"료슈",
+                "content":"Tất cả chúng ta..."
+            },
+            {
+                "id":46,
+                "model":"파우스트",
+                "content":"Nhiêu đó là được rồi."
+            },
+            {
+                "id":47,
+                "model":"파우스트",
+                "content":"Điều lệ của công ty ta cấm việc tiết lộ nội dung trong hợp đồng."
+            },
+            {
+                "id":48,
+                "model":"료슈",
+                "content":"Tỏ vẻ kiêu ngạo và tự cao tự đại trong khi ngươi cũng chung số phận với bọn ta. Khốn kiếp."
+            },
+            {
+                "id":49,
+                "model":"파우스트",
+                "content":"... ..."
+            },
+            {
+                "id":50,
+                "model":"파우스트",
+                "content":"Ta tiếp tục nào."
+            },
+            {
+                "id":51,
+                "model":null,
+                "content":"Đó là lúc một ý nghĩ chợt nảy lên trong đầu tôi."
+            },
+            {
+                "id":52,
+                "model":null,
+                "content":"Không giống những Tội Nhân khác, Yi Sang không hề bộc lộ nỗi đau của anh ấy."
+            },
+            {
+                "id":53,
+                "model":null,
+                "content":"Vì thế mà tôi phát hiện ra vết thương của anh ấy quá muộn màng."
+            },
+            {
+                "id":54,
+                "model":null,
+                "content":"Anh ấy đã cất giấu toàn bộ nỗi đau đó ở đâu?"
+            },
+            {
+                "id":55,
+                "model":null,
+                "content":"Tôi nhớ lại hố đen trống rỗng mà tôi nhìn thấy trong lồng ngực của anh ấy."
+            },
+            {
+                "id":56,
+                "model":null,
+                "content":"Là do anh ấy đang giấu nhẹm những đau đớn đó đi... hay là chúng đang trực trào ra?"
+            }
+        ]
+    }
+

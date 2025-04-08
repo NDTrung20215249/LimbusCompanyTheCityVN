@@ -1,333 +1,542 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Casino 1F",
-      "content": "The casino could be best described as “busy”."
-    },
-    {
-      "id": 1,
-      "content": "Excessively cheery sounds blared from slot machines."
-    },
-    {
-      "id": 2,
-      "content": "The lights were so bright that some of our Sinners had to cover their eyes."
-    },
-    {
-      "id": 3,
-      "content": "And the security guards took note of our garish outfits to give us a customary nod."
-    },
-    {
-      "id": 4,
-      "content": "Saude and Effie, dressed as croupiers, discreetly nodded at us as they accompanied Rodya to the casino’s cage."
-    },
-    {
-      "id": 5,
-      "content": "I was amazed by their ability to feign expertise; from the way they carried themselves to the facial expressions they made, few would doubt that they’re long-time employees."
-    },
-    {
-      "id": 6,
-      "model": "돈키호테",
-      "content": "Wha… What manner of sorcery are these dazzling contraptions?"
-    },
-    {
-      "id": 7,
-      "model": "그레고르",
-      "content": "Try not to go saucer-eyed at everything like a fascinated kid, Don Quixote. You’ll seem fishy…"
-    },
-    {
-      "id": 8,
-      "model": "이스마엘",
-      "content": "The guests here look dead inside with their dim eyes, and they smell worse than the Tingtang schmucks we faced. Do they even wash…"
-    },
-    {
-      "id": 9,
-      "model": "그레고르",
-      "content": "I don’t think they’d be too happy about you holding your nose right before their faces, Ishmael…"
-    },
-    {
-      "id": 10,
-      "model": "이스마엘",
-      "content": "But, this is the kind of bilgy stench I’d only ever caught from deckhands…"
-    },
-    {
-      "id": 11,
-      "content": "Fortunately, most of them were too focused on the machines to care about what we were doing."
-    },
-    {
-      "id": 12,
-      "model": "돈키호테",
-      "content": "Manager Esquire! Hath you seen such a thing?"
-    },
-    {
-      "id": 13,
-      "model": "돈키호테",
-      "content": "What must I do to hear the jolly bells as the other patrons are?"
-    },
-    {
-      "id": 14,
-      "model": "단테",
-      "content": "<I don’t think I’ve been to one of these places before, so I wouldn’t know…>"
-    },
-    {
-      "id": 15,
-      "content": "Looking at all the flashy symbols and numbers spinning had slowly eroded my resolve to act the part of a stern manager."
-    },
-    {
-      "id": 16,
-      "model": "단테",
-      "content": "<I, I guess a little peek is fine?>"
-    },
-    {
-      "id": 17,
-      "model": "돈키호테",
-      "content": "It says here to press the button! Is pressing it what one ought to do?"
-    },
-    {
-      "id": 18,
-      "content": "I swear upon my minute and hour hands that I had no intention to press that button, absolutely none."
-    },
-    {
-      "id": 19,
-      "content": "The hand I’d swiftly outstretched to stop Don Quixote from touching the machine unexpectedly fumbled and landed smack on the button—"
-    },
-    {
-      "id": 20,
-      "model": "단테",
-      "content": "<Yikes!>"
-    },
-    {
-      "id": 21,
-      "content": "—and in an unpredictable series of coincidences, someone had left a token in it, enough for one game."
-    },
-    {
-      "id": 22,
-      "content": "Reels started spinning under fanfare…"
-    },
-    {
-      "id": 23,
-      "content": "We could only watch as the chain of events unfolded."
-    },
-    {
-      "id": 24,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "By the way, I hope Dante handles the wish stickers we took from the Tingtang Gang with care."
-    },
-    {
-      "id": 25,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "That manager? It was the only favor we asked of them, they’d better be doing a good job."
-    },
-    {
-      "id": 26,
-      "model": "로쟈",
-      "content": "You can count on Dante, dear duo~ They’re one of the few sensible pals who gets what’s up."
-    },
-    {
-      "id": 27,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "That’s good to hear. With so many sheets attached, they should be able to win any game with ease."
-    },
-    {
-      "id": 28,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "We just need to be careful not to draw attention here."
-    },
-    {
-      "id": 29,
-      "content": "JAAACKPOT!"
-    },
-    {
-      "id": 30,
-      "content": "The players next to us stared with jaws dropped so far that their chins could touch the floor…"
-    },
-    {
-      "id": 31,
-      "content": "Waves of casino chips plunged from the machine, so many that I wouldn’t dare try to gather them up."
-    },
-    {
-      "id": 32,
-      "content": "I’m so sorry, Effie, Saude."
-    },
-    {
-      "id": 33,
-      "content": "I came here determined to do something right, and it fell apart all so soon."
-    },
-    {
-      "id": 34,
-      "teller": "One Casinogoer",
-      "title": "Chump",
-      "content": "A jackpot? What machine is it?"
-    },
-    {
-      "id": 35,
-      "teller": "Another Casinogoer",
-      "title": "Chump",
-      "content": "Just like that, no warning? Right now?"
-    },
-    {
-      "id": 36,
-      "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
-      "content": "A moment, please…"
-    },
-    {
-      "id": 37,
-      "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
-      "content": "Let me just check your ID."
-    },
-    {
-      "id": 38,
-      "model": "히스클리프",
-      "content": "What’s with the aggro? Is it a crime to win big at a casino?"
-    },
-    {
-      "id": 39,
-      "model": "파우스트",
-      "content": "Chance in this place doesn’t work the way we think it usually does. You could accumulate your luck for a big payout or trickle in small amounts to break even, but winning the jackpot on your first try should be a literal impossibility here."
-    },
-    {
-      "id": 40,
-      "model": "돈키호테",
-      "content": "Chips are raining down like shooting stars!"
-    },
-    {
-      "id": 41,
-      "model": "이스마엘",
-      "content": "I’d hoped you of all people would have a sense of responsibility… Yet all it took was Don Quixote’s siren plea for you to give in."
-    },
-    {
-      "id": 42,
-      "model": "이스마엘",
-      "content": "I’m disappointed. You’re none other than our manager, and I expected you to show your capability and clear the disgrace of failure from us."
-    },
-    {
-      "id": 43,
-      "content": "Ishmael’s barrage of scathing whispers was something to marvel at, as Gregor muttered in awe."
-    },
-    {
-      "id": 44,
-      "content": "On top of that, her piercing gaze I had never felt before…"
-    },
-    {
-      "id": 45,
-      "content": "…It made me want to weasel away under a rock, if there were one."
-    },
-    {
-      "id": 46,
-      "content": "For once, I thanked my clock for lacking eyes to meet her glare."
-    },
-    {
-      "id": 47,
-      "model": "그레고르",
-      "content": "…Now hold on, that might not be our only problem…"
-    },
-    {
-      "id": 48,
-      "content": "Gregor was fretfully looking in every direction, until he stopped to point at the shocking discovery he’d just made."
-    },
-    {
-      "id": 49,
-      "content": "And where he pointed—"
-    },
-    {
-      "id": 50,
-      "model": "그레고르",
-      "content": "How long have you been off your disguise, Ryōshū?"
-    },
-    {
-      "id": 51,
-      "content": "—was a sullen Ryōshū, wearing the same clothes she’s always worn."
-    },
-    {
-      "id": 52,
-      "model": "료슈",
-      "content": "I don’t put on others’ discarded clothing."
-    },
-    {
-      "id": 53,
-      "model": "그레고르",
-      "content": "Gah… Manager Bud, today isn’t our day, huh…"
-    },
-    {
-      "id": 54,
-      "model": "단테",
-      "content": "<Yup… Looks like we’re screwed. Royally…>"
-    },
-    {
-      "id": 55,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "This can’t be… All the work we did to put this plan in motion…"
-    },
-    {
-      "id": 56,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Faust, what were you thinking volunteering to bring these fools along for your missions? You’re supposed to have near-unparalleled brilliance, right? Then use it!"
-    },
-    {
-      "id": 57,
-      "model": "파우스트",
-      "content": "Even though I haven’t worked with them for long, I was able to realize something:"
-    },
-    {
-      "id": 58,
-      "model": "파우스트",
-      "content": "I ought to become a Faust that believes in uncertainty."
-    },
-    {
-      "id": 59,
-      "model": "파우스트",
-      "content": "When the lack of a plan becomes the plan, all variables become constants."
-    },
-    {
-      "id": 60,
-      "model": "파우스트",
-      "content": "That is what my ‘plan’ entails."
-    },
-    {
-      "id": 61,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "……"
-    },
-    {
-      "id": 62,
-      "model": "이스마엘",
-      "content": "…Sigh."
-    },
-    {
-      "id": 63,
-      "content": "Faust turned to me with a tranquil face."
-    },
-    {
-      "id": 64,
-      "content": "Thanks to her, my role right now became clear."
-    },
-    {
-      "id": 65,
-      "model": "단테",
-      "content": "<Alright… It’s time for our usual gig…>"
-    },
-    {
-      "id": 66,
-      "model": "단테",
-      "content": "<Let’s kill and be killed.>"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sòng Bạc (T.1)",
+                "content":"Cái miêu tả đúng nhất dành cho sòng bạc là \"bận rộn\".",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Những âm thanh vui vẻ reo vang ầm ĩ từ các máy đánh bạc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Ánh sáng trong này chói đến nỗi một vài Tội Nhân phải che mắt lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Và các bảo vệ đã nhận ra mấy bộ trang phục lòe loẹt từ chúng tôi rồi cúi đầu theo lệ thường.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Saude và Effie, ăn mặc như những nhân viên sòng bạc, thận trọng cúi đầu với chúng tôi trong lúc họ hộ tống Rodya tới quầy giao dịch.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Tôi bị choáng ngợp với khả năng tỏ vẻ chuyên gia tới mức thuần thục của hai người bọn họ; từ cách điều khiển biểu cảm khuôn mặt, một số còn sẽ nghi rằng họ là những nhân viên lâu năm ở đây.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Nhữn... Những cỗ máy chói sáng lấp lánh này ẩn chứa thứ ma thuật gì đây?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Đừng có mà thấy gì cũng trợn tròn mắt lên như trẻ con thế, Don Quixote. Cô sẽ bị nghi ngờ đấy...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Người chơi ở đây ai cũng trông như đã chết trong lòng vậy; những gương mặt đờ đẫn, những ánh mắt thất thần, và thậm chí còn bốc mùi ghê hơn cả đám bợm Tình Tang ban nãy nữa. Mấy người này có tắm không thế...",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Tôi không nghĩ là họ thích việc cô bịt mũi trước mặt họ như vậy đâu, Ishmael...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Nhưng mà, cái mùi tanh tưởi này thì chỉ những thủy thủ lâu năm mới có...",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"May mắn thay, phần lớn những người bên trong quá tập trung vào máy đánh bạc để mà quan tâm tới những gì chúng tôi đang làm.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Ngài Quản Lý! Ngài đã bao giờ nhìn thấy thứ gì như này chưa?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Ta phải làm gì để nghe được tiếng chuông chúc mừng như những vị khách khác đây?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"<Tôi không nghĩ là tôi đã từng đến một trong những nơi như thế này trước đây, nên tôi không biết...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Nhìn vào toàn bộ ký hiệu sặc sỡ và những con số đang xoay đều dần làm suy yếu đi quyết tâm của tôi trong việc đóng vai trò làm một vị quản lý nghiêm khắc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"<Tôi, tôi đoán chỉ nhìn một chút thôi chắc không sao đâu nhỉ?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Ở đây ghi rằng nhấn chiếc nút này! Nhấn nó là những gì một người cần phải làm sao?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Tôi thề là cách đây vài phút và một tiếng trước bản thân không hề có ý định nhấn cái nút ấy, hoàn toàn không có.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Cánh tay tôi vươn nhanh ra để ngăn Don Quixote khỏi chạm vào cái máy kia, việc đó vô tình thay lại khiến tôi chạm phải vào cái nút-",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"<Chết dở!>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"-và với một chuỗi các sự việc diễn hoàn toàn diễn ra trùng hợp, một ai đó đã để lại vài đồng xu bên trong, vừa đủ cho một lần quay.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Vòng quay bắt đầu xoay một cách hoành tráng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Chúng tôi chỉ có thể đứng trơ người nhìn cái chuỗi sự kiện trước mắt diễn ra.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Nhân tiện này, tôi hy vọng ngài Dante sẽ sử dụng cẩn thận mấy miếng dán điều ước mà chúng tôi lấy được từ Băng Tình Tang thật cẩn thận.",
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Ngài quản lý kia á? Đó là yêu cầu duy nhất cho ngài ấy, tốt nhất thì nên làm tốt việc của mình.",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Cô cậu cứ trong cậy vào Dante~ Ngài ta là người nắm rõ việc mình đang làm mà.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Nghe an tâm hẳn rồi. Với từng đấy miếng dán, ngài ấy sẽ dễ dàng chiến thắng bất kì ván cược nào.",
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Điều duy nhất cần quan tâm bây giờ là không thu hút sự chú ý từ bất kì đâu.",
+                "model":"소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"ĐỘC ĐẮC!",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Mấy người chơi gần chúng tôi há hốc mồm dài đến nỗi cằm của họ sắp chạm đất tới nơi...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Cơn sóng phỉnh đổ ào khỏi máy, nhiều đến nỗi mà bản thân tôi còn không dám gom chúng lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Tôi thật sự xin lỗi Effie, Saude.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Tôi tới đây với quyết tâm làm điều gì đó đúng, và rồi mọi chuyện hoàn toàn đổ vỡ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Giải độc đắc? Ở máy nào cơ?",
+                "model":null,
+                "teller":"Một con nghiện cờ bạc",
+                "title":"Kẻ Ngốc"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Chỉ như vậy thôi sao, không có báo trước? Ngay bây giờ?",
+                "model":null,
+                "teller":"Con nghiện cờ bạc khác",
+                "title":"Kẻ Ngốc"
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Xin hãy đợi một chút...",
+                "model":"각잡힌카지노경호원",
+                "teller":"Bảo vệ Nghiêm khắc",
+                "title":"Sòng Bạc Quận J"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Hãy để tôi kiểm tra căn cước của mọi người.",
+                "model":"각잡힌카지노경호원",
+                "teller":"Bảo vệ Nghiêm khắc",
+                "title":"Sòng Bạc Quận J"
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Hằn học cái gì thế? Bộ thắng lớn tại sòng bạc là phạm tội hay gì?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Tỉ lệ ở nơi này không diễn ra theo cách chúng ta thường nghĩ. Ta có thể tích lũy may mắn để có được khoản tiền lớn hoặc nhỏ giọt để hòa vốn, nhưng việc trúng giải độc đắc ngay lần thử đầu tiên gần như là điều không thể ở đây.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Phỉnh trút xuống như mưa sao băng!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Tôi đã hi vọng rằng ít ra ngài sẽ là người biết trọng trách của mình nhất trong số những kẻ ở đây... Thế mà chỉ cần Don Quixote ré lên tí thôi là ngài làm hỏng hết.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Đáng thất vọng. Tôi đã sai lầm khi những tưởng vị quản lý đáng kính của chúng ta đây sẽ biết làm nên cơm nên cháo rồi thì gột sạch vết nhơ thất bại cho chúng ta cơ đấy.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Những câu chửi gay gắt của Ishmael là cảnh tượng gì đó không thể diễn tả được, đến cả Gregor cũng phải kinh ngạc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Trên hết là, ánh mắt cay nghiệt của cô ấy nhìn thẳng vào tôi như thể tôi là một kẻ đáng khinh là thứ mà tôi chưa bao giờ cảm nhận được trước đây...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"...Nó khiến tôi như muốn kiếm một cái hố nào đó mà chui xuống luôn, nếu như có thể làm được thế ngay bên trong sòng bạc này.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Chỉ một lần duy nhất này thôi, tôi cảm thấy biết ơn chiếc mặt đồng hồ của mình không có mắt để đáp trả cái nhìn của cô ấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"...Chờ chút đã, có lẽ đó không phải là vấn đề duy nhất của chúng ta đâu...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Gregor luống cuống nhìn khắp nơi, bỗng anh chợt dừng lại, chỉ tay về phát hiện nào đó khiến anh kinh ngạc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Và từ hướng ấy chỉ-",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Cô tháo bộ cải trang ra được bao lâu rồi vậy, Ryōshū?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"-tới một Ryōshū giận dữ, mặc đúng bộ đồng phục mà cô ấy vẫn thường mặc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Ta không mặc đồ giẻ rách của kẻ khác.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Má... Cậu Quản Lý, hôm nay xui xẻo thật ha...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"<Ừa... Có vẻ như chúng ta tàn đời rồi. Theo nghĩa đen ấy...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Không thể nào... Toàn bộ công sức chỉ để tình hình diễn ra êm đẹp...",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Faust, thật sự là điều gì khiến cô phải tình nguyện mang theo lũ ngốc này theo vậy? Đáng lý ra cô có bộ não thiên tài vô song mà? Dùng nó đi chứ!",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Cho dù tôi chưa làm việc với họ lâu, nhưng tôi có thể nhận ra vài điều:",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Tôi cần trở thành một Faust có thể tin vào những thứ không chắc chắn.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Khi việc thiếu đi kế hoạch trở thành kế hoạch, mọi biến số đều trở thành hằng số.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Đó là thứ 'Kế Hoạch' mà tôi cần.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"......",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"...Hờ.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Faust quay về phía tôi với một khuôn mặt bình thản.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Nhờ cô ấy, vai trò của tôi giờ đã rõ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"<Được rồi... Hãy giải quyết mọi thứ như cách chúng ta hay làm...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"<Giết hoặc bị giết nào.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

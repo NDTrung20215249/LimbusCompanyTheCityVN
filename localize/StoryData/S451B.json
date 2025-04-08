@@ -1,81 +1,126 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Reconstructing K Corp. Laboratory",
-            "content": "When I took a closer look at the revived foes after the battle, I could see a liquid of a familiar hue flowing from their eyes."
-        },
-        {
-            "id": 1,
-            "model": "되살아난해방연합",
-            "teller": "Revived? Liberation Alliance Member",
-            "title": "Technology Liberation Alliance",
-            "content": "Unh... Ahheahii..."
-        },
-        {
-            "id": 2,
-            "model": "파우스트",
-            "content": "Dante, do you feel the Golden Bough's presence nearby?"
-        },
-        {
-            "id": 3,
-            "model": "파우스트",
-            "content": "Last time I saw, the Golden Bough was lodged into Dongbaek's body..."
-        },
-        {
-            "id": 4,
-            "model": "단테",
-            "content": "<I can't find her corpse anywhere... Must have been moved away when the space twisted.>"
-        },
-        {
-            "id": 5,
-            "model": "단테",
-            "content": "<But it can't be too far away, I'm sure of it. I can feel it...>"
-        },
-        {
-            "id": 6,
-            "model": "싱클레어",
-            "content": "Ah, I don't see Dongrang, either."
-        },
-        {
-            "id": 7,
-            "model": "파우스트",
-            "content": "He's likely to be in the same location as the deceased Dongbaek."
-        },
-        {
-            "id": 8,
-            "model": "싱클레어",
-            "content": "Until now... we've experienced the fathoms of ego at the same time. I guess it's thanks to Dante's particular... affinity, if that makes sense...?"
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "The hell are you talking about. Affinity?"
-        },
-        {
-            "id": 10,
-            "model": "파우스트",
-            "content": "Do you mean the chains binding us?"
-        },
-        {
-            "id": 11,
-            "model": "싱클레어",
-            "content": "Yeah... This is one of their influences, right?"
-        },
-        {
-            "id": 12,
-            "model": "싱클레어",
-            "content": "Then, what will happen if someone like Dongrang gets to the fathoms?"
-        },
-        {
-            "id": 13,
-            "model": "돈키호테",
-            "content": "Fret not, for we shall find out from now on!"
-        },
-        {
-            "id": 14,
-            "model": "돈키호테",
-            "content": "Let us vanquish the foes ahead for now!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"P.Thí Nghiệm T.Đoàn K Đang Được Sửa",
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Khi tôi nhìn kỹ vào những kẻ địch được hồi sinh lại sau trận chiến, tôi có thể thấy một thứ chất lỏng với màu sắc quen thuộc đang chảy ra từ mắt họ."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"되살아난해방연합",
+                "teller":"Thành Viên LMGPCN Được Hồi Sinh?",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Ự..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Dante, Ngài có cảm nhận được Cành Vàng đang ở gần không?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Vì lần cuối tôi chứng kiến, Cành Vàng đã dung nhập vào trong cơ thể của cô Dongbaek..."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Tôi không thể tìm thấy xác cô ấy ở bất cứ đâu cả... Chắc đã bị chuyển đi khi không gian bắt đầu bóp méo rồi.>"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Nhưng tôi chắc chắn không thể nào ở xa được. Tôi có thể cảm thấy nó...>"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"À, tôi cũng không thấy anh Dongrang đâu cả."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Anh ta hẳn đang ở cùng xác của cô Dongbaek."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Đến bây giờ... chúng ta đều đã trải nghiệm qua bề dày cái tôi cùng một lúc với nhau. Chắc đó là nhờ việc ngài Dante có một sự... tương đồng đặc thù, tôi nói thế có đúng không nhỉ...?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Mày đang nói cái đéo gì vậy. Sự tương đồng?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Ý của cậu là những sợi dây xích đang trói buộc chúng ta?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Đúng vậy... Đây là một trong những tác động của chúng mà, chẳng phải sao?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Vậy thì, chuyện gì sẽ xảy ra nếu một người như anh Dongrang tới được bề dày đó?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"돈키호테",
+                "teller":"Don Quixote",
+                "title":null,
+                "content":"Đừng lo, vì từ đây đội ta sẽ biết thôi!"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"돈키호테",
+                "teller":"Don Quixote",
+                "title":null,
+                "content":"Giờ chúng ta phải mau chóng dẹp loạn kẻ địch phía trước!"
+            }
+        ]
+    }
+

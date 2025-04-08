@@ -1,316 +1,502 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "With the conflict sorted out, the bus finally departed."
-    },
-    {
-      "id": 1,
-      "content": "Looking out the windows evoked a strange feeling in the passengers."
-    },
-    {
-      "id": 2,
-      "model": "로쟈",
-      "content": "Check out those people, they look like they haven’t a care in the world…"
-    },
-    {
-      "id": 3,
-      "model": "단테",
-      "content": "<This is way different from the roads we’ve been through.>"
-    },
-    {
-      "id": 4,
-      "model": "그레고르",
-      "content": "Aha, I guess this is our manager bud’s first time traveling in the middle of a Nest."
-    },
-    {
-      "id": 5,
-      "model": "이스마엘",
-      "content": "There’s a world of difference between the Nests and the Backstreets. Besides, each Nest has its own cultural heritage."
-    },
-    {
-      "id": 6,
-      "model": "베르길리우스",
-      "content": "Attention, all."
-    },
-    {
-      "id": 7,
-      "model": "베르길리우스",
-      "content": "Our destination is the town of Calw, situated in Nest K. Investigation revealed that a passage connected to a Lobotomy Corp. branch exists somewhere in that village."
-    },
-    {
-      "id": 8,
-      "model": "싱클레어",
-      "content": "…!"
-    },
-    {
-      "id": 9,
-      "content": "As soon as the name ‘Calw’ was mentioned, Sinclair lapsed into fear once again and started trembling."
-    },
-    {
-      "id": 10,
-      "content": "As if something were coming after him…"
-    },
-    {
-      "id": 11,
-      "model": "베르길리우스",
-      "content": "But, as you have told me, a third party has occupied the area surrounding that branch facility. That’s why I requested an additional recon operation from Clearance."
-    },
-    {
-      "id": 12,
-      "model": "파우스트",
-      "content": "Preliminary Observation Unit 3 from the Before Team has been dispatched. Mr. Effie and Ms. Saude should be with them by now."
-    },
-    {
-      "id": 13,
-      "model": "베르길리우스",
-      "content": "We’ll receive a report from them once they get a good grasp of the situation."
-    },
-    {
-      "id": 14,
-      "content": "Shortly afterward, the bus entered a quiet woodland path leading to the village."
-    },
-    {
-      "id": 15,
-      "content": "Lush green trees rarely found in the Backstreets began to decorate the scene, providing a comforting sight. But that was soon disturbed by something odd."
-    },
-    {
-      "id": 16,
-      "content": "I could see an ominous billow of smoke rise in the distance."
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "Why is… smoke… coming from…"
-    },
-    {
-      "id": 18,
-      "model": "로쟈",
-      "content": "Sinclair…?"
-    },
-    {
-      "id": 19,
-      "model": "베르길리우스",
-      "content": "Charon, turn."
-    },
-    {
-      "id": 20,
-      "model": "카론",
-      "content": "Evasive maneuver. Rumble-tumble."
-    },
-    {
-      "id": -1,
-      "content": "SE // 와장창!"
-    },
-    {
-      "id": 21,
-      "content": "The bus made a sharp turn to the left, shortly before a giant nail flew in and noisily embedded itself in the back window."
-    },
-    {
-      "id": 22,
-      "model": "히스클리프",
-      "content": "Wha… Who the hell was that?! I almost kicked it!"
-    },
-    {
-      "id": 23,
-      "model": "파우스트",
-      "content": "Hmm… Though I hadn’t run a test with a projectile at such velocity, this does suggest that the windows need to be reinforced a little."
-    },
-    {
-      "id": 24,
-      "model": "오티스",
-      "content": "That was aimed directly at us. They must be the faction the Before Team warned us about… The Employees of N Corp."
-    },
-    {
-      "id": 25,
-      "model": "카론",
-      "content": "Verg, Mephi got hurt. Charon’s sad."
-    },
-    {
-      "id": 26,
-      "model": "베르길리우스",
-      "content": "Doesn’t look like they’ll stop anytime soon."
-    },
-    {
-      "id": 27,
-      "model": "베르길리우스",
-      "content": "Off the bus, all."
-    },
-    {
-      "id": 28,
-      "place": "Path towards Calw",
-      "content": "As we got off the bus, a group stood in the way, clad from head to toe in rusty armor with faded coats of white."
-    },
-    {
-      "id": 29,
-      "model": "N사심문관1",
-      "teller": "???",
-      "title": "???",
-      "content": "Halt. You may not use this road."
-    },
-    {
-      "id": 30,
-      "model": "그레고르",
-      "content": "You should’ve said so in the first place, ‘cause what about our windshield? Ah, bugger…"
-    },
-    {
-      "id": 31,
-      "model": "오티스",
-      "content": "You’re rather rude for someone who attacked without warning. Isn’t it at least common courtesy to state your affiliations?"
-    },
-    {
-      "id": 32,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "We are Inquisitors. We are the nail that fixes the blasphemous, and the hammer that strikes down the sinful."
-    },
-    {
-      "id": 33,
-      "model": "이스마엘",
-      "content": "So, N Corp… That’s one convoluted way to tell someone that you’re an employee of Nagel und Hammer."
-    },
-    {
-      "id": 34,
-      "model": "파우스트",
-      "content": "…Also known as “Nail and Hammer”."
-    },
-    {
-      "id": 35,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "You shall not proceed as we are in the midst of cleansing heretical dissidents."
-    },
-    {
-      "id": 36,
-      "model": "그레고르",
-      "content": "Heretics? Hey now, we just want to pass through, not looking for any trouble. We’re on the, uh…"
-    },
-    {
-      "id": 37,
-      "model": "그레고르",
-      "content": "A tour…! That’s right, and this is a tour bus."
-    },
-    {
-      "id": 38,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 39,
-      "content": "Labeled as tourists all of a sudden, the Sinners exchanged looks in silence."
-    },
-    {
-      "id": 40,
-      "content": "To prevent another disastrous first impression, Gregor was doing what he could―even though his efforts fell flat for the most part―to gently appease the armored crowd."
-    },
-    {
-      "id": 41,
-      "content": "Accompanied by an attempt at the kind, harmless smile a tourist would wear."
-    },
-    {
-      "id": 42,
-      "model": "로쟈",
-      "content": "Greg, I’ve been thunkin’ this since the job at the mine, but… are you that into these kinds of bits…?"
-    },
-    {
-      "id": 43,
-      "model": "그레고르",
-      "content": "That’s not exactly it…"
-    },
-    {
-      "id": 44,
-      "content": "The quivering corners of his mouth roused pity in my heart."
-    },
-    {
-      "id": 45,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "In that case, you shall prove yourselves to be untainted."
-    },
-    {
-      "id": 46,
-      "model": "그레고르",
-      "content": "Fine, tell us how so we can get on with it."
-    },
-    {
-      "id": 47,
-      "content": "The Inquisitor suddenly pointed in my direction."
-    },
-    {
-      "id": 48,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Behead that blasphemous traveler."
-    },
-    {
-      "id": 49,
-      "model": "단테",
-      "content": "<M… Me?!>"
-    },
-    {
-      "id": 50,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "And kneel before our hammer as you consecrate their head to us."
-    },
-    {
-      "id": 51,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Such will prove that you are untainted ones, and your journey shall continue without hindrance."
-    },
-    {
-      "id": 52,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "You will, of course, have to part with the defiled vehicle as well."
-    },
-    {
-      "id": 53,
-      "model": "히스클리프",
-      "content": "Love to spew on, don’t you blokes? Oi, I don’t know who you think we are, but do we look daft enough to do as you say?"
-    },
-    {
-      "id": 54,
-      "content": "Furious, Heathcliff was the first to quit playing as a harmless tourist."
-    },
-    {
-      "id": 55,
-      "model": "단테",
-      "content": "<Heathcliff… You didn’t have to…>"
-    },
-    {
-      "id": 56,
-      "model": "히스클리프",
-      "content": "Proper trifling twits, tch. Who are you telling me to kneel?"
-    },
-    {
-      "id": 57,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 58,
-      "content": "The Inquisitor—as was declared to us—nodded in response."
-    },
-    {
-      "id": 59,
-      "model": "N사심문관1",
-      "teller": "Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Understood. Then I declare all of you to be heretics."
-    },
-    {
-      "id": 60,
-      "content": "With that, the group of Inquisitors moved into position at once, ready to attack."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Ở trên chiếc Mephistopheles",
+                "content":"Sau khi đã giải quyết xong xung đột, chiếc xe buýt cũng lăn bánh rời đi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Nhìn ra bên ngoài cửa sổ làm dấy lên một cảm giác kỳ lạ bên trong mỗi người.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Nhìn bọn kia đi kìa, như là bọn chúng chả quan tâm gì tới cái thế giới này cả.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"<Chỗ này hoàn toàn khác biệt với những con đường mà chúng ta đã băng qua.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"À há, hẳn đây là lần đầu tiên cậu quản lý đây được du hành trong Nest nhỉ.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Nest và Backstreet khác nhau một trời một vực. Hơn nữa mỗi Nest lại có một bề dày văn hóa hoàn toàn khác biệt nhau.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Tất cả, chú ý.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Địa điểm tiếp theo của chúng ta là thị trấn Calw, toạ lạc trong Nest của Tập Đoàn K. Theo điều tra cho thấy có một lối đi dẫn tới chi nhánh Tập Đoàn Lobotomy đâu đó trong thị trấn ấy.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"…!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Ngay khi cái tên ‘Calw’ được đề cập đến, Sinclair lại rơi vào sợ hãi và bắt đầu run rẩy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Như thể có thứ gì đó đang truy lùng cậu ấy…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Nhưng mà, như cô cậu báo cáo lại, đã có một bên thứ ba chiếm đóng khu vực xung quanh chi nhánh cơ sở ấy. Chính vì thế ta đã yêu cầu thêm hoạt động trinh sát từ Đội Dọn Dẹp.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Đơn Vị Quan Sát Sơ Bộ số 3 từ Đội Tiền Tuyến đã được điều động. Cậu Effie và cô Saude hẳn đã ở cùng họ rồi.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Chúng ta sẽ nhận được báo cáo từ họ ngay khi họ nắm được tình hình.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Ít lâu sau, xe buýt tiến vào một khu rừng lặng tiếng dẫn đến ngôi làng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Những hàng cây xanh mướt không thể nhìn thấy trong Backstreet bắt đầu bao phủ khung cảnh xung quanh, tạo nên một cảnh tượng thoải mái và êm đềm. Nhưng lại sớm bị quấy phá bởi một thứ gì đó lạ thường.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Tôi có thể nhìn thấy rất nhiều làn khói bốc lên từ đằng xa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Tại sao lại… có khói… bốc lên từ…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Sinclair…?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Charon, cua.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Kỹ thuật lái ẩu. Ủn-ủn.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Chiếc xe buýt rẽ qua trái một cách gấp rút, ngay trước khi một cây đinh khổng lồ bay thẳng vào cửa kính sau xe.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"C… Thằng nào làm thế? Mém nữa tao chầu trời rồi!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Hừm… Tôi chưa từng thử nghiệm với một vật thể bay với vận tốc như vậy, điều này cho thấy rằng cửa sổ cần được gia cố thêm.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Thứ đấy nhắm thẳng vào ta. Hẳn phải là phe phái mà Đội Tiền Tuyến đã cảnh báo chúng ta khi trước… Đám nhân viên của N Corp.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Chú Verg, Mephi bị thương rồi. Charon buồn.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Có vẻ như bọn chúng sẽ không ngừng đâu.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Tất cả, xuống xe.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":"Đường Đến Calw",
+                "content":"Khi cả bọn xuống xe, một nhóm người đã đứng chắn đường chúng tôi, phủ từ đầu đến chân là một bộ áo giáp rỉ sét với lớp áo khoác trắng bạc màu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Ngưng lại đó. Các ngươi không được phép sử dụng con đường này.",
+                "model":"N사심문관1",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Lẽ ra phải nói trước chứ, còn kính chắn gió của bọn ta thì tính sao đây? Hầy, khỉ gió thật…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Tấn công mà không nói năng gì hơi bất lịch sự đấy. Ít ra cũng phải khai ra ngươi thuộc phe phái nào chứ?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Chúng ta đại diện cho những Phán Quan. Những kẻ sửa chữa sự báng bổ với chiếc đinh trên tay, tận gốc thanh trừng cái ác bằng chiếc búa.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Nhắc đến Tập Đoàn N mà nói… Hơi vòng vo nhưng đấy là cách gián tiếp để xác định ra mấy người là nhân viên của Đinh Búa Giáo đấy.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"…Còn được biết với tên 'Đinh và Búa'.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Bọn ngươi không được phép tiến vào ngay giữa công cuộc dọn dẹp bọn dị giáo.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Dị giáo á? Khoan đã nào, chúng tôi chỉ muốn được đi qua đây thôi, chứ không muốn gây rắc rối đâu. Chúng tôi là, ờm…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Là khách du lịch…! Đúng rồi, còn đây là xe chở khách du lịch.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"<……>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Đột nhiên bị gọi là khách du lịch, các Tội Nhân đều lặng lẽ liếc nhìn nhau.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Để tránh tạo thêm một ấn tượng đầu đầy thảm họa như trước, Gregor đang cố gắng hết sức làm những gì anh ta có thể nghĩ ra — mặc dù nỗ lực của anh ta đều công cốc hết — để có thể làm hài lòng những người mặc giáp kia.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Cố xuôi theo thế sự, chúng tôi khoác lên một nụ cười đầy gượng gạo.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Anh Greg, tui đã suy nghĩ từ cái vụ hồi ở mỏ đến giờ, nhưng… anh thực sự có hứng với mấy trò này lắm hả?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Không hẳn đâu…",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Khoé miệng anh ta rung lên khiến tôi có chút mủi lòng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Nếu như là vậy, các ngươi phải chứng minh rằng bản thân không hề bị vấy bẩn.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Được rồi, nói cho chúng tôi biết phải làm gì để còn làm cho xong nào.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Tên Phán Quan đột ngột chỉ về phía tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Chém đầu tên lữ hành báng bổ kia.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"<T… Tôi sao?!>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Và hãy quỳ dập trước chiếc búa này như cách các ngươi hiến thánh cái đầu tên phản đồ đó cho bọn ta.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Hãy chứng minh bản thân là những kẻ trong sạch và, chuyến hành trình của các ngươi sẽ được phép tiếp tục với không một sự cản trở nào nữa.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Và dĩ nhiên, các ngươi cũng sẽ phải loại bỏ thứ phương tiện ô uế kia.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Thích thể hiện à mấy thằng này? Ê, tao không biết mày nghĩ bọn tao là ai, nhưng nhìn bọn tao ngu đến nỗi theo lệnh mày à?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Cảm thấy cay nghiệt, Heathcliff là người đầu tiên dừng đóng vai một hành khách vô hại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"<Heathcliff… Anh không cần phải…>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Bọn láo chó, chậc. Mày đang bảo ai quỳ xuống?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"<……>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Phán Quan—như đã tuyên bố với chúng tôi trước đó—gật đầu đáp lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Vậy là rõ rồi. Thế thì… ta tuyên bố đám các ngươi là lũ dị giáo.",
+                "model":"N사심문관1",
+                "teller":"Phán quan",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Và chỉ như thế, nhóm người Phán Quan nhanh chóng triển khai đội hình, sẵn sàng tấn công.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

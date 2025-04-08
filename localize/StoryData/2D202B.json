@@ -1,113 +1,158 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino Mine B2",
-      "model": "뫼르소",
-      "content": "It’s a freight container made of smooth and colorful plastic."
-    },
-    {
-      "id": 1,
-      "model": "뫼르소",
-      "content": "The prevalence of peculiar materials suggests that this is not a simple manufacturing facility."
-    },
-    {
-      "id": 2,
-      "content": "As soon as Meursault finished, the colorful yet ominously designed container activated with a cheery tune."
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "I’ve got a bad feeling…"
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "Why aren’t there any security guards around now?"
-    },
-    {
-      "id": 5,
-      "content": "“Well…” was all I could mutter before the answer revealed itself to us."
-    },
-    {
-      "id": 6,
-      "content": "The doors of the container opened as it finished operating, and inside…"
-    },
-    {
-      "id": 7,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "Ah. Ah."
-    },
-    {
-      "id": 8,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "Highly excited!!!"
-    },
-    {
-      "id": 9,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "Ahh~"
-    },
-    {
-      "id": 10,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "Thoroughly amusing!!!"
-    },
-    {
-      "id": 11,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "Da GAME of DEATH!"
-    },
-    {
-      "id": 12,
-      "model": "파우스트",
-      "content": "……"
-    },
-    {
-      "id": 13,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "ATH."
-    },
-    {
-      "id": 14,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "ATH!!"
-    },
-    {
-      "id": 15,
-      "model": "너맞아볼래매우",
-      "teller": "You Want To Get Beat? Hurtily?",
-      "title": "Have You Become Strong",
-      "content": "ATH!!!! ATH!!!! ATH!!!!"
-    },
-    {
-      "id": 16,
-      "model": "파우스트",
-      "content": "Hm… It appears they redoubled excavation efforts from this point onward."
-    },
-    {
-      "id": 17,
-      "model": "파우스트",
-      "content": "I can’t think of any other reason to augment humans on a conveyor belt…"
-    },
-    {
-      "id": 18,
-      "model": "단테",
-      "content": "<Yeah, yeah, I get it, now let’s move! They’re pointed right at us singing that spooky song!>"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Mỏ Sòng Bạc B2",
+                "model":"뫼르소",
+                "content":"Chiếc thùng chứa sặc sỡ này làm từ nhựa bóng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Sự xuất hiện nhiều đáng kể của loại vật liệu này ở đây cho ta biết được đây không phải một cơ sở sản xuất bình thường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Ngay khi Meursault hoàn tất câu nói, chiếc thùng chứa sặc sỡ màu sắc và bất thường đó bỗng phát ra một giai điệu bắt tai.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi có cảm giác không lành...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tại sao lại không có bảo vệ đứng canh bây giờ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Ờ thì... là những gì tôi có thể lẩm bẩm trước khi câu trả lời đã hiện rõ trước mắt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Cánh cửa thùng chứa mở ra như thể nó đã kích hoạt xong, và bên trong...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"Ah. Ah.",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Mỏ Sòng Bạc B3?"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"Tuyệt đỉnh hào hứng!!!",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"Ahh~",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"Cực kì thú vị!!!",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"Da GAME of DEATH! (Trò chơi Tử Thần!)",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"파우스트",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"ATH.",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"ATH!!",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"너맞아볼래매우",
+                "content":"ATH!!!! ATH!!!! ATH!!!!",
+                "teller":"Bạn Muốn Bị Ăn Đập? Thật Đau?",
+                "title":"Bạn đã mạnh mẽ hơn chưa?"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"파우스트",
+                "content":"Hừm… Có vẻ như chúng đã tăng khả năng khai quật từ giờ trở đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi không thể nghĩ ra lý do nào khác để cấy ghép con người lên băng chuyền…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"단테",
+                "content":"<Rồi, rồi, tôi hiểu rồi, mau hành động đi! Thứ đó đang chạy thẳng đến chỗ chúng ta trong khi ngân nga giai điệu kinh dị đó kìa!>",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

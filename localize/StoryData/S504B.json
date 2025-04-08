@@ -1,798 +1,1270 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "U Corp.'s Marlin Portship",
-            "model": "베르길리우스",
-            "content": "Well, then. This is where we will go our separate ways... for a short while."
-        },
-        {
-            "id": 1,
-            "model": "베르길리우스",
-            "content": "Charon and I have business to attend to here."
-        },
-        {
-            "id": 2,
-            "model": "로쟈",
-            "content": "Business? Why? What is it this time~?"
-        },
-        {
-            "id": 3,
-            "model": "베르길리우스",
-            "content": "......"
-        },
-        {
-            "id": 4,
-            "model": "베르길리우스",
-            "content": "... I'm looking to buy some Mermaid perfume. Let's leave it at that."
-        },
-        {
-            "id": 5,
-            "content": "Vergilius said, looking straight at an advertisement before us."
-        },
-        {
-            "id": 6,
-            "content": "'Bottles of Mermaid Perfume, extracted straight from their left fins! Special discount!'"
-        },
-        {
-            "id": 7,
-            "model": "돈키호테",
-            "content": "Oho! Art thou planning to procure some for us as well? Quite curious I am, of that 'Mermaid Perfume'. What other curiosities of the Great Lake await us, I wonder?"
-        },
-        {
-            "id": 8,
-            "model": "파우스트",
-            "content": "A significant source of income for the people of U Corp. comes from selling Whale and Mermaid products. Whale oil, Mermaid tears, Mermaid perfumes, Whale cuisine, and more, to list a few examples."
-        },
-        {
-            "id": 9,
-            "model": "돈키호테",
-            "content": "Ooo! Lo! I spy a purveyor of iced creams over yonder!"
-        },
-        {
-            "id": 10,
-            "model": "그레고르",
-            "content": "… Sardine Whale flavored ice cream…? How is that appetizing to you?"
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "… Sardines are quite the savoury nosh, even if they do have a funny look to them."
-        },
-        {
-            "id": 12,
-            "model": "돈키호테",
-            "content": "Alas, I am more keen to learn the flavors of the Marlin Whale ice cream..."
-        },
-        {
-            "id": 13,
-            "model": "이상",
-            "content": "Will you not accompany us to our destination, dear guide?"
-        },
-        {
-            "id": 14,
-            "model": "베르길리우스",
-            "content": "... I've done my job as your guide."
-        },
-        {
-            "id": 15,
-            "model": "베르길리우스",
-            "content": "I point you in the right direction, and that's where my responsibilities end. It's not my job to accompany you all the way there."
-        },
-        {
-            "id": 16,
-            "model": "이상",
-            "content": "While you may be correct... your words also come across as rather impersonal."
-        },
-        {
-            "id": 17,
-            "model": "베르길리우스",
-            "content": "Then you heard me right, Yi Sang. I don't intend to make friends with any of you. Nor do I want to."
-        },
-        {
-            "id": 18,
-            "model": "베르길리우스",
-            "content": "Hah. Don't let these small talks give you the wrong impression."
-        },
-        {
-            "id": 19,
-            "model": "베르길리우스",
-            "content": "Now, Ms. Faust."
-        },
-        {
-            "id": 20,
-            "model": "파우스트",
-            "content": "Our allies are expecting us."
-        },
-        {
-            "id": 21,
-            "model": "파우스트",
-            "content": "The Before Team on the ground will relay us the location of the Lobotomy Corp. Branch housing the Golden Bough."
-        },
-        {
-            "id": 22,
-            "model": "파우스트",
-            "content": "According to our last communication, they should be waiting for us... there."
-        },
-        {
-            "id": 23,
-            "place": "Dark Corners of U Corp.",
-            "model": "싱클레어",
-            "content": "This place is a bit spooky..."
-        },
-        {
-            "id": 24,
-            "model": "로쟈",
-            "content": "I don't see anyone here. What's up with that, Fau?"
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "... I can tell from your tone that you doubt me. This is the location I was relayed."
-        },
-        {
-            "id": 26,
-            "model": "히스클리프",
-            "content": "Huh, so we got here first? Bloody Brilliant. Before team? More like Belated team, innit?"
-        },
-        {
-            "id": 27,
-            "model": "파우스트",
-            "content": "Allow me to make a minor correction. We arrived about 1 hour and 30 minutes behind schedule."
-        },
-        {
-            "id": 28,
-            "model": "오티스",
-            "content": "Hm, odd. LCCB Agents we met back at J Corp were already on the scene and..."
-        },
-        {
-            "id": 29,
-            "teller": "Sinners",
-            "title": "Sinners",
-            "content": "......"
-        },
-        {
-            "id": 30,
-            "content": "I'm sure that comment reminded everyone of the same duo."
-        },
-        {
-            "id": 31,
-            "content": "It did for me, too."
-        },
-        {
-            "id": 32,
-            "content": "Thinking about them even for a brief moment is..."
-        },
-        {
-            "id": 33,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Snrk! Snore..."
-        },
-        {
-            "id": 34,
-            "model": "뫼르소",
-            "content": "It appears that they have elected to sleep in lieu of our appearance."
-        },
-        {
-            "id": 35,
-            "content": "……."
-        },
-        {
-            "id": 36,
-            "content": "Effie, Saude... We didn't deserve you two."
-        },
-        {
-            "id": 37,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Ungh... Ain't none of ye got a watch, eh?! What the hell's wrong with ye lot?!"
-        },
-        {
-            "id": 38,
-            "model": "이상",
-            "content": "Ah... Apologies... In our hurry, we happened upon an unforeseen mishap on our journey here..."
-        },
-        {
-            "id": 39,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Gah, then why didn'tcha take that into account before ye left? Yawn~"
-        },
-        {
-            "id": 40,
-            "content": "Someone, from the corner of the shipping container, rises from their nap and stretches."
-        },
-        {
-            "id": 41,
-            "model": "단테2",
-            "content": "<They sound... oddly aggressive...>"
-        },
-        {
-            "id": 42,
-            "model": "홍루",
-            "content": "...!"
-        },
-        {
-            "id": 43,
-            "model": "홍루",
-            "content": "My, my!"
-        },
-        {
-            "id": 44,
-            "model": "단테2",
-            "content": "<Hong Lu, wait—>"
-        },
-        {
-            "id": 45,
-            "model": "홍루",
-            "content": "Your badge is upside-down. Remember to always keep your appearance tidy!"
-        },
-        {
-            "id": 46,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 47,
-            "model": "홍루",
-            "content": "Huh? What's this sticky red thing on your..."
-        },
-        {
-            "id": 48,
-            "content": "On his chest hung an upside-down LCCB Agent badge."
-        },
-        {
-            "id": 49,
-            "content": "It was soaked in blood."
-        },
-        {
-            "id": 50,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "... Yawn. I hoped that this badge would have a more dramatic effect."
-        },
-        {
-            "id": 51,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Let's see 'ere~ Limbus Company... Before Team... Team Leader."
-        },
-        {
-            "id": 52,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "The fool was loitering around in our territory. I've gots to say, that was bravely stupid."
-        },
-        {
-            "id": 53,
-            "model": "료슈",
-            "content": "Hmph. That sorry production was an insult to art. Get to the point before I SYNC."
-        },
-        {
-            "id": 54,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Phew, lads! So tardy, yet so impatient. Why don't ye first give us a listen?"
-        },
-        {
-            "id": 55,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Yer lookin' fer... the Golden... whatchamacallit, aren't ye?"
-        },
-        {
-            "id": 56,
-            "model": "오티스",
-            "content": "...!"
-        },
-        {
-            "id": 57,
-            "model": "오티스",
-            "content": "What have you done to the Team Leader?"
-        },
-        {
-            "id": 58,
-            "model": "쌍갈고리파조직원1",
-            "teller": "???",
-            "title": "???",
-            "content": "Hold your horses now. Lad's alive and well."
-        },
-        {
-            "id": 59,
-            "model": "오티스",
-            "content": "This is a hostage negotiation, then."
-        },
-        {
-            "id": 60,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "This ain't me first ransom rodeo, if ye know what I mean."
-        },
-        {
-            "id": 61,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "'Tis simple. Give us the cash, and we return yer friend."
-        },
-        {
-            "id": 62,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "We don't get the cash, and we give yer friend an impromptu burial in a shipping container, right 'ere."
-        },
-        {
-            "id": 63,
-            "model": "히스클리프",
-            "content": "Kidnappers, eh... Pieces of shite..."
-        },
-        {
-            "id": 64,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "Woah, woah! I wouldn't do that if I were ye, laddie. Think before ye act, eh?"
-        },
-        {
-            "id": 65,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "Anything goes wrong, and yer friend bites it."
-        },
-        {
-            "id": 66,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "It's very straightforward if I do say so meself. Just do as we say, and ye and that friend of yours continue on yer merry adventure. Get back to findin' yer Golden... whatchamacallit."
-        },
-        {
-            "id": 67,
-            "model": "쌍갈고리파조직원1",
-            "teller": "Kidnapper",
-            "title": "???",
-            "content": "Hells, we'll even throw in a full-on gourmet tour guide for ye. Just to sweeten the deal."
-        },
-        {
-            "id": 68,
-            "model": "히스클리프",
-            "content": "... You bloody maggot..."
-        },
-        {
-            "id": 69,
-            "model": "그레고르",
-            "content": "Okay, okay... Gotcha. I see what's going on here. Give us some time to discuss this, why don't you?"
-        },
-        {
-            "id": 70,
-            "model": "그레고르",
-            "content": "Look, there's no point in escalating this. It'll do nothing but draw unnecessary attention to us."
-        },
-        {
-            "id": 71,
-            "model": "그레고르",
-            "content": "And if our impulsive actions get that LCCB Agent killed..."
-        },
-        {
-            "id": 72,
-            "model": "오티스",
-            "content": "True. They hold the upper hand in this negotiation."
-        },
-        {
-            "id": 73,
-            "model": "오티스",
-            "content": "But I don't believe these fools know much about the Golden Bough. They likely kidnapped him by chance, thinking they could get a hefty ransom out of him."
-        },
-        {
-            "id": 74,
-            "model": "돈키호테",
-            "content": "Though we have come across many men and women of evil nature in our adventure, Such brazen villainy has heretofore not been encountered..."
-        },
-        {
-            "id": 75,
-            "model": "료슈",
-            "content": "How classless. It is grotesquery without a cause."
-        },
-        {
-            "id": 76,
-            "model": "오티스",
-            "content": "Charging them head-on will only sic their friends after us. Friends who may be involved with a powerful local Syndicate."
-        },
-        {
-            "id": 77,
-            "model": "뫼르소",
-            "content": "Our chance of victory is slim, should such an event come to pass. We do not possess enough intel on U Corp. to effectively maneuver that situation."
-        },
-        {
-            "id": 78,
-            "model": "로쟈",
-            "content": "Yeah... We don't even know how big the Syndicate behind this guy is. But from the way he said his lines... this probably isn't his first time doing this, right?"
-        },
-        {
-            "id": 79,
-            "model": "홍루",
-            "content": "Um... then there's also a chance that they're just small fries, isn't there?"
-        },
-        {
-            "id": 80,
-            "model": "히스클리프",
-            "content": "If they're small fries, let's crush 'em all. We'll hit them before they even have the chance to lay a finger on the hostage!"
-        },
-        {
-            "id": 81,
-            "model": "오티스",
-            "content": "... No. It could mean that their Syndicate may be so small and scattered that it is impossible to be traced."
-        },
-        {
-            "id": 82,
-            "model": "히스클리프",
-            "content": "Ugh..."
-        },
-        {
-            "id": 83,
-            "model": "단테2",
-            "content": "<So we don't know anything... Great.>"
-        },
-        {
-            "id": 84,
-            "model": "싱클레어",
-            "content": "Are they really going to... If we don't pay up..."
-        },
-        {
-            "id": 85,
-            "model": "히스클리프",
-            "content": "Blast it. I know their kind. Scum like them are around every corner of the City. If this goes cock-up, they'll kill the hostage and won't even leave a body for us to find."
-        },
-        {
-            "id": 86,
-            "content": "All kinds of awful images and ominous speculation begin to overwhelm us."
-        },
-        {
-            "id": 87,
-            "content": "The so-called kidnappers were crowding amongst themselves, giggling and chattering. They knew that our options were limited."
-        },
-        {
-            "id": 88,
-            "model": "단테2",
-            "content": "<Okay... Then I'm going to start off by asking how much they want.>"
-        },
-        {
-            "id": 89,
-            "content": "We're out of our element here... The best I can do is to try to gather some information, at least."
-        },
-        {
-            "id": 90,
-            "model": "이스마엘",
-            "content": "Huh."
-        },
-        {
-            "id": 91,
-            "content": "A short, exasperated sigh escaped Ishmael's lips. She had been standing here this whole time, arms crossed over the harpoon that rested upon her chest."
-        },
-        {
-            "id": 92,
-            "model": "이스마엘",
-            "content": "You're going to pay them? Those bastards? Are you crazy?"
-        },
-        {
-            "id": 93,
-            "model": "단테2",
-            "content": "<What else can we do? Even now, the hostage...>"
-        },
-        {
-            "id": 94,
-            "model": "이스마엘",
-            "content": "I don't care about your excuses."
-        },
-        {
-            "id": 95,
-            "model": "이스마엘",
-            "content": "I only care to know if this really is the best course of action you could come up with."
-        },
-        {
-            "id": 96,
-            "model": "뫼르소",
-            "content": "Any doubts about the manager's decisions—"
-        },
-        {
-            "id": 97,
-            "model": "이스마엘",
-            "content": "'—are unnecessary'. Yeah. You're as predictable as always."
-        },
-        {
-            "id": 98,
-            "model": "오티스",
-            "content": "Executive Manager's decisions are orders. To doubt them is insubordination. Ishmael, it doesn't matter how competent of a seadog you are—"
-        },
-        {
-            "id": 99,
-            "model": "이스마엘",
-            "content": "Hah, okay. If you say so. But who cares? They've not given me an order. They didn't forbid me from doing anything. So what's your problem here?"
-        },
-        {
-            "id": 100,
-            "model": "이스마엘",
-            "content": "... I just can't sit here and watch this play out."
-        },
-        {
-            "id": 101,
-            "content": "Ishmael strode toward the Kidnappers. It was plain from her tone and expression that she did not care one bit about what the other Sinners said."
-        },
-        {
-            "id": 102,
-            "model": "이스마엘",
-            "content": "I'll gladly accept the consequences..."
-        },
-        {
-            "id": 103,
-            "content": "She shot me a fleeting glance before raising her harpoon."
-        },
-        {
-            "id": 104,
-            "model": "이스마엘",
-            "content": "... for insubordination, manager."
-        },
-        {
-            "id": 105,
-            "content": "Then thrust her well-sharpened harpoon right into one of the kidnappers' forehead."
-        },
-        {
-            "id": 106,
-            "model": "단테2",
-            "content": "<...?!>"
-        },
-        {
-            "id": 107,
-            "content": "The entire course of her action, from start to finish, was so full of absolute confidence, that..."
-        },
-        {
-            "id": 108,
-            "content": "... no one even thought to stop her."
-        },
-        {
-            "id": 109,
-            "content": "I couldn't, either."
-        },
-        {
-            "id": 110,
-            "model": "료슈",
-            "content": "O.O.F."
-        },
-        {
-            "id": 111,
-            "content": "Ryōshū was right. The kidnapper... suffered a total obliteration of forehead."
-        },
-        {
-            "id": 112,
-            "model": "싱클레어",
-            "content": "Ishmael...? What did you just..."
-        },
-        {
-            "id": 113,
-            "model": "싱클레어",
-            "content": "W-what did you just do?!"
-        },
-        {
-            "id": 114,
-            "content": "Sinclair was the first to snap out of this stupefied silence."
-        },
-        {
-            "id": 115,
-            "model": "싱클레어",
-            "content": "The LCCB Agent they took hostage... We just put him at risk...! Because of us, h-he could...!"
-        },
-        {
-            "id": 116,
-            "content": "Sinclair was trembling hard. I couldn't tell if it was the welling tears he was holding back... or an uncontrollable fury."
-        },
-        {
-            "id": 117,
-            "model": "싱클레어",
-            "content": "Just like then...! Just like back then with... Effie, with Saude...!"
-        },
-        {
-            "id": 118,
-            "model": "싱클레어",
-            "content": "It was only few months ago when...! Don't tell me you've moved on already!"
-        },
-        {
-            "id": 119,
-            "model": "단테2",
-            "content": "<...!>"
-        },
-        {
-            "id": 120,
-            "content": "Sinclair's... memories?"
-        },
-        {
-            "id": 121,
-            "content": "I saw an image of Saude and Effie—both smiling. Both were excellent field Agents."
-        },
-        {
-            "id": 122,
-            "content": "And because they were both excellent Agents, they suffered to their last moments before our eyes."
-        },
-        {
-            "id": 123,
-            "content": "Helplessly watching as they slowly expired in front of him, at his old home at that..."
-        },
-        {
-            "id": 124,
-            "content": "That day must have been scorched into his memories."
-        },
-        {
-            "id": 125,
-            "content": "I recalled Ishmael's vision that I witnessed back at the Boatworks."
-        },
-        {
-            "id": 126,
-            "content": "... Was that also a moment that was burned into her memories, I wonder..."
-        },
-        {
-            "id": 127,
-            "model": "이스마엘",
-            "content": "......"
-        },
-        {
-            "id": 128,
-            "content": "Ishmael didn't seem to find Sinclair's questions worth answering. She strode toward one of the closed shipping containers and kicked it open."
-        },
-        {
-            "id": 129,
-            "content": "A body, that had been dead for so long that its complexion and consistency barely resembled that of a living human, slumped to the floor."
-        },
-        {
-            "id": 130,
-            "model": "단테2",
-            "content": "<...!>"
-        },
-        {
-            "id": 131,
-            "model": "이스마엘",
-            "content": "This one's been dead for at least a week. And of course, isn't our LCCB Agent."
-        },
-        {
-            "id": 132,
-            "content": "Ishmael kicks the body, tossing it on its back."
-        },
-        {
-            "id": 133,
-            "model": "이스마엘",
-            "content": "From the looks of it, this one was a tourist visiting Marlin Port. Probably loaded too, if they could afford to travel to the Great Lake just for its sights. They would've been able to afford whatever ransom the pirates demanded."
-        },
-        {
-            "id": 134,
-            "model": "이스마엘",
-            "content": "Kidnap. Extort. Execute. These Syndicates have been repeating these three steps for a good while at U Corp., even as their names and organizations changed with time. They're everywhere, like vermin."
-        },
-        {
-            "id": 135,
-            "model": "이스마엘",
-            "content": "It would be more accurate to call them 'pirates' here."
-        },
-        {
-            "id": 136,
-            "model": "이스마엘",
-            "content": "They never return the hostages. They'll keep asking for more and more ransom until the money well dries up..."
-        },
-        {
-            "id": 137,
-            "content": "Ishmael poked the body with her foot."
-        },
-        {
-            "id": 138,
-            "model": "이스마엘",
-            "content": "Then they kill the hostages. Like they did this one in."
-        },
-        {
-            "id": 139,
-            "model": "돈키호테",
-            "content": "... Quite numerous, the prevalence of such tragedies must be... How can this be? Wherefore doth no hero rise to the occasion and put a stop to these villains?"
-        },
-        {
-            "id": 140,
-            "model": "돈키호테",
-            "content": "I-I believed this to be a place of tourism, is it not?"
-        },
-        {
-            "id": 141,
-            "model": "로쟈",
-            "content": "Well... That usually means that there's a bigger fish looking out for these small fries."
-        },
-        {
-            "id": 142,
-            "model": "돈키호테",
-            "content": "Nay! That matters not! To let such villains run rampant in the City is...!"
-        },
-        {
-            "id": 143,
-            "model": "돈키호테",
-            "content": "Ah, it must be the case that the Fixers of the City are yet unaware of this travesty. Mayhaps they were preoccupied tending to others in need, indeed! Naught else but that explains this!"
-        },
-        {
-            "id": 144,
-            "model": "돈키호테",
-            "content": "Were we to send a missive to one of the just and honorable Associations of the—"
-        },
-        {
-            "id": 145,
-            "model": "이스마엘",
-            "content": "Don Quixote... Please."
-        },
-        {
-            "id": 146,
-            "model": "이스마엘",
-            "content": "Isn't it about time you woke up from your delusions? I've had enough of your ramblings about 'justice'. Your 'villains'."
-        },
-        {
-            "id": 147,
-            "model": "돈키호테",
-            "content": "I...!"
-        },
-        {
-            "id": 148,
-            "model": "이스마엘",
-            "content": "Y-you know what? Nevermind. It's like I'm talking to a brick wall. You're not going to listen to me anyway. It's so frustrating to have to sit here and just..."
-        },
-        {
-            "id": 149,
-            "model": "이스마엘",
-            "content": "This shabbiness is... why we can't get anything done in time..."
-        },
-        {
-            "id": 150,
-            "model": "이스마엘",
-            "content": "By now, we should've been talking to the LCCB Agent, getting the intel we need...!"
-        },
-        {
-            "id": 151,
-            "content": "Ishmael's eyes darted around with wrath, impatience, and anxiety."
-        },
-        {
-            "id": 152,
-            "content": "A metaphorical storm, an amalgamation of senses."
-        },
-        {
-            "id": 153,
-            "model": "이스마엘",
-            "content": "......"
-        },
-        {
-            "id": 154,
-            "content": "She was billowing wildly and helplessly in the tempest. I could not even hope to hold her steady."
-        },
-        {
-            "id": 155,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "Y-ye have brought this on yerself...!"
-        },
-        {
-            "id": 156,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "This is our waters! Do ye even know what Syndicate ye dogs just...!"
-        },
-        {
-            "id": 157,
-            "model": "이스마엘",
-            "content": "Yeah. If we're doing this... Then let's get it over with."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đâu Đó ở Cảng Marlin T.Đoàn U",
+                "model":"베르길리우스",
+                "content":"Rồi. Từ giờ, chúng ta sẽ tách đoàn trong khoảng thời gian ngắn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Charon và ta đều có công việc cần phải làm ở đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"로쟈",
+                "content":"Công việc sao? Lại nữa à? Giờ là cái gì vậy~?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... Ta cần đi mua nước hoa Người Cá. Cứ biết vậy đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Vergilius cất lời, nhìn thẳng vào tờ quảng cáo ở phía trước chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"‘Nước Hoa Người Cá, trích xuất thẳng từ vây trái! Giảm giá đặc biệt!‘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ồ hô! Ngài có định mua cho bọn ta vài chai luôn không? Ta khá tò mò đấy, về thứ ‘Nước Hoa Người Cá’ này. Còn những điều mới lạ gì ở Hồ Lớn đang đợi chờ chúng ta đây?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"파우스트",
+                "content":"Phần lớn nguồn thu nhập của Tập Đoàn U đến từ việc bán các sản phẩm từ Cá Voi và Người Cá. Để dễ hình dung thì mặt hàng của họ thường là: dầu Cá Voi, nước mắt Người Cá, dầu thơm Người Cá, ẩm thực Cá Voi, và vân vân.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ôôô! Nhìn kìa! Ta đây liếc thấy có người bán kem ở nơi kia!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"그레고르",
+                "content":"... Kem vị Cá Mòi Voi á...? Nhìn ngon miếng nào vậy trời?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Cá mòi nhìn ngu ngu vậy thôi mà ăn ngon thật chứ bộ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ừm, ta rất háo hức muốn biết hương vị kem Cá Voi Kiếm ra sao...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이상",
+                "content":"Ngài sẽ không đồng hành cùng chúng tôi tới đích đến sao, thưa người dẫn đường?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... Ta đã hoàn thành công việc làm người dẫn đường cho các cô cậu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Trách nhiệm của ta là chỉ các cô cậu hướng phải đi. Chứ không bao gồm nghĩa vụ dắt trẻ đến trường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이상",
+                "content":"Dù ông nói đúng... Lời của ông cũng nghe hơi xa lánh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Cậu nghe rõ lời ta rồi đấy, Yi Sang. Ta không có ý định đi bầu bạn với các cô cậu bao giờ. Và thân già này cũng không có nhu cầu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Hà, thiệt tình. Chỉ vì đôi ba lời vừa nãy mà cậu nghĩ ta có cảm tình với các cô cậu rồi ư?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Giờ thì, cô Faust.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có người đang chờ ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đội Tiền Tuyến sẽ cho chúng ta biết vị trí của Chi Nhánh Tập Đoàn Lobotomy, nơi cất giữ Cành Vàng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nếu xét theo lần liên lạc gần đây thì họ sẽ chờ ta ở... đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":"Góc Tối trong T.Đoàn U",
+                "model":"싱클레어",
+                "content":"Nơi này có hơi đáng sợ một chút...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chả thấy ma nào cả. Cô Fau biết gì không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Dựa vào tông giọng ấy, có vẻ như cô đang nghi ngờ. Đây chính là vị trí mà tôi được thông báo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hả, thế chúng ta tới trước à? Đỉnh quá tụi bây. Đội Tiền Tuyến? Hay là Đội Trễ Tuyến?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"파우스트",
+                "content":"Để tôi đính chính lại chút. Ta đến vị trí gặp mặt trễ gần một tiếng và ba mươi phút so với lịch hẹn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"오티스",
+                "content":"Hừm, lạ thật. Tụi LCCB ta gặp trước đó ở Tập Đoàn J vốn đã có mặt ở hiện trường từ trước và...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"......",
+                "teller":"Tội nhân",
+                "title":"Tội nhân"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "content":"Tôi chắc rằng câu nói ấy khiến tất cả mọi người gợi nhớ đến cặp đôi ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"Và tôi cũng vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Nghĩ về bọn họ dù chỉ là một khoảnh khắc nhỏ thôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Khặc! Khò...",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Có vẻ như người này đã ngủ trước khi chúng ta tới đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Effie, Saude... Chúng tôi không hề xứng đáng với hai người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Gừ... Không thằng nào biết nhìn đường đi hả?! Tụi bây bị cái méo gì vậy?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이상",
+                "content":"À... Xin lỗi... Trong lúc vội vã, bọn tôi vô tình đụng một tai nạn không lường trước được trên đường tới đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Khà, thế tụi bây không tính tới việc đó trước khi đi à? Oáp~",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "content":"Từ sau góc thùng hàng vận chuyển, một ai đó vừa thức dậy khỏi giấc ngủ và duỗi thẳng chân tay.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"단테2",
+                "content":"<Bọn họ... trông thù địch đến lạ thường...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"홍루",
+                "content":"...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"홍루",
+                "content":"Ôi, chao ơi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테2",
+                "content":"<Hong Lu, đợi đã—>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"홍루",
+                "content":"Huy hiệu của anh bị lệch hẳn luôn này. Phải luôn chú trọng vẻ ngoài sao cho chỉn chu chứ!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"......",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"홍루",
+                "content":"Ơ kìa, có cái gì màu đỏ dính trên huy hiệu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "content":"Trên ngực của anh ta là một phù hiệu Đặc Vụ LCCB bị cài ngược.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":null,
+                "content":"Nó thấm đẫm máu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"...Oáp. Tao đã mong cái nắp chai này tạo thêm chút hiệu ứng kịch tính rồi cơ.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Để xem nào~ Công Ty Limbus... Đội Tiền Tuyến... Đội Trưởng.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Hình như tao nhớ có thằng đần nào đó cứ lởn vởn quanh địa bàn bọn tao miết. Khiếp thật, lần đầu tiên tao được diện kiến một thằng bã chó như nó đấy.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"료슈",
+                "content":"Hừm. Cái sản phẩm tệ hại đó là một sự sỉ nhục đến nghệ thuật. Vào thẳng vấn đề ngay đi không là tao C.C mày.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Phù, này tụi kia! Đã lề mề mà còn hấp tấp quá rồi đấy. Bọn bây không thể dỏng tai lên nghe trước được hay gì?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Chúng mày đang tìm kiếm cái thứ... Vàng Vàng gì đấy, đúng không?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"오티스",
+                "content":"...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngươi đã làm gì Đội Trưởng?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Hãm lại nào, bà dì. Thằng ranh đó hiện còn tốt chán lắm.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"오티스",
+                "content":"Vậy đây sẽ là cuộc thương lượng trao đổi con tin.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Tao cũng quen riết mấy vụ tống tiền thế này rồi nên là...",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Đơn giản thôi. Tao nhận tiền, tụi mày cầm thằng bạn mày về.",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Bọn tao không được tiền, thằng cu kia sẽ được bọn tao trân trọng đặc cách nằm ở trong một cái thùng hàng nào đó, rõ mà nhỉ.",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Bắt cóc à... Lũ mất dạy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Ấy, ấy! Nếu tao là mày thì sẽ không làm vậy đâu. Nên nghĩ kĩ trước khi cương đi chứ, bé yêu?",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Cứ láo nháo đi, rồi thằng bạn mày ăn đủ bây giờ.",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Thôi nào, tao phải nói thật là mọi chuyện sẽ đơn giản hơn nhiều nếu lũ nít ranh bọn bây làm theo ý bọn tao đấy, thử nghĩ đi, sau vụ này chẳng phải tụi mày và thằng bạn kia sẽ cùng tiếp tục trên chuyến hành trình đầy hào hứng để đi tìm Cành Vàng... hoặc cái đéo gì đó tương tự vậy sao.",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"쌍갈고리파조직원1",
+                "content":"Nếu tụi bây còn thấy thiếu thốn quá thì bọn tao đặc cách tặng luôn một chuyến tham quan miễn phí luôn còn được ấy chứ.",
+                "teller":"Kẻ Bắt Cóc",
+                "title":"???"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Con mẹ thằng cặn bã này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"그레고르",
+                "content":"Rồi, rồi... Hiểu rồi. Tôi hiểu chuyện gì đang diễn ra rồi. Mấy người cho bọn tôi chút thời gian thảo luận được chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"그레고르",
+                "content":"Nghe nè, ta không nên để chuyện này đi quá xa đâu. Kẻo lại thu hút sự chú ý không đáng có.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"그레고르",
+                "content":"Và nếu hành động liều lĩnh của chúng ta khiến cho Đặc vụ LCCB đấy bị giết...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"오티스",
+                "content":"Không sai. Chúng trên cơ ta trong cuộc thương lượng này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"오티스",
+                "content":"Nhưng ta tin chúng không biết gì nhiều về Cành Vàng. Có lẽ chúng chỉ tình cờ bắt cậu ta và nghĩ bản thân có thể kiếm một khối tiền lớn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Dẫu chúng ta từng chạm trán rất nhiều cá nhân với bản chất ác độc trên chuyến hành trình này, nhưng kẻ xấu trắng trợn thế này thì chưa bao giờ gặp qua...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"료슈",
+                "content":"Kém sang thế. Lố bịch đến không tưởng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"오티스",
+                "content":"Tấn công chúng trực tiếp chỉ tổ 'rước' thêm người của chúng đeo bám ta - những kẻ quan hệ với các Băng Đảng hùng mạnh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Nếu sự việc như vậy diễn ra thì cơ hội chiến thắng của chúng ta rất mỏng manh. Chúng ta còn không có đủ thông tin về Tập Đoàn U để kiểm soát tình hình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ừ... Chúng ta còn chả biết anh này được Băng Đảng to lỡn cỡ nào bảo kê nữa. Nhưng lúc phát ngôn thì... Chắc đây không phải là lần đầu anh ta làm việc này nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"홍루",
+                "content":"Hừm... Nhưng cũng có khả năng họ chỉ là một tổ chức nhỏ lẻ, không đáng kể thôi mà nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nếu là tép riu thì phang hết là xong. Ta mà nhanh tay thì tụi nó không có cơ hội chạm đến con tin đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"오티스",
+                "content":"... Không. Cũng có thể Băng Đảng của chúng quá nhỏ và phân tán khắp nơi nên khó để theo dấu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ờ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"단테2",
+                "content":"<Vậy chúng ta không biết cái gì hết... Tuyệt.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Có thật là họ sẽ... nếu chúng ta không đưa tiền chuộc...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Dẹp đi. Tao biết cái loại này. Mấy thằng chó như chúng City góc nào cũng có. Vụ này mà làm hỏng con mẹ nó cái là con tin chết mất xác luôn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":null,
+                "content":"Vô số cảnh tượng khủng khiếp và những suy đoán tồi tệ bắt đầu áp đảo tất cả chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":null,
+                "content":"Những người gọi là kẻ bắt cóc kia đang tụ tập lại với nhau, cười khúc khích và luyên thuyên rất nhiều. Chúng biết rằng bọn tôi không có nhiều sự lựa chọn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"단테2",
+                "content":"<Được rồi... Vậy tôi sẽ bắt đầu bằng cách hỏi chúng muốn bao nhiêu tiền.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":null,
+                "content":"Chúng ta hết lựa chọn rồi... Điều tốt nhất mà tôi có thể làm lúc này là thu thập thêm thông tin.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":null,
+                "content":"Một tiếng thở ngắn đầy bực bội thoát ra khỏi đôi môi của Ishmael. Cô ấy đã đứng ở đó suốt, hai tay bắt chéo nhau vào cây lao móc đang tựa trước ngực của cô ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ngài định trả tiền cho chúng? Lũ khốn đó? Thật đấy à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"단테2",
+                "content":"<Chúng ta có thể làm được gì khác nữa chứ? Đến cả bây giờ, con tin...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi không quan tâm đến mấy cái cớ đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi chỉ quan tâm xem liệu đây phải chăng là quyết định đúng đắn nhất mà ngài có thể đưa ra hay không.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Mọi nghi vấn về quyết định của quản lý—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"이스마엘",
+                "content":"\"—đều không cần thiết\". Rồi rồi. Anh vẫn dễ đoán như mọi khi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"오티스",
+                "content":"Quyết định của Quản Lý Điều Hành chính là mệnh lệnh. Nghi ngờ nó cũng chính là làm phản. Ishmael, dù ngươi có là một con chó biển hữu ích đến đâu thì cũng không—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ờ rồi rồi. Cô nói đúng hết. Thì? Ngài ấy còn chưa ra lệnh cho tôi phải làm gì. Cũng chả cấm tôi cái gì hết. Thế rốt cuộc là cô muốn tôi làm sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...Tôi không thể cứ khoanh tay đứng nhìn được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":null,
+                "content":"Ishmael tiến đến chỗ những tên bắt cóc. Từ tông giọng và biểu cảm của cô ấy, có thể thấy rõ rằng cô ấy không hề quan tâm đến bất kì lời nào của các Tội Nhân khác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi xin toàn tâm toàn ý chấp nhận hậu quả...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy liếc nhìn tôi trước khi giương cao cây lao móc của cô ấy lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...vì sự bất tuân này, thưa quản lý.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":null,
+                "content":"Rồi đâm cây lao móc đã được mài giũa thật sắc bén vào thẳng trán của một trong số những tên bắt cóc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"단테2",
+                "content":"<...?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":null,
+                "content":"Toàn bộ hành động của cô ấy, từ đầu đến cuối, đều tự tin một cách tuyệt đối, đến nỗi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":null,
+                "content":"...không một ai nghĩ đến việc ngăn cô ấy lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":null,
+                "content":"Cả tôi cũng không thể làm thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"료슈",
+                "content":"N.T.N.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":null,
+                "content":"Ryōshū nói đúng. Tên bắt cóc... đã hứng chịu một cú nổ tung não.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Cô Ishmael...? Cô vừa mới...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"싱클레어",
+                "content":"C-Cô vừa mới làm cái quái gì vậy hả?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":null,
+                "content":"Sinclair là người đầu tiên hốt hoảng lên phá vỡ sự im lặng đến ngạt thở này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nếu làm thế, Đặc Vụ LCCB mà họ giữ làm con tin sẽ gặp nguy hiểm... do lỗi của chúng ta hết đó!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":null,
+                "content":"Sinclair run rẩy cực độ. Tôi không thể phân biệt được liệu cậu ấy đang kìm nén nước mắt... hay là đang kìm nén cơn giận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Cứ như lúc đó...! Cứ như lúc đó với... anh Effie, với chị Saude...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Mới có mấy tháng trôi qua thôi mà...! Đừng nói với tôi là cô đã quên rồi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"단테2",
+                "content":"<...!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":null,
+                "content":"Kí ức của... Sinclair sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":null,
+                "content":"Tôi nhìn thấy hình ảnh của Saude và Effie—đều đang mỉm cười. Cả hai người họ đều là những Đặc Vụ thực địa xuất sắc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":null,
+                "content":"Và bởi vì bọn họ đều là những Đặc Vụ xuất chúng, bọn họ đã phải chịu đựng đến những giây phút cuối cùng trước mắt tất cả chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":null,
+                "content":"Đứng nhìn bọn họ trút hơi thở cuối cùng một cách bất lực ngay trước mắt, thậm chí còn ở ngay ngôi nhà cũ của cậu ấy nữa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":null,
+                "content":"Cái ngày hôm ấy hẳn đã khắc sâu vào trong kí ức của cậu ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":null,
+                "content":"Tôi nhớ lại viễn cảnh của Ishmael mà tôi đã nhìn thấy lúc ở Xưởng Tàu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":null,
+                "content":"...Tôi tự hỏi liệu đó cũng có phải là một khoảnh khắc đã in sâu vào trong ký ức của cô ấy không...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"이스마엘",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":null,
+                "content":"Ishmael dường như nhận thấy câu hỏi của Sinclair không đáng để cô trả lời. Cô ấy tiến về phía một trong những thùng hàng đang đóng và đạp mở nó ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":null,
+                "content":"Một thi thể, đã chết lâu đến mức da thịt đã không còn trông giống như từng là của một con người nữa, đổ sầm xuống nền đất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":"단테2",
+                "content":"<...!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Người này chết cũng phải ít nhất một tuần rồi. Và tất nhiên, không phải là Đặc Vụ LCCB đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":null,
+                "content":"Ishmael đá cái xác, lật ngược nó lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhìn sơ qua thì có vẻ đây là khách du lịch tới Cảng Marlin. Cũng thuộc dạng khách sộp đấy, thừa tiền đi Hồ Lớn chỉ để ngắm cảnh kia mà. Như này thì lũ cướp biển có đòi bao nhiêu tiền chuộc cũng không thành vấn đề.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":134,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Bắt cóc. Tống tiền. Giết người. Dù có thay tên đổi họ liên tục thì vẫn là lũ này thôi. Chúng đã hoành hành khắp Tập Đoàn U được một thời gian dài rồi, đầy rẫy và ung nhọt khắp nơi như sâu bọ vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":135,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Gọi mấy Băng Đảng này là \"cướp biển\" thì đúng hơn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":136,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng sẽ không bao giờ trả lại con tin và tiếp tục đòi tiền, cho đến khi nào nạn nhân khánh kiệt không trả nổi nữa....",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":137,
+                "place":null,
+                "model":null,
+                "content":"Ishmael dùng chân mình chạm vào cái xác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":138,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thì chúng sẽ giết con tin. Như thế này đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":139,
+                "place":null,
+                "model":"돈키호테",
+                "content":"...Đã có vô số những thảm kịch xảy ra tại chốn này... Làm sao có thể như vậy được? Hà cớ gì mà chẳng có vị anh hùng nào đứng ra ngăn chặn bè lũ ác nhân đó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":140,
+                "place":null,
+                "model":"돈키호테",
+                "content":"C-Chẳng phải như ta thấy thì nơi đây là địa điểm thu hút khách du lịch sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":141,
+                "place":null,
+                "model":"로쟈",
+                "content":"À thì... Thường có nghĩa là cá lớn nuốt cá bé đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":142,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Không thể nào! Thực chẳng liên quan! Việc để lũ xấu xa như vậy lộng hành trong The City là...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":143,
+                "place":null,
+                "model":"돈키호테",
+                "content":"À, phải chăng là là các Fixer của The City vẫn chưa hề biết tới sự bôi bác này. Quả thực, xem chừng bọn họ đang bận giúp đỡ những người mưu cầu sự hỗ trợ! Chẳng còn lời giải thích nào đủ hợp lý để làm rõ cho sự việc đây!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":144,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nếu chúng ta gửi văn thư đến một trong số các Liên Đoàn công bằng và đáng kính của—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":145,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Don Quixote... Xin đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":146,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Giờ này mà cô vẫn còn ảo tưởng được nữa sao? Tôi chán ngấy mấy câu lèm bèm về 'công lý' với 'kẻ ác' của cô lắm rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":147,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":148,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mà nhé? Thôi bỏ đi. Cứ như nước đổ lá khoai vậy. Đằng nào cô cũng chẳng thèm nghe tôi. Cứ đủng đỉnh ở đây mà chẳng làm được gì thật khó chịu và...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":149,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Lúc nào cũng lề mề thế này... thì làm nên trò trống gì được...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":150,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đáng lẽ giờ này chúng ta phải lấy được thông tin cần thiết từ Đặc Vụ LCCB rồi...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":151,
+                "place":null,
+                "model":null,
+                "content":"Mắt Ishmael đảo xung quanh liên tục trong sự phẫn nộ, mất kiên nhẫn, và lo âu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":152,
+                "place":null,
+                "model":null,
+                "content":"Tựa như một cơn bão, một sự dung hợp của tất cả các giác quan.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":153,
+                "place":null,
+                "model":"이스마엘",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":154,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy đang cuồn cuộn một cách dữ dội và bất lực trong bão tố. Tôi không thể nào trông mong việc trấn tĩnh cô ấy lại được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":155,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "content":"M-mày tự chuốc lấy đấy nhá...!",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???"
+            },
+            {
+                "id":156,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "content":"Vùng biển này là của bọn tao! Mày có biết Băng Đảng bọn tao là ai không, con chó đ...!",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???"
+            },
+            {
+                "id":157,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Được. Đã có gan làm... thì làm cho tới đi.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

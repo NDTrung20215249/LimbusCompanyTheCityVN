@@ -1,92 +1,134 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Marlin Port Club Entrance",
-            "model": "홍루",
-            "content": "Woah, I can't believe they're letting us in like this!"
-        },
-        {
-            "id": 1,
-            "model": "단테2",
-            "content": "<... Let's go.>"
-        },
-        {
-            "id": 2,
-            "content": "I wanted to correct him that the bouncers weren't letting us in, that they were either face-down in some ditch or fleeing, and we were just letting ourselves in..."
-        },
-        {
-            "id": 3,
-            "content": "But I guess I wasn't in the mood."
-        },
-        {
-            "id": 4,
-            "place": "Marlin Port Club Entrance",
-            "model": "클럽손님",
-            "teller": "Guest",
-            "title": "U Corp.",
-            "content": "Heyy... you here with anyone?"
-        },
-        {
-            "id": 5,
-            "model": "파우스트",
-            "content": "Yes. I have twelve companions with me."
-        },
-        {
-            "id": 6,
-            "model": "클럽손님",
-            "teller": "Guest",
-            "title": "U Corp.",
-            "content": "T-twelve...?"
-        },
-        {
-            "id": 7,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "There! Get 'em!"
-        },
-        {
-            "id": 8,
-            "model": "클럽손님",
-            "teller": "Guest",
-            "title": "U Corp.",
-            "content": "Aaah! S-sorry for disturbing you!"
-        },
-        {
-            "id": 9,
-            "teller": "Club DJ",
-            "title": "U Corp.",
-            "content": "Okay everyone~ Let's do the famous 'Marlin Dance' of our beloved Marlin port!"
-        },
-        {
-            "id": 10,
-            "teller": "Club DJ",
-            "title": "U Corp.",
-            "content": "Arms out~ Like this! Swing~ and lock! Swing~ and lock!"
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "Ngh... what's with all the booming bass?"
-        },
-        {
-            "id": 12,
-            "model": "이상",
-            "content": "It feels as though the sound waves are vibrating my entire brain matter..."
-        },
-        {
-            "id": 13,
-            "model": "이스마엘",
-            "content": "Get out of my way or you'll all be sorry."
-        },
-        {
-            "id": 14,
-            "content": "Ishmael swung her mace, shattering a nearby table to pieces..."
-        },
-        {
-            "id": 15,
-            "content": "And that was more than enough for the clubbers to realize the seriousness of the situation. They quickly ran to the exit and vacated the club."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lối Vào CLB Cảng Marlin",
+                "model":"홍루",
+                "content":"Oa, vậy mà các anh bảo vệ cũng mở đường cho chúng ta vào trong luôn này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Đi thôi.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Tôi muốn chỉnh lại câu từ của anh ấy rằng những người bảo vệ hộp đêm không hề cho chúng ta vào, rằng bọn họ đều đã nằm đo ván hoặc bỏ trốn rồi, và chúng ta đang tự ý đi vào bên trong...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"Nhưng tôi đoán là tôi không có tâm trạng để làm thế nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":"Lối Vào CLB Cảng Marlin",
+                "model":"클럽손님",
+                "content":"Nè, em gái... Cưng tới đây với ai sao, hỏ?",
+                "teller":"Khách Mời",
+                "title":"Tập Đoàn U"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đúng vậy. Có mười hai người đi cùng với tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"클럽손님",
+                "content":"M-mười hai...?",
+                "teller":"Khách Mời",
+                "title":"Tập Đoàn U"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Ở đây! Tóm lấy chúng!",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"클럽손님",
+                "content":"Aaa...! T-thứ lỗi vì đã làm phiền!",
+                "teller":"Khách Mời",
+                "title":"Tập Đoàn U"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Được rồi mọi người ơi~ Hãy cùng nhau nhảy 'Điệu Marlin' nổi tiếng vinh danh cảng Marlin thân quý của chúng ta nào!",
+                "teller":"DJ Câu Lạc Bộ",
+                "title":"Tập Đoàn U"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"Tay lên cao~ Như thế này! Xoay~ và khoá! Xoay~ và khoá!",
+                "teller":"DJ Câu Lạc Bộ",
+                "title":"Tập Đoàn U"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Gừ... Cái gì mà bass dập ác thế...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이상",
+                "content":"Cảm giác như âm thanh đang rung giật não tôi vậy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tất cả các người, đi chỗ khác hoặc đi đời. Nhanh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Ishmael vung cây chuỳ của cô ấy, đập nát cái bàn gần đó thành trăm mảnh...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Và nhiêu đó là quá đủ để những người trong hộp đêm nhận ra sự nghiêm trọng của vấn đề trước mắt. Họ nhanh chóng chạy đến lối ra và rời khỏi hộp đêm.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

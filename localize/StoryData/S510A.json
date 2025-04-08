@@ -1,453 +1,694 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Marlin Port Club VIP Room",
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "W-wait! You better stay away! Lay a finger on me, and you'll regret it!"
-        },
-        {
-            "id": 1,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "You have no idea who's looking out for me."
-        },
-        {
-            "id": 2,
-            "model": "그레고르",
-            "content": "What?"
-        },
-        {
-            "id": 3,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "It's... don't freak out now... a Big Brother. From 'the Middle'."
-        },
-        {
-            "id": 4,
-            "model": "료슈",
-            "content": "... Oho. a B.B?"
-        },
-        {
-            "id": 5,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "And this Queequeg? The Middle put a pretty hefty bounty on her pretty head, in case you didn't know."
-        },
-        {
-            "id": 6,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "She not only dared to quit the Middle, but also decided to fall off the face off the earth. Now that's what you call prime stupidity."
-        },
-        {
-            "id": 7,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "Given that the Middle... never forgets."
-        },
-        {
-            "id": 8,
-            "model": "이스마엘",
-            "content": "... Okay. Are you finished?"
-        },
-        {
-            "id": 9,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "Wait, really...? You're still going to kill me?"
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "It's our mess. I'm not about to leave any loose threads behind."
-        },
-        {
-            "id": 11,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "It's the Middle we're talking about! The Middle! Don't you know who they are?!"
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "......"
-        },
-        {
-            "id": 13,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "Wait! Fine, fine! I'll tell you where your friend is!"
-        },
-        {
-            "id": 14,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "The shipping container you're looking for... We keep our living hostages in shipping containers marked with a green triangle. And since he's a recent catch, you can go find him on the East side, probably..."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "Green triangle, huh? What if there's more than one of those? What if it's in a different shade of green? What if you’re just lying to get out of a pinch?"
-        },
-        {
-            "id": 16,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "You should be able to tell! You should be able to tell right away! I'm serious... Please!"
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "... There you have it. I'd say that's more than enough confirmation. Happy now, Sinclair?"
-        },
-        {
-            "id": 18,
-            "model": "싱클레어",
-            "content": "......"
-        },
-        {
-            "id": 19,
-            "content": "Sinclair was frowning, but Ishmael didn't seem to care."
-        },
-        {
-            "id": 20,
-            "content": "She stood there, rubbing the wrist of her weapon arm. It almost appeared as though she was measuring the amount of strength needed to turn Smee's head into pulp in one fell swoop."
-        },
-        {
-            "id": 21,
-            "model": "단테2",
-            "content": "<... Wait. Killing her could cause us a lot of trouble.>"
-        },
-        {
-            "id": 22,
-            "model": "단테2",
-            "content": "<We know where the hostage is, and I think that's good enough. Let's head back.>"
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "... I don't feel the need to convince you, manager. Kindly get out of my way."
-        },
-        {
-            "id": 24,
-            "model": "이스마엘",
-            "content": "I don't want to waste any more time on this."
-        },
-        {
-            "id": 25,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "Y-you know what else is a waste of time? Killing me. How 'bout we just go on our merry ways, huh?"
-        },
-        {
-            "id": 26,
-            "model": "이스마엘",
-            "content": "I disagree."
-        },
-        {
-            "id": 27,
-            "model": "단테2",
-            "content": "<Ishmael!>"
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "I can be pretty fast."
-        },
-        {
-            "id": 29,
-            "content": "Ishmael's eyes were still lost and wandering. She swung back her harpoon arm, ready to strike, and..."
-        },
-        {
-            "id": 30,
-            "content": "Before I even realized what I was doing... I was leaping in the way."
-        },
-        {
-            "id": 31,
-            "model": "이스마엘",
-            "content": "...!"
-        },
-        {
-            "id": 32,
-            "model": "오티스",
-            "content": "Executive Manager!"
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "Dante... are you insane?"
-        },
-        {
-            "id": 34,
-            "model": "오티스",
-            "content": "You, you're the one who's insane!!! You dare lay your hands on our Executive Manager? Was insubordination not enough?!"
-        },
-        {
-            "id": 35,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "S... Smart choice."
-        },
-        {
-            "id": 36,
-            "model": "다친스미",
-            "teller": "Smee",
-            "title": "Twinhook Pirates",
-            "content": "If you killed me... a Big Brother or even a Big Sister would've gone after you."
-        },
-        {
-            "id": 37,
-            "content": "I recalled the time when... the exact opposite happened."
-        },
-        {
-            "id": 38,
-            "content": "When Ishmael leaped in front of me, taking the malfunctioning machine's bullets in my place..."
-        },
-        {
-            "id": 39,
-            "content": "And called my name as her body liquefied."
-        },
-        {
-            "id": 40,
-            "content": "As though she had faith that my name alone could make everything right again."
-        },
-        {
-            "id": 41,
-            "model": "이스마엘",
-            "content": "Did you just... Did you just take a harpoon for that bitch?"
-        },
-        {
-            "id": 42,
-            "model": "이스마엘",
-            "content": "If I aimed a bit to the side, I would've hit you in the face! Your stupid clock face!! Do you understand?!"
-        },
-        {
-            "id": 43,
-            "model": "단테2",
-            "content": "<Yeah, I do... Boy, you really did whet the heck outta that harpoon... This really hurts.>"
-        },
-        {
-            "id": 44,
-            "model": "이스마엘",
-            "content": "Wha... Can you please stop it! With your stupid goddamn quips!"
-        },
-        {
-            "id": 45,
-            "model": "오티스",
-            "content": "Executive Manager."
-        },
-        {
-            "id": 46,
-            "model": "오티스",
-            "content": "Her words and actions just now are more than enough to constitute a full-on mutiny. She made an attempt on the life of her direct superior!"
-        },
-        {
-            "id": 47,
-            "model": "오티스",
-            "content": "I can no longer sit idly by and watch. Though you may not have the punitive authority..."
-        },
-        {
-            "id": 48,
-            "model": "오티스",
-            "content": "We must make a detailed report of these incidents and relay it to the higher-ups of the company to discuss our future actions."
-        },
-        {
-            "id": 49,
-            "model": "단테2",
-            "content": "<It's okay, Outis. I chose to get in her way.>"
-        },
-        {
-            "id": 50,
-            "model": "오티스",
-            "content": "This is NOT okay!!"
-        },
-        {
-            "id": 51,
-            "model": "오티스",
-            "content": "That individual has consistently and repeatedly caused serious setbacks to our mission!"
-        },
-        {
-            "id": 52,
-            "model": "오티스",
-            "content": "And that, Executive Manager, is crossing the line!"
-        },
-        {
-            "id": 53,
-            "model": "단테2",
-            "content": "<Outis. I said it's okay.>"
-        },
-        {
-            "id": 54,
-            "model": "단테2",
-            "content": "<I didn't take the harpoon for that woman. I took it for Ishmael.>"
-        },
-        {
-            "id": 55,
-            "model": "이스마엘",
-            "content": "Haah?"
-        },
-        {
-            "id": 56,
-            "model": "이스마엘",
-            "content": "What, did you flip a switch and decide to become a humanitarian all of a sudden?"
-        },
-        {
-            "id": 57,
-            "model": "이스마엘",
-            "content": "You never had to dirty your hands with a drop of blood. Not even once..."
-        },
-        {
-            "id": 58,
-            "model": "이스마엘",
-            "content": "You just sat back and ordered us to bloody ours in your stead."
-        },
-        {
-            "id": 59,
-            "model": "이스마엘",
-            "content": "And now you're telling us to, what, 'ease up on the murders'? What are you even trying to say? That you don't want us to get traumatized anymore? Some touchy-feely shit like that?"
-        },
-        {
-            "id": 60,
-            "model": "단테2",
-            "content": "<No, it's just my intuition.>"
-        },
-        {
-            "id": 61,
-            "model": "단테2",
-            "content": "<... That probably wasn't very convincing, was it?>"
-        },
-        {
-            "id": 62,
-            "model": "이스마엘",
-            "content": "No. Of course not... Intuition comes from experience. From memories."
-        },
-        {
-            "id": 63,
-            "model": "이스마엘",
-            "content": "You remember jack all before the clock, Dante. How can I trust your intuition?"
-        },
-        {
-            "id": 64,
-            "model": "단테2",
-            "content": "<That woman... I think she's in a pretty important position of power, at least in this District. Killing her before thinking things through could complicate things.>"
-        },
-        {
-            "id": 65,
-            "model": "이스마엘",
-            "content": "Did it not occur to you that NOT killing her could also complicate things?"
-        },
-        {
-            "id": 66,
-            "model": "단테2",
-            "content": "<... I just think killing everyone in our way left and right like this...>"
-        },
-        {
-            "id": 67,
-            "model": "단테2",
-            "content": "<... Won't help us in the future.>"
-        },
-        {
-            "id": 68,
-            "model": "이스마엘",
-            "content": "... In the future, huh."
-        },
-        {
-            "id": 69,
-            "model": "단테2",
-            "content": "<Sorry... I can't... I don't have any better explanation for what I just did.>"
-        },
-        {
-            "id": 70,
-            "model": "이스마엘",
-            "content": "I don't know how far in the future you're talking about, but..."
-        },
-        {
-            "id": 71,
-            "model": "이스마엘",
-            "content": "... I'm sure we have different things in store for us there, Dante."
-        },
-        {
-            "id": 72,
-            "model": "단테2",
-            "content": "<Ah...>"
-        },
-        {
-            "id": 73,
-            "model": "이상",
-            "content": "Dante..."
-        },
-        {
-            "id": 74,
-            "model": "이상",
-            "content": "Do not ever put yourself at risk in such a manner again."
-        },
-        {
-            "id": 75,
-            "model": "단테2",
-            "content": "<Come on... That advice coming from one of you guys? Not very convincing.>"
-        },
-        {
-            "id": 76,
-            "model": "이상",
-            "content": "Responsibility of twelve lives weigh upon your shoulders, Dante. Thus you must watch yourself twelvefold."
-        },
-        {
-            "id": 77,
-            "model": "이상",
-            "content": "Doubly so, in that... should you perish... we do not possess the means to bring you back."
-        },
-        {
-            "id": 78,
-            "model": "이상",
-            "content": "And..."
-        },
-        {
-            "id": 79,
-            "model": "이상",
-            "content": "Ones that cannot be brought back... leave behind an unbearably painful void."
-        },
-        {
-            "id": 80,
-            "content": "Yi Sang was right. My shoulder was in an unbearable amount of pain."
-        },
-        {
-            "id": 81,
-            "model": "히스클리프",
-            "content": "Oi... You uh, all right, clockhead?"
-        },
-        {
-            "id": 82,
-            "model": "단테2",
-            "content": "<Yeah, I'm good. The clock still works.>"
-        },
-        {
-            "id": 83,
-            "model": "히스클리프",
-            "content": "What? That's not what I... Hah, Looney bugger. You're not all there either. Or maybe it just took you a while to lose it, eh?"
-        },
-        {
-            "id": 84,
-            "model": "히스클리프",
-            "content": "And here I thought we at least had one sane person on the bus. But you're no different."
-        },
-        {
-            "id": 85,
-            "content": "Heathcliff shook his head and walked away."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng VIP CLB Cảng Marlin",
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"T-từ đã nào! Mấy người tránh xa ta ra! Một ngón tay đụng vào ta là mấy người sẽ phải hối hận cho coi!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Mấy người tốt nhất không muốn biết ai đang bảo hộ ta đâu."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Gì cơ?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Đó... đừng có phát hoảng lên nhé... là Anh Lớn. Từ 'Băng Đảng Middle' đấy."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"... Á à. Một thằng A.L.?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Và cái cô Queequeg này á? Nếu như mấy người chưa biết thì cái mạng của cô ta đã được Băng Middle đặt mốc tiền thưởng rất ư là lớn rồi đấy."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Nói thật là cô ta phải ngu lắm ý, tự tiện rời bỏ băng Middle rồi biệt tăm mất dạng ở cái nơi khỉ ho nào đó. Hẳn cô ta đã mất tỉnh tảo rồi."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Chắc cô ta quên mất rằng... băng Middle không bao giờ quên thù."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...Rồi. Nói xong chưa?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Khoan, thật đấy à...? Cô thực sự vẫn muốn giết ta?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Bọn tao gây ra mớ hỗn độn này thì phải tự dọn cho sạch chứ."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Đó là Băng Middle, cô chưa hiểu à! Băng Middle đấy! Cô thực sự giả ngu hay gì vậy hả?!"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Từ từ đã! Ta sẽ nói chỗ thằng bạn của mấy người ở đâu! Được chưa hả!?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Nếu ta đoán không lầm... cái thùng hàng nhốt thằng bạn mấy người có đánh dấu hình tam giác xanh lá ấy, vì thằng bạn của mấy người vừa mới bị bắt gần đây thôi nên chắc là đang ở khu phía Đông rồi..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Hình tam giác màu xanh lá ư? Lỡ có nhiều hơn một thùng thì sao? Xanh sắc độ nào? Lỡ như mày nói dối chỉ để thoát chết thì sao?"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Cô sẽ nhận ra! Cô chắc chắn sẽ nhận ra nó ngay! Ta van nài cô... ta nói thật mà!"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Nghe rồi đó. Thế này là quá đủ để xác nhận rồi. Vừa ý chưa, Sinclair?"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sinclair nhíu mày, nhưng Ishmael không quan tâm."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cô ấy đứng đó, xoa xoa cổ tay cầm vũ khí của mình. Như thể cô ấy đang ước lượng sức lực cần dùng để khiến đầu của Smee nát bét trong một cú vung duy nhất vậy."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<...Đợi đã. Giết cô ta có thể khiến chúng ta gặp rất nhiều rắc rối đấy.>"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Chúng ta đã biết nơi con tin đang bị giam giữ, và tôi nghĩ nhiêu đó là quá đủ rồi. Mau quay về thôi.>"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Tôi không có tâm trạng để thuyết phục ngài đâu, thưa quản lý. Xin vui lòng tránh đường."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi không muốn phí phạm thời gian cho dăm ba thứ này nữa."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"N-nghe này, cô đang lãng phí thời giờ chỉ để giết ta thôi đấy, không phải sao? Chúng ta có thể giải quyết chuyện này êm đẹp được mà nhỉ?"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Không là không."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Ishmael!>"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Sẽ xong nhanh thôi."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Đôi mắt của Ishmael vẫn lạc lõng và vô hồn. Cô ấy vung cánh tay cầm lao móc của cô ấy, sẵn sàng công kích, và..."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Trước khi tôi kịp nhận ra bản thân mình đang làm gì... thì tôi đã lao vào cản."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...!"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Quản Lý Điều Hành!"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Dante... ngài điên rồi sao?"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Ngươi, chính ngươi, con điên tâm thần kia!!! Ngươi dám động tay vào Quản Lý Điều Hành của chúng ta? Ngươi muốn từ chống đối lên thành tạo phản à?!"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Q... Quyết định đúng đấy."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"다친스미",
+                "teller":"Smee",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Nếu cô giết ta... Anh Lớn hoặc đến ngay cả Chị Lớn cũng sẽ không tha cho cô đâu."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi nhớ lại lúc mà... điều ngược lại đã xảy ra."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Khi Ishmael lao ra trước mặt tôi, hứng chịu những viên đạn của cỗ máy bị trục trặc ấy thay cho tôi..."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và gọi tên tôi khi cơ thể của cô ấy tan chảy đi."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cứ như cô ấy có niềm tin rằng tên của tôi sẽ khiến mọi thứ đâu vào đó thêm một lần nữa."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ngài vừa... Ngài vừa chạy ra đỡ lao cho con đĩ đó à?"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi mà không kịp nhắm lệch đi là đã trúng ngài rồi! Trúng giữa cái bản mặt đồng hồ ngu ngục đây này!! Hiểu không?!"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Ừa, tôi hiểu... Trời ạ, cô thật sự đã mài bén cái lao móc đó rồi... Đau lắm luôn đấy.>"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Lại... Đến nước này còn đùa được! Có thôi ngay đi không!?"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Quản Lý Điều Hành."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Lời nói và hành động ả ta dư sức để được coi là một cuộc nổi loạn toàn diện. Con nhóc kia đã định giết chết cấp trên của mình!"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Tôi không thể ngồi yên mà nhìn được nữa. Dù ngài không có thẩm quyền để trừng phạt..."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Chúng ta phải làm báo cáo chi tiết về những sai sót này và gửi lên cấp trên của công ty để bàn về hành động của ta trong tương lai."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Không sao cả, Outis. Tôi đã lựa chọn ngáng đường của cô ấy.>"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Đấy là CÓ SAO rồi!!"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Cá nhân kia đã nhiều lần và liên tục cản trở nhiệm vụ của ta!"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Việc đấy đã vượt quá ranh giới rồi, thưa Quản Lý Điều Hành!"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Outis. Tôi đã nói là không sao cả.>"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Tôi không đỡ cây lao móc đó cho người phụ nữ đó. Tôi đỡ nó cho Ishmael.>"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Hảaa?"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Gì chứ, ngài vừa gạt nhầm chuông báo thức và quyết định trở thành nhà nhân quyền à?"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tay ngài chưa bao giờ nhúng chàm. Dù chỉ là một giọt máu..."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tất cả những gì ngài làm là ngồi đó chỉ đạo chúng tôi nhuốm máu thay ngài."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Và giờ ngài lại muốn bảo tôi là, cái gì nhỉ, \"không giết người bừa bãi\" à? Nói linh ta linh tinh cái gì thế? Rằng thì là mà không muốn chúng tôi bị ám ảnh nữa? Sáo rỗng đến thế là cùng chứ?"
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Không, chỉ là trực giác của tôi thôi.>"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<...Không thuyết phục mấy nhỉ?>"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Không. Tất nhiên là không rồi... Trực giác đến từ kinh nghiệm. Từ kí ức."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ngài chẳng nhớ quái gì về quá khứ của mình cả, Dante. Làm sao mà tôi tin vào cái trực giác đó của ngài được?"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Người phụ nữ đó... Tôi nghĩ cô ta nắm giữ một vị thế khá quan trọng, ít nhất là ở Quận này. Giết cô ta mà không suy nghĩ thông suốt có thể khiến mọi chuyện phức tạp hơn rất nhiều.>"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thế chẳng nhẽ ngài không nghĩ là THA cho cô ta thì chuyện còn có thể phức tạp hơn à?"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<...Tôi chỉ nghĩ rằng giết hết tất cả mọi người một cách mù quáng như thế này...>"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Sẽ không giúp ích được gì cho chúng ta trong tương lai đâu.>"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"...Tương lai cơ à."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Xin lỗi... Tôi không thể... Tôi không có bất kì lời giải thích nào phù hợp hơn cho hành động vừa rồi.>"
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi chẳng biết cái tương lai ngài nói xa cỡ nào nhưng..."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Tôi dám chắc một điều rằng đích đến cuối cùng của ngài và tôi sẽ rất khác nhau đấy, Dante."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<A...>"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Dante..."
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Đừng bao giờ đặt bản thân ngài vào hiểm nguy như vậy nữa."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Thôi nào... Một người trong đoàn chúng ta mà lại cho tôi lời khuyên như này á... Nghe không thuyết phục lắm đâu.>"
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Trọng trách của mười hai sinh mạng đặt trên vai ngài đấy, Dante. Ngài phải cẩn thận bảo trọng bản thân gấp mười hai lần."
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Còn phải gấp đôi thế nữa, vì... nếu ngài chết... chúng tôi không có cách nào hồi sinh ngài được."
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Và..."
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Những người không thể được hồi sinh... để lại một khoảng trống đớn đau khôn xiết."
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Yi Sang nói đúng. Đôi vai tôi có một cơn đau không tài nào diễn tả được."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Ê... Mày ờ... ổn không, đầu đồng hồ?"
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Ừa, tôi ổn. Đồng hồ vẫn còn hoạt động tốt.>"
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Hả? Không phải ý tao là... Ha, đồ óc chó này. Chắc mày cũng không phải dạng bình thường. Hay là mất chừng đấy thời gian mày mới hoá rồ?"
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Vậy mà làm tao nghĩ rằng xe buýt này ít nhất cũng có một đứa tâm lý ổn định. Nhưng mà mày cũng như ai."
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Heathcliff lắc đầu rồi bỏ đi."
+            }
+        ]
+    }
+

@@ -3,12 +3,12 @@
     {
       "id": "battle_awaken_20701_1",
       "desc": "E.G.O Activation",
-      "dlg": "You’ll… get shoved in this bag too!"
+      "dlg": "Cả mày… cũng sẽ bị nhồi vào bao xác này!"
     },
     {
       "id": "battle_awaken_20702_1",
       "desc": "E.G.O Activation",
-      "dlg": "Alright, I’ll sear you down to your guts!"
+      "dlg": "Em ơi anh săn em vào lúc tối nay. Săn em xong anh sẽ chén ngay... \nNhư mấy con súc vật, con súc vật, mấy con súc vật (vật)."
     },
     {
       "id": "battle_erosion_20702_1",
@@ -18,77 +18,77 @@
     {
       "id": "battle_awaken_20703_1",
       "desc": "E.G.O Activation",
-      "dlg": "Kahahaha! I'll fry you... all the way to the heart!"
+      "dlg": "Em ơi anh săn em vào lúc tối nay. Săn em xong anh sẽ chén ngay... \nNhư mấy con súc vật, con súc vật, mấy con súc vật (vật)."
     },
     {
       "id": "battle_erosion_20703_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "It's my turn to torment you now... Need some shock in your system?!"
+      "dlg": "Lần này mày sẽ khổ đau đây... Cần tí điện vào người không?!"
     },
     {
       "id": "battle_awaken_20704_1",
       "desc": "E.G.O Activation",
-      "dlg": "One. Two. The weight of your Karma returns with each rumbling of the earth."
+      "dlg": "Một, hai... Chơi cò quay xem đứa nào mỏ hỗn hơn thì chim cút"
     },
     {
       "id": "battle_erosion_20704_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "The wheel of samsara turns once. And you are forthwith no more. For that is existence. For that is I."
+      "dlg": "Bánh xe luân hồi quay một lần. Và ngươi lập tức tan biến. Vì đó là kiếp chúng sinh. Vì đó là ta."
     },
     {
       "id": "battle_awaken_20705_1",
       "desc": "E.G.O Activation",
-      "dlg": "Hah, you'll make a fine gift!"
+      "dlg": "Ha, mày sẽ trở thành một món quà tuyệt sắc!"
     },
     {
       "id": "battle_erosion_20705_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "JOLLY! KIDS! DESERVE! PRESENTS!"
+      "dlg": "TRẺ! NGOAN! NHẬN! QUÀ!"
     },
     {
       "id": "battle_overdrive_20701_1-1",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "You... and everything that crushed me under their feet,\nbuilt this wall between me and Cathy..."
+      "dlg": "Mày... và tất cả những gì đã giẫm đạp nghiền nát tao,\ndựng nên bức tường này tách biệt tao và Cathy..."
     },
     {
       "id": "battle_overdrive_20701_1-2",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "I'll shove all of it in this bag... drag it to the end of inferno..."
+      "dlg": "Tao sẽ nhồi hết vào bao xác này... kéo nó đến tận cùng của hoả ngục..."
     },
     {
       "id": "battle_overdrive_20701_1-3",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "... and pummel it as hard as my strength would allow...!"
+      "dlg": "... rồi dồn hết sức bình sinh mà phang, mà đập...\nchừng nào chúng mày tan tành ra bã mới thôi...!"
     },
     {
       "id": "battle_awaken_20706_1",
       "desc": "E.G.O Activation",
-      "dlg": "I am bound to reign alone atop this solitary throne..."
+      "dlg": "Ta bị trói buộc trên ngai vàng cô độc này trị vì một mình..."
     },
     {
       "id": "battle_erosion_20706_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "These strands bandage and shackle me... When shall I be released?!!"
+      "dlg": "Những sợi vải này băng bó và giềng xích ta... Bao giờ ta mới được thả?!!"
     },
     {
       "id": "battle_awaken_20701_2",
       "desc": "E.G.O Activation",
-      "dlg": "I... have to meet Catherine. And everything that stands in my way will..."
+      "dlg": "Tao... phải gặp được Catherine. Và tất cả những gì cản trở tao sẽ…"
     },
     {
       "id": "battle_awaken_20701_3",
       "desc": "E.G.O Activation",
-      "dlg": "Even if you are forgotten to the world... I'll get you back."
+      "dlg": "Cho dù cả thế giới này có quên em... Anh sẽ đến mang em về."
     },
     {
       "id": "battle_awaken_20707_1",
       "desc": "E.G.O Activation",
-      "dlg": "Leg it, if you want. My scattering bullets...\n...will turn your brain into fireworks no matter where you run."
+      "dlg": "Chạy đi thằng lồn, tao vẫn biết mày sống ở đâu."
     },
     {
       "id": "battle_erosion_20707_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "A single bullet ain't enough...\nUntil echoes of gunshots and plumes of smoke bury all that I've ever remembered...!"
+      "dlg": "Một viên không đủ…\nCho đến khi tiếng vang vọng của ống súng và sự mù mịt của làn khói chôn vùi tất cả những gì tao tưởng nhớ…!"
     },
     {
       "id": "battle_awaken_20708_1",

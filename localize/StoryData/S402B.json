@@ -1,560 +1,902 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K’s Streets",
-            "model": "파우스트",
-            "content": "As you saw through the bus… we are in the middle of a Nest. A place that should be the furthest from unexpected trouble."
-        },
-        {
-            "id": 1,
-            "model": "홍루",
-            "content": "Hmm… Would that mean this is a precious commotion?"
-        },
-        {
-            "id": 2,
-            "content": "Everyone except drowsy Hong Lu was tensed up, carefully observing what was going on…"
-        },
-        {
-            "id": 3,
-            "model": "단테",
-            "content": "<Hm? Is that…>"
-        },
-        {
-            "id": 4,
-            "content": "Someone was running our way in a hurry from the other side."
-        },
-        {
-            "id": 5,
-            "content": "The civilian was too hurried to look ahead; they bumped into the Sinners and fell to the ground."
-        },
-        {
-            "id": 6,
-            "model": "도망치던시민",
-            "teller": "Running Civilian",
-            "title": "Nest K",
-            "content": "Huff, huff… D-Don’t go that way!"
-        },
-        {
-            "id": 7,
-            "model": "돈키호테",
-            "content": "Come now, you may rest easy! We have galloped hither to save innocent lives such as yours for we are—"
-        },
-        {
-            "id": 8,
-            "model": "이스마엘",
-            "content": "We are no such things as heroes, so please don’t say anything unnecessary."
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "Oi, we need to cross here. If you’re here to stop us for nothing, then I’ll give you a taste of this bat."
-        },
-        {
-            "id": 10,
-            "content": "Looking at Heathcliff’s intimidating face and Ishmael’s frowned expression in turn, the civilian seemed to take a moment to consider which would be more of a threat."
-        },
-        {
-            "id": 11,
-            "model": "도망치던시민",
-            "teller": "Running Civilian",
-            "title": "Nest K",
-            "content": "There’s… something ahead… something that shouldn’t be real…"
-        },
-        {
-            "id": 12,
-            "model": "도망치던시민",
-            "teller": "Running Civilian",
-            "title": "Nest K",
-            "content": "I dunno what it was, I’ve never seen anything like it… Everyone was screaming and running, and then… people rolling on the floor… set on fire…"
-        },
-        {
-            "id": 13,
-            "model": "뫼르소",
-            "content": "Did the entity you witnessed have a form that does not resemble a human?"
-        },
-        {
-            "id": 14,
-            "model": "도망치던시민",
-            "teller": "Running Civilian",
-            "title": "Nest K",
-            "content": "…Yeah, you’re right. That’s right…!"
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "Then, if it isn’t a person…"
-        },
-        {
-            "id": 16,
-            "content": "Keeping the suspected possibilities in our minds, we headed for the center of the disturbance…"
-        },
-        {
-            "id": 17,
-            "place": "Nest K’s Ruined Streets",
-            "model": "싱클레어",
-            "content": "W—What’s going on here?"
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "It could, er… be a Distortion or whatever, no? Like that chicken place?"
-        },
-        {
-            "id": 19,
-            "model": "단테",
-            "content": "<No… That’s different… That one is an Abnormality, not a Distortion. I’m sure of this… somehow.>"
-        },
-        {
-            "id": 20,
-            "model": "파우스트",
-            "content": "As Dante suggested, that entity is likely to be an Abnormality. Our manager is able to “sense” it."
-        },
-        {
-            "id": 21,
-            "model": "단테",
-            "content": "<But then, why…>"
-        },
-        {
-            "id": 22,
-            "model": "단테",
-            "content": "<Why is an Abnormality in the middle of a Nest?>"
-        },
-        {
-            "id": 23,
-            "model": "파우스트",
-            "content": "It’s a phenomenon of which Faust has never been notified. Most Lobotomy Corp. facilities were shut down as soon as the Wing was dissolved."
-        },
-        {
-            "id": 24,
-            "content": "I was reminded of the site burial Yuri told us about, but I quickly shook off those gloomy memories."
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "Even if an Abnormality did break out in the meantime, there should have been a report informing us of such a fact before this mission."
-        },
-        {
-            "id": 26,
-            "model": "파우스트",
-            "content": "It’s hard to imagine that the LCC would have been unable to notice if such an event actually occurred."
-        },
-        {
-            "id": 27,
-            "model": "싱클레어",
-            "content": "…Could they be the security staff that gets sent by K Corp?"
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "Rather than suppressing the Abnormality… they’re just getting completely wrecked."
-        },
-        {
-            "id": 29,
-            "model": "그레고르",
-            "content": "Mmh… It sorta takes me back to the time when we got beat bad in D Corp’s District…"
-        },
-        {
-            "id": 30,
-            "model": "로쟈",
-            "content": "Aw, c’mon~ First, that chicken restaurant guy goes cuckoo, and now this? I’m really over this kinda Nest K welcome…"
-        },
-        {
-            "id": 31,
-            "content": "Right as they complained…"
-        },
-        {
-            "id": 32,
-            "model": "히스클리프",
-            "content": "Gah! Bloody…"
-        },
-        {
-            "id": 33,
-            "content": "Debris created by the rampaging Abnormality narrowly grazed past us."
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "Hah, the hell are you doing? Just watching from here won’t do any of us any good!"
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "…It’ll crush us all to a pulp."
-        },
-        {
-            "id": 36,
-            "model": "오티스",
-            "content": "……"
-        },
-        {
-            "id": 37,
-            "model": "오티스",
-            "content": "You’re gravely mistaken. Have that insane brat’s daily ramblings finally managed to brainwash you?"
-        },
-        {
-            "id": 38,
-            "model": "돈키호테",
-            "content": "Ho, hark? I prithee, who dost thou mean by this “insane brat”?"
-        },
-        {
-            "id": 39,
-            "model": "오티스",
-            "content": "The guide only instructed us to return once the commotion has been dealt with. He never ordered us to deal with it ourselves."
-        },
-        {
-            "id": 40,
-            "model": "히스클리프",
-            "content": "For goodness’ sake, what’s there to be so damn obtuse about?"
-        },
-        {
-            "id": 41,
-            "model": "히스클리프",
-            "content": "Didn’t you see what just happened? It almost blew my head off! Who knows what else will happen if it keeps up!"
-        },
-        {
-            "id": 42,
-            "model": "히스클리프",
-            "content": "This’ll be over if we just beat that damn thing down… What else do we got? Parking a seat to keep watching, gobbling some chicken? Huh?!"
-        },
-        {
-            "id": 43,
-            "model": "오티스",
-            "content": "There’s no need to waste our lives on fights unrelated to our missions."
-        },
-        {
-            "id": 44,
-            "model": "오티스",
-            "content": "I’m sure you filth didn’t even realize, but here’s the thing…"
-        },
-        {
-            "id": 45,
-            "model": "오티스",
-            "content": "The more you die, the less efficient you become in battle."
-        },
-        {
-            "id": 46,
-            "model": "오티스",
-            "content": "Experiencing a certain pain will make you learn to fear and avoid it."
-        },
-        {
-            "id": 47,
-            "model": "뫼르소",
-            "content": "……"
-        },
-        {
-            "id": 48,
-            "model": "싱클레어",
-            "content": "…People are dying over there as we speak, though?"
-        },
-        {
-            "id": 49,
-            "model": "오티스",
-            "content": "Although it will cost much time and many lives… they will eventually suppress it. Just as we do."
-        },
-        {
-            "id": 50,
-            "model": "오티스",
-            "content": "And I must say… I didn’t expect a whining amateur who’d cry out for his parents whenever he died to willingly suggest self-sacrifice."
-        },
-        {
-            "id": 51,
-            "model": "오티스",
-            "content": "Death has become a triviality to you, has it?"
-        },
-        {
-            "id": 52,
-            "model": "싱클레어",
-            "content": "……"
-        },
-        {
-            "id": 53,
-            "model": "뫼르소",
-            "content": "If we must make the best decision between the Sinners, it’s right to listen to her."
-        },
-        {
-            "id": 54,
-            "model": "단테",
-            "content": "<I…>"
-        },
-        {
-            "id": 55,
-            "content": "We’re not Fixers, and we certainly cannot be heroes."
-        },
-        {
-            "id": 56,
-            "content": "Turning the clock obviously hurts whenever I do it, and the pain is something I can never get used to."
-        },
-        {
-            "id": 57,
-            "content": "And yet…"
-        },
-        {
-            "id": 58,
-            "model": "단테",
-            "content": "<We should suppress it. I can’t logically explain why, but… I feel like we should.>"
-        },
-        {
-            "id": 59,
-            "model": "오티스",
-            "content": "……"
-        },
-        {
-            "id": 60,
-            "model": "히스클리프",
-            "content": "I’d have crushed that clock and run out there if you gabbled the same rubbish, clockface."
-        },
-        {
-            "id": 61,
-            "model": "뫼르소",
-            "content": "If that is your decision, I will abide by it."
-        },
-        {
-            "id": 62,
-            "model": "그레고르",
-            "content": "Yeah, aight… I’m sure you made the right call."
-        },
-        {
-            "id": 63,
-            "model": "싱클레어",
-            "content": "Hey, um… Thank you for making that decision."
-        },
-        {
-            "id": 64,
-            "model": "료슈",
-            "content": "You worry too much over little things, clock. You won’t be an artist."
-        },
-        {
-            "id": 65,
-            "model": "오티스",
-            "content": "…This judgement was made for none other than you, Executive Manager."
-        },
-        {
-            "id": 66,
-            "content": "The Sinners walk ahead after leaving me comments."
-        },
-        {
-            "id": 67,
-            "content": "While all the others moved forward, Faust remained and gave me a peculiar stare."
-        },
-        {
-            "id": 68,
-            "model": "단테",
-            "content": "<What is it? You think my judgement was inefficient?>"
-        },
-        {
-            "id": 69,
-            "model": "파우스트",
-            "content": "No, I just thought it would be interesting to see how you react once you’ve reclaimed your memory."
-        },
-        {
-            "id": 70,
-            "content": "Faust’s strange statement held me in place for a moment, but I decided I want to deal with the questions that are immediately ahead of me first."
-        },
-        {
-            "id": 71,
-            "model": "단테",
-            "content": "<Faust, I’ve been wondering for a while… Are you really okay with being treated like this, considering your talent and everything?>"
-        },
-        {
-            "id": 72,
-            "content": "Someone of her caliber should have no problem enjoying a luxurious life in the City."
-        },
-        {
-            "id": 73,
-            "model": "파우스트",
-            "content": "Faust doesn’t mind. Additionally, “talent” feels like the incorrect word to describe Faust."
-        },
-        {
-            "id": 74,
-            "model": "파우스트",
-            "content": "Many can possess talent, but Faust does not want to be included in the many."
-        },
-        {
-            "id": 75,
-            "model": "파우스트",
-            "content": "Among the Sinners, if we were looking for a talented individual of the most commonly agreed definition, that would be… Yi Sang. For your information, I am a genius."
-        },
-        {
-            "id": 76,
-            "content": "Yi Sang stops walking behind the other Sinners and turns around to face me."
-        },
-        {
-            "id": 77,
-            "content": "Looking again, his eyes actually stare into the emptiness behind me."
-        },
-        {
-            "id": 78,
-            "model": "이상",
-            "content": "…I am no such individual."
-        },
-        {
-            "id": 79,
-            "model": "이상",
-            "content": "I have long stopped fluttering my wings."
-        },
-        {
-            "id": 80,
-            "model": "이상",
-            "content": "Thus, it would be of no use to discuss my talent, Manager."
-        },
-        {
-            "id": 81,
-            "model": "단테",
-            "content": "<……>"
-        },
-        {
-            "id": 82,
-            "content": "Curiously enough, I find that some Sinners feel more distant as we spend more time together."
-        },
-        {
-            "id": 83,
-            "model": "료슈",
-            "content": "What’s that flying machine? It’s been irking me. Got the urge to S.I.D. for the three-thousandth time."
-        },
-        {
-            "id": 84,
-            "model": "이상",
-            "content": "That… is a device called a drone."
-        },
-        {
-            "id": 85,
-            "model": "이스마엘",
-            "content": "Oh, they might be combat drones K Corp. sent to help us. The Wing seems to be above average in terms of technology."
-        },
-        {
-            "id": 86,
-            "model": "파우스트",
-            "content": "No, viewing its design, it doesn’t appear to be equipped with combat functionalities. It also has a camera at the center."
-        },
-        {
-            "id": 87,
-            "model": "이스마엘",
-            "content": "Well… I guess it makes sense to get a close look at the mess happening in a well-off Nest."
-        },
-        {
-            "id": 88,
-            "content": "Abashed, Ishmael mumbled."
-        },
-        {
-            "id": 89,
-            "model": "돈키호테",
-            "content": "Ohh! Will we be featured on the thing called the “news”?"
-        },
-        {
-            "id": 90,
-            "model": "싱클레어",
-            "content": "Wait, something’s off… Why’re…"
-        },
-        {
-            "id": 91,
-            "model": "싱클레어",
-            "content": "Why are they only filming corpses and dying people?"
-        },
-        {
-            "id": 92,
-            "model": "그레고르",
-            "content": "Well, it’s the provocative stuff that draws more attention, doesn’t it?"
-        },
-        {
-            "id": 93,
-            "model": "로쟈",
-            "content": "“Look at this terrible incident! See how morbid it is!” or something like that."
-        },
-        {
-            "id": 94,
-            "model": "싱클레어",
-            "content": "But…"
-        },
-        {
-            "id": 95,
-            "model": "로쟈",
-            "content": "Hold up, kiddo! In front of you!"
-        },
-        {
-            "id": 96,
-            "model": "싱클레어",
-            "content": "Kngh… This is… definitely weird…"
-        },
-        {
-            "id": 97,
-            "model": "단테",
-            "content": "<Sinclair!>"
-        },
-        {
-            "id": 98,
-            "model": "싱클레어",
-            "content": "Look at this thing. Why does it have its camera glued to me…?"
-        },
-        {
-            "id": 99,
-            "model": "료슈",
-            "content": "…I don’t appreciate a soulless audience."
-        },
-        {
-            "id": 100,
-            "model": "뫼르소",
-            "content": "There is a considerable number of them. And these drones…"
-        },
-        {
-            "id": 101,
-            "model": "뫼르소",
-            "content": "They appear to be deliberately preventing us from entering the area where the Abnormality is."
-        },
-        {
-            "id": 102,
-            "model": "그레고르",
-            "content": "Can’t be. We’re here to help, so they’d have no reason to get in…"
-        },
-        {
-            "id": 103,
-            "model": "그레고르",
-            "content": "Our way… right…?"
-        },
-        {
-            "id": 104,
-            "content": "Now the drones have started lining up, and formed a wall as if to stop us from proceeding any farther."
-        },
-        {
-            "id": 105,
-            "model": "K사드론들",
-            "teller": "Mysterious Drone",
-            "title": "K Corp.",
-            "content": "Greetings, citizens. Please keep ten meters of distance for your own safety."
-        },
-        {
-            "id": 106,
-            "model": "K사드론들",
-            "teller": "Mysterious Drone",
-            "title": "K Corp.",
-            "content": "K Corp’s staff has been dispatched. Your safety is assured. Please keep ten meters of distance."
-        },
-        {
-            "id": 107,
-            "model": "히스클리프",
-            "content": "No, look, your staff is being slaughtered over there, can’t you see?"
-        },
-        {
-            "id": 108,
-            "model": "K사드론들",
-            "teller": "Mysterious Drone",
-            "title": "K Corp.",
-            "content": "Greetings, citizens, your safety is assured. Please keep ten meters of distance."
-        },
-        {
-            "id": 109,
-            "model": "이스마엘",
-            "content": "Hah, the instructions make no sense. What difference is ten meters going to make in this mess?"
-        },
-        {
-            "id": 110,
-            "model": "그레고르",
-            "content": "Tsk, not gonna do us any favors, huh…"
-        },
-        {
-            "id": 111,
-            "model": "그레고르",
-            "content": "Dunno if they’re malfunctioning or just badly designed, but we’ll have to get rid of all these before we can get to the Abnormality."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đường Phố Nest K",
+                "model":"파우스트",
+                "content":"Như mọi người đã thấy... ta đang ở trung tâm của một Nest. Nơi đáng ra phải an toàn khỏi những rắc rối không cần thiết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"홍루",
+                "content":"Hơ... Nói vậy nghĩa là, bạo loạn đằng kia là trường hợp hi hữu sao ạ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Tất cả mọi người, trừ Hong Lu vẫn đang ngái ngủ, đều rất căng thẳng và cẩn trọng trước sự kiện đang diễn ra...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"단테",
+                "content":"<Ơ? Đó có phải...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Có ai đó đang chạy về chỗ chúng tôi từ phía đối diện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Người dân thường đó quá vội vã để có thể nhìn kỹ phía trước, chân vấp vào nhóm Tội Nhân rồi ngã lăn xuống đất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"도망치던시민",
+                "content":"Hộc, hộc... Đ-Đừng đi hướng đó!",
+                "teller":"Thường Dân Đang Chạy",
+                "title":"Nest K"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nào nào, cô có thể yên tâm rồi! Đội ta đã phi nước đại đến đây để cứu những sinh mạng vô tội như cô vì chúng ta—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng ta không phải anh hùng cứu thế gì cả nên là làm ơn, đừng có làm chuyện thừa thãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Này, tụi tao cần băng qua đây. Nếu mày ngáng đường tụi tao không vì lý do gì, thì ăn gậy đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"Nhìn vào vẻ đe doạ của Heathcliff và biểu cảm nhăn nhó của Ishmael, người dân thường dường như phải mất một lúc để xem xét đâu mới thật sự là mối nguy hại lớn hơn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"도망치던시민",
+                "content":"Có thứ gì đấy... ở phía trước... thứ gì đấy không nên có thật...",
+                "teller":"Thường Dân Đang Chạy",
+                "title":"Nest K"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"도망치던시민",
+                "content":"Tôi không biết thứ đấy là gì, chưa bao giờ thấy cái gì như nó... Mọi người chạy la hét và chạy tán loạn, sau đấy... họ lăn lộn trên nền đất... bốc cháy...",
+                "teller":"Thường Dân Đang Chạy",
+                "title":"Nest K"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Liệu sinh vật cô vừa thấy có hình dạng không giống con người không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"도망치던시민",
+                "content":"...Ừ, anh nói đúng. Chính xác là vậy...!",
+                "teller":"Thường Dân Đang Chạy",
+                "title":"Nest K"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Rồi, nếu không phải là người thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Với nhiều suy đoán trong đầu, chúng tôi tiến đến trung tâm của vụ hỗn loạn...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":"Đường Phố Bị Phá Huỷ Nest K",
+                "model":"싱클레어",
+                "content":"Ch—Chuyện gì đang diễn ra ở đây vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Có phải là, ờm... Biến Dị hay gì đó không? Như hồi ở chỗ mấy con gà ấy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"단테",
+                "content":"<Không... Khác hoàn toàn... Thứ đó là một Dị Thể, không phải Biến Dị. Không biết tại sao nhưng... tôi biết chắc là thế..>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"파우스트",
+                "content":"Như ngài Dante nói, khả năng cao là một Dị Thể. Và Quản Lý của chúng ta có thể “cảm nhận” được nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"단테",
+                "content":"<Nhưng, tại sao...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테",
+                "content":"<Tại sao lại có một Dị Thể ở giữa Nest thế này?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đây là một hiện tượng mà Faust chưa từng được thông báo. Hầu hết các cơ sở của Tập Đoàn Lobotomy đều được đóng cửa ngay lập tức một khi Wing của nó giải thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":null,
+                "content":"Tôi được nhắc lại về vụ chôn vùi mà Yuri đã kể cho chúng tôi nghe, nhưng tôi nhanh chóng rũ bỏ những ký ức đau buồn ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cho dù một Dị Thể thật sự thoát ra trong lúc đó đi chăng nữa, đáng lẽ phải có báo cáo về việc này gửi đến chúng ta trước khi nhiệm vụ bắt đầu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"파우스트",
+                "content":"Thật khó để tưởng tượng rằng bên LCC đã bỏ sót nếu sự kiện như thế này xảy ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"싱클레어",
+                "content":"...Những người đó có phải là nhân viên bảo an được Tập Đoàn K phái đến không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thay vì áp chế Dị Thể... họ chỉ nằm như ngả rạ ra đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ừm... Khiến tôi nhớ lại cái lần ta bị hành cho ra bã ở Quận Tập Đoàn D...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chà, thôi nào~ Đầu tiên là ông chủ tiệm lên gáy cục tác, và giờ là cái này à? Không mong chờ gì thêm màn tiếp đón nồng nhiệt nào từ Nest K nữa nhá...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"Đúng lúc bọn họ đang phàn nàn thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Aaa! Chết tiệt...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"Những mảnh vỡ toà nhà do Dị Thể đang nổi điên ấy gây ra bắn sượt qua tất cả chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ha, tụi mày đang làm cái đéo gì vậy? Đứng đây mà nhìn chẳng có ích lợi gì đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"히스클리프",
+                "content":"...Nó sẽ nghiền chúng ta ra thành bã đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"오티스",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngươi lầm to rồi. Cuối cùng thì lời huyên thuyên mỗi ngày của con nhỏ tăng động kia đã tẩy được não ngươi rồi à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ủa? Làm ơn cho ta hỏi, cô đang ám chỉ ai khi nói cụm từ \"con nhỏ tăng động\" vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"오티스",
+                "content":"Tên hướng dẫn kia chỉ thị cho ta quay về sau khi cuộc bạo loạn đã được dập tắt. Chứ chưa bao giờ kêu ta phải tự mình giải quyết nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Khỉ gió, thế mà cũng cứng nhắc về chuyện này sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày không nhìn thấy chuyện gì đang diễn ra à? Nó xém nữa thổi tung cái đầu tao đấy! Ai mà biết còn chuyện gì nếu để nó nhông nhông!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cứ đập nó ra bã cho xong chuyện... Còn sự lựa chọn nào khác à? Kiếm chỗ êm ái ngồi chơi xơi gà? Hả?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"오티스",
+                "content":"Lãng phí mạng sống vào mấy cuộc chiến ngoài tới nhiệm vụ là hoàn toàn không cần thiết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"오티스",
+                "content":"Ta chắc rằng lũ rác rưởi các ngươi không nhận ra, nhưng sự thật là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"오티스",
+                "content":"Tụi bây chết càng nhiều thì tinh thần của tụi bây ngày càng bị suy sụp.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"오티스",
+                "content":"Bởi càng trải qua đau đớn, tụi bây sẽ hiểu được cái chết đáng sợ như nào và cố né tránh nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"뫼르소",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"싱클레어",
+                "content":"...Người ta đang chết như rạ đằng kia trong lúc mình đang nói chuyện, cô biết mà phải không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"오티스",
+                "content":"Dù cho có mất nhiều thời gian và vô số mạng sống... chúng cũng sẽ trấn áp được Dị Thể đấy thôi. Như cách chúng ta thường làm vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"오티스",
+                "content":"Và thật sự... ta không ngờ rằng một tên nít ranh mít ướt, kẻ sẽ khóc đòi ba mẹ mỗi khi đứng trước cửa tử lại là người đề xuất việc hy sinh bản thân.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"오티스",
+                "content":"Cái chết còn chẳng là thứ đáng quan ngại với ngươi nữa, phải không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"싱클레어",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Nếu ta phải chọn nghe theo Tội Nhân nào, nghe theo cô ấy là tốt nhất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi không phải Fixer, và chắc chắn cũng không thể trở thành anh hùng được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":null,
+                "content":"Quay ngược đồng hồ dĩ nhiên sẽ rất đau, và nỗi đau ấy là thứ gì đó tôi không bao giờ có thể quen được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "content":"Thế nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"단테",
+                "content":"<Chúng ta nên trấn áp nó. Tôi không thể giải thích một cách hợp lý được, nhưng... tôi có cảm giác là chúng ta nên làm thế.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"오티스",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao sẽ nghiền nát cái đồng hồ đó rồi lao ra nếu mày cứ sủa bậy đấy, mặt đồng hồ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Nếu quyết định của ngài là vậy thì tôi sẵn sàng tuân thủ theo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"그레고르",
+                "content":"Được rồi... Tôi tin là ngài đã đưa ra quyết định đúng đắn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Này, ừm... Cảm ơn ngài vì đã đưa ra quyết định như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"료슈",
+                "content":"Ngươi toàn lo những chuyện không đâu, đồng hồ. Không thể làm họa sĩ được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"오티스",
+                "content":"...Nếu ngài đã muốn thế thì tôi không còn cách nào khác ngoài tuân lệnh, thưa Quản Lý Điều Hành.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "content":"Các Tội Nhân đều tiến về phía trước sau khi để lại lời bình cho tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":null,
+                "content":"Trong khi tất cả mọi người đều di chuyển, Faust nán lại và nhìn tôi một cách đầy ẩn ý.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"단테",
+                "content":"<Chuyện gì thế? Cô nghĩ phán quyết của tôi là kém hiệu quả ư?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"파우스트",
+                "content":"Không, tôi chỉ nghĩ rằng khuôn mặt của ngài khi lấy lại được ký ức sẽ rất thú vị thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":null,
+                "content":"Câu nói lạ thường của Faust khiến tôi khựng lại trong giây lát, nhưng tôi quyết định rằng mình muốn tìm cách giải quyết vấn đề hiện hữu trước mắt đã.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"단테",
+                "content":"<Faust, tôi đã suy nghĩ về chuyện này được một thời gian rồi... Cô có thật sự ổn khi bị đối xử như thế này không, mặc cho tài năng kiệt xuất và mọi thứ của cô?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":null,
+                "content":"Một người tầm cỡ như cô ấy đáng ra phải đang tận hưởng cuộc sống thượng lưu trong The City chứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"파우스트",
+                "content":"Faust không hề bận tâm. Thật ra, “tài năng” không phải là từ miêu tả đúng con người Faust.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nhiều người sở hữu tài năng, nhưng Faust không muốn được gộp chung với họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"파우스트",
+                "content":"Trong số các Tội Nhân, nếu ta đang tìm một cá nhân đầy đủ các yếu tố được công nhận là tài năng, thì người đó phải là... Yi Sang. Để ngài biết thì tôi là một thiên tài.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"Yi Sang ngừng bước sau lưng các Tội Nhân khác và quay lại đối mặt với tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":null,
+                "content":"Nhìn kỹ lại, đôi mắt của anh ấy thật ra đang nhìn chăm chăm vào khoảng trống vô hình đằng sau tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이상",
+                "content":"...Tôi không phải người như thế đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi đã từ lâu thôi vỗ cánh rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"이상",
+                "content":"Vậy nên, đừng phí công bàn luận về tài năng của tôi làm gì, Quản Lý à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"단테",
+                "content":"<......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":null,
+                "content":"Nghĩ lại thì, một số Tội Nhân dần trở nên xa cách khi chúng tôi dành nhièu thời gian với nhau hơn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"료슈",
+                "content":"Cái đám bay bay kia là cái gì thế? Làm ta hơi nóng rồi đấy. Vớ vẩn bà mày C.H.I.T. ba ngàn phát bây giờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"이상",
+                "content":"Thiết bị đó... được gọi là drone.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ồ, có thể bọn nó là thiết bị không chiến từ xa mà Tập Đoàn K gửi tới để viện trợ. Công nghệ của Wing này có vẻ khá là tân tiến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"파우스트",
+                "content":"Không, xét qua thiết kế, nó không được gắn bất kỳ chức năng nào phục vụ việc chiến đấu. Và thứ đó cũng có một cái máy quay ở chính giữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế thì... Chắc là nó được dùng để theo dõi biến chuyển tình hình sự cố diễn ra trong Nest.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":null,
+                "content":"Cảm thấy rối bời, Ishmael lẩm bẩm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Oaa! Liệu chúng ta sẽ được xuất hiện trên cái thứ gọi là “tin tức” chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Khoan, có gì đó sai sai... Tại sao...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tại sao chúng chỉ quay hình những người đã chết hay đang hấp hối vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chà, những thứ gây kích động thường sẽ gây nhiều sự chú ý hơn mà, phải không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"로쟈",
+                "content":"“Hãy xem tai nạn thảm khốc này đi! Thật tồi tệ làm sao!” hay kiểu vậy ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nhưng mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"로쟈",
+                "content":"Từ từ đã nhóc! Nhìn đằng trước kìa!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ựa... Chắc chắn là... có gì đó sai sai...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"단테",
+                "content":"<Sinclair!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nhìn thứ này xem. Sao nó cứ dán camera vào mặt tôi hoài vậy...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"료슈",
+                "content":"...Ta không thích tên khán giả vô hồn này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Số lượng quân địch có vẻ đông. Và những con drone này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Xem ra chúng đang cố gắng cản ta vào khu vực có Dị Thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"그레고르",
+                "content":"Làm gì có. Ta tới đây để giúp đỡ mà, làm gì có chuyện chúng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chặn đường ta... nhỉ...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":null,
+                "content":"Giờ thì những con drone đã bắt đầu dàn thành hàng, lập nên một bức tường như thể ngăn không cho chúng tôi tiến vào sâu hơn nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"K사드론들",
+                "content":"Kính chào cư dân Tập Đoàn K. Xin hãy cách xa mười mét nhằm đảm bảo an toàn cho bạn.",
+                "teller":"Con Drone Bí Ẩn",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"K사드론들",
+                "content":"Nhân viên Tập Đoàn K đã được điều động. Sự an toàn của bạn đã được bảo đảm. Xin hãy giữ khoảng cách mười mét.",
+                "teller":"Con Drone Bí Ẩn",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Không, nhìn này, lính của mày đang bị tàn sát nơi đây này, không nhìn thấy sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"K사드론들",
+                "content":"Sự an toàn của bạn đã được bảo đảm. Xin hãy giữ khoảng cách mười mét.",
+                "teller":"Con Drone Bí Ẩn",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hàa, chỉ dẫn chẳng có nghĩa lý gì. Tránh xa mười mét trong mớ hỗn độn này thì có gì khác biệt à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chậc, không định để cho người ta yên à...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chả biết là do chúng đang trục trặc hay là do lỗi thiết kế nữa, nhưng mà nếu muốn tới được chỗ con Dị Thể kia thì ta phải dọn sạch đống này đấy.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

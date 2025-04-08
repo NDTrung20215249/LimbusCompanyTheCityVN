@@ -1,659 +1,804 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Ahab's Office",
-            "model": "로쟈",
-            "content": "Um... So what's that on the board over there?"
-        },
-        {
-            "id": 1,
-            "model": "스타벅",
-            "content": "The number of gold coins assigned to... each crewman and woman."
-        },
-        {
-            "id": 2,
-            "model": "스타벅",
-            "content": "We can collect 'em by fish...ing up useful stuff or by hunting Mermaids."
-        },
-        {
-            "id": 3,
-            "model": "그레고르",
-            "content": "Hm... And who's the one paying you?"
-        },
-        {
-            "id": 4,
-            "model": "스타벅",
-            "content": "The Captain, ob...viously?"
-        },
-        {
-            "id": 5,
-            "model": "오티스",
-            "content": "Are you saying that there is economic activity within the Whale's stomach?"
-        },
-        {
-            "id": 6,
-            "model": "오티스",
-            "content": "What need of gold coins could you have in here? Let alone the means of procuring them?"
-        },
-        {
-            "id": 7,
-            "model": "스타벅",
-            "content": "Told ya. We'll be outta here in just... a little bit."
-        },
-        {
-            "id": 8,
-            "model": "스타벅",
-            "content": "And once we're off this Whale, I'll get pa...id 63 gold coins."
-        },
-        {
-            "id": 9,
-            "model": "스타벅",
-            "content": "With that much dough... I just might be able to snag myself a half...way decent ship. Unless the inflation's gone... nuts, that is."
-        },
-        {
-            "id": 10,
-            "model": "스타벅",
-            "content": "Oh, by the way, ever be...en to the Marlin portship lately? Any chance you saw the sting...ray flattop grill place? I wonder if it's still... open."
-        },
-        {
-            "id": 11,
-            "model": "로쟈",
-            "content": "Ohh... That sounds delish! Where is it?"
-        },
-        {
-            "id": 12,
-            "content": "Looks like Ahab's giving out gold coins to her crew for their labor."
-        },
-        {
-            "id": 13,
-            "content": "The promise of a reward for services rendered... I'm sure that's a strong motivator."
-        },
-        {
-            "id": 14,
-            "model": "스타벅",
-            "content": "Hey, Ishmael. You really caught me off... guard earlier."
-        },
-        {
-            "id": 15,
-            "model": "스타벅",
-            "content": "Seriously, I didn't... think I'd find... you here, of all places."
-        },
-        {
-            "id": 16,
-            "model": "스타벅",
-            "content": "When we're outta here, we should go cr...ash at a bar and drink rum straight from a bar...rel! We'll make it a competition, just like the good ol...d days!"
-        },
-        {
-            "id": 17,
-            "model": "스타벅",
-            "content": "Right, so did you get a chance to say hello to every...one? A little chat?"
-        },
-        {
-            "id": 18,
-            "model": "스타벅",
-            "content": "And oh m...an, you sure did grow your ha...ir out! Whatever happened to 'long hair is annoying'?"
-        },
-        {
-            "id": 19,
-            "model": "이스마엘",
-            "content": "... That's a lot of questions at once."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "I don't think any of them want to chat with me. I can tell from the looks they're giving me..."
-        },
-        {
-            "id": 21,
-            "model": "스타벅",
-            "content": "Sometimes, peo...ple from other... ships would join us in the village..."
-        },
-        {
-            "id": 22,
-            "model": "스타벅",
-            "content": "... But none of 'em lasted more than a d...ay. We're the only ones who's made it this long."
-        },
-        {
-            "id": 23,
-            "model": "스타벅",
-            "content": "And it's all thanks to a solu...tion our Captain ca...me up with."
-        },
-        {
-            "id": 24,
-            "model": "오티스",
-            "content": "... A solution?"
-        },
-        {
-            "id": 25,
-            "model": "스타벅",
-            "content": "A way to stop our bodies and minds from turning pal...lid."
-        },
-        {
-            "id": 26,
-            "model": "단테",
-            "content": "<What is it?>"
-        },
-        {
-            "id": 27,
-            "model": "스타벅",
-            "content": "As you can see... with...out our Captain, we would've long been turn...ed into Mermaids. Without the Captain, this village wouldn't exist."
-        },
-        {
-            "id": 28,
-            "model": "스타벅",
-            "content": "So anyone that dares to anta...gonize the Captain... is our... enemy."
-        },
-        {
-            "id": 29,
-            "model": "스타벅",
-            "content": "Because to stand against the Cap...tain is to stand against our very survival."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "You've changed, Starbuck."
-        },
-        {
-            "id": 31,
-            "model": "이스마엘",
-            "content": "I remember you butting heads with the Captain all the time."
-        },
-        {
-            "id": 32,
-            "model": "스타벅",
-            "content": "... Did I?"
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "... Don't forget who trapped all of you here in the first place. Led us to our deaths."
-        },
-        {
-            "id": 34,
-            "content": "Ishmael coldly walks past Starbuck before entering the office."
-        },
-        {
-            "id": 35,
-            "model": "단테",
-            "content": "<I thought he was an old mate of yours?>"
-        },
-        {
-            "id": 36,
-            "model": "이스마엘",
-            "content": "Starbuck... first mate of the Pequod."
-        },
-        {
-            "id": 37,
-            "model": "이스마엘",
-            "content": "He wanted to be a good person to everyone. And he was the closest of the crew to the Captain's ear."
-        },
-        {
-            "id": 38,
-            "model": "이스마엘",
-            "content": "Which meant that they also squabbled pretty often, but... it didn't matter in the end."
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "Ahab was equally indifferent to everyone anyway."
-        },
-        {
-            "id": 40,
-            "model": "에이해브",
-            "content": "Please, excuse the state of my office."
-        },
-        {
-            "id": 41,
-            "model": "에이해브",
-            "content": "A bottle of rum and this would have gone down much smoother. Yet, after all the time we've spent stuck in here... I've not seen a single bottle of it float its way in."
-        },
-        {
-            "id": 42,
-            "model": "오티스",
-            "content": "Executive Manager, allow me to take charge of this negotiation."
-        },
-        {
-            "id": 43,
-            "model": "오티스",
-            "content": "Ishmael... cannot be trusted to make a rational decision. And you, Executive Manager, cannot properly communicate with this woman. She will only hear your ticking sounds."
-        },
-        {
-            "id": 44,
-            "model": "단테",
-            "content": "<Sure...>"
-        },
-        {
-            "id": 45,
-            "model": "오티스",
-            "content": "Captain Ahab, is it? We..."
-        },
-        {
-            "id": 46,
-            "model": "에이해브",
-            "content": "Allow me to hazard a guess. You rowed in here, voluntarily, in search of something that the Pallid Whale devoured."
-        },
-        {
-            "id": 47,
-            "model": "에이해브",
-            "content": "This means that you and your present company have also found a way to keep yourselves from turning into Mermaids."
-        },
-        {
-            "id": 48,
-            "model": "오티스",
-            "content": "... Well, I don't suppose there's any point hiding it when we've already come this far."
-        },
-        {
-            "id": 49,
-            "model": "돈키호테",
-            "content": "We are in search... of a certain object. Its appearance is as thus..."
-        },
-        {
-            "id": 50,
-            "content": "Don Quixote started explaining, looking around excitedly as though she expected the Captain to suddenly produce the Golden Bough from her pockets."
-        },
-        {
-            "id": 51,
-            "model": "그레고르",
-            "content": "Wait, are we really going to just tell her everything? Why don't we talk about this between us first, and—"
-        },
-        {
-            "id": 52,
-            "model": "에이해브",
-            "content": "I know what you seek. A golden stick of sorts, I presume."
-        },
-        {
-            "id": 53,
-            "model": "에이해브",
-            "content": "Am I wrong?"
-        },
-        {
-            "id": 54,
-            "model": "그레고르",
-            "content": "Wh-what?"
-        },
-        {
-            "id": 55,
-            "content": "We couldn't even deny her accusations thanks to Gregor's extremely telling reaction."
-        },
-        {
-            "id": 56,
-            "model": "에이해브",
-            "content": "I know where to find it."
-        },
-        {
-            "id": 57,
-            "model": "에이해브",
-            "content": "I can even bring you to it."
-        },
-        {
-            "id": 58,
-            "model": "오티스",
-            "content": "Hmph, how do we know that you aren't bluffing?"
-        },
-        {
-            "id": 59,
-            "model": "싱클레어",
-            "content": "Yeah. W-what if you just overheard while we were talking...?"
-        },
-        {
-            "id": 60,
-            "model": "에이해브",
-            "content": "I shall prove it to you, then. From that branch emanates a very far-reaching golden light. Its glow is warm and bright, yet not bright enough to be blinding."
-        },
-        {
-            "id": 61,
-            "model": "파우스트",
-            "content": "... It appears that she at least knows of a Golden Bough."
-        },
-        {
-            "id": 62,
-            "model": "파우스트",
-            "content": "What she has just told us is more than what an unrelated individual should be able to know."
-        },
-        {
-            "id": 63,
-            "model": "오티스",
-            "content": "Hm... Still, I don't believe she's really about to tell us where the Bough is."
-        },
-        {
-            "id": 64,
-            "model": "에이해브",
-            "content": "You presume that I would not part with this information? I have nothing to hide!"
-        },
-        {
-            "id": 65,
-            "content": "Ahab slammed the desk and leaned aggressively toward us."
-        },
-        {
-            "id": 66,
-            "content": "She wore a knowing grin, as though she knew exactly what we wanted and what we were about to say to get it."
-        },
-        {
-            "id": 67,
-            "model": "에이해브",
-            "content": "Let us speak plainly here. I have naught to hide from you. In fact, I daresay that it is you who are withholding things from me."
-        },
-        {
-            "id": 68,
-            "model": "에이해브",
-            "content": "You called that stick the 'Golden Bough' did you? Well, then. That 'Golden Bough' is at the dead center of this accursed whale."
-        },
-        {
-            "id": 69,
-            "model": "홍루",
-            "content": "At the dead center..."
-        },
-        {
-            "id": 70,
-            "model": "에이해브",
-            "content": "The epicenter of this deep, resonant thumping. The spring of life that fuels this beast."
-        },
-        {
-            "id": 71,
-            "model": "에이해브",
-            "content": "The heart. The heart that seeps with all that is evil in the world."
-        },
-        {
-            "id": 72,
-            "model": "단테",
-            "content": "<…!>"
-        },
-        {
-            "id": 73,
-            "model": "에이해브",
-            "content": "But... You are in luck."
-        },
-        {
-            "id": 74,
-            "model": "에이해브",
-            "content": "It just so happens to be that the Pequod has set course for that very same destination. And we plan to set sail in the very near future."
-        },
-        {
-            "id": 75,
-            "model": "에이해브",
-            "content": "Because the only way out of the Whale is by destroying its heart."
-        },
-        {
-            "id": 76,
-            "model": "홍루",
-            "content": "That's interesting. I wonder if this is just a coincidence?"
-        },
-        {
-            "id": 77,
-            "model": "싱클레어",
-            "content": "What's so interesting about it?"
-        },
-        {
-            "id": 78,
-            "model": "홍루",
-            "content": "Isn't it interesting that, after all those years they spent preparing for their journey to the heart, we just happened to arrive as they were about to set sail~?"
-        },
-        {
-            "id": 79,
-            "model": "에이해브",
-            "content": "I have naught else to say but merely refer to the nature of fate. The threads of fate itself is weaved so that I, Ahab, shall be the one to pierce the heart of the Pallid Whale."
-        },
-        {
-            "id": 80,
-            "model": "에이해브",
-            "content": "I have set more sails in the belly of this beast than the number of your gritted teeth combined. I have been to every nook and cranny of this place, all of which I clearly recall."
-        },
-        {
-            "id": 81,
-            "model": "에이해브",
-            "content": "There is no method upon this earth that I have not attempted to pierce this beast's hide."
-        },
-        {
-            "id": 82,
-            "model": "에이해브",
-            "content": "So allow me to preclude a few options for you. This beast's hide is as thick and impenetrable as R Corp.'s fortress. All the weapons in the world will not be able to pierce it."
-        },
-        {
-            "id": 83,
-            "model": "퀴케그",
-            "content": "Tried to stab it. With my Harpoon."
-        },
-        {
-            "id": 84,
-            "model": "퀴케그",
-            "content": "Wound it, yes. Puncture a hole, no."
-        },
-        {
-            "id": 85,
-            "model": "에이해브",
-            "content": "Well, If you find my words so difficult to believe, then feel free to give it a try with your own weapons."
-        },
-        {
-            "id": 86,
-            "model": "돈키호테",
-            "content": "Mine attempts hardly left a mark..."
-        },
-        {
-            "id": 87,
-            "model": "로쟈",
-            "content": "If she's right, then... It won't matter what the Indigo Elder does, and it won't matter what LCA does..."
-        },
-        {
-            "id": 88,
-            "model": "로쟈",
-            "content": "It won't matter how hard they'll try, they can't get us out of here..."
-        },
-        {
-            "id": 89,
-            "model": "에이해브",
-            "content": "I... we know better than anyone."
-        },
-        {
-            "id": 90,
-            "model": "에이해브",
-            "content": "The crushing pain of surviving at a place such as this with no hope of rescue. No sane mind survives such torment for long."
-        },
-        {
-            "id": 91,
-            "model": "에이해브",
-            "content": "Behold my pitiful crew! They hold on, tooth and nail, to their sense of self as the pallid membrane tries to devour them whole!"
-        },
-        {
-            "id": 92,
-            "model": "퀴케그",
-            "content": "Nothing here. Nothing. None."
-        },
-        {
-            "id": 93,
-            "model": "에이해브",
-            "content": "We can do naught here but scavenge the flotsam that washes up to its stomach. Mermaid corpses Queequeg brings back from her hunts are our only source of subsistence."
-        },
-        {
-            "id": 94,
-            "model": "퀴케그",
-            "content": "Fins. Soft."
-        },
-        {
-            "id": 95,
-            "model": "로쟈",
-            "content": "... How the heck did you guys even survive here...?"
-        },
-        {
-            "id": 96,
-            "model": "스타벅",
-            "content": "Faith. The faith that, as long as we foll...ow our Captain, she'll eventually lead us... out of here."
-        },
-        {
-            "id": 97,
-            "model": "스타벅",
-            "content": "That's the hope we hold onto."
-        },
-        {
-            "id": 98,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 99,
-            "model": "에이해브",
-            "content": "Now, give my offer a listen."
-        },
-        {
-            "id": 100,
-            "model": "에이해브",
-            "content": "I, Captain Ahab of the Pequod, the leader of the Pequod Town, have a responsibility to bring every single one of my crew home. Thus I make this offer to you."
-        },
-        {
-            "id": 101,
-            "model": "에이해브",
-            "content": "I will destroy this bastard's heart. For long have I prepared; now, all that remains to be done is to set the plan in motion."
-        },
-        {
-            "id": 102,
-            "model": "에이해브",
-            "content": "Our goals are the same, yet we each seek different treasures."
-        },
-        {
-            "id": 103,
-            "model": "에이해브",
-            "content": "Assist me in my plan. We will hunt this Whale and escape, and the Golden Bough shall be yours."
-        },
-        {
-            "id": 104,
-            "model": "오티스",
-            "content": "... We must discuss this amongst ourselves first."
-        },
-        {
-            "id": 105,
-            "model": "에이해브",
-            "content": "Take as much time as you want."
-        },
-        {
-            "id": 106,
-            "content": "Ahab nodded with a generous smile. We huddled in one corner of her office to discuss this."
-        },
-        {
-            "id": 107,
-            "model": "뫼르소",
-            "content": "The boat that carried us here is beyond salvaging."
-        },
-        {
-            "id": 108,
-            "model": "뫼르소",
-            "content": "Thus, it follows that we require a new boat for us to escape the Whale."
-        },
-        {
-            "id": 109,
-            "model": "뫼르소",
-            "content": "Moreover, moving across the bodily fluids of this Whale is necessary if we are to conduct an investigation of its interiors. For that, we require a new boat."
-        },
-        {
-            "id": 110,
-            "model": "오티스",
-            "content": "Hmph, then commandeering their vessel is also one of our options—"
-        },
-        {
-            "id": 111,
-            "model": "싱클레어",
-            "content": "Guys, they can hear us! Pipe down!"
-        },
-        {
-            "id": 112,
-            "model": "퀴케그",
-            "content": "Our ship. Hard to sail. Complex."
-        },
-        {
-            "id": 113,
-            "model": "퀴케그",
-            "content": "Only Pequod crew can handle Pequod boats."
-        },
-        {
-            "id": 114,
-            "model": "싱클레어",
-            "content": "What'd I say...?"
-        },
-        {
-            "id": 115,
-            "model": "오티스",
-            "content": "... How much time would it take if we were to build a boat from scratch?"
-        },
-        {
-            "id": 116,
-            "model": "파우스트",
-            "content": "Considering that we possess no necessary materials, considering that we must reinforce it to be resistant to the Whale's acid... The estimated time of completion is..."
-        },
-        {
-            "id": 117,
-            "model": "단테",
-            "content": "<No, no. Let's... not even think about that.>"
-        },
-        {
-            "id": 118,
-            "model": "파우스트",
-            "content": "Let's not."
-        },
-        {
-            "id": 119,
-            "model": "이스마엘",
-            "content": "Ha, so that's your offer? I could smell your bullshit coming from a mile away."
-        },
-        {
-            "id": 120,
-            "model": "이스마엘",
-            "content": "She's not changed one bit. Driving people to their deaths with bullshit that, at a glance, seems plausible."
-        },
-        {
-            "id": 121,
-            "model": "이스마엘",
-            "content": "... Nothing's changed."
-        },
-        {
-            "id": 122,
-            "model": "싱클레어",
-            "content": "Yeah... there's something off about her. Maybe we should just do this ourselves..."
-        },
-        {
-            "id": 123,
-            "model": "히스클리프",
-            "content": "Right. Never trust something that requires too much explainin'."
-        },
-        {
-            "id": 124,
-            "model": "홍루",
-            "content": "I think they've spent a long time building a plan to destroy the heart and escape this place... Can we really do it on our own, from scratch?"
-        },
-        {
-            "id": 125,
-            "model": "홍루",
-            "content": "I... also don't know how long we could hold out in here."
-        },
-        {
-            "id": 126,
-            "model": "로쟈",
-            "content": "Yeah... That Captain probably knows this place better than anyone..."
-        },
-        {
-            "id": 127,
-            "model": "그레고르",
-            "content": "So our other options are... either turn into Mermaids and kill each other, or remain trapped in here forever. Are they really the only alternatives we've got?"
-        },
-        {
-            "id": 128,
-            "model": "돈키호테",
-            "content": "The Red Gaze shall not abandon us...! Bwaah hah haaah..."
-        },
-        {
-            "id": 129,
-            "model": "료슈",
-            "content": "We're having trouble coming to an agreement. I will mediate. Let's battle to the last person standing, and have them decide."
-        },
-        {
-            "id": 130,
-            "content": "The Sinners were all expressing their opinions... which were all very diametrically opposed to one another with little hope of meeting somewhere in the middle."
-        },
-        {
-            "id": 131,
-            "content": "And I..."
-        },
-        {
-            "id": 132,
-            "content": "... was unnerved by how easily Ahab managed to see right through us."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Văn Phòng của Ahab",
+                "model":"로쟈",
+                "content":"Ừm... Thế cái bảng kia để làm gì thế?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"스타벅",
+                "content":"Đấy là số đồng vàng được... ban phát cho từng thủy thủ."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"스타벅",
+                "content":"Cô có thể nhận đư...ợc bằng cách thu hồi những thứ có ích hoặc săn Người Cá."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hửm... Thế ai là người trả lương cho mấy ông thế?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"스타벅",
+                "content":"Dĩ nh...iên, là Thuyền Trưởng rồi?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngươi nói trong bụng Cá Voi tồn tại hoạt động kinh tế?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngươi dùng vàng làm gì? Chưa kể tới việc ngươi kiếm chúng như nào?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"스타벅",
+                "content":"Tôi bảo rồi. Chúng ta sẽ rời khỏi đây... trong chốc lát thôi."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"스타벅",
+                "content":"Và tôi có thể nh...ận được 63 đồng vàng."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"스타벅",
+                "content":"Với chừng ấy... tôi có thể vào the City và mua cho mình một con tàu hẳn hoi. Trừ khi... lạm phát tăng vọt."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"스타벅",
+                "content":"Mà này, các cô c...ậu có ghé qua cảng Marlin chưa? Không biết nhà hàng nướng cá... đuối ở đấy còn mở không."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ồ!... Nghe ngon đấy! Ở đâu thế?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Có vẻ như Ahab phân phát các đồng vàng cho đoàn của bà ấy cho sức lao động của bọn họ."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Lời hứa về phần thưởng khi đã thực hiện xong nhiệm vụ... Tôi chắc đó là một động lực mạnh mẽ."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"스타벅",
+                "content":"Này, Ishmael. Lúc nãy, cô khiến ta trở tay... không kịp đấy."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"스타벅",
+                "content":"Nói thật, ta không... nghĩ sẽ gặp cô... ở đây."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"스타벅",
+                "content":"Khi thoát khỏi đây, chúng ta nên v...ào quán rượu và uống thẳng từ thù...ng! Hãy tổ chức cuộc thi như trước ki...a đi!"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"스타벅",
+                "content":"Và cô đã chào hỏi mọ...i người chưa đấy?"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"스타벅",
+                "content":"Trời đấ...t, tóc cô dài thật! Cô từng bảo 'tóc dài khó chịu lắm' kia mà?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Hỏi dồn dập quá đó."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Có lẽ chẳng ai muốn hàn huyên với tôi đâu. Nhìn ánh mắt họ là hiểu mà..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"스타벅",
+                "content":"Đôi khi cũng có những người từ tà...u khác gia nhập ngôi làng..."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"스타벅",
+                "content":"...Nhưng chẳng ai trụ hơn m...ột ngày. Chúng ta là những người chịu đựng được."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"스타벅",
+                "content":"Tất cả đều nhờ vào một gi...ải pháp mà Thuyền trưởng chúng ta ng...hĩ ra."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"오티스",
+                "content":"... Một giải pháp?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"스타벅",
+                "content":"Cách để ngăn cơ thể và tâm trí của mọi người bị Tr...áng Hóa."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"단테",
+                "content":"<Nó là gì thế?>"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"스타벅",
+                "content":"Cậu thấy... đấy, nếu kh...ông có Thuyền trưởng của chúng ta thì ngôi làng này đã không tồ...n tại và tất cả đã bi...ến thành Người Cá hết rồi."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"스타벅",
+                "content":"Nên ai dám chống đ...ối Thuyền trưởng đều... là kẻ...thù."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"스타벅",
+                "content":"Bởi vì chống đối Thuyền tr...ưởng là chống lại sự sống còn của chúng ta."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Starbuck, anh thay đổi rồi."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi nhớ anh là người lúc nào cũng cãi tay đôi với Thuyền Trưởng kia mà."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"스타벅",
+                "content":"...Đã từng như vậy sao?"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...Đừng quên ngay từ đầu ai là người đã khiến các anh mắc kẹt ở đây chờ chết chứ."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Ishmael lạnh lùng bước qua người Starbuck trước khi tiến vào văn phòng."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi tưởng anh ấy là một người bạn cũ của cô chứ?>"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Starbuck... Thuyền phó của tàu Pequod."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Anh ấy muốn trở thành một tấm gương tốt cho tất cả mọi người. Và cũng là người thân cận với Thuyền Trưởng nhất."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thành ra hai người lúc nào cũng lời qua tiếng lại... nhưng rốt cục cũng chẳng quan trọng."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ahab đối xử với ai cũng như ai cả thôi, dù có là thuyền phó đi nữa."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"에이해브",
+                "content":"Thứ lỗi cho sự bừa bộn trong văn phòng của ta."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"에이해브",
+                "content":"Một chai rượu rum thôi và chuyện này sẽ êm xuôi hơn rất nhiều. Thế nhưng, suốt bao năm mắc kẹt trong này...ta chưa từng nhìn thấy bất kỳ một chai nào trôi dạt vô đây cả."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"오티스",
+                "content":"Thưa Quản Lý Điều Hành, hãy để tôi lo cuộc đàm phán này."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"오티스",
+                "content":"Ishmael... không thể tin con nhóc đấy có thể đưa ra quyết định hợp lí. Còn ngài, Quản Lý Điều Hành, không thể giao tiếp với ả đàn bà kia. Ả chỉ nghe thấy toàn tiếng tích tắc của ngài."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테",
+                "content":"<Chắc rồi...>"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"오티스",
+                "content":"Thuyền Trưởng Ahab, phải không? Chúng ta..."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"에이해브",
+                "content":"Cho phép ta được đoán. Các người chèo thuyền vào đây, một cách tự nguyện, tìm kiếm thứ gì đó mà Cá Voi Trắng nuốt chửng."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"에이해브",
+                "content":"Đồng nghĩa với việc rằng ngươi và những người đồng hành đây cũng đã tìm được cách giữ cho bản thân không bị biến thành Người Cá."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"오티스",
+                "content":"... Chà, ta không nghĩ cần phải giấu việc đó chi bởi tụi ta đã tới xa như này rồi."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Bọn ta đang tìm kiếm... một vật cụ thể. Hình dạng thứ đó tựa như..."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote bắt đầu giải thích mọi thứ, rồi nhìn mọi thứ xung quanh một cách hào hứng như thể cô ấy mong đợi Thuyền Trưởng sẽ bỗng nhiên lấy Cành Vàng từ túi của bà ta ra."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"그레고르",
+                "content":"Từ từ đã, ta thật sự kể cho bà ta mọi chuyện à? Sao ta không bàn bạc với nhau trước đã, xong rồi hẵng—"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta hiểu rõ các ngươi muốn gì. Một cái nhành vàng kim gì đó."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta nói có đúng không?"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"그레고르",
+                "content":"Gì-gì cơ?"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi thậm chí không thể từ chối lời cáo buộc của bà ta nhờ vào phản ứng cực kỳ dễ đoán của Gregor."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta biết phải tìm nó ở đâu."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta thậm chí có thể dẫn các ngươi đến đó."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"오티스",
+                "content":"Hừm, sao tụi ta biết ngươi không hề nói dóc?"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Đúng rồi. L-Lỡ như các người nghe trộm được lúc chúng tôi nói chuyện thì sao...?"
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"에이해브",
+                "content":"Vậy thì ta sẽ chứng minh cho các ngươi thấy. Từ nhành cây đó toả ra một ánh sáng màu vàng kim không thể chạm đến. Ánh sáng của nó rất ấm áp và chói loá, nhưng cũng không đến mức gây mù mắt."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Có vẻ bà ta biết về Cành Vàng."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"파우스트",
+                "content":"Thứ bà ta vừa kể nằm ngoài phạm vi một cá nhân không liên quan không được phép biết."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"오티스",
+                "content":"Hừm... Tôi vẫn không tin ả ta sẽ nói chúng ta biết Cành ở đâu."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"에이해브",
+                "content":"Các ngươi cho rằng ta sẽ không chia sẻ thông tin đó chứ gì? Ta chẳng có gì để giấu cả!"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Ahab đập bàn và nghiêng người về phía chúng tôi một cách đầy kích động."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "content":"Bà ta nở một nụ cười toe toét, như thể bà ta biết chính xác thứ chúng tôi muốn là gì và điều mà chúng tôi sắp sửa nói để lấy được nó."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"에이해브",
+                "content":"Chúng ta hãy sòng phẳng tại đây. Ta không có gì để giấu các ngươi hết. Nói trắng ra, ta dám cá rằng chính các ngươi mới là kẻ giấu diếm điều gì đó không muốn cho ta biết."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"에이해브",
+                "content":"Các ngươi gọi cái nhành đó là ‘Cành Vàng’ đúng không? Thế thì. Cái ‘Cành Vàng’ đó nằm ngay trung tâm của con cá voi đáng nguyền rủa này."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"홍루",
+                "content":"Ở ngay trung tâm..."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"에이해브",
+                "content":"Tâm chấn của tiếng đập dội vang sâu thẳm này. Nguồn gốc sự sống nuôi dưỡng con quái thú này."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"에이해브",
+                "content":"Trái tim. Trái tim thấm nhuần mọi điều ác của thế giới này."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"단테",
+                "content":"<...!>"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"에이해브",
+                "content":"Nhưng... Các người may mắn đấy."
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"에이해브",
+                "content":"Cũng cùng lúc Tàu Pequod chuẩn bị tiến thẳng tới đích đến ấy. Và bọn ta định sẽ khởi hành trong tương lai rất gần."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"에이해브",
+                "content":"Vì cách duy nhất thoát khỏi con Cá Voi là tiêu diệt tim của nó."
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"홍루",
+                "content":"Kỳ lạ thật đó. Liệu có phải chỉ là tình cờ thôi không ạ?"
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nó kỳ lạ ở chỗ nào thế?"
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"홍루",
+                "content":"Ở chỗ là, họ đã chuẩn bị lâu thật lâu cho chuyến đi đến trái tim Cá Voi, nhưng ngay lúc họ sắp sửa giương buồm thì chúng ta lại đến ấy~"
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta không còn gì để nói ngoài việc đề cập đến bản chất của số phận thôi. Sợi chỉ định mệnh đã thêu dệt rằng ta, Ahab, sẽ là người đâm xuyên trái tim của Cá Voi Trắng."
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta đã khởi hành trong bụng con quái thú này nhiều hơn tổng số lần các ngươi nghiến răng nữa. Ta đã đi khắp mọi ngóc ngách nẽo kẹt của cái nơi này, tất cả mọi chỗ ta đều có thể nhớ rõ hết."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"에이해브",
+                "content":"Chưa có cách nào mà ta chưa từng thử để đâm xuyên da thịt của con quái thú này cả."
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"에이해브",
+                "content":"Nên cho phép ta loại trừ đi một số lựa chọn cho các ngươi. Da thịt của con quái thú này cực kỳ dày và không thể xuyên phá như pháo đài của Tập Đoàn R vậy. Mọi vũ khí trên thế giới này đều không thể xuyên thủng nó được."
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Đã đâm thử. Với Lao của tôi."
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Có, làm đau nó. Không, làm thủng lỗ."
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"에이해브",
+                "content":"Chà, nếu các ngươi cảm thấy lời nói của ta quá khó tin, thì cứ nghiễm nhiên sử dụng vũ khí của các ngươi để kiểm chứng đi."
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nỗ lực của ta đây chẳng hề để lại bất kỳ dấu vết nào..."
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nếu bà ta nói đúng thì... Dù là Indigo Elder làm cái gì, hay đội LCA làm ra sao...."
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"로쟈",
+                "content":"Dù họ có cố gắng cỡ nào, thì họ cũng chẳng thể giúp ta ra khỏi đây..."
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta... Đoàn ta hiểu rõ điều này hơn tất cả."
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"에이해브",
+                "content":"Nỗi đau đớn cùng cực của việc sinh tồn tại cái nơi như thế này mà không có bất kỳ hy vọng được giải cứu nào. Không một tâm trí tỉnh táo nào có thể chịu đựng được sự giày vò đó trong thời gian dài."
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"에이해브",
+                "content":"Chứng kiến thuỷ thủ đoàn đáng thương của ta đi! Họ chống cự, nỗ lực hết sức mình, để ý thức của họ không bị lớp màng trắng bệch ấy nuốt chửng họ hoàn toàn!"
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Không có gì ở đây. Chẳng còn gì cả."
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"에이해브",
+                "content":"Bọn ta không thể làm gì ngoài việc lượm nhặt vớt vắt những thứ tạp nham vô giá trị trôi dạt vào trong dạ dày của nó. Xác của những Người Cá mà Queequeg đem về từ những cuộc đi săn chính là kế sinh nhai duy nhất của bọn ta."
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Vây. Mềm."
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Thế mấy người ăn cái gì mà sống dai dữ vậy...?"
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"스타벅",
+                "content":"Niềm tin. Niềm tin rằng chỉ cần đi th...eo Thuyền trưởng thì bà ấy sẽ dẫn lối... chúng ta sẽ thoát khỏi đây."
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"스타벅",
+                "content":"Đấy là những gì chúng ta tin."
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"이스마엘",
+                "content":"……."
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"에이해브",
+                "content":"Giờ thì, lắng nghe đề nghị của ta đi."
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta, Thuyền Trưởng của Tàu Pequod, lãnh đạo của Làng Pequod, có trách nhiệm đưa tất cả thuyền viên của ta về nhà. Cho nên ta sẽ đưa ra lời đề nghị này cho các ngươi."
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"에이해브",
+                "content":"Ta sẽ phá huỷ trái tim của con khốn này. Bởi vì ta đã chuẩn bị từ rất lâu; giờ đây, mọi thứ cần phải làm còn lại là bắt đầu kế hoạch thôi."
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"에이해브",
+                "content":"Mục tiêu của chúng ta giống nhau, nhưng chúng ta đều tìm kiếm kho báu khác nhau."
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"에이해브",
+                "content":"Hỗ trợ ta trong kế hoạch này. Chúng ta sẽ đi săn con Cá Voi này và trốn thoát, rồi Cành Vàng sẽ là của các ngươi."
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"오티스",
+                "content":"... Tụi ta phải thảo luận với nhau về chuyện này trước."
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"에이해브",
+                "content":"Bao lâu cũng được."
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":null,
+                "content":"Ahab gật đầu cùng một nụ cười độ lượng. Chúng tôi lùa vào một góc trong văn phòng của bà ta để bàn luận vấn đề này."
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Chiếc thuyền chở chúng ta tới đây đã không còn cứu vãn được."
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Thế nên, sẽ hợp lý nếu ta có một chiếc thuyền mới để thoát khỏi bụng Cá Voi."
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Hơn nữa, để điều tra nội tạng của Cá Voi, ta cần phải di chuyển qua dịch dạ dày của nó. Vì thế, tôi cho rằng chúng ta nên có một chiếc thuyền mới càng sớm càng tốt."
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"오티스",
+                "content":"Hừm, vậy chiếm tàu chúng cũng là một phương án—"
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Mọi người, họ có thể nghe thấy chúng ta đó! Nói nhỏ lại đi!"
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Thuyền chúng tôi. Khó lèo lái. Phức tạp."
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Chỉ có thủy thủ Pequod mới có thể lái thuyền Pequod."
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi nói rồi mà..."
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"오티스",
+                "content":"... Cần bao lâu để xây một con thuyền từ đống đổ nát?"
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"파우스트",
+                "content":"Xét qua việc ta không có nguyên vật liệu cần thiết, lẫn việc ta phải gia cố nó chống lại được dịch dạ dày của Cá Voi... Thì thời gian hoàn thành ước tính được là..."
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"단테",
+                "content":"<Không, không. Đừng... nghĩ đến chuyện đó.>"
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đúng vậy, đừng."
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ha, thế bà muốn đề xuất cái gì? Đứng đây mà tôi vẫn ngửi được cái mùi xảo trá cách xa cả dặm đấy."
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ả ta vẫn y như ngày nào. Vẫn cái điệu lùa người ta vào chỗ chết bằng mớ lý lẽ vờ như thuyết phục lắm đó."
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Không khác lấy một li."
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Vâng... có điều gì đó mờ ám về bà ta. Có lẽ chúng ta nên tự mình làm chuyện này..."
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ừa. Không bao giờ tin mấy cái thứ mà phải giải thích nhiều như vậy."
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"홍루",
+                "content":"Tôi lại nghĩ, chắc hẳn họ đã dành thời gian rất lâu để lên kế sách phá hủy trái tim và tìm đường thoát ra... Đổi lại, chỉ dựa vào sức của đoàn ta thì liệu có thể xoay sở được từ con số không hay không?"
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"홍루",
+                "content":"Cũng không rõ... cả đoàn còn có thể cầm cự ở đây thêm bao lâu nữa mà."
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ừa... Chắc cái bà Thuyền Trưởng đó nắm rõ cả khu vực này ngay trong lòng bàn tay đấy..."
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"그레고르",
+                "content":"Vậy thì lựa chọn của chúng ta chỉ còn... chờ tới khi ta biến thành Người Cá và chém giết lẫn nhau, hoặc là bị mắc kẹt ở đây mãi mãi. Ta thật sự chỉ còn mấy cách đó thôi sao?"
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ngài Xích Mục sẽ không bỏ rơi chúng ta đâu mà...! Ư hứcc hứứức..."
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":"료슈",
+                "content":"Chúng ta gặp rắc rối không thể đưa ra sự đồng thuận. Ta sẽ làm trung gian. Hãy tử chiến đến khi chỉ còn duy nhất một người sống sót, và để kẻ đó quyết định"
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":null,
+                "content":"Các Tội Nhận đều bày tỏ ý kiển của bọn họ... hoàn toàn trái ngược nhau và gần như không có bất kỳ triển vọng nào để đưa ra sự đồng thuận."
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":null,
+                "content":"Và tôi..."
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":null,
+                "content":"... rất lo lắng về cái cách mà Ahab dễ dàng nhìn thấu tất cả chúng tôi."
+            }
+        ]
+    }
+

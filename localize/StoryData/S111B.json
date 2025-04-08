@@ -2,446 +2,451 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "We entered the derelict building of Lobotomy Corporation."
-    },
-    {
-      "id": 1,
-      "content": "As the light goes dim, the dreadful stench from underground grows stronger."
-    },
-    {
+      "place": "Nhánh Mở Rộng Tập Đoàn L - Quận 4",  
+      "content": "Chúng tôi đã vào được tòa công trình bỏ hoang của Tập Đoàn Lobotomy."
+  },
+  {
+      "id": 1,       
+      "content": "Với ánh sáng mờ đục, một cảm giác ớn lạnh trong lòng đất trở nên rõ rệt."
+  },
+  {
       "id": 2,
       "model": "싱클레어",
-      "content": "Urk… The smell… It’s awful…"
-    },
-    {
+      "content": "Ọe... Cái mùi... Kinh khủng quá..."
+  },
+  {
       "id": 3,
       "model": "이상",
-      "content": "Mmm… I can feel the waste collecting in my lungs."
-    },
-    {
+      "content": "Hừm... Tôi cảm thấy mùi rác rưởi ám lấy lá phổi tôi."
+  },
+  {
       "id": 4,
       "model": "이상",
-      "content": "The odor is so intense, it winds back to refreshing."
-    },
-    {
+      "content": "Thứ mùi nặng nề tới mức, nó khiến tôi tỉnh táo lại."
+  },
+  {
       "id": 5,
       "model": "파우스트",
-      "content": "Let me warn you one last time: If you die here, Dante won’t be able to resuscitate you even when the battle has finished."
-    },
-    {
+      "content": "Để tôi nhắc mọi người một lần cuối. Nếu ai chết ở đây, Dante sẽ không thể phục hồi mọi người ngay cả khi đã kết thúc trận đấu."
+  },
+  {
       "id": 6,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "Resuscitate…?"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Hồi sinh...?"
+  },
+  {
       "id": 7,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Must be a popular joke or something~ Whew, I can’t even tell what kind of stories circulate the City these days~"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Chắc là trò đùa mới chăng~ Trời ạ, kể cả tui cũng chả thể hiểu mấy câu chuyện đang nổi dạo gần đây ở City."
+  },
+  {
       "id": 8,
-      "content": "They seem to have misunderstood us, but seeing as Faust made no comment on it, I decided not to add my input."
-    },
-    {
+      "content": "Họ dường như hiểu nhầm ý chúng tôi, nhưng quan sát thấy Faust không nói gì, tôi cũng quyết định sẽ không nói gì thêm."
+  },
+  {
       "id": 9,
-      "content": "The sources of this rancid smell were a more pressing concern."
-    },
-    {
+      "content": "Nguồn cơn của cái mùi ôi thiu này giờ trở thành vấn đề cấp bách."
+  },
+  {
       "id": 10,
       "model": "단테",
-      "content": "<Looks like they probably died a while ago.>"
-    },
-    {
+      "content": "<Có vẻ như bọn họ đã chết được một lúc rồi.>"
+  },
+  {
       "id": 11,
       "model": "오티스",
-      "content": "An astute observation, Manager. The corpses have reached the stage of active decay."
-    },
-    {
+      "content": "Ngài quan sát sắc sảo lắm, thưa Quản Lý. Những cái xác đã vào giai đoạn phân hủy."
+  },
+  {
       "id": 12,
       "model": "로쟈",
-      "content": "Bleh, looks like the bugs are having a feast over there."
-    },
-    {
+      "content": "Ọe, hình như là đám sâu bọ đang chén một bữa bên kia kìa."
+  },
+  {
       "id": 13,
       "model": "그레고르",
-      "content": "…Let’s just hurry along."
-    },
-    {
+       
+       
+      "content": "...Đi nhanh lên thôi nào."
+  },
+  {
       "id": 14,
+       
       "model": "로쟈",
-      "content": "Huh… Something up, Gregor babe? Are you scared of bugs?"
-    },
-    {
+       
+       
+      "content": "Huh... Đợi chút, Gregor cưng? Anh sợ mấy con bọ à?"
+  },
+  {
       "id": 15,
       "model": "그레고르",
-      "content": "…Now, I’m sure you’re more mature than shoving dead bugs in someone’s face…"
-    },
-    {
+      "content": "...Nào, cô hẳn là đã đủ lớn để biết rằng không nên dí xác bọ vào mặt người khác rồi chứ..."
+  },
+  {
       "id": 16,
       "model": "로쟈",
-      "content": "Boo!!!"
-    },
-    {
+      "content": "Hù!!!"
+  },
+  {
       "id": 17,
       "model": "그레고르",
-      "content": "But just in case one of y― Gah! Put it away! What’s so funny about this?!"
-    },
-    {
+      "content": "Nhưng mà trong trường hợp có ng- Ấy! Ném nó đi ngay! Có gì hài hước lắm à?!"
+  },
+  {
       "id": 18,
       "model": "로쟈",
-      "content": "Pffhaw… I mean, it’s hilarious~ Who would’ve thought that you of all people’d be scared of these little wrigglers…"
-    },
-    {
+      "content": "Pffhaw... Ý tui là, thấy nực cười lắm~. Ai mà biết được anh, là một trong những người lại sợ những con ngọ nguậy này chứ..."
+  },
+  {
       "id": 19,
       "model": "로쟈",
-      "content": "…Greg? Did you hate it that bad?"
-    },
-    {
+      "content": "...Anh Greg? Bộ anh ghét nó đến nỗi đấy à?"
+  },
+  {
       "id": 20,
       "model": "그레고르",
-      "content": "…Forget it."
-    },
-    {
+      "content": "...Thôi bỏ đi."
+  },
+  {
       "id": 21,
       "model": "오티스",
-      "content": "You there! Stop with your mischief this instant. Do not cause additional concerns for our manager!"
-    },
-    {
+      "content": "Cô kia! Dừng cái trò đùa này ngay lập tức. Đừng có mà làm quản lý chúng ta phải quan tâm thêm mấy chuyện vặt vãnh này."
+  },
+  {
       "id": 22,
       "model": "파우스트",
-      "content": "Hold on… this body is still warm."
-    },
-    {
+      "content": "Chờ đã... thi thể này vẫn còn ấm."
+  },
+  {
       "id": 23,
       "model": "이상",
-      "content": "Such is the sign of a recent attack."
-    },
-    {
+      "content": "Đó là dấu hiệu của một cuộc tấn công gần đây."
+  },
+  {
       "id": 24,
-      "content": "The gloom that had cast over Yuri’s face cleared after observing the bodies for a minute."
-    },
-    {
+      "content": "Sự u buồn bao trùm trên toàn bộ khuôn mặt Yuri dần biến mất sau khi quan sát đống xác chết trong phút lát."
+  },
+  {
       "id": 25,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "These aren’t our… I mean, Lobotomy Corporation’s employees."
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Bọn họ không phải nhân viên của chúng... Ý tôi là, các nhân viên của Tập Đoàn Lobotomy."
+  },
+  {
       "id": 26,
       "model": "이스마엘",
-      "content": "I heard these buried facilities are considered pure goldmines now, attracting all sorts looking for riches."
-    },
-    {
+      "content": "Nghe nói là những cơ sở bị chôn vùi thế này giờ đây được coi như những mỏ vàng, thu hút đủ kiểu người tới tìm cơ hội đổi đời."
+  },
+  {
       "id": 27,
       "model": "이스마엘",
-      "content": "Phrases like the “Lobotomy Dream” or the “Enkephalin Rush” are apparently starting to catch on among Fixers and Syndicates."
-    },
-    {
+      "content": "Các cụm từ như “Lobotomy Dream” hay “Enkephalin Rush” đang nổi lên trong giới Fixer và Băng Đảng những dạo gần đây."
+  },
+  {
       "id": 28,
       "model": "료슈",
-      "content": "LD, E-Rush… Got a nice ring to it…"
-    },
-    {
+      "content": "LD, E-Rush...Nghe có vẻ hay đấy."
+  },
+  {
       "id": 29,
       "model": "이스마엘",
-      "content": "Sigh, that’s what you have to say after keeping quiet for so long…?"
-    },
-    {
+      "content": "Hầy, cô im lặng lâu như vậy chỉ để nói thế thôi sao?"
+  },
+  {
       "id": 30,
       "model": "이상",
-      "content": "Is such a frivolous use of English not prone to blurring the original meaning?"
-    },
-    {
+      "content": "Dùng tiếng Anh bừa bãi vậy chẳng phải sẽ làm mất nghĩa gốc sao?"
+  },
+  {
       "id": 31,
       "model": "이스마엘",
-      "content": "That’s what I’m sayi―"
-    },
-    {
+      "content": "Thì ý tôi là như thế m-"
+  },
+  {
       "id": 32,
       "model": "이스마엘",
-      "content": "Huh, you seem to be talking a lot more than usual, Yi Sang?"
-    },
-    {
+      "content": "Hử, Yi Sang này, hình như anh nói nhiều hơn mọi ngày thì phải?"
+  },
+  {
       "id": 33,
       "model": "이상",
-      "content": "Does that reflect strangely?"
-    },
-    {
+      "content": "Điều đó lạ lắm à?"
+  },
+  {
       "id": 34,
       "model": "파우스트",
-      "content": "He was never really the quiet sort."
-    },
-    {
+      "content": "Cậu ấy thực ra chưa bao giờ là người trầm tính."
+  },
+  {
       "id": 35,
       "model": "파우스트",
-      "content": "He only had a… shift recently."
-    },
-    {
+      "content": "Cậu ấy chỉ có chút... thay đổi gần đây."
+  },
+  {
       "id": 36,
       "model": "오티스",
-      "content": "It’s not a bad thing to have more lackeys with keen eyes."
-    },
-    {
+      "content": "Nó không hẳn tệ khi có thêm một bầy tôi với tầm nhìn nhạy bén."
+  },
+  {
       "id": 37,
       "model": "오티스",
-      "content": "I’d like you to keep that up. Let us march."
-    },
-    {
+      "content": "Ta mong ngươi sẽ tiếp tục phát huy. Giờ chúng ta đi thôi."
+  },
+  {
       "id": 38,
       "model": "이상",
-      "content": "You make yourself look like the captain here. I dare say that role belongs to the manager."
-    },
-    {
+      "content": "Cô làm như mình là đội trưởng vậy. Tôi dám nói rằng đó là việc của ngài quản lý."
+  },
+  {
       "id": 39,
       "model": "오티스",
-      "content": "…Please forgive my insolence, Manager."
-    },
-    {
+      "content": "...Xin hãy tha thứ cho sự thô lỗ của tôi, thưa Quản Lý."
+  },
+  {
       "id": 40,
-      "content": "Frowning as though she were caught off-guard, Outis bows to me as she apologizes."
-    },
-    {
+      "content": "Cô ấy nheo mày lại khi nghĩ rằng bản thân bị nắm thóp, Outis cúi đầu tạ lỗi với tôi."
+  },
+  {
       "id": 41,
       "model": "단테",
-      "content": "<N-No, it’s nothing. Let’s head down.>"
-    },
-    {
+      "content": "<Kh-Không, không sao đâu. Chúng ta đi xuống thôi.>"
+  },
+  {
       "id": 42,
-      "content": "Most of the corpses’ body parts were morphed in bizarre ways."
-    },
-    {
+      "content": "Một số bộ phận trên đống xác bị biến dị theo nhiều cách quái gở."
+  },
+  {
       "id": 43,
-      "content": "One had pairs of wings protruding through their intestines, and another had horribly twisted antennae hanging down."
-    },
-    {
+      "content": "Một số có cánh nhô ra từ nội tạng, và một số khác lại có râu vặn vẹo treo lủng lẳng một cách kinh tởm."
+  },
+  {
       "id": 44,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "These look kinda similar to the thugs we ran into just before, don’t they?"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Bọn họ nhìn giống mấy tên côn đồ chúng ta vừa chạm mặt, đúng không?"
+  },
+  {
       "id": 45,
       "model": "이스마엘",
-      "content": "You mean those bug-headed people?"
-    },
-    {
+      "content": "Ý cô là đám người đầu bọ đó nhỉ?"
+  },
+  {
       "id": 46,
       "model": "오티스",
-      "content": "Quiet, I’m seeing Uniform Tangos ahead."
-    },
-    {
+      "content": "Im lặng, ta thấy có vài Bất Nhân ở phía trước."
+  },
+  {
       "id": 47,
-      "content": "As Outis noted, multiple figures could be seen down the corridor."
-    },
-    {
+      "content": "Khi Outis ghi chép, một số bóng hình có thể nhìn thấy từ dưới hành lang."
+  },
+  {
       "id": 48,
       "model": "로쟈",
-      "content": "(Uni…form? What’s all that?)"
-    },
-    {
+      "content": "(Bất… nhân? Cái gì cơ?)"
+  },
+  {
       "id": 49,
-      "model": "그레고르",
-      "content": "(Unidentified targets… Possibly hostile.)"
-    },
-    {
+      "model": "그레고르",       
+      "content": "(Cá nhân có hành vi bất chính... Có thể là kẻ địch đó.)"
+  },
+  {
       "id": 50,
-      "model": "오티스",
-      "content": "…Mhm."
-    },
-    {
+      "model": "오티스",       
+      "content": "...Hừm."
+  },
+  {
       "id": 51,
-      "content": "I’m sure one idea crossed all of our minds:"
-    },
-    {
+      "content": "Tôi cam đoan là có một ý nghĩ trong đầu chúng tôi bây giờ:"
+  },
+  {
       "id": 52,
-      "content": "The enigmatic ‘Abnormalities’ that might be roaming this facility, as Faust mentioned."
-    },
-    {
+      "content": "Các 'Dị Thể' bí ẩn có lẽ đang lảng vảng xung quanh cơ sở, như Faust đã có đề cập tới."
+  },
+  {
       "id": 53,
-      "content": "That might be what those shadowy figures are."
-    },
-    {
+      "content": "Mấy cái bóng vừa nãy có thể là bọn chúng."
+  },
+  {
       "id": 54,
       "model": "오티스",
-      "content": "…We have no choice but to face them."
-    },
-    {
+      "content": "...Ta không còn lựa chọn nào khác ngoài đối mặt chúng."
+  },
+  {
       "id": 55,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Hey! Who goes there?!"
-    },
-    {
+      "teller": "Cựu binh Thô tục",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Này! Ai đó?!"
+  },
+  {
       "id": 56,
-      "content": "Instead, what we faced was people."
-    },
-    {
+      "content": "Thay vì vậy, chúng tôi lại gặp những người khác."
+  },
+  {
       "id": 57,
-      "content": "It was too early to deem that as fortunate, though."
-    },
-    {
-      "id": 58,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Huh? I thought we were the only people ‘round here."
-    },
-    {
+      "content": "Như thể quá sớm để nghĩ việc này thật may mắn, thì."
+  },
+  {
+      "id": 58,   
+      "teller": "Cựu binh Gian xảo",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Hử? Ta tưởng bọn mình là những người duy nhất quanh đây."
+  },
+  {
       "id": 59,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Did they slip past our team at the entrance? Those scavengers keep coming one after the other."
-    },
-    {
+      "teller": "Cựu binh Thô tục",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Chúng lén vượt qua đội ở cửa rồi sao? Bọn la liếm lúc nào cũng lũ lượt kéo đến."
+  },
+  {
       "id": 60,
       "model": "히스클리프",
-      "content": "Oi, bug buggers! You friends with the bodies back there?"
-    },
-    {
+      "content": "Ê, bọn côn trùng! Xác bạn tụi mày bên đó à?"
+  },
+  {
       "id": 61,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Bodies?! You bastards didn’t…"
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Xác?! Đừng nói bọn khốn các ngươi đã..."
+  },
+  {
       "id": 62,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Wait."
-    },
-    {
+      "teller": "Cựu binh Gian xảo",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Khoan."
+  },
+  {
       "id": 63,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…I don’t know where you scum’re from, but hear me out a sec."
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "...Ta không biết lũ khốn các ngươi từ đâu đến, nhưng nghe ta nói đã."
+  },
+  {
       "id": 64,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "You’re here for the Enkephalin, aren’t ya? If you go just one floor down, there’s a treasure trove just waiting to be nabbed."
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Các ngươi đến đây vì Enkephalin, đúng chứ? Nếu các ngươi đi xuống một tầng, sẽ có kho báu bên dưới chờ các ngươi lấy đấy."
+  },
+  {
       "id": 65,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Whatever’s on that floor is yours. We’ll just take what we can here and be on our…"
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Bất kể thứ gì ở tầng đấy là của các ngươi. Bọn ta chỉ lấy thứ ở tầng này và việc ai nấy..."
+  },
+  {
       "id": 66,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…way. Ha—Haha."
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "...làm. Ha-haha."
+  },
+  {
       "id": 67,
       "model": "그레고르",
-      "content": "Tsk, so you recognized me, huh."
-    },
-    {
+      "content": "Chậc, vậy là ngươi có nhận ra ta à."
+  },
+  {
       "id": 68,
-      "content": "The moment the soldier’s eyes landed on Gregor’s face…"
-    },
-    {
+      "content": "Vào giây phút người lính kia để ý tới Gregor..."
+  },
+  {
       "id": 69,
-      "content": "Their thin veil of kindness was torn down."
-    },
-    {
+      "content": "Lớp mặt nạ thân thiện bị xé rách ngay tức khắc."
+  },
+  {
       "id": 70,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Traitorous pissant…"
-    },
-    {
+      "teller": "Cựu binh Gian xảo",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Thằng chó phản bội..."
+  },
+  {
       "id": 71,
       "model": "그레고르",
-      "content": "Ahh, you must’ve been dispatched to the front lines too. I look better in real life than on those flyers, right?"
-    },
-    {
+      "content": "À, hẳn là ngươi cũng đã từng bị ném lên tiền tuyến nhỉ. Ngoài đời ta trông đẹp trai hơn trong ảnh đúng không?"
+  },
+  {
       "id": 72,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Cut the cheeky crap! I’m disgusted that I once saluted to your face."
-    },
-    {
+      "teller": "Cựu binh Gian xảo",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Câm mồm đi! Tao cảm thấy kinh tởm rằng tao đã từng nghiêm chào bản mặt của mày."
+  },
+  {
       "id": 73,
       "model": "그레고르",
-      "content": "Whoa, easy there, it’s not like you had to salute me in person."
-    },
-    {
+      "content": "Uầy, bình tĩnh nào, ngươi có phải nghiêm chào ta ngoài đời đâu mà."
+  },
+  {
       "id": 74,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "While you posed as a normal member of society thanks to your dumbass privilege freeing you from the side effects…"
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Trong khi mày được hành xử như một con người bình thường của xã hội nhờ vào cái đặc quyền chó má giải thoát mày khỏi những tác dụng phụ..."
+  },
+  {
       "id": 75,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "We never even got a chance, you fraternizer. We were thrown away right after the war was lost."
-    },
-    {
+      "teller": "Cựu binh thô lỗ",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Bọn tao không hề có cơ hội, thằng giả tạo. Bị vứt xó như rác ngay sau khi cuộc chiến kết thúc."
+  },
+  {
       "id": 76,
       "model": "그레고르",
-      "content": "…I was tossed out all the same, you know. Isn’t that how it is for all the soldiers?"
-    },
-    {
+      "content": "...Ta cũng bị vứt xó như vậy thôi. Chẳng phải người lính nào cũng vậy à?"
+  },
+  {
       "id": 77,
       "model": "그레고르",
-      "content": "So this is the lifestyle you chose? Rifling through the trash like actual bugs?"
-    },
-    {
+      "content": "Vậy ngươi chọn cách sống như thế này hả? Lục rác như một lũ bọ thật sự á?"
+  },
+  {
       "id": 78,
       "model": "오티스",
-      "content": "Halt! No good can come out of taunting your foe!"
-    },
-    {
+      "content": "Dừng lại! Việc khiêu khích kẻ địch chưa bao giờ đem lại kết quả tốt đâu!"
+  },
+  {
       "id": 79,
       "model": "그레고르",
-      "content": "You served the military too. Y’know where this is going."
-    },
-    {
+      "content": "Cô cũng từng trong quân đội mà. Chuyện này chỉ có một kết cục thôi."
+  },
+  {
       "id": 80,
       "model": "그레고르",
-      "content": "We’re not getting outta this without a fight."
-    },
-    {
+      "content": "Không có chuyện chúng ta qua được mà không phải đánh nhau đâu."
+  },
+  {
       "id": 81,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…We were planning to let you through, we really were."
-    },
-    {
+      "teller": "Cựu binh Gian xảo",
+      "title": " Tàn Dư của Công ty G",
+      "content": "... Bọn tao đã định để bọn mày qua, thực sự đấy."
+  },
+  {
       "id": 82,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "But now, I’ll mince you and your traitor friend into mutt meat."
-    },
-    {
+      "teller": "Cựu binh Gian xảo",
+      "title": " Tàn Dư của Công ty G",
+      "content": "Nhưng bây giờ thì, tao sẽ băm nghiền mày và thằng bạn phản bội của mày thành bã rồi vứt cho chó ăn hết."
+  },
+  {
       "id": 83,
       "model": "히스클리프",
-      "content": "Like hell you were. You were gonna wait for us to climb back up with the Enkephalin so you could backstab us and swipe it."
-    },
-    {
+      "content": "Có cái quần ấy. Bọn mày định đợi tụi tao cầm Enkephalin leo lên chỉ để đâm lén rồi chôm nó chứ gì?"
+  },
+  {
       "id": 84,
       "model": "싱클레어",
-      "content": "W—Wait, were they?"
-    },
-    {
+      "content": "Kh—Khoan, họ định làm thế thật sao?"
+  },
+  {
       "id": 85,
       "model": "히스클리프",
-      "content": "They’ve fallen to rock bottom and below, an’ I swear down they don’t care a whit for honor, eh?"
-    },
-    {
+      "content": "Bọn nó rớt xuống đáy xã hội rồi thì danh dự gì tầm này?"
+  },
+  {
       "id": 86,
       "model": "히스클리프",
-      "content": "Well-off or broke, people turn on each other as long as there’s something. You’re way too naive to think otherwise."
-    }
+      "content": "Giàu với nghèo, con người có lợi là lật mặt hết. Nếu mày nghĩ khác thì mày ngây thơ quá rồi."
+  }
   ]
 }

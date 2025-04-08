@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_14_1",
-      "dlg": "Uh... I mean. Uh, Ahem. Good luck, mate."
+      "dlg": "Ờm... Ý tao là. Ờ, A hem. Chúc may mắn."
     },
     {
       "id": "announcer_cheer_14_2",
-      "dlg": "Do whatever you want out there! I'm sure you'll knock 'em all down with a single strike!"
+      "dlg": "Cứ việc làm những thứ mày muốn ở ngoài đó! Tao chắc chắn mày sẽ hạ gục tất cả chỉ bằng một đòn duy nhất!"
     },
     {
       "id": "announcer_specialcheer_14_1",
-      "dlg": "Haah... This ain't the first time I've seen this sorry sight. Bloodied, teetering on the brink of death... But we don't want to run away and look like cowards, yeah?"
+      "dlg": "Hầy dà... Đây không phải là lần đầu tiên tao nhìn thấy cảnh tượng đáng thương này. Máu me đầm đìa, loạng choạng bên bờ vực cái chết... Nhưng bây không phải loại hèn nhát bỏ chạy, nhể?"
     },
     {
       "id": "announcer_specialcheer_14_2",
-      "dlg": "You'll all get killed at this rate... Well, Clockhead's here to bring you back, so don't let that stop you! Keep pushing, yeah?"
+      "dlg": "Cứ đà này thì bây sẽ ngỏm hết... Ờ, thằng cha đầu đồng hồ sẽ đưa bây trở lại, nên đừng có mà lùi bước! Tiếp tục cố gắng đi, được không?"
     },
     {
       "id": "announcer_enemy_break_14_1",
-      "dlg": "Look at 'em, they're in tatters! That one's looking particularly knackered... smash that one's head in!"
+      "dlg": "Nhìn kìa, bọn khốn đó tả tơi hết cả! Thằng kia trông mệt mỏi hơn hẳn... đập nát đầu nó đi!"
     },
     {
       "id": "announcer_ally_break_14_1",
-      "dlg": "Bloody hell... I told you to get out of the way, didn't I? Oi, someone! Draw the enemy's attention 'till that one gets back up."
+      "dlg": "Mẹ kiếp... Tao đã nói mày tránh đường rồi mà? Này, ai đó! Cứ thu hút sự chú ý của kẻ thù cho đến khi tên đó lết được cái xác lên đi."
     },
     {
       "id": "announcer_killenemy_14_1",
-      "dlg": "One down. Keep knocking 'em down, and we'll be the only ones standing in the end. Now that's a proper fight, innit?"
+      "dlg": "Một thằng cút. Tiếp tục hạ bọn nó, và ta sẽ là người duy nhất trụ lại vào phút cuối. Thế mới gọi là choảng nhau chứ, nhể?"
     },
     {
       "id": "announcer_ally_dead_14_1",
-      "dlg": "Good luck turning the clock on that one... looks like it'll hurt. Oi, maybe there's a way to die in ways that are less painful for Clockhead to go through?"
+      "dlg": "Chúc may mắn khi quay ngược thời gian... Xem chừng sẽ đau đấy. Ồ, bộ không có cách nào khác à?"
     },
     {
       "id": "announcer_enemy_adv_14_1",
-      "dlg": "Hah, what a mess... You can keep going, but it'll just hurt more when you inevitably have to turn the clock later."
+      "dlg": "Hầy dà, đúng là một mớ hổ lốn mà... Mày có thể tiếp tục, nhưng đằng nào thì cũng phải quay ngược thời gian mà thôi."
     },
     {
-      "id": "announcer_ally_advex_14_1",
-      "dlg": "Right. What'd I say? The winner's always the last one standin'. Listen. Don't think about how much it'll hurt... think about what you'll do after that bloke's dead. It'll give you strength."
+      "id": "announcer_ally_adv_14_1",
+      "dlg": "Đúng. Tao đã nói như nào? Kẻ chiến thắng luôn là kẻ trụ vững tới thời khắc cuối cùng. Nghe này. Đừng nghĩ về việc nó sẽ đau đớn đến mức nào... hãy nghĩ về việc mày sẽ làm gì sau khi gã đó chết. Nó sẽ cho mày động lực."
     },
     {
       "id": "announcer_danger_14_1",
-      "dlg": "One little mistake and you'll be a goner! Think hard on it before makin' a move."
+      "dlg": "Chỉ cần sảy chân một cái là mày sẽ ngỏm đấy! Hãy suy nghĩ thật kỹ trước khi hành động."
     },
     {
       "id": "announcer_enemy_specialskill_14_1",
-      "dlg": "Oi! Look at that twit over there! Something's goin' on... C'mon, hide!"
+      "dlg": "Ê! Nhìn thằng kia kìa! Có gì đó chẳng lành đang đến... Trốn đi, lẹ làng hộ bố!"
     },
     {
       "id": "announcer_enemy_specialgimmick_14_1",
-      "dlg": "I'm good at sussing things out, yeah? They're obviously about to do something, but I haven't a clue as to what. Think about it, why don't you?"
+      "dlg": "Tao thật sự giỏi trong việc dò xét mọi thứ đấy. Rõ ràng là bọn kia đang âm thầm tính toán, nhưng tao không biết là làm cái mẹ gì. Tốt hơn hết là mày nên để tâm việc này đi."
     },
     {
       "id": "announcer_advatk_physical_14_1",
-      "dlg": "Violence really is the best solution, innit? Beat its arse!"
+      "dlg": "Bạo lực là cách giải quyết mọi vấn đề, nhể? Đập chết mẹ bọn nó nào!"
     },
     {
       "id": "announcer_disadvatk_physical_14_1",
-      "dlg": "That's uh... that ain't very effective, yeah? I mean, I suppose it wasn't completely useless, but... well, you'll get there eventually."
+      "dlg": "Ờ thì... cái đó khác mẹ gì muỗi đốt đâu? Ý tao là, tao không nghĩ đòn vừa rồi hoàn toàn vô dụng, nhưng... ừm, cuối cùng thì mày cũng sẽ đạt đến cái cảnh giới đó thôi."
     },
     {
       "id": "announcer_advatk_attr_14_1",
-      "dlg": "Ooh! That was a smart move, yeah? Reminds me of the brainy sort I met back in my Syndicate days."
+      "dlg": "Ồ! Đó là một nước đi thông minh, nhể? Nhắc tao nhớ đến cái bọn có não hồi còn ở Băng Đảng."
     },
     {
       "id": "announcer_disadvatk_attr_14_1",
-      "dlg": "That was... Hm. Don't make me call you stupid, now."
+      "dlg": "Vãi. Cái đó... Hừm. Đừng để bố kêu mày là thằng ngu, nghe chưa?"
     },
     {
       "id": "announcer_enemy_specialbuff_14_1",
-      "dlg": "What are all them sods all excited about? I've got a bad feeling about this..."
+      "dlg": "Bọn khốn đó đang phấn khích về cái mẹ gì thế? Tao có linh cảm không lành về chuyện này..."
     },
     {
       "id": "announcer_enemy_specialdebuff_14_1",
-      "dlg": "Oi, they all look bloody pissed on liquor!"
+      "dlg": "Ố ồ, trông lũ đó như bọn bú cồn quá nhiều!"
     },
     {
       "id": "announcer_ally_specialbuff_14_1",
-      "dlg": "Ooh, you're all full of beans! See anything funny?"
+      "dlg": "Ồ, bây chỉ toàn nói suông thôi! Thấy gì buồn cười à?"
     },
     {
       "id": "announcer_ally_specialdebuff_14_1",
-      "dlg": "What's up with the grimace? C'mon, smile! What, did someone die or something?"
+      "dlg": "Cái mặt nhăn nhó thế là thế nào? Thôi thôi, cười cái đi! Hả, chẳng lẽ có thằng nào vừa ngỏm à?"
     },
     {
       "id": "announcer_enemy_destroy_14_1",
-      "dlg": "Niiiice~ You broke the sod's leg. It ain't running from this fight any time soon!"
+      "dlg": "Ngonnnnnnn~ Mày vừa bẻ gãy chân cái thứ đó rồi. Nó chạy thế đéo nào được nữa!"
     },
     {
       "id": "announcer_enemy_destroy_14_2",
-      "dlg": "You destroyed the part that's been getting on my nerves. This is our chance! Lads, lasses! Get 'em!"
+      "dlg": "Mày đã phá hỏng cái chỗ ngứa mắt tao từ nãy giờ. Đây là cơ hội của bây đấy! Các chàng trai và cô gái! Hãy bắt lấy nó nào!"
     },
     {
       "id": "announcer_round_takebigdmg_14_1",
-      "dlg": "Woah! Ah... that looked like it hurt. You all right, mate?"
+      "dlg": "Ôi! À... trông có vẻ đau đấy. Bây ổn chứ?"
     },
     {
       "id": "announcer_round_takebigdmg_14_2",
-      "dlg": "Might want to get that looked at before we go rushing in again. I know I've a temper, but that looked bad even in my eyes. Take a moment to recover."
+      "dlg": "Hãy xem xét lại trước khi lại lao vào. Tao biết mình nóng tính, nhưng cảnh đấy vẫn làm tao ngứa mắt lắm. Tốt hơn hết là mày nên dành chút thời gian để hồi phục."
     },
     {
       "id": "announcer_round_givebigdmg_14_1",
-      "dlg": "Blimey, that was some strike! You left 'em in shambles!"
+      "dlg": "Đậu phộng, cú đó ngon phết! Nhìn lũ đó run như cầy sấy kìa!"
     },
     {
       "id": "announcer_round_givebigdmg_14_2",
-      "dlg": "Heh, that cost 'em an arm and a leg... what now? Oi, that was a bloody amazing strike, by the way!"
+      "dlg": "Hê hê, thế là bọn nó bay mất một cánh tay và một cái chân... giờ sao đây? Ồ, nhân tiện thì cú vừa rồi ngon nghẻ đấy."
     },
     {
       "id": "announcer_multikillenemy_14_1",
-      "dlg": "You did that... all on your own? Teach me how to do that, too."
+      "dlg": "Mày tự xử hết chúng nó đấy à? Dạy tao với, tên kia."
     },
     {
       "id": "announcer_equip_14_1",
-      "dlg": "What should I tell Cathy when I finally see her...? Oh, the recording's started already? Ahem. I ain't too used to this mic business... but let's go."
+      "dlg": "Tao nên nói gì với Cathy khi cuối cùng cũng gặp nàng ấy...? Bản ghi âm đã bắt đầu rồi à? A hem. Tao không quen với việc dùng cái mic này lắm... nhưng được rồi."
     }
   ]
 }

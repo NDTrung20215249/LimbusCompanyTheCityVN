@@ -3,72 +3,72 @@
         {
             "id": "get_10106_1",
             "desc": "Identity Acquisition",
-            "dlg": "I prefer to not be disturbed during my morning commute... What is it?"
+            "dlg": "Tôi không thích bị làm phiền trong chuyến tàu buổi sáng... Chuyện gì đây?"
         },
         {
             "id": "lobby_morning_10106_1",
             "desc": "Morning Greeting",
-            "dlg": "It is no small fortune that I was able to procure myself a seat on the way to work at this time of day. Perhaps... today... I may be permitted a small... nap..."
+            "dlg": "Phải may mắn lắm tôi mới dành được một chỗ ngồi trên đường đi làm lúc này. Có lẽ... hôm nay... tôi sẽ được chợp... mắt..."
         },
         {
             "id": "lobby_noon_10106_1",
             "desc": "Afternoon Greeting",
-            "dlg": "This day is now half spent... Yet, after two more halfs of a day I shall return to this exact spot to do selfsame, unchanging work. I see no way of freeing myself from this cyclical yoke."
+            "dlg": "Đã qua một nửa ngày... Thế nhưng, sau hai lần nửa như thế nữa thì tôi sẽ quay lại đúng chỗ này để rồi lại làm công việc mãi chẳng thay đổi. Tôi không thấy cách nào thoát khỏi chu kỳ trớ trêu này."
         },
         {
             "id": "lobby_night_10106_1",
             "desc": "Evening Greeting",
-            "dlg": "When a moonless, tenebrous night of the month-end descends, all is obscured with naught manifest before me. I regard such hours with fondness.\nThoughts fade into oblivion... as consciousness is claimed by slumber."
+            "dlg": "Khi những đêm cuối tháng tới bao trùm lấy mặt trăng với sự u ám, vạn vật chìm vào màn đêm tĩnh lặng. Tôi nhớ tới những giờ phút đó với sự trìu mến.\nSuy tâm tan vào hư không... khi ý thức bị giấc ngủ nuốt trọn."
         },
         {
             "id": "smalltalk_10106_1",
             "desc": "Chatter #1",
-            "dlg": "I do not think of anything in particular. Perhaps it would be more accurate to say that I try to not think of anything.\nPerchance I may claim myself a marginally restful night... were I to drift off in this state."
+            "dlg": "Tôi chẳng nghĩ gì cụ thể cả. Hay nói rõ hơn là tôi cố gắng không nghĩ tới gì hết.\nĐể khi hiếm hoi được ngơi nghỉ... tôi có thể chìm trong giấc mộng yên lành."
         },
         {
             "id": "smalltalk_10106_2",
             "desc": "Chatter #2",
-            "dlg": "There is ironic humor in taking a train to go clean a different train of such... peculiar nature, wouldn't you agree?"
+            "dlg": "Có một sự hài hước trớ trêu khi đi tàu tới để dọn dẹp một con tàu khác với... chút dị biệt, ngài có thấy vậy không?"
         },
         {
             "id": "smalltalk_10106_3",
             "desc": "Chatter #3",
-            "dlg": "I have been assigned the task of training our new fellow employees as of late. It is quite enjoyable. Much more so than cleaning up the trains.\nPerhaps I've a talent for education. Or an interest, at least."
+            "dlg": "Gần đây tôi được phân công huấn luyện nhân viên mới. Thật sự khá dễ chịu. Đỡ hơn việc dọn dẹp mấy con tàu nhiều.\nCó lẽ tôi có tài năng cho việc dạy học. Hoặc ít nhất là có hứng thú."
         },
         {
             "id": "smalltalk_10106_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "When doing work of this nature, I do not think of anything in particular. Perhaps it would be more accurate to say that—\nAh, so these words have been uttered before. Please do understand. I simply seek to collect myself afore I am broken."
+            "dlg": "Khi làm công việc dạng như thế này, tôi không nghĩ gì cụ thể cả. Hoặc nói rõ hơn là— \nÀ, tôi từng nói thế rồi à. Xin hãy hiểu cho. Tôi chỉ muốn trấn an bản thân trước khi tôi sụp đổ."
         },
         {
             "id": "smalltalk_10106_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "My fellow employee, who was assigned the same task of educating our new recruits, appear averse to doing such work.\nI would rather have her take over my portion of the... other work. Yet, I have scant faith that the company would allow such reassignment."
+            "dlg": "Một đồng nghiệp của tôi, cô ấy cũng được giao nhiệm vụ hướng dẫn nhân viên mới, có vẻ ghét loại việc này.\nTôi chỉ ước rằng cô ấy sẽ lấy luôn phần việc... kia của tôi. Nhưng, tôi chẳng có chút lòng tin nào vào việc công ty cho phép thay đổi phân công như thế."
         },
         {
             "id": "neglect_10106_1",
             "desc": "Idle",
-            "dlg": "Haah... When will this cycle be broken?"
+            "dlg": "Hỡi ôi... Khi nào vòng lặp này mới bị phá vỡ?"
         },
         {
             "id": "gacksung_10106_1",
             "desc": "Uptying",
-            "dlg": "You insinuate that I am rather capable? ... Very well. ...I would appreciate it if you would take note of my teaching abilities also."
+            "dlg": "Ngài kết luận rằng tôi có năng lực sao? ...Cũng tốt. ...Tôi sẽ rất biết ơn nếu ngài cũng nghĩ tới khả năng giảng dạy của tôi."
         },
         {
             "id": "formation_10106_1",
             "desc": "Deployment",
-            "dlg": "Commuting to work."
+            "dlg": "Trên đường đi làm."
         },
         {
             "id": "battleentry_10106_1",
             "desc": "Stage Entry",
-            "dlg": "Commencing cleanup."
+            "dlg": "Bắt đầu dọn dẹp."
         },
         {
             "id": "battle_select_10106_1",
             "desc": "Viewed in Battle",
-            "dlg": "Is there aught else?"
+            "dlg": "Còn việc gì không?"
         },
         {
             "id": "battle_endcommand_10106_1",
@@ -78,47 +78,47 @@
         {
             "id": "battle_enemy_break_10106_1",
             "desc": "Enemy Stagger",
-            "dlg": "Now..."
+            "dlg": "Bây giờ..."
         },
         {
             "id": "battle_break_10106_1",
             "desc": "Staggered",
-            "dlg": "Ah..."
+            "dlg": "A..."
         },
         {
             "id": "battle_kill_10106_1",
             "desc": "Enemy Killed",
-            "dlg": "You may rest."
+            "dlg": "Ngươi có thể nghỉ ngơi rồi."
         },
         {
             "id": "battle_dead_10106_1",
             "desc": "Death",
-            "dlg": "Am I freed at last... from the yoke?"
+            "dlg": "Cuối cùng tôi cũng thoát khỏi... sự ràng buộc rồi sao?"
         },
         {
             "id": "choice_success_p_10106_2",
             "desc": "Check Passed",
-            "dlg": "It has been addressed."
+            "dlg": "Công việc đã được giải quyết."
         },
         {
             "id": "choice_fail_n_10106_1",
             "desc": "Check Failed",
-            "dlg": "... It could not be addressed."
+            "dlg": "... Công việc không thể được giải quyết."
         },
         {
             "id": "battle_clear_10106_1",
             "desc": "Victory Cry",
-            "dlg": "This cleanup is complete. Allow me to nap until our next assignment."
+            "dlg": "Công việc dọn dẹp đã hoàn thành. Xin hãy cho phép tôi chợp mắt cho tới nhiệm vụ tiếp theo."
         },
         {
             "id": "battle_clear_ex_10106_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "It appears that I have resolved my fellow employees' share of responsibilities as well. Will there be a reward for this performance? I would appreciate even a reassignment to a different line of work."
+            "dlg": "Có vẻ tôi đã giải quyết trách nhiệm của các đồng nghiệp khác luôn rồi. Liệu sẽ có phần thưởng cho màn thể hiện này chứ? Tôi sẽ biết ơn dù chỉ là được tái phân công sang công việc khác."
         },
         {
             "id": "battle_defeat_10106_1",
             "desc": "Defeat Wail",
-            "dlg": "... Please, take heed. I no longer believe that I am appropriate for this line of work. Revisit your assessment of my aptitude, if you will..."
+            "dlg": "... Làm ơn hãy lưu ý. Tôi không tin là mình phù hợp với công việc này nữa. Xin hãy xem xét lại khả năng của tôi..."
         }
     ]
 }

@@ -2,55 +2,55 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Central Front in the Smoke War",
+      "place": "Trung tâm Tuyền tuyến Smoke War",
       "model": "그레고르",
-      "content": "Still in a battlefield…"
+      "content": "Vẫn còn ở trên chiến trường..."
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…It’s the same place as before. Though, something about it is different."
+      "title": "Fixer Cấp 8",
+      "content": "...Vị trí vẫn như cũ. Chỉ là, có gì đó rất khác lạ."
     },
     {
       "id": 2,
-      "content": "There was a strong tug at Heathcliff’s coat from behind."
+      "content": "Có một ai đó giật mạnh áo Heathcliff từ đằng sau."
     },
     {
       "id": 3,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Are you out of your minds? Get to shelter, now! You’ll age rapidly if exposed to that bomb’s blast."
+      "title": "Người lính được hồi tưởng",
+      "content": "Cậu bị điên à? Cậu cần vào hầm trú ẩn, ngay! Cậu sẽ già đi nhanh chóng nếu cậu bị dính vụ nổ bom đấy!"
     },
     {
       "id": 4,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "The Nest next to ours turned into a nursing home—they can’t even walk without sticks!"
+      "title": "Người lính được hồi tưởng",
+      "content": "Nest kế bên chúng ta đã trở thành nhà thương—họ không thể đi lại nếu thiếu gậy chống."
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Hold on, isn’t he the same guy we just…"
+      "content": "Đợi chút, chẳng phải đây là cái anh mà ta vừa..."
     },
     {
       "id": 6,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "It’s not a problem, because Manager Gregor is with us!"
+      "title": "Người lính được hồi tưởng",
+      "content": "Điều đó không phải là vấn đề, vì Quản lý Gregor ở bên cạnh chúng ta!"
     },
     {
       "id": 7,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "He doesn’t suffer side effects like the rest of us, and he can regenerate his arm, too!"
+      "title": "Người lính được hồi tưởng",
+      "content": "Anh ấy không chịu đựng hậu chứng như chúng tôi, và anh ấy có thể tái tạo cánh tay của mình nữa!"
     },
     {
       "id": 8,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "He was operated on by none other than Hermann, our most skilled director."
+      "title": "Người lính được hồi tưởng",
+      "content": "Anh ấy được chính Hermann, Trưởng phân khu tài giỏi nhất, phẫu thuật cho đấy."
     },
     {
       "id": 9,
@@ -60,152 +60,152 @@
     {
       "id": 10,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "A hero shouldn’t be on the rearguard. I’ll give you a ride!"
+      "title": "Người lính được hồi tưởng",
+      "content": "Một anh hùng như thế không nên ở hậu phương. Tôi sẽ chở ngài đi!"
     },
     {
       "id": 11,
       "model": "로쟈",
-      "content": "Wh-What the hell? Get away from me!"
+      "content": "C-Cái gì thế? Tránh xa tôi ra!"
     },
     {
       "id": 12,
-      "content": "Four pairs of wings emerged from his back, clicking and twitching."
+      "content": "Bốn cặp cánh mọc ra từ phía sau lưng cậu ta, lẻng xẻng và co giật."
     },
     {
       "id": 13,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Why are you running? You should raise G Corp’s banner and take the lead on the frontlines!"
+      "title": "Người lính được hồi tưởng",
+      "content": "Sao các cậu lại bỏ chạy? Mọi người nên giơ cao khẩu hiệu của Tập đoàn G và xông pha trên tiền tuyến!"
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "I…"
+      "content": "Tôi..."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "I never wanted any of this… Not the procedure, nor the war…"
+      "content": "Tôi chưa từng muốn vậy... Chưa từng muốn trải qua biến đổi, chưa từng muốn tham gia chiến tranh..."
     },
     {
       "id": 16,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Take the lead… Take… T…"
+      "title": "Người lính được hồi tưởng",
+      "content": "Xông pha... Xông... X..."
     },
     {
       "id": 17,
-      "content": "Tomah’s mouth opens unnaturally, and a pair of long antennae begin to grow from his face."
+      "content": "Miệng Tomah mở rộng một cách thiếu tự nhiên, và cặp râu dài dần mọc ra từ mặt cậu ta."
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Yeek… We gotta fight them again? My stomach is gonna turn…"
+      "content": "Ưi... Chúng ta phải chiến họ lần nữa á? Dạ dày tui sắp không chịu..."
     },
     {
       "id": 19,
       "model": "오티스",
-      "content": "What is that display of weakness? Do you wish to be punished for insubordination?"
+      "content": "Sự yếu đuối gì kia? Ngươi muốn bị trừng phạt vì sự bất tuân đó à?"
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<…I think we should run here?>"
+      "content": "<... Tôi nghĩ là lúc này chúng ta nên chạy chứ?>"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "An excellent plan, Manager. You know when to strike and when to withdraw."
+      "content": "Một kế hoạch xuất sắc, thưa Quản Lý. Ngài luôn biết khi nào nên đánh và khi nào nên rút lui."
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…The hell is her deal?"
+      "content": "...Bả bị làm sao thế?"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "content": "…Retreat is not an option."
+      "content": "...Rút lui không phải là sự lựa chọn."
     },
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "I don’t get it. I heard every employee under the corporation had modifications, but it can’t have been this foul."
+      "content": "Tôi không hiểu. Biết là tất cả nhân viên phục vụ dưới trướng tập đoàn đều phải trải qua phẫu thuật cấy ghép, nhưng thế này là đi quá xa rồi."
     },
     {
       "id": 25,
       "model": "파우스트",
-      "content": "What we see here may differ from actual accounts."
+      "content": "Thứ chúng ta nhìn thấy ở đây không phải là thực tế đã xảy ra."
     },
     {
       "id": 26,
       "model": "파우스트",
-      "content": "The path was opened by Gregor’s feelings rather than his memories."
+      "content": "Con đường được mở ra bởi cảm xúc của Gregor hơn là ký ức của anh ta."
     },
     {
       "id": 27,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…This is how he felt in his heart about his own allies."
+      "title": "Fixer Cấp 8",
+      "content": "...Thì ra đây là những cảm nhận sâu thẳm trong tim anh đối với chính đồng minh của mình."
     },
     {
       "id": 28,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Did all the employees in your Wing… receive the augmentation procedure?"
+      "title": "Fixer Cấp 8",
+      "content": "Tất cả nhân viên từ bên Wing của anh... đều được tiếp nhận phương pháp nâng cấp à?"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "…Most did."
+      "content": "...Hầu hết đều thế."
     },
     {
       "id": 30,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Was it done with their consent? That’s so…"
+      "title": "Fixer Cấp 8",
+      "content": "Họ đều tình nguyện? Nếu vậy..."
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "Did the people in L Corp. consent to offering themselves up to Abnormalities?"
+      "content": "Những nhân viên của Tập Đoàn L có tự nguyện dâng hiến thân mình cho lũ Dị Thể không?"
     },
     {
       "id": 32,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That’s… I heard that was written on the contract."
+      "title": "Fixer Cấp 8",
+      "content": "Điều đó...Tôi nghe nói rằng điều đó đã được viết lên trên hợp đồng."
     },
     {
       "id": 33,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "We were never properly informed, though… They said such routine procedures should be skipped for efficient management…"
+      "title": "Fixer Cấp 8",
+      "content": "Chúng tôi không được thông báo một cách chi tiết, có điều... Họ nói rằng một số phương pháp nên được loại bỏ để tăng tính hiệu quả trong việc quản lý..."
     },
     {
       "id": 34,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That we should face the fear."
+      "title": "Fixer Cấp 8",
+      "content": "Rằng chúng tôi nên đối mặt với nỗi sợ."
     },
     {
       "id": 35,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "In the end… anyone who joined the corporation agreed to it, knowingly or not."
+      "title": "Fixer Cấp 8",
+      "content": "Để rồi cuối cùng... những ai tham gia tập đoàn cũng đều chấp nhận hợp đồng, dù có biết rõ về nó hay không."
     },
     {
       "id": 36,
       "model": "그레고르",
-      "content": "…Can guess how it went for us, then."
+      "content": "...Vậy thì chắc cô cũng hiểu bọn tôi đã phải trải qua những gì."
     }
   ]
 }

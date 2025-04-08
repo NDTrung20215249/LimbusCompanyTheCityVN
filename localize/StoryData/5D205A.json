@@ -1,299 +1,360 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pequod",
-            "model": "핍과거",
-            "content": "He got bit, trying to save Pip. The Whale bit him when he tried to save Pip, he..."
-        },
-        {
-            "id": 1,
-            "model": "스타벅과거",
-            "content": "Shit, why'd that oil barrel have to fall on our oarsman...?"
-        },
-        {
-            "id": 2,
-            "model": "스타벅과거",
-            "content": "None of it made sense from the start, making that kid row as a replacement...!"
-        },
-        {
-            "id": 3,
-            "model": "핍과거",
-            "content": "Captain, please tell Pip. Is Stubb going to die?"
-        },
-        {
-            "id": 4,
-            "model": "에이해브과거",
-            "content": "……."
-        },
-        {
-            "id": 5,
-            "model": "에이해브과거",
-            "content": "What did I say?"
-        },
-        {
-            "id": 6,
-            "model": "에이해브과거",
-            "content": "As long as you are my crew! None of you! Shall die without my explicit permission."
-        },
-        {
-            "id": 7,
-            "model": "에이해브과거",
-            "content": "And I don't remember giving any of you permission to die just yet."
-        },
-        {
-            "id": 8,
-            "model": "스텁",
-            "content": "B-but... I... What will happen to..."
-        },
-        {
-            "id": 9,
-            "model": "에이해브과거",
-            "content": "The Pequod is on the brink of reaching the Pallid Whale of hatred! All we need is a good compass that'll lead us to it."
-        },
-        {
-            "id": 10,
-            "model": "에이해브과거",
-            "content": "This Mermaid before us will serve that role better than anything."
-        },
-        {
-            "id": 11,
-            "model": "스텁",
-            "content": "B-but, Captain, I... am not... a Mermaid..."
-        },
-        {
-            "id": 12,
-            "model": "스타벅과거",
-            "content": "…!"
-        },
-        {
-            "id": 13,
-            "model": "에이해브과거",
-            "content": "Whatever that Whale devoured will eventually turn into a Pallid Mermaid. You must know that."
-        },
-        {
-            "id": 14,
-            "model": "에이해브과거",
-            "content": "Incarcerate this Mermaid in the large cistern down by the holds. Its instinct will drive it toward the Whale of hatred."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘과거",
-            "content": "……."
-        },
-        {
-            "id": 16,
-            "model": "스텁",
-            "content": "Captain... Captain... Please, no...!"
-        },
-        {
-            "id": 17,
-            "model": "에이해브과거",
-            "content": "Starbuck, send down a skiff."
-        },
-        {
-            "id": 18,
-            "model": "이스마엘과거",
-            "content": "... What? Now?"
-        },
-        {
-            "id": 19,
-            "model": "스타벅과거",
-            "content": "... Aye."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘과거",
-            "content": "A few moments later, I heard a splash of water. All hands of the ship emerged from their stations and gathered around Ahab."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘과거",
-            "content": "And Ahab... thundered."
-        },
-        {
-            "id": 22,
-            "model": "에이해브과거",
-            "content": "Ooh! I hear him! Listen well, for it is Stubb who speaks! Heed his voice!"
-        },
-        {
-            "id": 23,
-            "model": "핍과거",
-            "content": "…?"
-        },
-        {
-            "id": 24,
-            "model": "이스마엘과거",
-            "content": "What the hell is she..."
-        },
-        {
-            "id": 25,
-            "model": "에이해브과거",
-            "content": "All of you! Listen well! The voice of the great sailor Stubb echoes from across that Lake! The great sailor Stubb who so willingly threw his life in danger for the hunt of the Whale!"
-        },
-        {
-            "id": 26,
-            "model": "스텁그림자",
-            "content": "... I... the great..."
-        },
-        {
-            "id": 27,
-            "model": "에이해브과거",
-            "content": "In our urgency, we had no time to bring him back aboard!"
-        },
-        {
-            "id": 28,
-            "model": "에이해브과거",
-            "content": "Yet he lives! He did not die! Though he is overboard, floating on the Lake after this fateful battle, he will soon find safety aboard the skiff I have lowered for him!"
-        },
-        {
-            "id": 29,
-            "model": "에이해브과거",
-            "content": "He shouts! Oh yes, he bellows for our victory! And he bellows that we must go on, sail forth to victory!"
-        },
-        {
-            "id": 30,
-            "model": "이스마엘과거",
-            "content": "What kind of insanity is..."
-        },
-        {
-            "id": 31,
-            "model": "퀴케그과거",
-            "content": "... We. Sail forth."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘과거",
-            "content": "... Queequeg?"
-        },
-        {
-            "id": 33,
-            "model": "에이해브과거",
-            "content": "This voyage will soon meet its victorious end. Then I shall sail to the nearest port!"
-        },
-        {
-            "id": 34,
-            "model": "에이해브과거",
-            "content": "And there he shall await us, the great Stubb! With a profound smile he shall greet us."
-        },
-        {
-            "id": 35,
-            "model": "에이해브과거",
-            "content": "He will be rightly rewarded. And of course, we will all share tales of this long voyage over many sleepless nights!"
-        },
-        {
-            "id": 36,
-            "model": "스텁그림자",
-            "content": "With... a profound... smile... I..."
-        },
-        {
-            "id": 37,
-            "model": "에이해브과거",
-            "content": "And there you shall all be as well! We will buy rounds upon rounds of drinks for everyone in the tavern in Stubb's name!"
-        },
-        {
-            "id": 38,
-            "model": "에이해브과거",
-            "content": "Once! This voyage is over! EVERYTHING! WILL! COME TO BE!"
-        },
-        {
-            "id": 39,
-            "model": "스타벅과거",
-            "content": "... Once this voyage is over."
-        },
-        {
-            "id": 40,
-            "model": "퀴케그과거",
-            "content": "Once this voyage... Over."
-        },
-        {
-            "id": 41,
-            "model": "스텁그림자",
-            "content": "Once... this voyage... is over..."
-        },
-        {
-            "id": 42,
-            "model": "스텁그림자",
-            "content": "The Whale of Hatred... is finally... in our sights..."
-        },
-        {
-            "id": 43,
-            "model": "스텁그림자",
-            "content": "You'll kill it, right...? Captain..."
-        },
-        {
-            "id": 44,
-            "model": "에이해브과거",
-            "content": "Let us answer his calling! We will kill the Whale of Hatred... WE WILL KILL THE PALLID WHALE!"
-        },
-        {
-            "id": 45,
-            "model": "에이해브과거",
-            "content": "All aboard, men! All aboard for the hunt for the evil...!"
-        },
-        {
-            "id": 46,
-            "model": "에이해브과거",
-            "content": "All aboard on this voyage to hunt the fount of all evils of the world, of the City, the hateful evil that pushes you all to the brink of death!"
-        },
-        {
-            "id": 47,
-            "model": "에이해브과거",
-            "content": "All of your struggles, all of your injustices, all of your pains and losses... that very evil sprang forth from that very Whale..."
-        },
-        {
-            "id": 48,
-            "model": "에이해브과거",
-            "content": "So we'll kill it! We'll kill it and watch as the new dawn breaks upon a world that has been mended!"
-        },
-        {
-            "id": 49,
-            "model": "퀴케그과거",
-            "content": "... Aye!"
-        },
-        {
-            "id": 50,
-            "model": "에이해브과거",
-            "content": "SHOUT! BELLOW!"
-        },
-        {
-            "id": 51,
-            "model": "스타벅과거",
-            "content": "Aye, Captain...!"
-        },
-        {
-            "id": 52,
-            "model": "핍과거",
-            "content": "Ehehehe, goodbye! Stubb!! Let's meet again! Again, and again!"
-        },
-        {
-            "id": 53,
-            "model": "스텁그림자",
-            "content": "... Aye!!!"
-        },
-        {
-            "id": 54,
-            "model": "이스마엘과거",
-            "content": "Yeah. It'll all be over when we kill the Pallid Whale."
-        },
-        {
-            "id": 55,
-            "model": "이스마엘과거",
-            "content": "When we kill the Whale of all evils..."
-        },
-        {
-            "id": 56
-        },
-        {
-            "id": 57,
-            "place": "The Pallid Whale's Right Ventricle",
-            "model": "단테",
-            "content": "<So all along, we've not only...>"
-        },
-        {
-            "id": 58,
-            "model": "단테",
-            "content": "<... been trapped inside the Whale, but also in her palms, all along...>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đoàn Pequod",
+                "model":"핍과거",
+                "content":"Anh ấy bị cắn, cố cứu Pip. Cá Voi cắn anh ấy khi đang cố cứu Pip, anh ấy..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Chó chết, sao thúng dầu đấy lại rơi xuống tay chèo của chúng ta...?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Từ lúc đầu, mọi thứ chẳng có nghãi gì, bắt thằng nhóc phải chèo thay...!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"핍과거",
+                "content":"Thuyền trưởng, nói Pip nghe. Stubb sẽ chết chứ?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"……."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Ta đã nói gì nào?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Chừng nào các ngươi còn là thuyền viên của ta! Không một ai! Được phép chết khi chưa có sự cho phép của ta."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Và ta không nhớ đã cho các ngươi quyền được chết ngay lập tức cả."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"스텁",
+                "content":"Nh-nhưng...tôi... Chuyện gì sẽ xảy ra..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Tàu Pequod đã sắp sửa đến được chỗ con Cá Voi Trắng của thù hận rồi! Những gì chúng ta cần là một cái la bàn dẫn tất cả chúng ta đến với nó."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Con Người Cá trước mắt chúng ta sẽ thực hiện vai trò đó tốt hơn tất cả mọi thứ."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"스텁",
+                "content":"Nh-nhưng, Thuyền trưởng, tôi...không phải...là Người Cá..."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"…!"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Bất kỳ thứ gì con Cá Voi đó nuốt chửng đều sẽ biến thành Người Cá Trắng. Ngươi hẳn đã biết điều đó."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Giam con Người Cá này vào cái bể to nhất dưới hầm chứa. Bản năng của nó sẽ dẫn nó thẳng đến chỗ con Cá Voi của thù hận."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"……."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"스텁",
+                "content":"Thuyền trưởng... Thuyền trưởng... Làm ơn, đừng...!"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Starbuck, hạ cái thuyền xuống ngay."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Hả? Gì cơ?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"... Vâng."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Một lúc sau, tôi nghe có tiếng quẫy nước. Toàn bộ thuyền viên rời khỏi vị trí của mình rồi vây quanh Ahab."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Và Ahab... hét lớn."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Ồ! Ta nghe thấy hắn rồi! Nghe kỹ đi, chính Stubb đang lên tiếng đấy! Nghe cho rõ giọng hắn đi!"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"핍과거",
+                "content":"…?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Bà ấy đang nói cái quái..."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Tất cả các ngươi! Dỏng cái tai lên mà nghe cho rõ! Giọng của thuỷ thủ vĩ đại Stubb đang vang vọng từ cái Hồ đó! Thuỷ thủ vĩ đại Stubb kẻ sẵn lòng mạo hiểm mạng sống của hắn cho cuộc đi săn Cá Voi!"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"스텁그림자",
+                "content":"...Ta...kẻ vĩ đại..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Trong sự gấp rút, chúng ta không còn thời gian để mang hắn quay lại tàu nữa!"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Nhưng hắn vẫn sống! Hắn không hề chết! Dù hắn đã bị hất văng khỏi tàu, trôi dạt trên mặt Hồ sau cuộc chiến định mệnh này, hắn sẽ sớm được an toàn trên con thuyền mà ta đã hạ xuống cho hắn!"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Hắn gào thét! Đúng rồi, hắn rống lên thắng lợi của chúng ta! Và hắn rống lên rằng chúng ta phải tiến lên, giương buồm tới chiến thắng vinh quang!"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Bà ta điên rồi s..."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"... Chúng ta. Tiếp tục giương buồm."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Queequeg?"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Chuyến khởi hành này sẽ sớm đến được thắng lợi vẻ vang. Rồi ta sẽ giương buồm đến cảng tàu gần nhất!"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Rồi tại đó hắn sẽ đợi chờ chúng ta, Stubb vĩ đại! Cùng một nụ cười sâu sắc chào đón tất cả chúng ta."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Hắn sẽ được trọng thưởng xứng đáng. Và tất nhiên, tất cả chúng ta sẽ chia sẻ câu chuyện về chuyến hành trình dài đằng đẵng qua những đêm dài ròng rã không thể ngủ yên!"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"스텁그림자",
+                "content":"Cùng với...một nụ cười...sâu sắc... Ta sẽ..."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Và tất cả các ngươi đều sẽ có mặt ở đó! Chúng ta sẽ chiêu đãi vô vàn chầu rượu cho tất cả mọi người trong quán rượu nhân danh tên của Stubb!"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Một khi! Hải trình này kết thúc! MỌI THỨ! SẼ! THÀNH HIỆN THỰC!"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"... Một khi hải trình này kết thúc."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Một khi hải trình này... Kết thúc."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"스텁그림자",
+                "content":"Một khi...hải trình này...kết thúc..."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"스텁그림자",
+                "content":"Con Cá Voi của Thù Hận...cuối cùng cũng...trong tầm ngắm của chúng ta..."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"스텁그림자",
+                "content":"Bà sẽ giết nó, đúng không...? Thuyền trưởng..."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Chúng ta hãy trả lời tiếng gọi của hắn! Chúng ta sẽ giết con Cá Voi của Thù Hận... CHÚNG TA SẼ GIẾT CHẾT CÁ VOI TRẮNG!"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Tất cả trên tàu, nghe lệnh! Tất cả chuẩn bị sẵn sàng cho cuộc đi săn cái ác...!"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Tất cả trên tàu trên chuyến khởi hành đi săn nguồn cơn của mọi tội lỗi của thế giới này, của the City, cái ác hận thù đã đẩy tất cả các ngươi đến bờ vực của cái chết!"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Toàn bộ sự chật vật của các ngươi, toàn bộ sự bất công của các ngươi, toàn bộ nỗi đau và mất mát của các ngươi...chính cái tà ác đó đã xuất hiện từ chính con Cá Voi đó..."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"Nên chúng ta sẽ giết nó! Chúng ta sẽ giết nó và ngắm nhìn bình minh đón chào một thế giới đã được hàn gắn lại."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"... Vâng!"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"에이해브과거",
+                "content":"GÀO LỚN LÊN! RỐNG MẠNH LÊN!"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Vâng, thưa Thuyền trưởng...!"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"핍과거",
+                "content":"He he he, tạm biệt! Stubb! Mình gặp lại sau nhé! Sau đó và nhiều nữa nhé!"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"스텁그림자",
+                "content":"...Đã rõ!!!"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Đúng vậy. Mọi chuyện sẽ kết thúc khi chúng ta giết được Cá Voi Trắng."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Khi ta giết được con Cá Voi ác quỷ..."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":null,
+                "content":null
+            },
+            {
+                "id":57,
+                "place":"Tâm Thất Phải của Cá Voi Trắng",
+                "model":"단테",
+                "content":"<Vậy sau tất cả, chúng ta không chỉ...>"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"단테",
+                "content":"<...mắc kẹt bên trong con Cá Voi, mà đã luôn nằm trong lòng bàn tay của bà ấy...>"
+            }
+        ]
+    }
+

@@ -1,262 +1,366 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "The Old Sinclair Estate",
-      "model": "싱클레어",
-      "content": "Rrraaaaaaah!!!"
-    },
-    {
-      "id": 1,
-      "model": "히스클리프",
-      "content": "Hey, wait…!"
-    },
-    {
-      "id": 2,
-      "content": "Sinclair leapt forth to chase Kromer before anyone could stop him."
-    },
-    {
-      "id": 3,
-      "content": "However, he’s blocked by the remaining N Corp. Inquisitors."
-    },
-    {
-      "id": -1,
-      "model": "//효과음 – 퍽"
-    },
-    {
-      "id": 4,
-      "content": "In response, he swings his weapon with a tremendous force I never thought he could exert, crushing the head of the one who grabbed him."
-    },
-    {
-      "id": 5,
-      "content": "The Inquisitor collapses to the ground before even a gasp could escape their mouth."
-    },
-    {
-      "id": 6,
-      "content": "Sinclair would normally keep to the back of our group; this was the first time I saw him charge in unprompted like that."
-    },
-    {
-      "id": 7,
-      "model": "히스클리프",
-      "content": "…What the—? The hell have you been dawdling in the back for if you could do that?"
-    },
-    {
-      "id": 8,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I remember with clarity that I had ended your lives."
-    },
-    {
-      "id": 9,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I undoubtedly witnessed torn brain tissue spill through the cracks in your skulls."
-    },
-    {
-      "id": 10,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "And yet, here you heretics are, before me on your feet."
-    },
-    {
-      "id": 11,
-      "model": "그레고르",
-      "content": "You’re not the one to complain about miraculous recoveries…"
-    },
-    {
-      "id": 12,
-      "content": "Guido examines me closely with his piercing glare."
-    },
-    {
-      "id": 13,
-      "content": "He then slowly nods as if his observation gave him the knowledge he needed."
-    },
-    {
-      "id": 14,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You there, the one possessing the head of a heretic."
-    },
-    {
-      "id": 15,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You must be the false shepherd enticing this herd into blasphemy."
-    },
-    {
-      "id": 16,
-      "content": "He proceeds to nudge his chin at the nailed corpses in the courtyard."
-    },
-    {
-      "id": 17,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "They committed the grave sin of entering the site of hallowed rites with their unclean bodies."
-    },
-    {
-      "id": 18,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Thus, they have been punished with the same penalty as heretics receive."
-    },
-    {
-      "id": 19,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "They have also been subjected to the humiliation of bodily mechanical intrusions being installed against their will."
-    },
-    {
-      "id": 20,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "But you are different."
-    },
-    {
-      "id": 21,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "The sin of worshipping a heretic is less severe than indulging in heresy oneself."
-    },
-    {
-      "id": 22,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Therefore, as long as you are willing to repent and cleanse your minds of sin…"
-    },
-    {
-      "id": 23,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "We, the Hammer, are willing to demonstrate forgiveness."
-    },
-    {
-      "id": 24,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "So I implore you, ye pitiable foolish sinners, led astray by temptation."
-    },
-    {
-      "id": 25,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Shake off the allure of that false miracle, and kneel before me."
-    },
-    {
-      "id": 26,
-      "content": "The confrontation came to a standstill. No one seemed willing to speak first."
-    },
-    {
-      "id": 27,
-      "model": "단테",
-      "content": "<So you’ve all been under my spell or something all along? Who’d’ve thought that.>"
-    },
-    {
-      "id": 28,
-      "content": "I tried cracking a joke to lighten the mood a little, but no one laughed."
-    },
-    {
-      "id": 29,
-      "model": "이스마엘",
-      "content": "Dante… That man… He just insulted you. He doesn’t even see you as a human being."
-    },
-    {
-      "id": 30,
-      "model": "단테",
-      "content": "<I mean, you guys call me clockface all the time too…>"
-    },
-    {
-      "id": 31,
-      "model": "이스마엘",
-      "content": "That’s not the same at all! Besides, I’ve never used that nickname…"
-    },
-    {
-      "id": 32,
-      "content": "Ishmael grunted."
-    },
-    {
-      "id": 33,
-      "model": "히스클리프",
-      "content": "So you think throwing some fancy words around will be enough to persuade us, eh…"
-    },
-    {
-      "id": 34,
-      "model": "히스클리프",
-      "content": "Listen up, Faceplate: You’re the one who needs a little shaking off. Seems to me your human brain’s just as defective."
-    },
-    {
-      "id": 35,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "……"
-    },
-    {
-      "id": 36,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You were given ample opportunity."
-    },
-    {
-      "id": 37,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You are no different from those we hung and nailed after all."
-    },
-    {
-      "id": 38,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I am a Hammer."
-    },
-    {
-      "id": 39,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I am a tool for the One Who Grips, tasked with the great mission of piercing the false flesh of heretics."
-    },
-    {
-      "id": 40,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I shall bind thee to a nail, and lay thee down furthest from soil."
-    },
-    {
-      "id": 41,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "For he who shan’t repent…"
-    },
-    {
-      "id": 42,
-      "model": "히스클리프",
-      "content": "Oi, when are you gonna finish your stupidly long taunt?"
-    },
-    {
-      "id": 43,
-      "model": "귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "…is not granted rest beneath the earth."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Dinh Thự Cũ Nhà Sinclair",
+                "model":"싱클레어",
+                "content":"Áaaaaaaaa!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Này, khoan…!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Sinclair dốc sức, điên cuồng lao đến chỗ Kromer trước khi bất kỳ ai có thể cản cậu ấy lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"Tuy nhiên, cậu ấy bị cản lại bởi các Phán Quan Tập Đoàn N còn sống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "model":"\/\/효과음 – 퍽",
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Đáp lại động thái đó, cậu ấy vung vũ khí với một lực cực kỳ mạnh đến nỗi tôi nghĩ cậu ấy vốn không thể làm được, đập nát sọ não của người vừa mới tóm lấy cậu ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Tên Phán Quan đó gục ngã xuống đất mà chưa kịp thốt lên một tiếng đau đớn nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Sinclair thường sẽ lủi thủi đằng sau nhóm của chúng tôi; nhưng đây là lần đầu tiên tôi thấy cậu ấy chạy thẳng về phía kẻ địch một cách bốc đồng như thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프",
+                "content":"…Cái gì-? Trước giờ mày mạnh thế thì núp sau nhóm làm gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"귀도",
+                "content":"Ta nhớ rõ đã chấm dứt mạng sống của các ngươi.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"귀도",
+                "content":"Ta đã tận mắt chứng kiến mô não tràn ra từ vết nứt hộp sọ các ngươi.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"귀도",
+                "content":"Và giờ đây, lũ dị giáo các người, đang đứng trước mặt ta.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ngươi thì có khác gì đâu mà nói bọn ta…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Guido cẩn thận quan sát tôi bằng đôi mắt lăm le đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Ông ta khẽ gật đầu như thể đã hiểu được điều ông ta cần biết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"귀도",
+                "content":"Tên kia, kẻ mang trên mình cái đầu dị giáo.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"귀도",
+                "content":"Ngươi hẳn là kẻ chăn chiên giả tạo, lôi kéo những tín đồ này tin vào những lời bổ báng.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Sau đó ông ta huých cằm chỉ về những cái xác bị đóng đinh trong khuôn vườn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"귀도",
+                "content":"Chúng đã đắc tội khi dám xâm phạm vào chốn linh thiêng với cơ thể ô uế đấy.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"귀도",
+                "content":"Do đó, chúng đã bị trừng phạt như những kẻ dị giáo.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"귀도",
+                "content":"Chúng cũng sẽ chịu đựng sự sỉ nhục khi có những bộ phận máy móc lắp đặt trái ý muốn lên cơ thể.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"귀도",
+                "content":"Nhưng ngươi thì khác.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"귀도",
+                "content":"Tội tôn thờ kẻ dị giáo thì không nghiêm trọng bằng tự mình sa đọa.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"귀도",
+                "content":"Chính vì vậy, nếu như ngươi có ý muốn sám hối và gột rửa tội lỗi trong tâm hồn…",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"귀도",
+                "content":"Bọn ta, Cây Búa, sẽ cho các ngươi thấy bọn ta độ lượng như thế nào.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"귀도",
+                "content":"Nên ta khẩn cầu các ngươi, hỡi những kẻ tội đồ ngu ngốc, bị dẫn dắt bởi sự cám dỗ.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"귀도",
+                "content":"Vứt bỏ sự ngọt ngào của phép màu giả tạo đi, và quỳ xuống trước ta.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Cuộc đối thoại rơi vào bế tắc. Không một ai muốn lên tiếng trước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테",
+                "content":"<Chà, vậy là mọi người đều bị tôi bỏ bùa mê thuốc lú hay gì đó sao? Ai mà ngờ được chứ.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Tôi cố nói một câu đùa để xua tan bầu không khí u ám này đi, nhưng không ai cười cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Dante… Gã đó… Hắn vừa mới sỉ nhục ngài đấy. Hắn thậm chí còn chẳng xem ngài là một con người nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"단테",
+                "content":"<Ý tôi là, mọi người hay gọi tôi là mặt đồng hồ suốt đó thôi…>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đấy là chuyện hoàn toàn khác! Với cả tôi chưa bao giờ gọi ngài như thế cả…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Ishmael càu nhàu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày nghĩ mày nhả lời văn hoa thì thuyết phục được bọn tao à…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nghe này, Mặt Sắt: Mày mới là đứa cần tỉnh ngộ. Từ phía tao có vẻ não thịt của mày cũng thối như ai thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"귀도",
+                "content":"……",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"귀도",
+                "content":"Các ngươi đã được trao cho vô số cơ hội.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"귀도",
+                "content":"Các ngươi không khác gì đám mà bọn ta đã treo lên và đóng cọc ở ngoài kia cả.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"귀도",
+                "content":"Ta là Cây Búa.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"귀도",
+                "content":"Ta là công cụ cho Người Nắm Giữ, được giao nhiệm vụ cao cả phải đâm xiên da thịt giả tạo bọn dị giáo.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"귀도",
+                "content":"Ta sẽ đóng các ngươi vào chiếc đinh, và không chôn lấp các ngươi.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"귀도",
+                "content":"Vì kẻ không biết sám hối…",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ê, rồi mày sủa xong chưa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"귀도",
+                "content":"…sẽ không bao giờ được an nghỉ dưới đất mẹ.",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            }
+        ]
     }
-  ]
-}
+

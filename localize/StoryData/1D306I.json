@@ -2,21 +2,21 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
       "content": "……"
     },
     {
       "id": 1,
-      "content": "The Abnormality devoured Yuri in one bite."
+      "content": "Dị Thể nuốt chửng Yuri chỉ trong một lần."
     },
     {
       "id": 2,
-      "content": "She was gone without a trace…"
+      "content": "Cô ấy biến mất không một dấu vết..."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<I can save the other Sinners… but there’s nothing I can do about Yuri.>"
+      "content": "<Tôi có thể cứu những Tội Nhân khác... nhưng tôi không thể làm được gì cho Yuri hết.>"
     },
     {
       "id": 4,
@@ -25,11 +25,11 @@
     },
     {
       "id": 5,
-      "content": "Without a word, Gregor hacked and slashed away at the Abnormality."
+      "content": "Không một lời nào, Gregor chặt chém liên tiếp vào con Dị Thể kia."
     },
     {
       "id": 6,
-      "content": "As if he expected to find Yuri unscathed by slicing the apple open."
+      "content": "Như thể anh ấy hy vọng sẽ tìm thấy Yuri với không một vết xước bằng cách cắt toang quả táo."
     }
   ]
 }

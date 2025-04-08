@@ -1,521 +1,790 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "K Corp. Laboratory Lobby",
-            "content": "As soon as we got back to the lobby, we could see panic-struck employees run before Dongrang and Samjo."
-        },
-        {
-            "id": 1,
-            "model": "K사연구원3",
-            "teller": "Hurrying Researcher",
-            "title": "K Corp. Laboratory",
-            "content": "Mr. Dongrang... A moment, please...!"
-        },
-        {
-            "id": 2,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha, you've all turned pale. Ah, pardon me for a moment."
-        },
-        {
-            "id": 3,
-            "model": "단테",
-            "content": "<The situation looks pretty tense. It's kinda awkward to stand still like this...>"
-        },
-        {
-            "id": 4,
-            "content": "As I meandered in the lobby murmuring meaningless things to myself, Don Quixote scuttled to a shelf."
-        },
-        {
-            "id": 5,
-            "model": "돈키호테",
-            "content": "Oho, what manner of books are these? The pictures glitter brightly!"
-        },
-        {
-            "id": 6,
-            "content": "Sounding a merry hum, she picked up a storybook."
-        },
-        {
-            "id": 7,
-            "content": "I peeked at the book she opened."
-        },
-        {
-            "id": 8,
-            "content": "Yi Sang also turned his gaze toward the book, possibly bothered by something about it..."
-        },
-        {
-            "id": 9,
-            "content": "Soon, a golden haze unfolded."
-        },
-        {
-            "id": 10,
-            "content": "<i>Once upon a time, when everyone had their heads down and eyes fixed on the ground, there was a person who looked up into the sky.</i>"
-        },
-        {
-            "id": 11,
-            "content": "<i>In their eyes were twinkling stars.</i>"
-        },
-        {
-            "id": 12,
-            "content": "<i>Connecting the nameless stars no one else would look at,</i>"
-        },
-        {
-            "id": 13,
-            "content": "<i>The person gave them names, and made up stories for them as they liked.</i>"
-        },
-        {
-            "id": 14,
-            "content": "<i>Stories are like skeins of thread without an end;</i>"
-        },
-        {
-            "id": 15,
-            "content": "<i>They're drawn and woven together in an effort to find meaning from meaninglessness.</i>"
-        },
-        {
-            "id": 16,
-            "content": "<i>All kinds of stories in the world, happy and sad, circled in the night sky.</i>"
-        },
-        {
-            "id": 17,
-            "content": "<i>Then one day, the person's family fell deeply sick, their life nearing its end.</i>"
-        },
-        {
-            "id": 18,
-            "content": "<i>Like any other day, the person spoke into the sky about the grief they felt.</i>"
-        },
-        {
-            "id": 19,
-            "content": "<i>And then...</i>"
-        },
-        {
-            "id": 20,
-            "content": "<i>A droplet of water fell onto the person's head.</i>"
-        },
-        {
-            "id": 21,
-            "content": "<i>Looking up, the person found the constellation talking to them.</i>"
-        },
-        {
-            "id": 22,
-            "content": "<i>'Dear person who named me and gave me a story, thanks to you, I was cast onto the land and pushed by the flow of time, feeling the world in full.'</i>"
-        },
-        {
-            "id": 23,
-            "content": "<i>'Did you know that stars can grant wishes?'</i>"
-        },
-        {
-            "id": 24,
-            "content": "<i>'The tears I shed will clear you of your pain.'</i>"
-        },
-        {
-            "id": 25,
-            "content": "<i>Afterwards, a rain fell onto the world for a day and a half.</i>"
-        },
-        {
-            "id": 26,
-            "content": "<i>Everyone caught in the rain was all healed up.</i>"
-        },
-        {
-            "id": 27,
-            "content": "<i>The person's ill family recovered to health, too.</i>"
-        },
-        {
-            "id": 28,
-            "content": "<i>Since then, the person and their family, as well as all the residents of the city, have looked up at the sky and talked about happiness every night.</i>"
-        },
-        {
-            "id": 29,
-            "model": "이스마엘",
-            "content": "That explains it. I read that Nest K has a custom of walking outside without an umbrella to stand in the rain on the night of a certain month every year..."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "...Don't tell me, am I alone in this again? Have none of you checked out the pamphlet guide to K Corp's Nest and Backstreets until now? No one?"
-        },
-        {
-            "id": 31,
-            "model": "로쟈",
-            "content": "Oh, that thing... I used mine to whack some bugs... So I gotta get a... new one..."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘",
-            "content": "Does this look like the time to be joking around, Rodya?!"
-        },
-        {
-            "id": 33,
-            "content": "Rodya didn't look like she was joking at all, but Ishmael seemed unaware of it."
-        },
-        {
-            "id": 34,
-            "model": "싱클레어",
-            "content": "By the way, that story... It feels similar to what the regeneration ampule does, doesn't it?"
-        },
-        {
-            "id": 35,
-            "model": "싱클레어",
-            "content": "That rain that restores you to health..."
-        },
-        {
-            "id": 36,
-            "model": "그레고르",
-            "content": "Yeah, so... You trying to say it was made from rains dropped by stars?"
-        },
-        {
-            "id": 37,
-            "model": "로쟈",
-            "content": "Wait, wasn't it nanobots and not watery stuff in the first place?"
-        },
-        {
-            "id": 38,
-            "model": "단테",
-            "content": "<What do you think, Faust?>"
-        },
-        {
-            "id": 39,
-            "model": "파우스트",
-            "content": "I am a woman of science. I prefer judgement based on facts over metaphors."
-        },
-        {
-            "id": 40,
-            "model": "파우스트",
-            "content": "This... so-called analysis and interpretation of stars and clouds might be an area Yi Sang is more familiar with."
-        },
-        {
-            "id": 41,
-            "model": "파우스트",
-            "content": "He's a researcher like me, but we're not quite the same."
-        },
-        {
-            "id": 42,
-            "model": "이상",
-            "content": "……"
-        },
-        {
-            "id": 43,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We'd better hurry. The situation seems pretty serious."
-        },
-        {
-            "id": 44,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I hear they managed to storm all the way into rooms where experiments are conducted this time."
-        },
-        {
-            "id": 45,
-            "model": "돈키호테",
-            "content": "Hmm? Does this place not seem too peaceful for such a dire predicament? I see nary a man running away!"
-        },
-        {
-            "id": 46,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It does appear that there's been an evacuation order. However, as you witnessed last time, this is not the first emergency that occurred this week. They might be worried that evacuating again could disrupt the 70-hour workweek policy."
-        },
-        {
-            "id": 47,
-            "model": "단테",
-            "content": "<Working in this kind of place is not easy, huh...>"
-        },
-        {
-            "id": 48,
-            "model": "오티스",
-            "content": "I don't get it. How was this attack possible? It didn't seem like a structure that allowed intruders to sneak into the room undetected."
-        },
-        {
-            "id": 49,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We're running short of time, so I'll explain as we go up."
-        },
-        {
-            "id": 50,
-            "model": "료슈",
-            "content": "Object."
-        },
-        {
-            "id": 51,
-            "model": "료슈",
-            "content": "Give one reason we should go with you."
-        },
-        {
-            "id": 52,
-            "model": "뫼르소",
-            "content": "Indeed. The contract has been fulfilled."
-        },
-        {
-            "id": 53,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That's true. But, as much as I want to give the Bough to you, it's been taken before our eyes."
-        },
-        {
-            "id": 54,
-            "model": "료슈",
-            "content": "Hmgh... TRASHES..."
-        },
-        {
-            "id": 55,
-            "model": "로쟈",
-            "content": "Is this... really right? Hey... What does the contract exactly say?"
-        },
-        {
-            "id": 56,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Hm... I couldn't say, I'm not all too knowledgeable when it comes to legal matters..."
-        },
-        {
-            "id": 57,
-            "content": "Instead of arguing back as usual, Samjo suddenly got busy wiping his glasses."
-        },
-        {
-            "id": 58,
-            "model": "료슈",
-            "content": "S.A."
-        },
-        {
-            "id": 59,
-            "model": "싱클레어",
-            "content": "Mister Samjo... She wants answers..."
-        },
-        {
-            "id": 60,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Mm?"
-        },
-        {
-            "id": 61,
-            "model": "료슈",
-            "content": "S.A...!"
-        },
-        {
-            "id": 62,
-            "model": "싱클레어",
-            "content": "S-Samjo... She says she'll assail you this time...!"
-        },
-        {
-            "id": 63,
-            "model": "료슈",
-            "content": "Wrong. I said I'll assail him right now."
-        },
-        {
-            "id": 64,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "T-This is an emergency, an emergency!!! You should go upstairs, quickly!"
-        },
-        {
-            "id": 65,
-            "model": "단테",
-            "content": "<L-Let's hurry along for now, Ryōshū...>"
-        },
-        {
-            "id": 66,
-            "model": "료슈",
-            "content": "I'll show SANGRIA... I swear it."
-        },
-        {
-            "id": 67,
-            "content": "Samjo urgently sent us upstairs."
-        },
-        {
-            "id": 68,
-            "place": "Ruined K Corp. Laboratory Hallway",
-            "content": "The hallway that was clean and calm hours ago..."
-        },
-        {
-            "id": 69,
-            "content": "Has now turned into complete mayhem, filled with screams and fleeing people."
-        },
-        {
-            "id": 70,
-            "content": "A researcher was crying and clinging to someone who appeared to be a liberation alliance member."
-        },
-        {
-            "id": 71,
-            "model": "K사연구원2",
-            "teller": "Dying Researcher",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Help me... Mr. Dongrang... Please, save me..."
-        },
-        {
-            "id": 72,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My staff member... is begging for help, wouldn't you consider letting them go?"
-        },
-        {
-            "id": 73,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "If it's intelligence you want, I'll give it to you. We were planning to go out for a staff dinner tomorrow, and the restaurant we booked serves such delicious meat."
-        },
-        {
-            "id": 74,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It'd be rather unfortunate if the smell awaiting us tomorrow came from incense sticks at a funeral instead of meat on a grill. Wouldn't you agree?"
-        },
-        {
-            "id": 75,
-            "model": "기술해방연합1",
-            "teller": "Alliance Member",
-            "title": "Technology Liberation Alliance",
-            "content": "Intelligence? We have no need for it."
-        },
-        {
-            "id": 76,
-            "model": "히스클리프",
-            "content": "Huh, you're walking in unarmed now? What happened to your robots that did the fighting for you wimps?"
-        },
-        {
-            "id": 77,
-            "model": "기술해방연합1",
-            "teller": "Alliance Member",
-            "title": "Technology Liberation Alliance",
-            "content": "We have no need to bring our robots, either."
-        },
-        {
-            "id": 78,
-            "model": "기술해방연합1",
-            "teller": "Alliance Member",
-            "title": "Technology Liberation Alliance",
-            "content": "I see plenty of useful-looking ones here."
-        },
-        {
-            "id": 79,
-            "model": "오티스",
-            "content": "...Are you trying to...?"
-        },
-        {
-            "id": 80,
-            "model": "검문소경비2",
-            "teller": "Class 2 Excision Staff",
-            "title": "K Corp.",
-            "content": "We were ordered to excise terrorists. Target: all parts."
-        },
-        {
-            "id": 81,
-            "model": "이스마엘",
-            "content": "Huff. We outnumber them by a wide margin. It might be a little unfair, but... it seems like we won't have any trouble beating them."
-        },
-        {
-            "id": 82,
-            "model": "기술해방연합1",
-            "teller": "Alliance Member",
-            "title": "Technology Liberation Alliance",
-            "content": "Ms. Ran's expertise was hijacking machines."
-        },
-        {
-            "id": 83,
-            "model": "기술해방연합1",
-            "teller": "Alliance Member",
-            "title": "Technology Liberation Alliance",
-            "content": "She was more experienced in hacking than fighting."
-        },
-        {
-            "id": 84,
-            "model": "K사앰플기계",
-            "teller": "Ampule Helper",
-            "title": "K Corp.",
-            "content": "Welcome. Here at K Corp, we value your safety above all else."
-        },
-        {
-            "id": 85,
-            "model": "검문소경비",
-            "teller": "Class 2 Excision Staff",
-            "title": "K Corp.",
-            "content": "Huh, wait... What's..."
-        },
-        {
-            "id": 86,
-            "model": "K사앰플기계",
-            "teller": "Ampule Helper",
-            "title": "K Corp.",
-            "content": "For everyone's safety, deserters attempting to flee from battle will be injected with a decay ampule according to regulatory rules. The ampule will be launched if you leave the 120-meter radius of the combat area; you are 49 meters away from the perimeter."
-        },
-        {
-            "id": 87,
-            "model": "검문소경비",
-            "teller": "Class 2 Excision Staff",
-            "title": "K Corp.",
-            "content": "...Shoot..."
-        },
-        {
-            "id": 88,
-            "model": "해킹당한K사앰플기계",
-            "teller": "Ampule Helper",
-            "title": "K Corp.",
-            "content": "If you do not attack the enemy within the next 5 seconds, the decay ampule will be administered according to regulatory rules. You have 4 seconds remaining."
-        },
-        {
-            "id": 89,
-            "model": "단테",
-            "content": "<Wait, are we... the \"enemy\" now?>"
-        },
-        {
-            "id": 90,
-            "model": "검문소경비",
-            "teller": "Class 2 Excision Staff",
-            "title": "K Corp.",
-            "content": "Damn it... I've got no choice..."
-        },
-        {
-            "id": 91,
-            "model": "뫼르소",
-            "content": "…!"
-        },
-        {
-            "id": 92,
-            "model": "돈키호테",
-            "content": "Why...!"
-        },
-        {
-            "id": 93,
-            "model": "검문소경비",
-            "teller": "Class 2 Excision Staff",
-            "title": "K Corp.",
-            "content": "I... don't wanna get hit by the decay ampule. I want to live..."
-        },
-        {
-            "id": 94,
-            "model": "해킹당한K사앰플기계",
-            "teller": "Ampule Helper",
-            "title": "K Corp.",
-            "content": "Current status: no deserters detected, all status green. Please stand in line for regeneration ampules."
-        },
-        {
-            "id": 95,
-            "model": "뫼르소",
-            "content": "…I see."
-        },
-        {
-            "id": 96,
-            "model": "오티스",
-            "content": "They're weighing their lives with ours, not unlike what we do. Please permit us to engage."
-        },
-        {
-            "id": 97,
-            "model": "단테",
-            "content": "<...Got it.>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sảnh Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Ngay khi trở về sảnh chờ, chúng tôi nhìn thấy những nhân viên hoảng hốt đang chạy về phía của Dongrang và Samjo.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Ngài Dongrang... phiền ngài đợi...!",
+                "model":"K사연구원3",
+                "teller":"Nhà Nghiên Cứu Vội Vã",
+                "title":"Phòng Thí Nghiệm T.Đoàn K"
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Ha ha, mặt anh tái mét lên cả rồi. A, tôi xin phép một chút.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"<Tình hình có vẻ khá căng thẳng. Cũng hơi ngại khi đứng yên như thế này...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Khi tôi đang loay hoay và lẩm bẩm những điều vô nghĩa trong sảnh chờ, thì Don Quixote đã lui đến một cái kệ sách.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Ồ hố, những cuốn sách này là gì đây? Mấy bức ảnh lấp lánh thật rực rỡ!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Cảm thấy thật vui mừng, cô ấy cầm một quyển sách truyện lên.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Tôi ngó vào cuốn sách mà cô ấy đã mở.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Yi Sang cũng hướng mắt vào cuốn sách, có thể là bận tâm đến thứ gì đó về nó...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Rồi, một làn sương mù sắc vàng kim lộ ra.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"<i>Ngày xửa ngày xưa, khi tất cả mọi người đều luôn phải cúi đầu xuống dưới đất, có một người nhìn lên bầu trời cao.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"<i>Trong đôi mắt của họ phản chiếu những vì sao lấp lánh.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"<i>Kết nối những vì sao vô danh không một ai khác thèm để mắt đến lại với nhau,<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"<i>Người ấy đặt tên cho chúng, và kể nên những câu chuyện mà chúng thích.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"<i>Những câu chuyện như cuộn chỉ không có điểm kết thúc;<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"<i>Chúng được đan xen vào nhau trong nỗ lực để tìm ra ý nghĩa từ những sự vô nghĩa.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"<i>Tất cả mọi loại chuyện khác nhau trên thế giới, buồn vui lẫn lộn, xoay quanh bầu trời sao đêm.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"<i>Rồi một ngày nọ, gia đình của người ấy trở bệnh rất nặng, mạng sống của họ cận kề cái chết.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"<i>Cũng như bao ngày khác, người ấy kể với bầu trời về sự đau buồn người ấy phải trải qua.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"<i>Và rồi...<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"<i>Một giọt nước nhiễu xuống đầu người ấy.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"<i>Nhìn lên trên, người ấy phát hiện ra chòm sao đang nói chuyện với họ.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"<i>'Hỡi người đã đặt tên và kể chuyện cho tôi nghe, nhờ có người, kẻ lưu lạc này mới có cơ hội đến được nơi xứ lạ và trôi dạt theo dòng chảy của thời gian, cảm thấy thế giới thật đầy đặn biết bao.'<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"<i>'Người có biết những vì sao có thể ban tặng điều ước không?'<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"<i>'Những giọt nước mắt của tôi sẽ xua tan đi nỗi đau của người.'<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"<i>Ngay sau đó, một cơn mưa trút xuống thế giới trong hai ngày và một đêm.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"<i>Những người đứng dưới cơn mưa đều được chữa lành.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"<i>Gia đình ốm đau của người ấy cũng khoẻ mạnh trở lại.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"<i>Kể từ đó, người ấy và gia đình, cùng với tất cả các cư dân của thành phố, đều nhìn lên bầu trời và tụ họp lại mỗi đêm để trò chuyện về hạnh phúc của họ.<\/i>",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Ra là thế. Tôi từng đọc được là cứ mỗi năm một lần vào ban đêm, người dân ở Nest K có thông tục đứng dưới mưa ngoài đường mà không mang ô.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"...Đừng nói là lại chỉ có mỗi mình tôi đọc đấy nhé? Từ đó đến giờ mấy người không xem tờ rơi hướng dẫn về Nest của Tập Đoàn K lẫn Backstreets à? Không một ai luôn?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Ồ, cái đó à... Tôi từng dùng nó để đập bọ á... Giờ thì tôi cần phải... có cái mới thôi...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Đây là lúc để đùa hả Rodya?!",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Rodya dường như không hề nói đùa, nhưng Ishmael có vẻ không nhận ra điều đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Nhưng mà này, câu chuyện đó... Chẳng phải nó khá giống với cách mà mấy cái huyết thanh hồi phục hoạt động sao?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Cơn mưa chữa lành những người đứng dưới nó...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Vậy thì... Ý nhóc là nó được tạo thành từ các giọt mưa rơi trên trời xuống á?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Chờ chút, vậy là nó không phải là nanobot hay là mấy cái thứ lỏng lét kia sao?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"<Cô nghĩ sao, Faust?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Tôi là một người phụ nữ khoa học. Tôi ưu tiên những phán quyết dựa trên cơ sở hơn là những ẩn ý.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Thứ... gọi là phân tích và diễn giải trời mây này thì Yi Sang có lẽ sẽ quen thuộc hơn.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Cậu ấy cũng là nhà nghiên cứu như tôi, nhưng chúng tôi không giống nhau.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"……",
+                "model":"이상",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Chúng ta nên nhanh lên. Tình hình có vẻ rất nghiêm trọng.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Tôi nghe rằng lần này bọn họ đã xông thẳng vào những nơi đang thực hiện các cuộc thử nghiệm rồi.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Hửm? Ngay giữa tình thế thảm khốc hiện giờ, nơi này chẳng phải quá đỗi bình yên sao? Ta đây chẳng thấy một ai chạy hết!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Xem ra đã có một lệnh sơ tán khẩn cấp từ trước. Tuy nhiên, như mọi người đã chứng kiến, đây không phải là lần đầu tiên lệnh báo khẩn cấp được triển khai trong tuần này đâu. Bọn họ lo rằng nếu có thêm lệnh sơ tán nữa thì sẽ làm trì trệ quy tắc làm việc hành chính 70 giờ một tuần mất.",
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"<Làm việc ở nơi như thế này thật sự không dễ dàng gì nhỉ...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Ta không hiểu. Làm sao cuộc tấn công này lại có thể xảy ra? Nó đâu giống dạng kiến trúc để mời người ngoài im hơi lặng tiếng xâm nhập vào đâu?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Chúng ta không có nhiều thời gian, nên tôi sẽ giải thích trên đường đi.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Phản đối.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Cho bọn ta một lý do nên đi với ngươi.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Đúng vậy. Hợp đồng đã được hoàn thành.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Thật vậy. Phải nỗi, tôi muốn đưa Cành Vàng cho mọi người lắm, có điều nó đã bị cướp mất ngay trước mắt chúng ta rồi.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Hừm... C.L.M.M, Đ.C.M...",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Là vậy... thật sao? Này... Anh còn nhớ cái giao kèo đó nói gì không?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Hừm... Tôi không chắc lắm, bản thân tôi cũng không hiểu biết quá nhiều khi đề cập tới các vấn đề pháp lí...",
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Samjo đột nhiên lau kính như thể đang rất bận thay vì phản đối và tranh luận như thường lệ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"B.C.S.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Anh Samjo... Cô ấy bảo muốn bàn cái này với anh...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Hửm?",
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"B.C.S...!",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"A-Anh Samjo... Cô ấy nói lần này sẽ bẻ cổ anh đấy...!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Sai bét. Ta nói là ta sẽ bẻ cổ hắn ngay bây giờ.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"N-Nguy cấp, tình huống nguy cấp!!! Mấy người nhanh chóng lên tầng trên nhanh đi!",
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"<M-Mau lên tầng trên thôi, Ryōshū...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Bà mày sẽ nhồi T.N.T. vào mồm mày... Thề luôn đấy.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Samjo hối thúc chúng tôi lên trên lầu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":"Hành Lang Phòng Thí Nghiệm T.Đoàn K Bị Phá Huỷ",
+                "content":"Hành lang lối đi sạch sẽ và yên tĩnh vài tiếng trước...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Giờ đã biến thành một thảm hoạ thật sự, cùng những tiếng thét và dòng người bỏ chạy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Một nghiên cứu viên đang khóc và bám víu lấy một người trông như là thành viên của liên minh giải phóng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Cứu tôi... Ngài Dongrang... Làm ơn, cứu tôi...",
+                "model":"K사연구원2",
+                "teller":"Nhà Nghiên Cứu Thoi Thóp",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Nhân viên của tôi... đang cầu xin giúp đỡ, mọi người có thể thả họ đi được không?",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Nếu thứ mọi người muốn là thông tin, thì tôi có thể cung cấp. Chúng tôi cũng đang định đi ăn tối họp nhân viên với nhau vào ngày mai, và nhà hàng mà chúng tôi đã đặt trước luôn phục vụ những món ăn rất ngon miệng.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Sẽ thật đáng tiếc khi hương thơm đợi chờ chúng tôi ngày mai lại là những nén nhang trong tang lễ thay vì mùi hương đậm vị của thịt nướng đấy. Mọi người có đồng ý với tôi không nào?",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Thông tin á? Bọn tao không cần.",
+                "model":"기술해방연합1",
+                "teller":"Thành Viên Từ Liên Minh",
+                "title":"Liên Minh Giải Phóng Công Nghệ"
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Hờ, giờ mày đi tay không vào đây à? Có chuyện gì với đám robot hộ giá lũ nhu nhược chúng mày thế?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"Bọn tao cũng chả thiết gì phải mang chúng ra.",
+                "model":"기술해방연합1",
+                "teller":"Thành Viên Từ Liên Minh",
+                "title":"Liên Minh Giải Phóng Công Nghệ"
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"Tao thấy ở đây có nhiều hữu ích đấy chứ.",
+                "model":"기술해방연합1",
+                "teller":"Thành Viên Từ Liên Minh",
+                "title":"Liên Minh Giải Phóng Công Nghệ"
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"...Có phải ngươi đang tính...?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"Chúng tôi được lệnh cắt bỏ các thành phần khủng bố. Mục tiêu: Toàn bộ bộ phận.",
+                "model":"검문소경비2",
+                "teller":"Nhân Viên Trục Xuất Hạng 2",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"Hộc. Ta đã vượt mặt chúng được kha khá. Có hơi không công bằng nhưng... xem chừng việc đánh bại chúng sẽ không quá khó khăn nữa.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"Chuyên môn của cô Ran là chiếm quyền kiểm soát máy móc.",
+                "model":"기술해방연합1",
+                "teller":"Thành Viên Từ Liên Minh",
+                "title":"Liên Minh Giải Phóng Công Nghệ"
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Kinh nghiệm về công nghệ của cô ấy so với đánh nhau thì vượt trội hơn hẳn.",
+                "model":"기술해방연합1",
+                "teller":"Thành Viên Từ Liên Minh",
+                "title":"Liên Minh Giải Phóng Công Nghệ"
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"Chào mừng. Tại Tập Đoàn K, chúng tôi trân trọng sự an toàn của bạn hơn hết thẩy.",
+                "model":"K사앰플기계",
+                "teller":"Hỗ Trợ Huyết Thanh",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":85,
+                "place":null,
+                "content":"Hở, khoan... Cái gì...",
+                "model":"검문소경비",
+                "teller":"Nhân Viên Trục Xuất Hạng 2",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":86,
+                "place":null,
+                "content":"Vì sự an toàn của toàn bộ mọi người, những kẻ đào ngũ và cố gắng trốn thoát khỏi trận chiến sẽ được tiêm huyết thanh phân rã dựa theo các điều luật từ cơ quan quản lý. Huyết thanh sẽ được phóng ra nếu bạn rời khỏi phạm vi 120 mét khu vực chiến đấu; bạn đang cách xa 49 mét khỏi bán kính cho phép.",
+                "model":"K사앰플기계",
+                "teller":"Hỗ Trợ Huyết Thanh",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":87,
+                "place":null,
+                "content":"...Bắn...",
+                "model":"검문소경비",
+                "teller":"Nhân Viên Trục Xuất Hạng 2",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":88,
+                "place":null,
+                "content":"Nếu bạn không tấn công kẻ thù trong vòng 5 giây tiếp theo, huyết thanh phân rã sẽ được bắn theo thi hành lệnh dựa vào các điều luật từ cơ quan quản lý. Bạn còn lại 4 giây.",
+                "model":"해킹당한K사앰플기계",
+                "teller":"Hỗ Trợ Huyết Thanh",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":89,
+                "place":null,
+                "content":"<Đợi đã, bây giờ chúng ta...là 'kẻ địch' sao?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "content":"Khốn thật... Không còn lựa chọn khác...",
+                "model":"검문소경비",
+                "teller":"Nhân Viên Trục Xuất Hạng 2",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":91,
+                "place":null,
+                "content":"…!",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "content":"Hà cớ gì...!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "content":"Tôi... không muốn bị bắn bởi huyết thanh phân rã đâu. Tôi muốn được sống...",
+                "model":"검문소경비",
+                "teller":"Nhân Viên Trục Xuất Hạng 2",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":94,
+                "place":null,
+                "content":"Trạng thái hiện tại: không phát hiện kẻ đào ngũ, toàn bộ trạng thái xanh. Vui lòng đứng thành hàng để được phân phát huyết thanh hồi phục.",
+                "model":"해킹당한K사앰플기계",
+                "teller":"Hỗ Trợ Huyết Thanh",
+                "title":"Tập Đoàn K"
+            },
+            {
+                "id":95,
+                "place":null,
+                "content":"...Ra vậy.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "content":"Chúng đang cân nhắc giữa mạng sống của ta với của chúng, không khác những gì ta thường làm. Hãy cho phép chúng tôi được tham chiến.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "content":"<...Hiểu rồi.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

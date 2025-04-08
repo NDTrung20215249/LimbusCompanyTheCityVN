@@ -1,340 +1,510 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "content": "The location, as marked by the pirate's blood, led us to..."
-        },
-        {
-            "id": 1,
-            "place": "Marlin Port Club Entrance",
-            "content": "... The entrance of a club. Faint music could be heard echoing out from behind the doors."
-        },
-        {
-            "id": 2,
-            "model": "단테2",
-            "content": "<So... this is the place?>"
-        },
-        {
-            "id": 3,
-            "model": "로쟈",
-            "content": "... Any of us been to a loud, flamboyant, deluxe dance club like this before?"
-        },
-        {
-            "id": 4,
-            "model": "그레고르",
-            "content": "Well, if I had to guess... My bet would be on you."
-        },
-        {
-            "id": 5,
-            "model": "로쟈",
-            "content": "Oh, come on~ A flashy bar like this? At my Backstreets?"
-        },
-        {
-            "id": 6,
-            "model": "로쟈",
-            "content": "I doubt it would've had much business back there, hmm?"
-        },
-        {
-            "id": 7,
-            "model": "로쟈",
-            "content": "People would sometimes host secret Backstreets parties, but Sonya somehow always caught on~"
-        },
-        {
-            "id": 8,
-            "model": "단테2",
-            "content": "<So, why are we talking about this?>"
-        },
-        {
-            "id": 9,
-            "model": "로쟈",
-            "content": "Don't you see, Dante? Bouncers, at the gate."
-        },
-        {
-            "id": 10,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "Welcome; how many do you have with you today?"
-        },
-        {
-            "id": 11,
-            "model": "클럽손님",
-            "teller": "Guest",
-            "title": "U Corp.",
-            "content": "Two. Come on, man. Don'tcha remember me? I'm on the list."
-        },
-        {
-            "id": 12,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "Ah... my apologies. Please, enter. "
-        },
-        {
-            "id": 13,
-            "model": "로쟈",
-            "content": "Look, look! They're checking something with the guests before letting them in. We gotta squeeze in there all smooth somehow..."
-        },
-        {
-            "id": 14,
-            "model": "그레고르",
-            "content": "Welp, since Rodya's out... Next in the line is..."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "Huh? What, me?"
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "The hell are you blathering about? I'll smash your skull in!"
-        },
-        {
-            "id": 17,
-            "model": "로쟈",
-            "content": "Mm~ I'd take that as a compliment if I were you, Heath~"
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "Ahem... S-should I?"
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "Khm. Sorry to disappoint, but my Syndicate was less about music and dance and more about... blood, loyalty, things like that."
-        },
-        {
-            "id": 20,
-            "model": "히스클리프",
-            "content": "I'm more of a small watering hole or an old pub bloke than a fancy clubber. Gettin' sloshed, drinkin' from old rickety tables... Yeah, that's more like it."
-        },
-        {
-            "id": 21,
-            "model": "료슈",
-            "content": "Me."
-        },
-        {
-            "id": 22,
-            "model": "료슈",
-            "content": "Music: Screams of fear and pain. Deluxe: Walls painted red with blood. Dance: People with crushed joints, forced to dance..."
-        },
-        {
-            "id": 23,
-            "model": "그레고르",
-            "content": "Yeah, that's... not a club."
-        },
-        {
-            "id": 24,
-            "model": "그레고르",
-            "content": "Well, I can't think of anyone else, then..."
-        },
-        {
-            "id": 25,
-            "model": "뫼르소",
-            "content": "I have been to such a club."
-        },
-        {
-            "id": 26,
-            "model": "뫼르소",
-            "content": "Quite often."
-        },
-        {
-            "id": 27,
-            "model": "단테2",
-            "content": "<......>"
-        },
-        {
-            "id": 28,
-            "model": "그레고르",
-            "content": "... Y-you're joking."
-        },
-        {
-            "id": 29,
-            "model": "뫼르소",
-            "content": "I am not. I fail to see why that is difficult for you to accept."
-        },
-        {
-            "id": 30,
-            "model": "뫼르소",
-            "content": "It was merely one of the places I visited when I used to wander in search of life's joys."
-        },
-        {
-            "id": 31,
-            "model": "뫼르소",
-            "content": "A cursory observation of their procedures reveals that it is, in fact, a private club. As a general rule, visitors must receive the bouncers' permission prior to entry."
-        },
-        {
-            "id": 32,
-            "model": "뫼르소",
-            "content": "Most bouncers are of above-average mass and are likely to be armed."
-        },
-        {
-            "id": 33,
-            "model": "뫼르소",
-            "content": "Key elements to getting past the bouncers are..."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "You'd be right... if this was just any other club."
-        },
-        {
-            "id": 35,
-            "model": "로쟈",
-            "content": "Ishy...?"
-        },
-        {
-            "id": 36,
-            "content": "Ishmael walked past us and up to the club entrance."
-        },
-        {
-            "id": 37,
-            "model": "이스마엘",
-            "content": "This is a home to a leader of a Syndicate. The question you should be asking is... what are the *other* ways of entering this establishment?"
-        },
-        {
-            "id": 38,
-            "model": "이스마엘",
-            "content": "And I'm sure the answer lies with a Syndicate member."
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "Easy enough, right?"
-        },
-        {
-            "id": 40,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "What brings you here, if I may ask?"
-        },
-        {
-            "id": 41,
-            "model": "이스마엘",
-            "content": "I..."
-        },
-        {
-            "id": 42,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "...?"
-        },
-        {
-            "id": 43,
-            "model": "이스마엘",
-            "content": "I'm... Queequeg's... friend."
-        },
-        {
-            "id": 44,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "You're... whose friend?"
-        },
-        {
-            "id": 45,
-            "model": "이스마엘",
-            "content": "Queequeg."
-        },
-        {
-            "id": 46,
-            "model": "이스마엘",
-            "content": "You recognized that name, didn't you?"
-        },
-        {
-            "id": 47,
-            "content": "At the mere mention of that name, the bouncer's expression changed from that of indifference to disbelief."
-        },
-        {
-            "id": 48,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "Wait..."
-        },
-        {
-            "id": 49,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "$@$#@$@#…."
-        },
-        {
-            "id": 50,
-            "content": "The bouncer whispers something into the radio."
-        },
-        {
-            "id": 51,
-            "model": "단테2",
-            "content": "<Is he really going to let us in?>"
-        },
-        {
-            "id": 52,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "Are you truly a friend of this Queequeg?"
-        },
-        {
-            "id": 53,
-            "model": "이스마엘",
-            "content": "... What if I am?"
-        },
-        {
-            "id": 54,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "Where is Queequeg?"
-        },
-        {
-            "id": 55,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 56,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "It's the Boss askin'."
-        },
-        {
-            "id": 57,
-            "model": "이스마엘",
-            "content": "Right... so your Boss is in the club, huh."
-        },
-        {
-            "id": 58,
-            "model": "쌍갈고리파조직원3",
-            "teller": "Bouncer",
-            "title": "???",
-            "content": "I ask again. Where is Queeq..."
-        },
-        {
-            "id": 59,
-            "teller": "The Twinhooks?",
-            "title": "???",
-            "content": "The Twinhooks are on our way. I repeat. We are..."
-        },
-        {
-            "id": 60,
-            "model": "단테2",
-            "content": "<I thought we were trying to sneak in?!>"
-        },
-        {
-            "id": 61,
-            "model": "이스마엘",
-            "content": "No."
-        },
-        {
-            "id": 62,
-            "model": "이스마엘",
-            "content": "I just wanted to know if their Boss was home. We should be able to get all the intel we want from them."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "content":"Địa điểm, được đánh dấu bởi máu của tên cướp biển, dẫn chúng tôi đến...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "content":"...Lối vào của một hộp đêm. Tiếng nhạc phát ra ở bên trong có thể được nghe thấy từ phía sau những cánh cửa.",
+                "place":"Lối Vào CLB Cảng Marlin",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "content":"<Vậy... là chỗ này à?>",
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "content":"... Đã có ai từng đến cái hộp đêm nào mà nó ồn ào, lòe loẹt, xa xỉ như vầy chưa?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "content":"Chà, nếu phải đoán thì... Tôi nghĩ rằng đó sẽ là cô.",
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "content":"Ôi thôi nào~ Một cái quán sặc sỡ như này sao? Ở ngay Backstreets của tôi á?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "content":"Với lại làm gì có ai mà đủ điều kiện để mở được cái quán như thế ở đó chứ hửm?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "content":"Thỉnh thoảng cũng có mấy kẻ lén lút mở tiệc ở Backstreets, mà làm cách nào đó thì Sonya lúc nào cũng chui được hết đống tiệc đó hết~",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "content":"<Thế, tại sao chúng ta lại nói về chuyện này vậy?>",
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "content":"Không thấy à, Dante? Vệ sĩ kìa, ngay trước cổng đó.",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "content":"Chào mừng, hôm nay có bao nhiêu người đi cùng ngài?",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":11,
+                "content":"Hai. Thôi nào, anh bạn. Cậu không nhớ tôi sao? Tôi có tên trên danh sách mà.",
+                "place":null,
+                "model":"클럽손님",
+                "teller":"Khách Mời",
+                "title":"Tập Đoàn U"
+            },
+            {
+                "id":12,
+                "content":"À... thật lòng xin lỗi, Xin mời hai vị vào.",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":13,
+                "content":"Nhìn kìa, nhìn kìa! Họ đang kiểm tra gì đó với khách mời trước khi vào đấy. Giờ chỉ cần có cách lọt vào trong ra sao thôi...",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "content":"Chà, nếu loại Rodya ra rồi... Thì người tiếp theo sẽ là...",
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "content":"Hả? Gì, tao à?",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "content":"Mày xàm quá vậy? Tao đập lún sọ bây giờ!",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "content":"Hừm~ Tôi sẽ xem nó là lời khen nếu tôi là anh đấy, anh Heath~",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "content":"À hem... V-vậy à?",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "content":"Hừm. Xin lỗi vì đã thất vọng, nhưng mà Băng Đảng của tao là về... máu mủ, tình anh em hơn là nhạc với quẩy.",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "content":"Tao là kiểu người thích ngồi quán cóc hay pub thường hơn là đi quẩy chỗ sang. Không say không về, rót rượu trên mấy cái bàn cũ cọt kẹt... Ừa, vậy mới là ngon.",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "content":"Ta.",
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "content":"Âm nhạc: Tiếng hét của nỗi sợ và đau đớn. Sự sang trọng: Những bức tường tô điểm bằng máu. Khiêu vũ: Những kẻ với tứ chi khớp nối rạn nứt đi, cưỡng ép phải nhảy múa...",
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "content":"Ừm, đấy... không phải là hộp đêm đâu.",
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "content":"Chà, vậy thì tôi chịu luôn...",
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "content":"Tôi từng tới một hộp đêm như thế này.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "content":"Khá thường xuyên.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "content":"<......>",
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "content":"...Đ-đùa tôi hả?",
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "content":"Tôi không. Tôi cũng không hiểu tại sao anh lại khó chấp nhận sự thật này.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "content":"Đấy chỉ đơn giản là một trong những nơi tôi ghé qua khi tôi còn lang thang tìm niềm vui trong cuộc sống.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "content":"Theo như quan sát sơ bộ thì nơi này chắc chắn là một hộp đêm ngầm. Khách hàng khi muốn vào đây phải được sự cho phép của bảo vệ.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "content":"Bảo vệ ở đây thường có vóc dáng to lớn và luôn được trang bị vũ khí.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "content":"Bí quyết để qua mặt được bảo vệ chính là...",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "content":"Mấy cách đó đúng... với một hộp đêm bình thường.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "content":"Ishy...?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "content":"Ishmael bước lên phía trước chúng tôi và tiến đến cửa hộp đêm.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "content":"Đây là nơi ẩn náu của thủ lĩnh một Băng Đảng. Câu hỏi chính xác mà mấy người nên đặt ra là... liệu có những cách nào *khác* để vào trong đó không?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "content":"Và chắc chắn thành viên Băng Đảng sẽ biết câu trả lời.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "content":"Đơn giản mà, đúng không?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "content":"Cho hỏi mấy vị tới đây làm gì?",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":41,
+                "content":"Tôi...",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "content":"...?",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":43,
+                "content":"Tôi là... bạn... của Queequeg.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "content":"Cô... bạn ai cơ?",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":45,
+                "content":"Queequeg.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "content":"Mày nhận ra cái tên đó mà, đúng chứ?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "content":"Chỉ vừa mới nhắc đến cái tên đó, biểu cảm thờ ơ của tay bảo vệ hộp đêm đã thay đổi thành sự hoài nghi.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "content":"Đợi chút...",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":49,
+                "content":"$@$#@$@#….",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":50,
+                "content":"Tay bảo vệ hộp đêm nói gì đó vào bộ đàm.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "content":"<Anh ta thật sự sẽ cho chúng ta vào chứ?>",
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "content":"Cô thực sự là bạn của cái người tên Queequeg đó?",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":53,
+                "content":"... Nếu đúng thật thì sao?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "content":"Queequeg đâu rồi?",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":55,
+                "content":"…….",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "content":"Sếp của tôi đang hỏi cô.",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":57,
+                "content":"Thế đúng là Sếp của chúng mày đang ở trong đó, nhỉ...",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "content":"Tôi hỏi lại lần nữa. Queeq đâu r...",
+                "place":null,
+                "model":"쌍갈고리파조직원3",
+                "teller":"Bảo Vệ",
+                "title":"???"
+            },
+            {
+                "id":59,
+                "content":"Thành viên Twinhook đang trên đường tới. Tôi nhắc lại. Chúng tôi đang...",
+                "place":null,
+                "model":null,
+                "teller":"Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":60,
+                "content":"<Tôi tưởng chúng ta đang cố gắng lẻn vào bên trong chứ?!>",
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "content":"Không.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "content":"Tôi chỉ cần biết Sếp chúng nó có nhà hay không thôi. Nhiêu đó là đủ để chúng ta bới móc thông tin cần thiết rồi.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

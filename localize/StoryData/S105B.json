@@ -2,264 +2,264 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Some Backstreets of District 4",
+      "place": "Backstreet đâu đó ở Quận 4",
       "model": "베르길리우스",
-      "content": "Hey! That’s enough of that. We’re expecting a guest any time now."
+      "content": "Này! Vậy là đủ rồi. Chúng ta sẽ chuẩn bị gặp khách đây này."
     },
     {
       "id": 1,
-      "content": "Vergilius said, poking his head out the window."
+      "content": "Vergilius nói lớn, hướng cổ ông ấy ra khỏi cửa sổ."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<A guest? Who?>"
+      "content": "<Khách ư? Ai thế?>"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "I’ve determined that we’ll need a guide as this is our first trip to a dungeon."
+      "content": "Tôi đã quyết định rằng chúng ta sẽ cần một người hướng dẫn vì đây là lần đầu tiên chúng ta đi vào hầm ngục."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from Limbus Company?"
+      "title": "Fixer Cấp 8",
+      "content": "Thứ lỗi... Có phải mọi người đến từ Tập Đoàn Limbus?"
     },
     {
       "id": 5,
-      "content": "Someone approaches us slowly."
+      "content": "Ai đó đang chậm rãi tiếp cận tới gần."
     },
     {
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Looks like it…"
+      "title": "Fixer Cấp 8",
+      "content": "Có vẻ đúng rồi..."
     },
     {
       "id": 7,
-      "content": "The bus had just about finished its meal, crunching on the last remaining bone chips."
+      "content": "Chiếc xe đã gần như hoàn thành bữa ăn của nó, nhai nát tới từng mảnh xương sót lại."
     },
     {
       "id": 8,
-      "place": "Aboard Mephistopheles",
-      "content": "Yuri watched it indifferently before introducing herself."
+      "place": "Ở trên chiếc Mephistopheles",
+      "content": "Yuri thờ ơ chứng kiến việc đó trước khi giới thiệu bản thân mình."
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I’m Yuri, a former employee of the previous L Corp. I look forward to working with you."
+      "title": "Fixer Cấp 8",
+      "content": "Tôi là Yuri, nhân viên tiền nhiệm của Tập Đoàn L trước đó. Tôi hy vọng được làm việc với mọi người."
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<By L Corp, do you mean…>"
+      "content": "<Ý cô nói Tập Đoàn L, có nghĩa là...>"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Has to be Lobotomy Corporation."
+      "content": "Ý cổ hẳn là Tập Đoàn Lobotomy."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "That’s right, we will explore the former branch facilities of Lobotomy Corporation—also called the old L Corp."
+      "content": "Đúng vậy, chúng tôi sẽ khám phá cơ sở chi nhánh thuộc Tập Đoàn Lobotomy - hay còn gọi là Tập Đoàn L cũ."
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "If I were you, I wouldn’t have taken part in this."
+      "content": "Nếu mà là tôi thì tôi sẽ không tham gia vụ này đâu."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "Being a fallen Wing and everything, I doubt your employment ended on pleasant terms."
+      "content": "Là nhân viên của một Wing đã sụp đổ, tôi không nghĩ là quá trình tìm việc làm của cô sẽ diễn ra suôn sẻ."
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "What’re you on about? Any point in your life can be pleasant as long as you’ve money to spend."
+      "content": "Cô đang nói gì vậy? Mọi thứ trong đời đều có thể giải quyết ổn thỏa chỉ khi còn có tiền xài."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Hrm, I heard those places are still teeming with monsters to this day…"
+      "content": "Hừm, tôi có nghe nói là tới tận bây giờ mấy nơi đó vẫn còn đầy rẫy quái vật..."
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Not “monsters”, Abnormalities. The rumors are true, either way. But there are more important matters."
+      "content": "Không phải “Quái vật”, mà là Dị Thể. Dù thế nào đi nữa, lời đồn cũng là sự thật. Nhưng ta có chuyện khác quan trọng hơn."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "In the deepest reaches of these branches are neoplastic plantlike growths holding the essence of L Corp’s technology."
+      "content": "Dưới nơi sâu nhất của cơ sở có một thứ khối u với hình dáng một loại cây chứa đựng tinh túy của các công nghệ thuộc Tập Đoàn L."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Dante, if you remember, I believe I offered to let you finish engraving your Aspect a few days ago."
+      "content": "Dante này, nếu cậu còn nhớ, mấy ngày trước ta đã đề nghị để cậu hoàn thành công cuộc chạm vào Chòm Sao."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "With the essence… those Golden Boughs in our hands, it’ll be as easy as pie."
+      "content": "Với tinh hoa đó... đến từ Cành Vàng mà ta thu thập, ta nghĩ công cuộc đó sẽ dễ dàng như ăn bánh thôi."
     },
     {
       "id": 21,
-      "content": "The word ‘Aspect’ still makes my head ache."
+      "content": "Cái từ ‘Chòm Sao’ vẫn còn đang khiến đầu tôi nhức nhối."
     },
     {
       "id": 22,
-      "content": "What was ‘I’ trying to do?"
+      "content": "Vậy ‘Tôi’ đang cố làm gì trước đó?"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "content": "There’s no need to rouse your brain trying to remember what you can’t. It’ll all come back in due time."
+      "content": "Không cần phải cố nhớ những thứ không thể. Ký ức rồi sẽ sớm quay lại."
     },
     {
       "id": 24,
-      "content": "I returned a slow nod to Faust’s placid advice."
+      "content": "Tôi khẽ gật đầu đáp lại với lời khuyên điềm tĩnh từ Faust."
     },
     {
       "id": 25,
-      "content": "Alright, for now, I should focus on what I currently know and see."
+      "content": "Được rồi, hiện giờ thì, tôi nên tập trung vào bản thân hiện tại và xem xét thế nào."
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "<And if it’s Lobotomy Corp we’re scouring… we might find some Enkephalin, too.>"
+      "content": "<Và nếu như đây là Tập Đoàn Lobotomy mà chúng ta đang điều tra... thì chúng ta cũng có thể sẽ tìm được một ít Enkephalin.>"
     },
     {
       "id": 27,
       "model": "싱클레어",
-      "content": "Oh, does that mean we won’t have to… feed people into our vehicle?"
+      "content": "Ồ, nghĩa là chúng ta không cần phải... cho chiếc xe này ăn thịt người nữa, đúng chứ?"
     },
     {
       "id": 28,
       "model": "이스마엘",
-      "content": "We could also grab some E.G.O if we’re lucky, so that’s three rats with one stone."
+      "content": "Nếu may mắn thì chúng ta cũng có thể cuỗm được một ít E.G.O nữa. Một mũi tên trúng tận ba con chim."
     },
     {
       "id": 29,
-      "content": "E.G.O? That’s another unknown term that makes my head tilt…"
+      "content": "E.G.O? Lại một thuật ngữ khiến tôi không khỏi thắc mắc..."
     },
     {
       "id": 30,
-      "content": "But in any case, it seemed rather rude to keep talking to each other when we had a guest on board."
+      "content": "Thôi dù gì đi nữa, có vẻ thật thô lỗ khi cứ tiếp tục tán gẫu và khiến vị khách của chúng ta chờ đợi."
     },
     {
       "id": 31,
-      "content": "…And someone else seemed to agree."
+      "content": "...Và ai đó xem ra cũng đồng ý với tôi."
     },
     {
       "id": 32,
       "model": "그레고르",
-      "content": "So, Miss Yuri, what’ve you been up to since the layoff?"
+      "content": "Vậy thì, Cô Yuri, từ lúc bị sa thải tới giờ thì cô sống như thế nào?"
     },
     {
       "id": 33,
-      "content": "Gregor gave his best shot at making some conversation with a well-meaning smile to put the newest passenger at ease."
+      "content": "Gregor cố hết sức của anh ấy để mở đầu cuộc hội thoại với một nụ cười thân thiện nhằm khiến vị khách của chúng ta cảm thấy thoải mái."
     },
     {
       "id": 34,
-      "content": "His brows seemed to twitch due to a lack of practice, but it’s no big deal."
+      "content": "Lông mày của anh khẽ giật bởi vì thiếu sự luyện tập, nhưng dù gì nó cũng không phải là vấn đề cần lưu ý tới."
     },
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "It appears to me that thou art an honorable Fixer! It is said that all Fixers exude the noble scent of heroes!"
+      "content": "Với ta, cô có vẻ như là một Fixer danh giá! Tương truyền rằng mọi Fixer luôn toát lên khí chất cao thượng của anh hùng!"
     },
     {
       "id": 36,
-      "content": "As Yuri was nodding lightly, I heard Ishmael let out a deep sigh."
+      "content": "Trong khi Yuri cũng khẽ gật đầu, tôi nghe thấy tiếng thở dài từ Ishmael."
     },
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "I don’t know who gave you that idea, but Fixers are anything but noble or heroic. The only scent you’ll smell is the miserable stink of wage slaves."
+      "content": "Chẳng biết cô nghe cái miêu tả đó ở đâu ra nhưng Fixer không anh dũng hay cao thượng gì cả đâu. Thứ khí chất duy nhất cô sẽ cảm thấy là mùi cùng khổ của những nô lệ đồng tiền."
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "…It couldn’t have been easy to find another job so soon. Good that you’re holding up."
+      "content": "...Việc tìm việc mới trong thời gian ngắn như vậy hẳn không dễ dàng. Tôi mừng vì cô vẫn sống tốt."
     },
     {
       "id": 39,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "For now… I’m just a contract worker."
+      "title": "Fixer Cấp 8",
+      "content": "Ở thời điểm hiện tại... tôi chỉ là nhân viên hợp đồng thôi."
     },
     {
       "id": 40,
       "model": "이스마엘",
-      "content": "Aha. That explains why you decided to crawl on back there."
+      "content": "À há. Ra đó là lý do mà cô quyết định lết xác về đây."
     },
     {
       "id": 41,
       "model": "이스마엘",
-      "content": "Did they promise to promote you to team leader or something if you struck gold in your former workplace?"
+      "content": "Thế họ hứa hẹn sẽ thăng chức cho cô thành trưởng nhóm nếu cô làm việc xuất sắc ở vị trí cũ hay gì?"
     },
     {
       "id": 42,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…My contracts might get extended if I return with results."
+      "title": "Fixer Cấp 8",
+      "content": " ...Các bản hợp đồng của tôi sẽ được gia hạn nếu tôi đem về kết quả mong đợi."
     },
     {
       "id": 43,
       "model": "그레고르",
-      "content": "R—Right. A good result is something to risk your life for if you want to earn a permanent spot."
+      "content": "Ừ-ha. Nếu muốn bảo toàn được một vị trí chắc ăn thì phải mạo hiểm mạng sống để có được kết quả tốt nhỉ."
     },
     {
       "id": 44,
       "model": "이스마엘",
-      "content": "Ha, and what a futile life that is."
+      "content": "Hờ, và thế là tiếp tục một cuộc sống vô thường biết bao."
     },
     {
       "id": 45,
       "model": "그레고르",
-      "content": "(Hey, what’s with the sarcasm? Is something a problem?)"
+      "content": "(Này, sao phải nói mỉa thế? Cô có vấn đề gì à?)"
     },
     {
       "id": 46,
       "model": "이스마엘",
-      "content": "…I dunno, I have a problem with every single thing I’m hearing right now. "
+      "content": "...Chịu. Tôi có vấn đề với mọi thứ mình đang được nghe đây."
     },
     {
       "id": 47,
-      "content": "Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat."
+      "content": "Dường như không hề bị ảnh hưởng từ thái độ khiêu khích, Yuri chỉ lặng lẽ ngồi vào ghế trống nào đó."
     },
     {
       "id": 48,
-      "content": "Looking back and forth between the two, Gregor returned to his seat as well, scratching his head."
+      "content": "Nhìn qua lại giữa hai người, Gregor cũng quay lại ghế của anh ấy, gãi đầu."
     },
     {
       "id": 49,
       "model": "단테",
-      "content": "<I… can’t seem to get used to being around these people.>"
+      "content": "<Tôi... không thể nào quen được với việc ở cạnh mấy người như này cả.>"
     },
     {
       "id": 50,
       "model": "베르길리우스",
-      "content": "It will be beneficial for you to adapt to them sooner than later, Dante."
+      "content": "Sớm hay muộn gì thì làm quen với mấy người này sẽ có lợi cho cậu thôi, Dante."
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "…Charon, time to go. Our guest has taken her seat."
+      "content": "...Charon, tới giờ khởi hành. Khách của chúng ta an toạ rồi."
     },
     {
       "id": 52,
       "model": "카론",
-      "content": "Mephi’s tum revived. Charon’s raring to drive."
+      "content": "Tới lúc Mephi tái sinh. Charon hứng khởi để lái xe."
     }
   ]
 }

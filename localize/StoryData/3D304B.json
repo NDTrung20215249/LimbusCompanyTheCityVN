@@ -1,340 +1,440 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "model": "싱클레어",
-      "content": "After stealing the key without my parents noticing, I took Kromer to the basement of my estate as I had promised."
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "From there, she led me to a dirty air vent."
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "Crawling in the unlit vent for a while, a dank, grimy odor and the sounds of small critters scuttling about assaulted my senses."
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "My clothes were stained with filth, my throat was parched, and I was overcome with the desire to go back."
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "That’s when I noticed that the smell my nose picked up had just changed from the stench so far."
-    },
-    {
-      "id": 5,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Can you feel it?"
-    },
-    {
-      "id": 6,
-      "model": "싱클레어",
-      "content": "Kromer whispered to me."
-    },
-    {
-      "id": 7,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "There’s something up ahead…!"
-    },
-    {
-      "id": 8,
-      "model": "싱클레어",
-      "content": "This might have been the last chance I had to turn back."
-    },
-    {
-      "id": 9,
-      "model": "싱클레어",
-      "content": "It might have been better to dissuade her with all kinds of sweet placations to leave and come back later."
-    },
-    {
-      "id": 10,
-      "model": "싱클레어",
-      "content": "Even if I knew that empty flattery wouldn’t work on her."
-    },
-    {
-      "id": 11,
-      "model": "싱클레어",
-      "content": "But before I could try, a vile curiosity came over me."
-    },
-    {
-      "id": 12,
-      "model": "싱클레어",
-      "content": "I was entering a world where villains belonged for the first time."
-    },
-    {
-      "id": 13,
-      "model": "싱클레어",
-      "content": "And for some reason…"
-    },
-    {
-      "id": 14,
-      "model": "싱클레어",
-      "content": "I gave up turning back."
-    },
-    {
-      "id": 15,
-      "model": "싱클레어",
-      "content": "All while knowing in my heart that I was squandering my last chance."
-    },
-    {
-      "id": 16,
-      "model": "싱클레어",
-      "content": "Oh, the loathsome sight I had to witness; it was something I couldn’t think to behold twice."
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "Could “monstrosity” be an apt description for what I saw?"
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "It seemed too sentient for that, yet it also seemed decidedly wrong to say that it was even remotely human."
-    },
-    {
-      "id": 19,
-      "model": "싱클레어",
-      "content": "Huk… Guhgh…"
-    },
-    {
-      "id": 20,
-      "model": "싱클레어",
-      "content": "Shuddering in fear, I started to regret stepping into this world."
-    },
-    {
-      "id": 21,
-      "model": "싱클레어",
-      "content": "Sinclair, you idiot, look at yourself. Hoping by some miracle to get another chance right after you’ve wasted it."
-    },
-    {
-      "id": 22,
-      "model": "싱클레어",
-      "content": "Along with my regret, I had the feeling that I’d never forget what I saw that day until the moment I die."
-    },
-    {
-      "id": 23,
-      "model": "싱클레어",
-      "content": "K—Kro…mer… I… I’ve gotta go back…"
-    },
-    {
-      "id": 24,
-      "model": "싱클레어",
-      "content": "On the other hand, Kromer was enraptured."
-    },
-    {
-      "id": 25,
-      "model": "싱클레어",
-      "content": "She was mesmerized by the scene, watching intently as though she had made a discovery of a lifetime."
-    },
-    {
-      "id": 26,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "……"
-    },
-    {
-      "id": 27,
-      "model": "싱클레어",
-      "content": "Leaving Kromer all enamored to herself, I crawled backward for the exit."
-    },
-    {
-      "id": 28,
-      "model": "싱클레어",
-      "content": "Why is my basement connected to such a horrid place?"
-    },
-    {
-      "id": 29,
-      "model": "싱클레어",
-      "content": "How did Kromer know this?"
-    },
-    {
-      "id": 30,
-      "model": "싱클레어",
-      "content": "Why isn’t she scared, either?"
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "I could almost hear Kromer’s spine-chilling whistles with the wind blowing from behind."
-    },
-    {
-      "id": 32,
-      "model": "싱클레어",
-      "content": "The very next day, Kromer came to school as if nothing had happened."
-    },
-    {
-      "id": 33,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Sinclair, thank you so much more for showing me precious things."
-    },
-    {
-      "id": 34,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Take these as my thanks."
-    },
-    {
-      "id": 35,
-      "model": "싱클레어",
-      "content": "She handed two mysterious coins to me."
-    },
-    {
-      "id": 36,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Always keep them at your side. Got it?"
-    },
-    {
-      "id": 37,
-      "model": "싱클레어",
-      "content": "All I could do was nod."
-    },
-    {
-      "id": 38,
-      "model": "싱클레어",
-      "content": "Since then, the things I saw in that vent constantly haunted my mind."
-    },
-    {
-      "id": 39,
-      "model": "싱클레어",
-      "content": "And I began to consciously avoid Kromer."
-    },
-    {
-      "id": 40,
-      "model": "싱클레어",
-      "content": "I could picture myself involuntarily trembling in terror just by looking at her."
-    },
-    {
-      "id": 41,
-      "model": "싱클레어",
-      "content": "But there was something I needed to take back from her."
-    },
-    {
-      "id": 42,
-      "model": "싱클레어",
-      "content": "The basement key."
-    },
-    {
-      "id": 43,
-      "model": "싱클레어",
-      "content": "My parents could find out at any moment. One minute of sorting the keys is all it would take."
-    },
-    {
-      "id": 44,
-      "model": "싱클레어",
-      "content": "For the first time, I betrayed my parents living in a world of warmth…"
-    },
-    {
-      "id": 45,
-      "model": "싱클레어",
-      "content": "I was afraid that my deviation from their world would end up becoming an irrefutable fact."
-    },
-    {
-      "id": 46,
-      "model": "싱클레어",
-      "content": "Kromer… Won’t you give it back now?"
-    },
-    {
-      "id": 47,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Give back what?"
-    },
-    {
-      "id": 48,
-      "model": "싱클레어",
-      "content": "The… basement key…"
-    },
-    {
-      "id": 49,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "…Pft."
-    },
-    {
-      "id": 50,
-      "model": "싱클레어",
-      "content": "I mustered the courage to ask one day."
-    },
-    {
-      "id": 51,
-      "model": "싱클레어",
-      "content": "Kromer burst into laughter, as though she didn’t expect this from me. Intimidated, I slowly stepped back."
-    },
-    {
-      "id": 52,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Pwahahaha!!! Oh, and here I was wondering what you were struggling so hard to say…"
-    },
-    {
-      "id": 53,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Fine, you can have it, Sinclair. We don’t need the key anymore."
-    },
-    {
-      "id": 54,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "And besides…"
-    },
-    {
-      "id": 55,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Your grudge will most certainly bear fruit, Sinclair. You didn’t want to get your procedure, right?"
-    },
-    {
-      "id": 56,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "You remember our promise? You fulfilled my grudge, so it’s only fair that I pay you back."
-    },
-    {
-      "id": 57,
-      "model": "싱클레어",
-      "content": "I was too absorbed in the relief of getting my key back to realize what Kromer was really talking about, and I curse my ignorance for it."
-    },
-    {
-      "id": 58,
-      "model": "싱클레어",
-      "content": "About what Kromer’s “we” really meant."
-    },
-    {
-      "id": 59,
-      "model": "싱클레어",
-      "content": "About why she said it’s not needed any more, and how she was going to fulfill my grudge…"
-    },
-    {
-      "id": 60,
-      "model": "싱클레어",
-      "content": "I didn’t think to question a single thing, and for that…"
-    },
-    {
-      "id": 61,
-      "model": "싱클레어",
-      "content": "I regret my inaction; I curse my foolishness."
+        "dataList":[
+            {
+                "id":0,
+                "model":"싱클레어",
+                "content":"Sau khi trộm được chìa khoá mà không bị phát hiện, tôi dẫn Kromer xuống tầng hầm của biệt thự nhà mình như đã hứa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"싱클레어",
+                "content":"Từ chỗ đó, ả ta dẫn tôi đến một cái ống thông gió bẩn thỉu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"싱클레어",
+                "content":"Bò lết trong bóng tối được một đoạn, một mùi khó chịu, bẩn thỉu và âm thanh của những sinh vật nhỏ chạy tán loạn tấn công mọi giác quan của tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "model":"싱클레어",
+                "content":"Quần áo tôi thì đầy vết bẩn, cổ họng tôi thì khô khan, còn tôi thì chỉ muốn về nhà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "model":"싱클레어",
+                "content":"Đó cũng là lúc tôi nhận ra cái mùi hôi thối mà mình vừa ngửi được đã thay đổi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "model":"학생크로머",
+                "content":"Cậu có cảm nhận được nó không?",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":6,
+                "model":"싱클레어",
+                "content":"Kromer thì thầm với tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "model":"학생크로머",
+                "content":"Có thứ gì đó ở đằng trước…!",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":8,
+                "model":"싱클레어",
+                "content":"Đây rất có thể là cơ hội cuối cùng để tôi quay đầu lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "model":"싱클레어",
+                "content":"Có lẽ tốt nhất tôi nên thuyết phục ả bằng mọi lời ngon tiếng ngọt để rời đi và quay lại đây sau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "model":"싱클레어",
+                "content":"Dù tôi biết rõ rằng những lời nịnh hót đó sẽ không có tác dụng với ả ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "model":"싱클레어",
+                "content":"Nhưng trước khi tôi kịp thử, một sự tò mò tinh quái đã xâm chiếm tâm trí tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "model":"싱클레어",
+                "content":"Lần đầu tiên trong đời, tôi đang bước chân vào thế giới của những kẻ ác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "model":"싱클레어",
+                "content":"Tôi tự hỏi vì sao…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "model":"싱클레어",
+                "content":"Tôi lại từ bỏ ý nghĩ quay về.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "model":"싱클레어",
+                "content":"Dù cho linh tính vẫn còn mơ hồ, tôi biết chắc rằng mình đang vứt bỏ cơ hội cuối cùng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "model":"싱클레어",
+                "content":"Ôi, cảnh tượng hãi hùng mà tôi đã thấy; nó là một cảnh tượng mà tôi không dám nghĩ đến việc chứng kiến lần hai.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "model":"싱클레어",
+                "content":"Liệu chỉ hai từ \"quái thai\" có đủ để miêu tả cho thứ mà tôi đã thấy không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "model":"싱클레어",
+                "content":"Thứ đó trông như vẫn còn thần trí nên gọi vậy cũng không đúng lắm, nhưng chắc chắn cũng nó chẳng có vẻ gì giống con người cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "model":"싱클레어",
+                "content":"Gực… Hơ… Hơ…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "model":"싱클레어",
+                "content":"Rùng mình trong nỗi sợ, tôi bắt đầu cảm thấy hối hận vì đã đặt chân vào cái thế giới này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "model":"싱클레어",
+                "content":"Mẹ cái thằng ngu Sinclair này, mày tự nhìn lại bản thân coi. Hy vọng cái giống gì về cơ hội thứ hai trong khi chính mày vừa ném phăng nó đi xong chứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "model":"싱클레어",
+                "content":"Cùng với sự hối hận đó là cảm giác rằng tôi sẽ không bao giờ quên nổi cảnh tượng ấy cho đến khi tôi chết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "model":"싱클레어",
+                "content":"K—Kro…mer… Tớ… Tớ phải quay lại…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "model":"싱클레어",
+                "content":"Nhưng Kromer hoàn toàn bị mê hoặc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "model":"싱클레어",
+                "content":"Ả ta mê mẩn chiêm ngưỡng khung cảnh ấy như thể đã tìm ra một phát hiện đáng giá cả đời người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "model":"학생크로머",
+                "content":"……",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":27,
+                "model":"싱클레어",
+                "content":"Bỏ mặc Kromer trong cơn đê mê, tôi bò ngược lại về phía lối ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "model":"싱클레어",
+                "content":"Tại sao tầng hầm nhà tôi lại nối với một nơi khủng khiếp thế này?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "model":"싱클레어",
+                "content":"Làm thế nào Kromer lại biết trước về nó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "model":"싱클레어",
+                "content":"Mà tại sao ả ta lại không sợ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "model":"싱클레어",
+                "content":"Tôi gần như nghe được tiếng huýt sáo lạnh đến tận sống lưng của Kromer với cơn gió thổi phía sau mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "model":"싱클레어",
+                "content":"Ngày hôm sau, Kromer đến trường như thể chưa có gì xảy ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "model":"학생크로머",
+                "content":"Sinclair, cảm ơn cậu rất nhiều vì đã cho tớ thấy những thứ quý giá.",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":34,
+                "model":"학생크로머",
+                "content":"Hãy coi đây là lời cảm ơn của tớ.",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":35,
+                "model":"싱클레어",
+                "content":"Ả ta đưa cho tôi hai đồng xu bí ẩn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "model":"학생크로머",
+                "content":"Hãy luôn giữ chúng cạnh mình, nhớ chưa?",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":37,
+                "model":"싱클레어",
+                "content":"Tất cả những gì tôi có thể làm là gật đầu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "model":"싱클레어",
+                "content":"Kể từ ngày đó, những thứ tôi đã thấy bên kia ống thông gió ấy cứ ám ảnh tôi mãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "model":"싱클레어",
+                "content":"Và tôi bắt đầu tránh mặt Kromer.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "model":"싱클레어",
+                "content":"Tôi có thể tưởng tượng ra hình ảnh bản thân run rẩy trong vô thức chỉ bởi việc nhìn thấy ả ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "model":"싱클레어",
+                "content":"Tuy nhiên, vẫn còn một thứ tôi phải lấy lại từ ả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "model":"싱클레어",
+                "content":"Chìa khóa tầng hầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "model":"싱클레어",
+                "content":"Cha mẹ tôi có thể phát hiện ra bất cứ lúc nào. Chỉ cần một phút kiểm tra lại đống chìa khóa thôi là đời tôi coi như xong.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "model":"싱클레어",
+                "content":"Lần đầu tiên trong đời, tôi đã quay lưng phản bội cha mẹ mình trong cái thế giới đầy ấm áp ấy…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "model":"싱클레어",
+                "content":"Tôi sợ rằng việc tôi lỡ bước trên con đường trệch hướng với thế giới của họ sẽ trở thành một sự thật không thể chối cãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "model":"싱클레어",
+                "content":"Kromer… Cậu trả lại nó được chưa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "model":"학생크로머",
+                "content":"Trả lại cái gì cơ?",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":48,
+                "model":"싱클레어",
+                "content":"Chìa khoá…tầng hầm…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "model":"학생크로머",
+                "content":"…À há.",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":50,
+                "model":"싱클레어",
+                "content":"Rồi một ngày, tôi cố lấy hết mọi dũng khí mình có để hỏi câu đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "model":"싱클레어",
+                "content":"Kromer cười phá lên, như thể ả ta đã không ngờ rằng tôi sẽ hỏi như thế. Sợ hãi, tôi chậm rãi bước lùi về phía sau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "model":"학생크로머",
+                "content":"À á ha ha ha ha!!! Ôi, tớ cứ tưởng là cậu có chuyện gì khó nói lắm chứ…",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":53,
+                "model":"학생크로머",
+                "content":"Được chứ, cậu láy lại được mà, Sinclair. Chúng tớ không cần chiếc chìa khóa ấy nữa đâu.",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":54,
+                "model":"학생크로머",
+                "content":"Với lại…",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":55,
+                "model":"학생크로머",
+                "content":"Hận thù của cậu sẽ kết thành trái sớm thôi, Sinclair. Cậu không muốn làm phẫu thuật, đúng chứ?",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":56,
+                "model":"학생크로머",
+                "content":"Cậu có nhớ lời hứa giữa hai chúng ta không? Cậu đã giúp tớ nên việc đáp lễ là chuyện đương nhiên nhỉ?",
+                "teller":"Kromer",
+                "title":"Học sinh"
+            },
+            {
+                "id":57,
+                "model":"싱클레어",
+                "content":"Quá nhẹ nhõm vì đã lấy lại được chìa khoá của mình, tôi đã không để tâm đến điều Kromer thật sự đang nói, và giờ đây tôi chỉ biết nguyền rủa sự ngu ngốc của bản thân khi xưa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "model":"싱클레어",
+                "content":"Về \"chúng tớ\" mà Kromer nói thật sự là ai.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "model":"싱클레어",
+                "content":"Về lý do ả nói mình không cần nó nữa, về cách ả sẽ giải quyết mối hận thù của tôi…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "model":"싱클레어",
+                "content":"Tôi đã không may mảy nghi ngờ và hỏi lại thứ gì, và vì lẽ đó…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "model":"싱클레어",
+                "content":"Tôi hối hận mình đã thờ ơ; tôi nguyền rủa bản thân ngu muội.",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

@@ -1,63 +1,86 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino 2F",
-      "model": "파우스트",
-      "content": "The atmosphere here seems rather different. It appears that another Syndicate has taken hold of this floor."
-    },
-    {
-      "id": 1,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Hey, oigan! What’s with all the doom and gloom you’re wearing on that face of yours?"
-    },
-    {
-      "id": 2,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Don’t you know the rules here? Sour looks are a no-no, so put a hat over your long face!"
-    },
-    {
-      "id": 3,
-      "model": "료슈",
-      "content": "Why do you say that while looking at me? I. Will. SYNC on you."
-    },
-    {
-      "id": 4,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "What’s that mean?!"
-    },
-    {
-      "id": 5,
-      "model": "료슈",
-      "content": "Snap your neck completely, that’s what."
-    },
-    {
-      "id": 6,
-      "model": "단테",
-      "content": "<Easy, Ryōshū… You shouldn’t be so prone to starting fights—>"
-    },
-    {
-      "id": 7,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Ey, never mind that. This one has an even more problematic face, no? Which hand is supposed to be your eyes?"
-    },
-    {
-      "id": 8,
-      "model": "단테",
-      "content": "<…Ryōshū, are you ready?>"
-    },
-    {
-      "id": 9,
-      "model": "료슈",
-      "content": "You bet, Dante."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sòng Bạc (T.2)",
+                "model":"파우스트",
+                "content":"Bầu không khí ở đây có chút khác biệt. Có vẻ như một Băng Đảng khác đã chiếm lấy tầng này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Ê, nói này! Sao lại trưng cái vẻ mặt nhặng xị và ủ rũ đấy thế hả?",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Mấy vị không biết luật lệ ở đây à? Khuôn mặt rầu rĩ và bực bội đó là không thể chấp nhận được. Đội mũ vô và cười tươi lên đi!",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"료슈",
+                "content":"Ngươi nói vậy là có ý gì khi nhìn ta? T.S.C.C ngươi ngay bây giờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Ý cô là sao?!",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"료슈",
+                "content":"Cắt cổ ngươi, nghĩa đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"단테",
+                "content":"<Bình tĩnh nào, Ryōshū... Cô không nên gây rắc rối để rồi đánh nhau nữa—>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"흥겨운마리아치조직원",
+                "content":"Thôi thì, cũng chả bận tâm lắm. Người này còn có gương mặt rõ rắc rối hơn nữa, không phải sao? Cái kim nào nào là mắt vậy?",
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테",
+                "content":"<...Ryōshū, cô đã sẵn sàng chưa?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"료슈",
+                "content":"Hiển nhiên rồi, Dante.",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

@@ -1,182 +1,238 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Withering League of Nine Littérateurs",
-            "model": "이스마엘",
-            "content": "Isn't this a concept incinerator?"
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "What is it doing here..."
-        },
-        {
-            "id": 2,
-            "model": "오티스",
-            "content": "We've received an official notice that private technological invention groups of five or more people not registered as a business require a permit from T Corp."
-        },
-        {
-            "id": 3,
-            "model": "오티스",
-            "content": "The same goes for technology. Everything that hasn't been authorized by the Wing's tech agency will be confiscated."
-        },
-        {
-            "id": 4,
-            "model": "오티스",
-            "content": "Whether they're registered or taken by force... they'll be used in ways none of us wanted."
-        },
-        {
-            "id": 5,
-            "model": "오티스",
-            "content": "That is why we will rid the world of them before that happens."
-        },
-        {
-            "id": 6,
-            "model": "이스마엘",
-            "content": "But, why now of all times? Is it because of the League's gatherings... No, is this about the window...?"
-        },
-        {
-            "id": 7,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Wait, wait. This idea that we have to make technology in secret could be a pitfall, you know? Who knows, T Corp. might just give us the approval."
-        },
-        {
-            "id": 8,
-            "model": "오티스",
-            "content": "A foolish question. Did you forget the reason the League of Nine was established? We gathered together for the pure pursuit of knowledge. Not to serve Wings like pathetic mules."
-        },
-        {
-            "id": 9,
-            "model": "오티스",
-            "content": "We deserted our hometowns for this cause, and now you suggest that we yield our knowledge? After all we've been through?"
-        },
-        {
-            "id": 10,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Let's see the bigger picture. Rather than just T Corp, wouldn't the City as a whole be benefiting from them?"
-        },
-        {
-            "id": 11,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Technology only has value when it's used for others. Until then, they're mere toys."
-        },
-        {
-            "id": 12,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "With this healing technology I've developed, I could save at least hundreds of lives in the City."
-        },
-        {
-            "id": 13,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Should we really squander that chance... on protecting this make-believe organization?"
-        },
-        {
-            "id": 14,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City."
-        },
-        {
-            "id": 15,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it."
-        },
-        {
-            "id": 16,
-            "model": "과거동백",
-            "teller": "Dongbaek",
-            "title": "League of Nine Littérateurs",
-            "content": "But... you think that'll change anything? The world will still be a terrible mess."
-        },
-        {
-            "id": 17,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "……"
-        },
-        {
-            "id": 18,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You're right, I thought wrong. What's the point in all this."
-        },
-        {
-            "id": 19,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Wow... Look at that... It really does a good job at burning things. You think its creator was a researcher who had an ardor for genuine study like us?"
-        },
-        {
-            "id": 20
-        },
-        {
-            "id": 21,
-            "model": "이상",
-            "content": "Dongrang... Are you certain you're alright?"
-        },
-        {
-            "id": 22,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Hey, check this out, Yi Sang."
-        },
-        {
-            "id": 23,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I chanced upon this curious thing in the Backstreets."
-        },
-        {
-            "id": 24,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's apparently an item a Wing called K Corp. is producing these days. It's a swarm of nanobots that look like liquid to the naked eye, and when you inject it..."
-        },
-        {
-            "id": 25,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "No matter how badly you're crushed, hurt, fractured, ripped, torn, or chopped away..."
-        },
-        {
-            "id": 26,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It all heals up in seconds. Amazing, isn't it? It only takes a short while for the pain to be gone. Hahaha."
-        },
-        {
-            "id": 27,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?"
-        },
-        {
-            "id": 28,
-            "model": "이상",
-            "content": "...Dongrang."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cửu Nhân Hội Úa Tàn",
+                "model":"이스마엘",
+                "content":"Đó là lò đốt khái niệm đúng không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Sao nó lại ở đây...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"오티스",
+                "content":"Chúng ta nhận được thông báo chính thức rằng phát minh của nhóm nhiều hơn năm người mà không đăng ký kinh doanh phải có giấy phép của Tập Đoàn T.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"오티스",
+                "content":"Công nghệ cũng vậy. Tất cả nhũng thứ không được thông qua cơ quan công nghệ của Wing đều sẽ bị tịch thu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"오티스",
+                "content":"Dù được đăng ký hay bị chiếm lấy... họ sẽ dùng chúng theo cách mà không ai trong số chúng ta muốn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"오티스",
+                "content":"Vậy nên ta phải loại bỏ chúng trước khi điều đó xảy ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhưng, tại sao lại là vào lúc này? Vì nhóm của chúng ta tập hợp... Không, là vì cửa sổ kính đó sao...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"동랑",
+                "content":"Đợi đã, đợi đã nào. Cái ý tưởng chúng ta phải bí mật sáng chế thiết bị công nghệ có thể là một cái bẫy đấy, mọi người biết không? Ai mà biết được, Tập Đoàn T có thể sẽ cho phép chúng ta đấy.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"오티스",
+                "content":"Một câu hỏi ngu ngốc. Ngươi đã quên lý do Cửu Nhân Hội được thành lập rồi à? Chúng ta được tập hợp lại vì mục tiêu theo đuổi tri thức. Chứ không phải hầu hạ Wing như những con lừa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"오티스",
+                "content":"Vì nó mà chúng ta đã rời bỏ quê hương, và bây giờ ngươi đề nghị chúng ta nhường lại kiến ​​thức của mình à? Sau tất cả những gì chúng ta đã trải qua?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"동랑",
+                "content":"Hãy nhìn nhận một cách bao quát hơn nào. Thay vì chỉ mỗi Tập Đoàn T, chẳng phải toàn thể The City cũng sẽ được lợi từ bọn họ luôn sao?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"동랑",
+                "content":"Công nghệ chỉ có giá trị khi được dùng cho những thứ khác. Trước thời khắc đó, chúng chỉ đơn thuần là những món đồ chơi mà thôi.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"동랑",
+                "content":"Với công nghệ hồi phục mà tôi đã nghiên cứu này đây, tôi có thể cứu ít nhất là vài trăm mạng sống trong The City đấy.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"동랑",
+                "content":"Chúng ta thật sự có nên bỏ lỡ mất cơ hội... bảo vệ tổ chức giả vờ này không?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"과거동백",
+                "content":"Dongrang, đừng có thử thiếc nửa vời trừ khi anh thật sự muốn cứu tất cả mọi người trong The City.",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"과거동백",
+                "content":"Nếu tôi nghĩ thứ công nghệ nửa mùa này có khả năng cứu lấy tất cả mọi người trên thế giới này, tôi sẽ dốc hết toàn bộ sức lực của mình vào nó.",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"과거동백",
+                "content":"Nhưng... anh nghĩ anh sẽ thay đổi được cái gì à? Thế giới vẫn sẽ là một nơi vô cùng hỗn loạn.",
+                "teller":"Dongbaek",
+                "title":"Cửu Nhân Hội"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"동랑",
+                "content":"……",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"동랑",
+                "content":"Cô nói đúng, tôi đã lầm tưởng thật rồi. Những thứ này có ích lợi gì chứ.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"동랑",
+                "content":"Quao... Xem kìa... Nó thật sự tốt trong việc đốt cháy mọi thứ đấy. Mọi người có nghĩ người tạo ra nó là một nhà nghiên cứu có niềm đam mê nghiên cứu mãnh liệt và mày mò như chúng ta không?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이상",
+                "content":"Dongrang... Cậu chắc là cậu ổn chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"동랑",
+                "content":"Nè, xem thứ này đi, Yi Sang.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"동랑",
+                "content":"Tôi đã tình vớ có được thứ mới lạ này ở Backstreets.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"동랑",
+                "content":"Có vẻ như là vật phẩm của một Wing tên Tập Đoàn K đang sản xuất gần đây. Nó là một đàn nanobot trông giống chất lỏng khi nhìn bằng mắt thường, và khi cậu tiêm nó vào...",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"동랑",
+                "content":"Cho dù cậu có bị nghiền nát, đau đớn, gãy xương, rách toạc, xé xác hoặc bị chặt đứt tệ đến cỡ nào đi nữa...",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"동랑",
+                "content":"Vết thương sẽ hồi phục lại ngay trong tức khắc. Thật tuyệt vời, đúng chứ? Chỉ mất một chút thời gian để cơn đau tan biến đi. Ha ha ha.",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"동랑",
+                "content":"Hoàn toàn bình thường khi phải bị thương. Tôi không cần phải căng cơ hay vắt kiệt sức lực của bản thân để chữa trị nữa. Tôi thật ngu ngốc, phải không nào?",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이상",
+                "content":"...Dongrang.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

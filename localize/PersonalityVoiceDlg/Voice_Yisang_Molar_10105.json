@@ -3,122 +3,122 @@
         {
             "id": "get_10105_1",
             "desc": "Identity Acquisition",
-            "dlg": "Alas, it appears that we must involve ourselves in this matter."
+            "dlg": "Than ôi, có vẻ chúng tôi phải can thiệp tới việc này rồi."
         },
         {
             "id": "lobby_morning_10105_1",
             "desc": "Morning Greeting",
-            "dlg": "Thus it is a morning like any other, its patterns forever unchanging. If you have a matter concerning a contract, please make yourself comfortable in our office."
+            "dlg": "Vậy là lại một sáng mới như mọi ngày, vĩnh viễn bất biến. Nếu ngài có vấn đề hệ trọng liên quan đến hợp đồng, xin cứ tự nhiên tại văn phòng chúng tôi."
         },
         {
             "id": "lobby_noon_10105_1",
             "desc": "Afternoon Greeting",
-            "dlg": "Hmm... Half a day remains. How do you fare?"
+            "dlg": "Hừm... Còn nửa ngày nữa. Ngài thấy sao rồi?"
         },
         {
             "id": "lobby_night_10105_1",
             "desc": "Evening Greeting",
-            "dlg": "Though it may appear pitiable that I am working so late into the night... it is not entirely unideal, as it signifies that there is work to be done.\nMany Offices in this city oft go days with nary a proper contract."
+            "dlg": "Trông tôi làm việc tới tận khuya như này có vẻ tội nghiệp... Nhưng không hẳn là điều không lý tưởng, vì ít ra thì bọn tôi có việc để làm. \nNhiều Văn Phòng trong thành phố này phải chịu cảnh hàng ngày trời mà chẳng có hợp đồng nào."
         },
         {
             "id": "smalltalk_10105_1",
             "desc": "Chatter #1",
-            "dlg": "An official contract must first be drafted and signed, if we are to accept a request.\nWell... there is no need to be intimidated. It is but a simple covenant betwixt two entities."
+            "dlg": "Một hợp đồng chính thức cần được soạn thảo và kí kết trước khi chúng tôi nhận một ủy thác. \nÀ... không cần phải lo đâu. Nó chỉ là một sự cam kết giữa hai bên."
         },
         {
             "id": "smalltalk_10105_2",
             "desc": "Chatter #2",
-            "dlg": "Big Sister is... occupied with an outside business at the moment. If there are any words you must pass on to her, you may say them unto me.\n... Asking for her contact information... may be unwise. I can speak with certitude that she is not in an ideal state to engage in dialogue."
+            "dlg": "Chị Cả... có việc bên ngoài rồi. Nếu ngài cần lời nào cần chuyển tới chị ấy, xin cứ nói với tôi.\n... Hỏi thông tin liên lạc của chị ấy... không phải ý tưởng hay. Tôi khá chắc là chị ấy đang không trong tình trạng lý tưởng nhất để nói chuyện."
         },
         {
             "id": "smalltalk_10105_3",
             "desc": "Chatter #3",
-            "dlg": "You ask of this weapon? It is a handicraft of a workshop, indeed.\nModifications...? Hmm, why would there be a need for modifications? I do not see myself tampering with its build, either."
+            "dlg": "Ngài hỏi vũ khí này sao? Nó là một đồ thủ công từ xưởng chế.\nSửa đổi...? Hừm, tại sao lại cần sửa đổi? Tôi cũng không muốn táy máy với thiết kế của nó."
         },
         {
             "id": "smalltalk_10105_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "Contracts from Associations and contracts from Wings carry entirely different levels of significance. To be contracted by a Wing is to have our competency acknowledged.\nThus, this contract from R Corp. is also... something of grave importance."
+            "dlg": "Hợp đồng từ các Liên Đoàn và hợp đồng từ các Wing có độ quan trọng khác hẳn nhau. Được một Wing ký kết hợp đồng tức là năng lực của chúng tôi đã được công nhận.\nVậy nên, hợp đồng này từ Tập Đoàn R... là thật sự hệ trọng."
         },
         {
             "id": "smalltalk_10105_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "While I do have my reservations... I also understand that it may be a marvelous opportunity.\nI am hopeful that we should be able to fulfill this contract as long as I prove to be a sufficient support for Big Sister."
+            "dlg": "Dù tôi có chút quan ngại... Tôi cũng hiểu rằng đây có thể là một cơ hội tuyệt vời.\nTôi mong rằng chúng tôi có thể hoàn thành hợp đồng lần này miễn là tôi có thể đủ sức hỗ trợ Chị Cả."
         },
         {
             "id": "neglect_10105_1",
             "desc": "Idle",
-            "dlg": "I shall use this downtime to catalogue our documents. One must not idle... in times such as these."
+            "dlg": "Tôi sẽ dùng thời gian rảnh này để sắp xếp tài liệu. Ta không nên lười biếng... trong những lúc như này."
         },
         {
             "id": "gacksung_10105_1",
             "desc": "Uptying",
-            "dlg": "Hm. This is quite the responsibility. I shall try my best to live up to your expectations."
+            "dlg": "Hừm. Đây thật sự là trọng trách rất lớn đấy. Tôi sẽ cố hết sức để đạt mong muốn của ngài."
         },
         {
             "id": "formation_10105_1",
             "desc": "Deployment",
-            "dlg": "Departure, is it? Allow me to accompany you."
+            "dlg": "Tới lúc đi rồi sao? Hãy để tôi đồng hành cùng ngài."
         },
         {
             "id": "battleentry_10105_1",
             "desc": "Stage Entry",
-            "dlg": "Let this be a positive experience for us all."
+            "dlg": "Hãy để đây là một trải nghiệm tốt cho chúng ta."
         },
         {
             "id": "battle_select_10105_1",
             "desc": "Viewed in Battle",
-            "dlg": "The situation has hitherto been quite... ideal."
+            "dlg": "Tình hình cho tới bây giờ vẫn... lý tưởng."
         },
         {
             "id": "battle_endcommand_10105_1",
             "desc": "Commencing Attack",
-            "dlg": "Stay calm."
+            "dlg": "Tĩnh tâm."
         },
         {
             "id": "battle_enemy_break_10105_1",
             "desc": "Enemy Stagger",
-            "dlg": "This is an opportunity."
+            "dlg": "Đây là một cơ hội."
         },
         {
             "id": "battle_break_10105_1",
             "desc": "Staggered",
-            "dlg": "Ach..."
+            "dlg": "Á..."
         },
         {
             "id": "battle_kill_10105_1",
             "desc": "Enemy Killed",
-            "dlg": "There was naught to worry."
+            "dlg": "Không có gì phải lo cả."
         },
         {
             "id": "battle_dead_10105_1",
             "desc": "Death",
-            "dlg": "...I expected as little from myself."
+            "dlg": "...Tôi cũng không kỳ vọng gì từ mình."
         },
         {
             "id": "choice_success_p_10105_2",
             "desc": "Check Passed",
-            "dlg": "It appears that my gamble bore fruit."
+            "dlg": "Có vẻ ván cược của tôi đã đem lại thành quả."
         },
         {
             "id": "choice_fail_n_10105_1",
             "desc": "Check Failed",
-            "dlg": "... I have miscalculated the risks of this gamble."
+            "dlg": "... Tôi đã tính sai ván cược này rồi."
         },
         {
             "id": "battle_clear_10105_1",
             "desc": "Victory Cry",
-            "dlg": "... The contract is fulfilled. Let us make ourselves scarce before further trouble finds us."
+            "dlg": "... Hợp đồng đã hoàn thành. Hãy rời khỏi đây trước khi có vấn đề mới."
         },
         {
             "id": "battle_clear_ex_10105_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "Presuming that we remain steady, a contract of such caliber should pose no difficulty to us."
+            "dlg": "Miễn là ta vững tin, một hợp đồng mức này không phải là chuyện khó."
         },
         {
             "id": "battle_defeat_10105_1",
             "desc": "Defeat Wail",
-            "dlg": "I've made far too many mistakes... I apologize. I was of no help to you."
+            "dlg": "Tôi đã mắc quá nhiều lỗi lầm... Xin lỗi. Tôi đã không giúp được gì cho ngài."
         }
     ]
 }

@@ -1,92 +1,126 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Marlin Port Club",
-            "model": "싱클레어",
-            "content": "Y-you better tell us where your boss is before t-things turn ugly..."
-        },
-        {
-            "id": 1,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "Hmph... Go drink some more milk before ye start tossin' around threats like that, laddie."
-        },
-        {
-            "id": 2,
-            "model": "싱클레어",
-            "content": "I-I'm serious! Talk, or the next thing getting s-smashed is your h-h-..."
-        },
-        {
-            "id": 3,
-            "model": "싱클레어",
-            "content": "... Your skull."
-        },
-        {
-            "id": 4,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "Ha... ha ha... O-okay. Let's calm down."
-        },
-        {
-            "id": 5,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "Captain ain't 'ere. If it's hostages yer lookin' for... the first mate should know."
-        },
-        {
-            "id": 6,
-            "model": "싱클레어",
-            "content": "Directions."
-        },
-        {
-            "id": 7,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "The last room... at the end of that... uh, corridor..."
-        },
-        {
-            "id": 8,
-            "model": "싱클레어",
-            "content": "... Go."
-        },
-        {
-            "id": 9,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "Aaah..."
-        },
-        {
-            "id": 10,
-            "model": "싱클레어",
-            "content": "Not that way...! Get out of this club."
-        },
-        {
-            "id": 11,
-            "model": "쌍갈고리파조직원4",
-            "teller": "Twinhook Pirates?",
-            "title": "???",
-            "content": "Huhh?! A-aye! I'm sorry!!"
-        },
-        {
-            "id": 12,
-            "model": "히스클리프",
-            "content": "... Oi, kid... You're getting better at this, aren't you?"
-        },
-        {
-            "id": 13,
-            "model": "싱클레어",
-            "content": "I don't want to get complimented for doing something like this..."
-        },
-        {
-            "id": 14,
-            "model": "싱클레어",
-            "content": "I just... I just think we have to get to the hostage as soon as possible."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"CLB Cảng Marlin",
+                "model":"싱클레어",
+                "content":"N-Nếu muốn được toàn mạng... Hãy mau khai vị trí của sếp mấy người cho bọn ta...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Hừ... Bú thêm tí sữa đi rồi hẵng hù dọa bọn tao như thế, nhãi con.",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tô-Tao nghiêm túc đấy! Khai mau, không thì thứ tiếp theo bị đập nát sẽ là h-h-...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"싱클레어",
+                "content":"...Hộp sọ của các người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Ha... ha ha... N-nào. Bình tĩnh coi.",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Thuyền Trưởng không ở đây. Nếu là con tin tụi bây muốn tìm thì... thuyền phó hẳn sẽ biết.",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ở đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Ở cuối phòng... tận cùng ở... ờ, hành lang...",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Biến đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Á...",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không phải hướng đó...! Biến khỏi cái hộp đêm này đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"쌍갈고리파조직원4",
+                "content":"Hả?! V-Vâng! Tôi xin lỗi!!",
+                "teller":"Băng Hải Tặc Twinhook?",
+                "title":"???"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프",
+                "content":".... Này, nhóc... mày càng ngày càng khá quá nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi không muốn được khen vì làm chuyện này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi chỉ nghĩ rằng chúng ta cần phải tìm thấy con tin càng sớm càng tốt... Đơn giản là thế thôi.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

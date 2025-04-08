@@ -1,380 +1,494 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "High Rollers Floor",
-      "model": "단테",
-      "content": "<This isn’t good. We’ve reached the top floor, but we don’t have nearly enough wishpower…>"
-    },
-    {
-      "id": 1,
-      "model": "로쟈",
-      "content": "Aah~ No worries. I’ve been itching to tell you this, and it’s finally time."
-    },
-    {
-      "id": 2,
-      "model": "로쟈",
-      "content": "I actually pinched a little wishpower back at the pawnshop. It’s not a lot, but it should be just enough, right?"
-    },
-    {
-      "id": 3,
-      "content": "Rodya showed us a wish sticker sheet with a few labels left on it."
-    },
-    {
-      "id": 4,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Why didn’t you tell us earlier?"
-    },
-    {
-      "id": 5,
-      "model": "로쟈",
-      "content": "Like you said, gambling is all about keeping a poker face. Wouldn’t want to see one of us slip and complicate things."
-    },
-    {
-      "id": 6,
-      "model": "로쟈",
-      "content": "As for the boss role~ Mind if I borrow it for a sec, Dante?"
-    },
-    {
-      "id": 7,
-      "content": "I nodded, seeing as I wasn’t really doing much in this guise anyways."
-    },
-    {
-      "id": 8,
-      "content": "Even if I were committed to the act, it would only be right for me to forfeit it with my knees bent, since things played out the way they did."
-    },
-    {
-      "id": 9,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…I would’ve been vehemently against this only hours ago. But now…"
-    },
-    {
-      "id": 10,
-      "model": "로쟈",
-      "content": "Good thinking. I’ve never lost once in anything where money was involved."
-    },
-    {
-      "id": 11,
-      "model": "로쟈",
-      "content": "Alright…"
-    },
-    {
-      "id": 12,
-      "place": "Private Room",
-      "model": "로쟈",
-      "content": "The contestant enters~"
-    },
-    {
-      "id": 13,
-      "model": "로쟈",
-      "content": "Wait, I’m not the last? Aw, there goes my cool entry."
-    },
-    {
-      "id": 14,
-      "teller": "???",
-      "title": "???",
-      "content": "You are…?"
-    },
-    {
-      "id": 15,
-      "model": "로쟈",
-      "content": "My name’s Rodion. I’m here to gamble for the right to access the basement."
-    },
-    {
-      "id": 16,
-      "model": "아이드",
-      "teller": "???",
-      "title": "???",
-      "content": "Pwfhah!"
-    },
-    {
-      "id": 17,
-      "model": "아이드",
-      "teller": "???",
-      "title": "???",
-      "content": "I was looking forward to finally meeting the infamous “wishpower whisker” in person, and look who we get instead. Aren’t you a little too confident for some unidentified stranger?"
-    },
-    {
-      "id": 18,
-      "model": "로쟈",
-      "content": "What a dull take~ It’s not who you are that matters in this world, right? It’s about who wins."
-    },
-    {
-      "id": 19,
-      "model": "아이드",
-      "teller": "???",
-      "title": "???",
-      "content": "Well, you aren’t wrong there. The fact that you were able to get here is proof enough that you’re qualified."
-    },
-    {
-      "id": 20,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "A pleasure. I’m Aida."
-    },
-    {
-      "id": 21,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "And this is…"
-    },
-    {
-      "id": 22,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Golly, my back’s hurtin’."
-    },
-    {
-      "id": 23,
-      "model": "로쟈",
-      "content": "…A robot? No, a prosthetic…?"
-    },
-    {
-      "id": 24,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "What’s that stare? Never seen a full-body prosthetic before?"
-    },
-    {
-      "id": 25,
-      "model": "로쟈",
-      "content": "Isn’t that model… a bit too antiquated? It kinda looks like it belongs in a museum."
-    },
-    {
-      "id": 26,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Old is gold, as they say. Patched it up a few times, and now it’s sturdier than most new ones."
-    },
-    {
-      "id": 27,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Why’s that boy bein’ so sluggish about comin’ here anyway? Arrogant brat thinks he can show up late to serious business, eh?"
-    },
-    {
-      "id": 28,
-      "teller": "???",
-      "title": "???",
-      "content": "Pardon me. I had an urgent matter."
-    },
-    {
-      "id": 29,
-      "model": "로쟈",
-      "content": "?!"
-    },
-    {
-      "id": 30,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "You think the world revolves around you, Sonya? Do you crave attention so much that you have to arrive late and be showered in glares?"
-    },
-    {
-      "id": 31,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Haha, I didn’t mean to. If anything, you’d fit better as the protagonist of life, Aida."
-    },
-    {
-      "id": 32,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 33,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "It’s been a while, Rodya."
-    },
-    {
-      "id": 34,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "What’s up? You two know each other?"
-    },
-    {
-      "id": 35,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Let’s say that we… share a hometown. Isn’t that right, Rodya?"
-    },
-    {
-      "id": 36,
-      "model": "로쟈",
-      "content": "So, are you… still leading the Yurodiviye, then?"
-    },
-    {
-      "id": 37,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Dunno, it might be too early to say “still”… You were the one who left on your own just like that."
-    },
-    {
-      "id": 38,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Now now, that’s enough chatting. Since we have all the players, let’s go over the rules again."
-    },
-    {
-      "id": 39,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "The four bidders for the casino are all here: Sonya, Aida, the Tieqiu, and… representing the Tingtang Gang’s boss… a suspicious yet shameless stand-in…"
-    },
-    {
-      "id": 40,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "No cheats or sleights of hand are allowed during the game. The moment you’re spotted in the act, you’re out."
-    },
-    {
-      "id": 41,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "It should go without saying that anything involving wishpower is forbidden as well."
-    },
-    {
-      "id": 42,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Soon as you’re caught, you’re on the choppin’ block! You’ll sorely regret it!"
-    },
-    {
-      "id": 43,
-      "model": "로쟈",
-      "content": "……"
-    },
-    {
-      "id": 44,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "We’ll play three games in total, and the one with the most chips wins. Simple enough?"
-    },
-    {
-      "id": 45,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "The winner will get to take the elevator to the underground portion where the Golden Bough is."
-    },
-    {
-      "id": 46,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "It’s the treasure the former owner of this casino was so desperate to claim, digging a whole tunnel to unearth it."
-    },
-    {
-      "id": 47,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "But then they suddenly croaked for reasons unknown, making us the “lucky” bidders…"
-    },
-    {
-      "id": 48,
-      "model": "로쟈",
-      "content": "…What an elegant way to put that they died under shady circumstances."
-    },
-    {
-      "id": 49,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Haha, oh Rodya. You’re still as cynical as ever, huh?"
-    },
-    {
-      "id": 50,
-      "model": "로쟈",
-      "content": "…Shut it. How do you guys all know about the Golden Bough, though? Didn’t think it would be so widely known to the public."
-    },
-    {
-      "id": 51,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Any Syndicate worth its name has caught wind of the stories. Those about the Golden Bough buried down here… and the riches and fame it’ll bring to the owner."
-    },
-    {
-      "id": 52,
-      "model": "로쟈",
-      "content": "If that’s the case, seems someone has gained an interest for worldly luxuries, huh? I thought you warned me to stay away from those things, Sonya."
-    },
-    {
-      "id": 53,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "The Golden Bough can be used to achieve far greater things, Rodya. My purpose has stayed the same. To destroy the system of oppression and exploitation, preventing the concentration of wealth…"
-    },
-    {
-      "id": 54,
-      "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Yeesh, there he goes again with the grand words. Someone stop ‘im."
-    },
-    {
-      "id": 55,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "My apologies. It reminded me of the old times."
-    },
-    {
-      "id": 56,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "It’s funny. I used to keep you from your obsession with gambling and money."
-    },
-    {
-      "id": 57,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Yet here we are at the same table, keeping our hands of cards from each other in a gamble with our goals on the line."
-    },
-    {
-      "id": 58,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "What is your goal?"
-    },
-    {
-      "id": 59,
-      "model": "로쟈",
-      "content": "…To win."
-    },
-    {
-      "id": 60,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "…Of course."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng thượng lưu",
+                "model":"단테",
+                "content":"<Không ổn chút nào cả. Chúng ta đã lên tầng cao nhất rồi, nhưng lại không hề có đủ ước nguyện...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"로쟈",
+                "content":"Á~ Đừng lo. Nãy giờ tôi ráng nhịn, bây giờ nói được rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"로쟈",
+                "content":"Thực ra tôi đã lấy thêm một chút ước nguyện từ cái tiệm cầm đồ này. Tuy không nhiều, nhưng chắc vẫn đủ mà, đúng không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"Rodya lấy ra cho chúng tôi thấy một mảnh vé với vài dòng còn sót trên đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"소드",
+                "content":"Vậy sao cô không nói với chúng tôi từ trước?",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"로쟈",
+                "content":"Như cô cậu đã nói, để cờ bạc thì phải giữ mình một lá át chủ bài. Tôi không muốn nhìn cảnh chúng ta rơi vào tình thế bế tắc đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"로쟈",
+                "content":"Với vai trò là ông trùm~ Thì không phiền mà cho tôi mượn nó một lát nhé, Dante?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Tôi gật đầu, dù sao thì tôi cũng chẳng thể giúp được gì nhiều.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Cho dù nếu tôi có làm tròn vai diễn của mình đi nữa, thì tôi cũng buộc phải quỳ xuống từ bỏ nó, bởi vì mọi thứ đều đang đi đúng hướng của bọn họ muốn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"소드",
+                "content":"...Bản thân tôi cách đây vài tiếng trước sẽ phản đối một cách kịch liệt. Nhưng giờ thì...",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nghĩ tốt đấy. Một khi trò nào còn dính tới tiền thì tôi chắc chắn sẽ không bao giờ thua đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "content":"Được rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":"Phòng Riêng",
+                "model":"로쟈",
+                "content":"Thí sinh tới đây~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chà, vậy tôi không phải người cuối á? Ầu, thế là đi tong cả màn xuất hiện ngàu lòi của mình rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Cô là...?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"로쟈",
+                "content":"Tên tôi là Rodion. Tôi tới đây làm·một trận cá cược vì quyền lợi vào tầng hầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"아이드",
+                "content":"Phù!",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"아이드",
+                "content":"Ta đã rất mong chờ có thể được gặp “kẻ cắp ước nguyện” bằng xương bằng thịt khét tiếng, nhưng thay vào đó chúng ta có gì này. Chẳng phải cô hơi quá tự tin so với một tên vô danh tiểu tốt hay sao?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nghe gì chán ngắt thế~ Trên đời này, dù tai to mặt lớn cũng đâu có nghĩa lý gì đâu? Kẻ chiến thắng mới có quyền lên tiếng nhé.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"아이드",
+                "content":"Chà, không sai. Việc cô tiến được xa đến cỡ này cũng đủ để chứng minh rằng cô có phẩm chất đấy.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"아이드",
+                "content":"Hân hạnh được gặp mặt, tên ta là Aida.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"아이드",
+                "content":"Còn đây là...",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"철공회보스",
+                "content":"Trời đất, mẹ cái lưng ta.",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"로쟈",
+                "content":"...Một con rô bốt? Không, đó là bộ phận cấy ghép?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"철공회보스",
+                "content":"Nhìn gì? Chưa bao giờ thấy người được cấy ghép máy móc toàn thân bao giờ à?",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chẳng phải mẫu đó... hơi cổ sao? Nhìn chúng như thuộc về viện bảo tàng vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"철공회보스",
+                "content":"Càng cổ càng giá trị, người xưa từng nói thế đấy. Gia cố thêm vài lần, và giờ nó còn cứng hơn mấy mẫu mới toanh trên thị trường.",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"철공회보스",
+                "content":"Sao thằng nhóc ấy lại lề mề thế nhỉ? Thằng nhãi kiêu ngạo nghĩ mình có thể đến muộn vào những lúc quan trọng thế này hay sao?",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Xin thứ lỗi, tôi có việc đột xuất.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"로쟈",
+                "content":"?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"아이드",
+                "content":"Anh nghĩ anh là cái rốn của vũ trụ à, Sonya? Liệu anh đang thèm khát sự chú ý đến mức anh phải tới muộn để đắm chìm trong ánh nhìn chằm chằm của mọi người?",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"소냐",
+                "content":"Ha ha, tôi không có ý đó. Nếu có thể thì tôi nghĩ cô sẽ thích hợp làm nhân vật chính hơn đó, Aida.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"로쟈",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"소냐",
+                "content":"Đã lâu không gặp, Rodya.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"아이드",
+                "content":"Cái gì? Hai ngươi quen biết nhau sao?",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"소냐",
+                "content":"Cứ xem chúng tôi... là đồng hương đi. Đúng không nhỉ, Rodya?",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"로쟈",
+                "content":"Vậy là cậu... vẫn đang cầm đầu Yurodiviye, sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"소냐",
+                "content":"Không biết nữa, còn quá sớm để nói \"vẫn\"... Cậu chính là người đã tự ý rời đi đó.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"아이드",
+                "content":"Thôi, tám chuyện đến thế được rồi. Vì hiện tại chúng ta đã có đủ người tham gia, nên giờ hãy ngó qua lại quy tắc thêm một lần nữa nào.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"아이드",
+                "content":"Cả bốn nhà thầu của sòng bạc đều đã ở đây: Sonya, Aida, Thiết Công Hội và đại diện cho ông trùm của Băng Tình Tang... một kẻ đáng ngờ nhưng vô liêm sỉ...",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"아이드",
+                "content":"Gian lận hay là giở trò 'tay hư' đều là thứ không được phép tồn tại trong canh bạc này. Nếu bị bắt quả tang, thì sẽ bị loại ngay.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"아이드",
+                "content":"Luật bất thành văn ở đây là cấm được sử dụng mọi thứ liên quan tới ước nguyện.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"철공회보스",
+                "content":"Ngay khi mày bị bắt, mày sẽ bị tử hình ngay lập tức! Mày sẽ phải hối hận!",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"로쟈",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"아이드",
+                "content":"Chúng ta sẽ chơi tổng cộng ba ván và kẻ có tổng số phỉnh trên tay nhiều nhất sẽ chiến thắng. Dễ hiểu mà phải không?",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"아이드",
+                "content":"Kẻ chiến thắng sẽ có quyền sử dụng thang máy để di chuyển xuống tầng hầm, nơi đang cất giữ Cành Vàng.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"아이드",
+                "content":"Đây đích thực là kho báu mà chủ cũ sòng bạc này khao khát muốn có được, đến mức đào cả một đường hầm chỉ để khai quật nó.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"아이드",
+                "content":"Nhưng đột nhiên họ bị giết không rõ lý do, khiến cho chúng ta bất đắc dĩ trở thành những nhà thầu 'may mắn'...",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"로쟈",
+                "content":"...Đúng là cách thật tao nhã để nói rằng họ đã chết mà không để lại dấu vết gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"소냐",
+                "content":"Ha ha, ôi Rodya. Cậu vẫn luôn hoài nghi như xưa nhỉ?",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"로쟈",
+                "content":"...Câm đi. Sao cậu lại biết về Cành Vàng? Tôi đâu nghĩ nó được biết đến rộng rãi đến thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"아이드",
+                "content":"Bất kỳ Băng Đảng nào xứng đáng với cái tên của chúng cũng đều đã nghe về tin đồn đó. Như câu chuyện về Cành Vàng được chôn ở đây... và sự giàu có, danh tiếng mà nó mang lại cho người sở hữu.",
+                "teller":"Aida",
+                "title":"Los Mariachis"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nếu vậy, có lẽ như ai đó đã vâng theo những lời hoa mị đó, hửm? Tôi cứ tưởng cậu thường cảnh cáo tôi về những thứ này kia mà, Sonya?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"소냐",
+                "content":"Cành Vàng có thể được dùng cho những mục đích cao cả hơn, Rodya. Mục đích của tớ vẫn như trước. Lật đổ hệ thống chế độ áp bức và bốc lột, ngăn chặn sự phân biệt giàu nghèo.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"철공회보스",
+                "content":"Trời ạ, hắn lại lảm nhảm mấy thứ cao siêu vô nghĩa rồi. Ai đó ngăn hắn lại đi.",
+                "teller":"Tên Trùm Hội",
+                "title":"Thiết Công Hội"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"소냐",
+                "content":"Là lỗi của tôi, nó khiến tôi hoài niệm.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"소냐",
+                "content":"Khá là buồn cười đấy chứ. Tớ luôn phải ngăn không cho cậu tiếp xúc với cờ bạc và tiền tài một cách mất kiểm soát.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"소냐",
+                "content":"Thế nhưng bây giờ chúng ta lại ngồi mặt đối mặt cùng những lá bài trên tay, trong một ván cược may rủi nhằm thực hiện mục đích riêng của từng người.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"소냐",
+                "content":"Thế mục đích của cậu là gì?",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"로쟈",
+                "content":"...Để thắng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"소냐",
+                "content":"...Hẳn là vậy rồi nhỉ.",
+                "teller":"Sonya",
+                "title":"Yurodivy"
+            }
+        ]
     }
-  ]
-}
+

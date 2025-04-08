@@ -2,68 +2,68 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Exterior",
+      "place": "Nhánh Mở Rộng Tập Đoàn L - Quận 4",
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…Dante. A moment with me, please."
+      "title": "Người dẫn đường",
+      "content": "...Dante. Ta xin nói chuyện với cậu chút."
     },
     {
       "id": 1,
-      "content": "While the team was busy exchanging greetings, Vergilius called me to a secluded place."
+      "content": "Trong lúc cả nhóm đang bận chào hỏi nhau, Vergilius đã gọi tôi ra gặp riêng tại một nơi hẻo lánh."
     },
     {
       "id": 2,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Let me tell you in advance that they’re only Grade 8 Fixers."
+      "title": "Người dẫn đường",
+      "content": "Ta sẽ nói cho cậu biết trước rằng những người kia chỉ là Fixer Cấp 8 thôi."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Grade 8?>"
+      "content": "<Cấp 8 ư?>"
     },
     {
       "id": 4,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…It means they’re low-rank drudges, errands being their main tasks."
+      "title": "Người dẫn đường",
+      "content": "...Có nghĩa là họ cũng chỉ là mấy đứa cấp thấp chuyên lao động khổ sai, công việc chính là đi chạy vặt."
     },
     {
       "id": 5,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Use them for your benefit, but don’t rely on them."
+      "title": "Người dẫn đường",
+      "content": "Cứ dùng họ tuỳ thích, nhưng đừng lệ thuộc vào họ quá."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<I can’t count on them to deal with everything for us, in other words.>"
+      "content": "<Hay nói cách khác, là tôi không thể mong đợi họ xử lý tất cả mọi chuyện được.>"
     },
     {
       "id": 7,
-      "content": "I nodded to let him know that I understood his point."
+      "content": "Tôi gật đầu đáp lại để ông ấy biết rằng tôi đã hiểu ý ông ấy muốn nói."
     },
     {
       "id": 8,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…You might be the only one on the bus I can actually converse with."
+      "title": "Người dẫn đường",
+      "content": "...Có lẽ cậu là người duy nhất mà ta có thể nói chuyện được."
     },
     {
       "id": 9,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…Well, best of luck, Dante."
+      "title": "Người dẫn đường",
+      "content": "...Dù gì thì, chúc may mắn, Dante."
     },
     {
       "id": 10,
-      "content": "Vergilius pat my shoulder with a bitter smile before slowly making his way back to the bus."
+      "content": "Vergilius vỗ vai tôi với nụ cười nhạt trước khi chậm rãi đi về phía chiếc xe."
     }
   ]
 }

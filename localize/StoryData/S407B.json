@@ -1,239 +1,334 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "content": "As the futile conversations reached an end, the bus lazily pulled to a stop."
-        },
-        {
-            "id": 1,
-            "content": "We’d arrived… in front of a building so tall that it would take a while to count the floors."
-        },
-        {
-            "id": 2,
-            "content": "A few shrank down as if intimidated.\n(I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)"
-        },
-        {
-            "id": 3,
-            "content": "A few looked around with curious eyes…"
-        },
-        {
-            "id": 4,
-            "content": "And some others walked and carried themselves as if they knew they deserved royal treatment."
-        },
-        {
-            "id": 5,
-            "place": "K Corp. Laboratory Lobby",
-            "model": "홍루",
-            "content": "Fuhu, I guess we’ve earned some renown. We’re finally being invited to places regular people would live."
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "Lemme make one thing clear… If the request and the reward’s a load of tosh like the last time, I’m out."
-        },
-        {
-            "id": 7,
-            "content": "Heathcliff ground his teeth, whether by Hong Lu’s words or due to memories of what we got into last time we were here."
-        },
-        {
-            "id": 8,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, you’re a little late as expected."
-        },
-        {
-            "id": 9,
-            "model": "단테",
-            "content": "<As expected?>"
-        },
-        {
-            "id": 10,
-            "model": "오티스",
-            "content": "That man is…"
-        },
-        {
-            "id": 11,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It’s a pleasure to meet you again. I want you to know that this is my heartfelt sentiment and not a formality."
-        },
-        {
-            "id": 12,
-            "content": "A familiar face I never expected to see again greeted us."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "…I’m out. Already told ya."
-        },
-        {
-            "id": 14,
-            "model": "단테",
-            "content": "<Give it a moment! Let’s at least hear what he has to say, okay?>"
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?"
-        },
-        {
-            "id": 16,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "To tell you the truth, my last request was a test to measure your competence."
-        },
-        {
-            "id": 17,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And you passed with flying colors. Congratulations. I mean this one as well."
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "Who are you to test and grade us?! You—"
-        },
-        {
-            "id": 19,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "That’s of course—"
-        },
-        {
-            "id": 20,
-            "model": "동랑",
-            "teller": "???",
-            "title": "???",
-            "content": "That’s of course at the discretion of Mr. Samjo, my shrewd secretary. So you must be… from Limbus Company."
-        },
-        {
-            "id": 21,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "A pleasure to meet you, I’m Dongrang. I heard a lot about you from Samjo—it almost made me a fan."
-        },
-        {
-            "id": 22,
-            "model": "돈키호테",
-            "content": "Fan??? Didst thou say just now that we have earned thine adoration?"
-        },
-        {
-            "id": 23,
-            "model": "로쟈",
-            "content": "It’s just flattery, Don Quixote…"
-        },
-        {
-            "id": 24,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "If I’m being quite honest… the test wasn’t my idea. I mean, you aren’t lab hens or anything, and you deserve better than involuntary tests."
-        },
-        {
-            "id": 25,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed, it was my suggestion."
-        },
-        {
-            "id": 26,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I had reason to do so as your “Limbus Company” is a little-known firm that… could or could not be newly established."
-        },
-        {
-            "id": 27,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "We couldn’t take the risk of entrusting an unknown organization with a request on Mr. Dongrang’s word alone."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "Ahem… So, that means you’re requesting us…"
-        },
-        {
-            "id": 29,
-            "content": "Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud."
-        },
-        {
-            "id": 30,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Why, of course. Because, you all are…"
-        },
-        {
-            "id": 31,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "……."
-        },
-        {
-            "id": 32,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, why don’t I show you to my lab? There are many fun things to see."
-        },
-        {
-            "id": 33,
-            "model": "단테",
-            "content": "<Changing the subject so shamelessly is only gonna bother us more…>"
-        },
-        {
-            "id": 34,
-            "model": "삼조",
-            "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sorry? Are you really going to take these people to your laboratory?"
-        },
-        {
-            "id": 35,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Why not? They passed your test, didn’t they, Mr. Samjo."
-        },
-        {
-            "id": 36,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And if they’ve got the skills to take down what they called an “Abnormality” as we saw today…"
-        },
-        {
-            "id": 37,
-            "model": "돈키호테",
-            "content": "Aha~ Thou hast heard? My, traces of heroic deeds indeed make themselves known to the masses in no time! Fufu…"
-        },
-        {
-            "id": 38,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha, that’s a fun way to put it."
-        },
-        {
-            "id": 39,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?"
-        },
-        {
-            "id": 40,
-            "content": "Faust tried to say something to Dongrang, but he and Samjo pulled me far away by the time she stepped forward."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "content":"Khi cuộc đối thoại vô ích đã kết thúc, chiếc xe buýt chầm chậm dừng lại tại một bến đỗ.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "content":"Chúng tôi đã đến... trước một toà nhà cao đến nỗi cần phải mất rất lâu mới có thể đếm được số tầng ở đó.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "content":"Một số co người lại như thể đang bị đe doạ.\n(Sinclair thì tôi hiểu được, nhưng đến cả Heathcliff và Ishmael dường như cũng đang cảm thấy bị áp lực.)",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "content":"Một số tò mò nhìn xung quanh...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "content":"Và những người khác thì ung dung bước đi như thể họ biết mình xứng đáng được chào đón nồng nhiệt.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "content":"À ha ha, có vẻ tên tuổi đoàn mình được biết đến nhiều hơn rồi nhỉ. Cuối cùng ta cũng được mời tới nơi người bình thường hay ở rồi nè.",
+                "place":"Sảnh Phòng Thí Nghiệm T.Đoàn K",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "content":"Nói trước cho mày biết... Nếu yêu cầu và phần thưởng như cái quần què giống kỳ rồi thì tao phắn đây.",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "content":"Heathcliff nghiến răng, không biết là do lời nói của Hong Lu hay do những ký ức về thứ mà chúng tôi đã trải qua ở đây vào lần trước.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "content":"À, mấy người có chút trễ hẹn, như dự tính.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":9,
+                "content":"<Như dự tính ư?>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "content":"Tên đó là...",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "content":"Thật vui làm sao khi gặp mọi người lần nữa. Tôi mong các vị hiểu rằng, đây chỉ là những lời thật lòng của tôi thôi chứ không phải đôi lời xã giao đâu.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":12,
+                "content":"Một gương mặt thân quen mà tôi không nghĩ sẽ gặp lại chào đón chúng tôi.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "content":"...Tao phắn đây. Đã bảo rồi đấy.",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "content":"<Chờ một chút đi nào! Ít nhất thì hãy nghe điều anh ta muốn nói trước đã, được chứ?>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "content":"Buông ra! Mày có biết tao bị ám ảnh cỡ nào khi phải nhảy tango với lũ gà sống nhăn không? Hả?",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "content":"Thú thật với mọi người, yêu cầu trước đó chỉ là bài kiểm tra năng lực.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":17,
+                "content":"Và... xin chúc mừng, mọi người đã thông qua với điểm số rất ấn tượng. Tôi nói thật lòng đấy.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":18,
+                "content":"Mày là ai mà dám thử và đánh giá tụi tao?! Mày—",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "content":"Dĩ nhiên là vì—",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":20,
+                "content":"Tất nhiên là do cậu Samjo đây, người thư ký sắc sảo của tôi đã tự ý làm rồi. Vậy mọi người... đều từ Công Ty Limbus đến nhỉ.",
+                "place":null,
+                "model":"동랑",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":21,
+                "content":"Hân hạnh được gặp mặt, tôi là Dongrang. Tôi đã nghe Samjo kể nhiều về mọi người lắm—suýt khiến tôi thành người hâm mộ luôn mà.",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":22,
+                "content":"Người hâm mộ ư??? Anh đây vừa mới nói rằng chúng ta đã nhận được sự ái mộ của anh sao?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "content":"Chỉ là nịnh bợ thôi à, Don Quixote...",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "content":"Thật lòng thì... bài kiểm tra không phải do tôi nghĩ ra. Ý tôi là, mọi người không phải chuột bạch hay gì cả, và mọi người xứng đáng nhận được sự đối đãi tốt hơn là những bài kiểm tra không tự nguyện chứ.",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":25,
+                "content":"Đúng là thế, đó là đề xuất của tôi.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":26,
+                "content":"Lý do để tôi làm như vậy vì \"Công Ty Limbus\" là một công ty lạ lẫm mà... có thể vừa mới thành lập gần đây hoặc không.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":27,
+                "content":"Vì thế bên tập đoàn sẽ không tín nhiệm yêu cầu của ngài Dongrang nếu phía công ty các vị chỉ là một tổ chức vô danh nào đó.",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":28,
+                "content":"E hèm... Thế tức là anh đang yêu cầu chúng tôi...",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "content":"Ishmael hỏi thêm một lần nữa để chắc chắn đây là một yêu cầu trực tiếp đến chúng ta, gương mặt của cô ấy có vẻ khá tự hào và mãn nguyện.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "content":"Tất nhiên rồi. Bởi vì, mọi người đều là...",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":31,
+                "content":"…….",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":32,
+                "content":"À, hay là để tôi dẫn mọi người tham quan phòng thí nghiệm của tôi nhé? Có rất nhiều thứ thú vị lắm đấy.",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":33,
+                "content":"<Đánh trống lảng một cách khiếm nhã như thế sẽ chỉ làm phiền lòng chúng tôi hơn thôi...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "content":"Ngài Dongrang? Ngài thật sự muốn dẫn họ đến phòng thí nghiệm của ngài?",
+                "place":null,
+                "model":"삼조",
+                "teller":"Samjo",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":35,
+                "content":"Tại sao không chứ? Bọn họ đã vượt qua bài kiểm tra của cậu mà, đúng không, Samjo.",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":36,
+                "content":"Và nếu bọn họ có khả năng hạ gục thứ gọi là \"Dị Thể\" mà chúng ta đã thấy hôm nay...",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":37,
+                "content":"A ha~ Anh đã nghe rồi sao? Hỡi ôi, vết tích hào hùng đã tự vang danh đến công chúng trong tức khắc rồi! Phư phư...",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "content":"Ha ha, một cách nói thú vị đấy.",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":39,
+                "content":"À, và ngài hẳn là quản lý... Dante, phải chứ? Chúng ta có thể nói chuyện riêng một chút được không?",
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":40,
+                "content":"Faust cố gắng nói gì đó với Dongrang, nhưng anh ta và Samjo đã kéo tôi ra xa trước khi cô ấy kịp chen vào.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

@@ -1,251 +1,398 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Dark Corners of U Corp.",
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "Ye bastards... When our boss hears of this, yer all finished...!"
-        },
-        {
-            "id": 1,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "So if ye... uh, bow down and... beg fer..."
-        },
-        {
-            "id": 2,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "W-wait! I'm not finished! Get away! Git!"
-        },
-        {
-            "id": 3,
-            "model": "이스마엘",
-            "content": "Oh, that's convenient."
-        },
-        {
-            "id": 4,
-            "model": "단테2",
-            "content": "<......>"
-        },
-        {
-            "id": 5,
-            "model": "이스마엘",
-            "content": "Nice. Now we know we can go up the chain and talk to their 'boss' in charge. Let's stop wasting our time here."
-        },
-        {
-            "id": 6,
-            "model": "이스마엘",
-            "content": "I don't want to have to crack open these shipping containers one by one and go through mountains of rotting corpses."
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "You can still point, right?"
-        },
-        {
-            "id": 8,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "......"
-        },
-        {
-            "id": 9,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Kidnapper 2",
-            "title": "???",
-            "content": "P... please..."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "The location of your boss. Mark it on this map with your finger."
-        },
-        {
-            "id": 11,
-            "content": "I wasn't sure when she picked it up, but Ishmael was carrying a travel brochure of Marlin Port. She shoved it in the pirate's face, who struggled for a moment before pointing to a location on the map."
-        },
-        {
-            "id": 12,
-            "content": "As soon as her trembling finger reached the paper..."
-        },
-        {
-            "id": 13,
-            "model": "단테2",
-            "content": "<Ishmael, Wait—>"
-        },
-        {
-            "id": 14,
-            "model": "이스마엘",
-            "content": "Well, we have our next stop. What are we waiting for?"
-        },
-        {
-            "id": 15,
-            "content": "Ishmael walked out, leaving nothing but shipping containers full of both old and fresh bodies behind."
-        },
-        {
-            "id": 16,
-            "model": "그레고르",
-            "content": "What are the odds that the LCCB Agent we were supposed to meet is still alive...?"
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "Depends on how rich they think we are."
-        },
-        {
-            "id": 18,
-            "model": "그레고르",
-            "content": "... He could already be dead, then."
-        },
-        {
-            "id": 19,
-            "model": "이스마엘",
-            "content": "Even if the worst comes to pass, we should still find his body. That'll at least give us something."
-        },
-        {
-            "id": 20,
-            "model": "싱클레어",
-            "content": "... If that's all we find at the end of this, his corpse... Ishmael..."
-        },
-        {
-            "id": 21,
-            "model": "싱클레어",
-            "content": "I... don't think I could forgive..."
-        },
-        {
-            "id": 22,
-            "model": "이스마엘",
-            "content": "Ha... who, me?"
-        },
-        {
-            "id": 23,
-            "model": "싱클레어",
-            "content": "No. Us. We who... didn't even try to save them."
-        },
-        {
-            "id": 24,
-            "model": "단테2",
-            "content": "<Faust.>"
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "I am listening."
-        },
-        {
-            "id": 26,
-            "model": "단테2",
-            "content": "<Should we do something? Is she going to be okay? I mean, Ishmael...>"
-        },
-        {
-            "id": 27,
-            "model": "파우스트",
-            "content": "I can give you answers regarding her insubordination and her emotional state."
-        },
-        {
-            "id": 28,
-            "model": "파우스트",
-            "content": "But this is not a matter in which Faust's answers can be of much assistance."
-        },
-        {
-            "id": 29,
-            "model": "오티스",
-            "content": "Executive Manager, such insubordination and nigh rogue behavior would have resulted in an on-the-spot execution in any other organization."
-        },
-        {
-            "id": 30,
-            "model": "오티스",
-            "content": "I am aware that punishing the Sinners is not a part of the authority given to you, but there must be penalties befitting her actions for proper management."
-        },
-        {
-            "id": 31,
-            "model": "단테2",
-            "content": "<Outis, you're always on my side.>"
-        },
-        {
-            "id": 32,
-            "model": "단테2",
-            "content": "<Pretty much always, now that I think about it...>"
-        },
-        {
-            "id": 33,
-            "model": "오티스",
-            "content": "I have been... a leader of men once, as you are now. I can sympathize with your troubles."
-        },
-        {
-            "id": 34,
-            "model": "단테2",
-            "content": "<I don't know if I can manage Ishmael anymore... I just don't.>"
-        },
-        {
-            "id": 35,
-            "model": "단테2",
-            "content": "<Though it looked like she was acting rash, maybe it was... maybe she knew the right thing to do in this scenario.>"
-        },
-        {
-            "id": 36,
-            "model": "단테2",
-            "content": "<If Ishmael suddenly decides to quit, or something...>"
-        },
-        {
-            "id": 37,
-            "content": "Faust will doubtless proceed to educate me on the various clauses that prevent Ishmael from quitting..."
-        },
-        {
-            "id": 38,
-            "content": "But it's not like I could force her to come along should this hostility escalate. Besides, she'd already acted without my orders earlier."
-        },
-        {
-            "id": 39,
-            "content": "She did say that she'd follow my orders. But I wasn't sure how long that would last."
-        },
-        {
-            "id": 40,
-            "model": "오티스",
-            "content": "Executive Manager. That doesn't matter."
-        },
-        {
-            "id": 41,
-            "model": "오티스",
-            "content": "We don't need there to be 12 Sinners."
-        },
-        {
-            "id": 42,
-            "model": "단테2",
-            "content": "<... Are you saying that we leave Ishmael?>"
-        },
-        {
-            "id": 43,
-            "model": "오티스",
-            "content": "Executive Manager. I have wandered for many years in far, far lands before making my journey here. And I have done so with steadfast determination—for a single clause on my contract with the company."
-        },
-        {
-            "id": 44,
-            "model": "오티스",
-            "content": "I came ready to face all the hardships that the journey entails. Adversity, conflict, and loss of comrades are simply facts of this quest that I must weather. Truth be told, I expect all of them to happen at some point in our journey."
-        },
-        {
-            "id": 45,
-            "model": "오티스",
-            "content": "Oh, I will always remain by your side, of course."
-        },
-        {
-            "id": 46,
-            "content": "She smoothly added the last part, but..."
-        },
-        {
-            "id": 47,
-            "content": "But there was a growing suspicion at the back of my mind that, maybe, not everyone felt a sense of belonging from this group."
-        },
-        {
-            "id": 48,
-            "content": "Maybe I was the only one who sought a sense of belonging from them. That we'd fight as one no matter what ordeal this journey threw in our way."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Góc Tối trong T.Đoàn U",
+                "model":"쌍갈고리파조직원2",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???",
+                "content":"Lũ khốn... Đại ca bọn tao mà biết được thì chúng mày chết chắc...!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???",
+                "content":"Nên là... ờ, cúi xuống và... sủa tiếng..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???",
+                "content":"Ấ-ấy từ đã! Tao chưa nói xong! Cút! Cút con mẹ mày ra!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ô, thế lại tiện quá."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<......>"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tốt. Giờ chúng ta chỉ cần đi theo và gặp tận mặt 'sếp' của chúng nó là xong. Khỏi phải phí thời gian ở đây nữa."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi không muốn phải đi cạy từng thùng hàng rồi lục lọi ngần ấy cái xác chết thối rữa đâu."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ít nhất mày cũng chỉ đường được chứ?"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???",
+                "content":"......"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Kẻ Bắt Cóc 2",
+                "title":"???",
+                "content":"L-làm ơn..."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thằng sếp của mày đang ở đâu. Chỉ vào."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi không rõ cô ấy lấy nó từ khi nào, nhưng Ishmael đang cầm một cái tờ rơi du lịch của Cảng Marlin. Cô ấy đẩy thẳng nó vào mặt của tên cướp biển, kẻ đang chật vật trước khi chỉ lên một toạ độ trên bản đồ."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ngay khi ngón tay của cô ta chạm vào mảnh giấy..."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Ishmael, đợi đã—>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Biết điểm đến tiếp theo rồi đấy. Ngài còn chờ gì nữa?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ishmael rời đi, bỏ lại những thùng hàng chứa đầy xác chết phân huỷ và thi thể mới lìa đời."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Tỉ lệ Đặc Vụ LCCB ta cần gặp đó vẫn còn sống là bao nhiêu phần trăm...?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Còn tùy vào việc bọn nó nghĩ chúng ta giàu mức nào."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Vậy có khi cậu ta chết rồi."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Kể cả thế thì ít ra vẫn còn thi thể để moi được chút thông tin."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"... Nếu cuối cùng, tất cả những gì chúng ta tìm được chỉ là cơ thể lạnh lẽo của anh ấy... Cô Ishmael à..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Tôi... Tôi không nghĩ mình có thể tha thứ được..."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ha... tha thứ cho ai, tôi á?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Không. Chúng ta, những người thậm chí còn... không làm gì để cứu họ."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Faust.>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Tôi nghe đây."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Chúng ta có nên làm gì đó không? Cô ấy liệu có ổn không? Ý tôi nói Ishmael...>"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Thái độ bất tuân hay trạng thái cảm xúc hiện tại của cô ấy... Tôi đều có câu trả lời cho chúng."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng lý luận của Faust sẽ không giúp ích nhiều trong tình huống này."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Thưa Quản Lý Điều Hành, hành vi bất tuân và gian trá như thế luôn dẫn tới xử tử công khai trong bất kì tổ chức nào khác."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Có thể việc trừng phạt các Tội Nhân không nằm trong thẩm quyền được trao cho ngài, nhưng chắc chắn phải có một hình phạt cho hành động của con nhóc đấy để tương lai dễ quản lý hơn."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Outis, cô luôn đứng về phía của tôi.>"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Gần như là luôn luôn rồi...>"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Tôi đã từng... là lãnh đạo, như ngài bây giờ. Nên tôi có thể hiểu những rắc rối của ngài."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Tôi không biết liệu tôi có thể quản lý Ishmael được nữa không... Tôi không thể.>"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Mặc dù trông có vẻ như cô ấy đang hành động một cách thiếu suy nghĩ, có thể là do... có thể cô ấy biết điều đúng đắn cần phải làm trong tình cảnh này.>"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Nếu như Ishmael bỗng nhiên quyết định từ bỏ, hoặc có chuyện gì đó...>"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Faust chắc chắn sẽ giáo huấn tôi rất nhiều điều khoản ngăn chặn Ishmael nghỉ việc..."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nhưng tôi đâu thể nào ép buộc cô ấy đi cùng chúng tôi nếu sự thù địch này cứ tiếp tục leo thang. Bên cạnh đó, cô ấy đã tự ý hành động mà không hề có mệnh lệnh của tôi rồi."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cô ấy có nói rằng cô ấy sẽ nghe theo lệnh của tôi. Nhưng tôi không chắc điều đó sẽ tiếp diễn trong bao lâu."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Thưa Quản Lý Điều Hành. Việc đó không quan trọng."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Ta không nhất thiết phải có 12 Tội Nhân."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<...Cô đang nói rằng chúng ta nên bỏ mặc Ishmael ư?>"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Thưa Quản Lý Điều Hành. Tôi đã lang thang nhiều năm ở vô số nơi xa xôi tận cùng thế giới trước khi bắt đầu chuyến hành trình của mình ở đây. Tôi làm được tất cả nhờ vào quyết tâm kiên định của mình—chỉ vì một điều khoản duy nhất trong hợp đồng của tôi với công ty."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Tôi tới với tâm lý luôn sẵn sàng để đương đầu với những khó khăn mà cuộc hành trình này sẽ mang lại. Nghịch cảnh, xung đột và mất đi những người đồng đội là những thứ cơ bản mà tôi phải trải qua. Sự thật đau lòng, dù không muốn nhưng tôi vẫn luôn chấp nhận rằng những việc đấy rồi sẽ xảy ra vào một lúc nào đó trong chuyến hành trình."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Ồ, dĩ nhiên là tôi vẫn sẽ luôn sát cánh cùng ngài mà."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cô ấy thêm thắt phần cuối đó vào một cách trơn tru và mượt mà, nhưng..."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nhưng sâu tâm trí tôi càng nghi ngờ rằng, có lẽ thôi, không phải tất cả mọi người đều cảm thấy bản thân mình thuộc về nhóm này."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Có lẽ tôi là người duy nhất tìm kiếm một cảm giác rằng mình thuộc về nơi đây. Rằng chúng ta sẽ chiến đấu với nhau như là một nhóm dù cho có bất cứ trở ngại hay thử thách nào xảy đến với chúng ta trên chuyến hành trình này."
+            }
+        ]
+    }
+

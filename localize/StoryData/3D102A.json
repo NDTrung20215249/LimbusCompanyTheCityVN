@@ -1,450 +1,678 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "District 11 - LC Branch Interior",
-      "content": "I heard that familiar yet ominous sound of a nail being dragged across the floor from not too far away."
-    },
-    {
-      "id": 1,
-      "model": "오티스",
-      "content": "…Manager. If I may be forward, I would suggest soon including steps in your combat protocol to confirm that our foes are dead."
-    },
-    {
-      "id": 2,
-      "content": "The thought of his return makes what hair I have stand on end."
-    },
-    {
-      "id": 3,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Ye Heretics… must be exterminated."
-    },
-    {
-      "id": 4,
-      "model": "단테",
-      "content": "<How long have you been…>"
-    },
-    {
-      "id": 5,
-      "content": "Guido approaches at a slower gait than before, but his gaze is firmly fixed on me."
-    },
-    {
-      "id": 6,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "And… the rest… shall be purified."
-    },
-    {
-      "id": 7,
-      "content": "I needed to rewind the clock."
-    },
-    {
-      "id": 8,
-      "content": "Most of the Sinners were either dead or gravely injured."
-    },
-    {
-      "id": 9,
-      "content": "There was no way an effectively non-combatant manager and someone barely holding on to her life could take him."
-    },
-    {
-      "id": 10,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Please stop…"
-    },
-    {
-      "id": 11,
-      "content": "Just then, Saude pulled out a gun."
-    },
-    {
-      "id": 12,
-      "content": "She pointed the barrel at me."
-    },
-    {
-      "id": 13,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "I need you… to keep still…"
-    },
-    {
-      "id": 14,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "The moment you try to turn that clock, my gun… will blow off your head…"
-    },
-    {
-      "id": 15,
-      "model": "단테",
-      "content": "<Saude…?>"
-    },
-    {
-      "id": 16,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Don’t look at me… like that… I can’t hear you. But, I can tell you this."
-    },
-    {
-      "id": 17,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "They promised… to let Effie go… if I helped to get rid of you…"
-    },
-    {
-      "id": 18,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I let too much time pass."
-    },
-    {
-      "id": 19,
-      "content": "Guido comes to me and grabs me by the neck."
-    },
-    {
-      "id": 20,
-      "model": "단테",
-      "content": "<Kahk, ghhng…>"
-    },
-    {
-      "id": 21,
-      "content": "Then, he grips my head tightly with his other hand as if to crush it."
-    },
-    {
-      "id": 22,
-      "model": "단테",
-      "content": "<Nngh…>"
-    },
-    {
-      "id": 23,
-      "content": "Creaks, cracks, and rattles ring inside my head."
-    },
-    {
-      "id": 24,
-      "content": "His fingers being inches away from shattering my head terrifies me."
-    },
-    {
-      "id": 25,
-      "content": "Is this it? Is this how I die?"
-    },
-    {
-      "id": 26,
-      "content": "Could this… have turned out differently if I was a better manager?"
-    },
-    {
-      "id": 27,
-      "content": "I remember Heathcliff menacingly asking if there was a way to open up my head so he could see what’s inside."
-    },
-    {
-      "id": 28,
-      "content": "Tough luck, Heathcliff."
-    },
-    {
-      "id": 29,
-      "content": "You’ll be missing out on a good show…"
-    },
-    {
-      "id": -1,
-      "model": "//효과음",
-      "content": "Thwack"
-    },
-    {
-      "id": 30,
-      "content": "I heard a sound."
-    },
-    {
-      "id": 31,
-      "content": "It was the sound of something breaking."
-    },
-    {
-      "id": 32,
-      "content": "Fortunately for me…"
-    },
-    {
-      "id": 33,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Ngh…"
-    },
-    {
-      "id": 34,
-      "content": "It didn’t come from my head."
-    },
-    {
-      "id": 35,
-      "model": "싱클레어",
-      "content": "Huff, hoogh… Hahk."
-    },
-    {
-      "id": 36,
-      "content": "Guido staggers."
-    },
-    {
-      "id": 37,
-      "content": "A nail was lodged in his back, and Sinclair was gasping for air behind him."
-    },
-    {
-      "id": 38,
-      "content": "He was nearly unconscious, lying still until moments ago—it’s a miracle that he managed to get up and do this."
-    },
-    {
-      "id": 39,
-      "content": "I could escape Guido’s grasp thanks to him…"
-    },
-    {
-      "id": 40,
-      "content": "But Guido stood firm despite Sinclair’s desperate attack; he collected his breath and slowly turned around."
-    },
-    {
-      "id": 41,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "…I see."
-    },
-    {
-      "id": 42,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You, too, are a filthy heretic…"
-    },
-    {
-      "id": 43,
-      "model": "싱클레어",
-      "content": "You’re… all insane… out of your minds…"
-    },
-    {
-      "id": 44,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "The One Who Grips had once said…"
-    },
-    {
-      "id": 45,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "That you could have become the One as well."
-    },
-    {
-      "id": 46,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "What a shame…"
-    },
-    {
-      "id": 47,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You grip with the wrong direction."
-    },
-    {
-      "id": 48,
-      "model": "단테",
-      "content": "<Sinclair… run away… I can’t… help you…>"
-    },
-    {
-      "id": 49,
-      "model": "싱클레어",
-      "content": "No… I’m not running anymore."
-    },
-    {
-      "id": 50,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…I like that answer, Sinclair."
-    },
-    {
-      "id": -1,
-      "model": "탕!"
-    },
-    {
-      "id": 51,
-      "content": "Gunfire filled my ears."
-    },
-    {
-      "id": 52,
-      "content": "But the bullet struck Guido’s head."
-    },
-    {
-      "id": 53,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "……"
-    },
-    {
-      "id": 54,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You, who bring ruination upon yourselves…"
-    },
-    {
-      "id": 55,
-      "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "The Hammer shall continue to pursue you…"
-    },
-    {
-      "id": 56,
-      "content": "With those words…"
-    },
-    {
-      "id": 57,
-      "content": "Guido fell to the floor, motionless."
-    },
-    {
-      "id": 58,
-      "content": "And in that hush…"
-    },
-    {
-      "id": 59,
-      "content": "I heard her handgun drop to the floor."
-    },
-    {
-      "id": 60,
-      "model": "단테",
-      "content": "<…Saude.>"
-    },
-    {
-      "id": 61,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Effie, he’s… he’s dead, isn’t he?"
-    },
-    {
-      "id": 62,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "You’re all terrible liars. At least try to make it somewhat believable."
-    },
-    {
-      "id": 63,
-      "model": "그레고르",
-      "content": "…C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up."
-    },
-    {
-      "id": 64,
-      "model": "이스마엘",
-      "content": "Right. I’ll get a tourniquet…"
-    },
-    {
-      "id": 65,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Don’t be stupid. I can hardly lift a finger."
-    },
-    {
-      "id": 66,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Besides, those Inquisitors will keep on coming, won’t they? You guys need to keep moving down."
-    },
-    {
-      "id": 67,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "I’ll hold them off here. You should go."
-    },
-    {
-      "id": 68,
-      "model": "싱클레어",
-      "content": "You can’t—You can’t do that…"
-    },
-    {
-      "id": 69,
-      "model": "이스마엘",
-      "content": "You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?"
-    },
-    {
-      "id": 70,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "You know… in moments like this… you’re supposed to just nod at me and be on your way."
-    },
-    {
-      "id": 71,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Why do you care so much about the one who volunteered to stay behind?"
-    },
-    {
-      "id": 72,
-      "model": "싱클레어",
-      "content": "You can’t… You can’t just…"
-    },
-    {
-      "id": 73,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell."
-    },
-    {
-      "id": 74,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Faust, please take these absolute dorks out of here."
-    },
-    {
-      "id": 75,
-      "model": "파우스트",
-      "content": "I’ll make sure to give Vergilius your regards."
-    },
-    {
-      "id": 76,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "No need."
-    },
-    {
-      "id": 77,
-      "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…Just tell him to come visit and say hello someday. You know what I mean?"
-    },
-    {
-      "id": 78,
-      "model": "파우스트",
-      "content": "……"
-    },
-    {
-      "id": 79,
-      "model": "파우스트",
-      "content": "Of course."
-    },
-    {
-      "id": 80,
-      "content": "We headed for the next area, leaving Saude to die."
-    },
-    {
-      "id": 81,
-      "content": "We all stayed silent for a long while."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Chi Nhánh Nội Bộ Công Ty L - Quận 11",
+                "content":"Tôi nghe thấy một âm thanh quen thuộc nhưng bất an của một cây đinh bị kéo lê khắp nền đất từ một nơi không xa chỗ này.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"…Thưa Quản Lý. Nếu muốn tiến lên, tôi xin đề xuất việc sớm thêm vào hệ thống chiến đấu của ngài những cách để chắc chắn rằng kẻ thù của ta đã chết.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Ý nghĩ về việc ông ta sống trở lại khiến lông tóc gì đó của tôi dựng đứng lên.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Bọn Dị Giáo… phải được diệt trừ.",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"<Ông đã đứng đó bao lâu…>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Guido từng bước một tiến đến chúng tôi, nhưng ánh mắt của ông ta vẫn luôn nhắm vào tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Và… đám còn lại… phải được thanh tẩy.",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Tôi cần phải quay ngược đồng hồ lại ngay.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Hầu hết các Tội Nhân đều đã chết hoặc trọng thương rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Không đời nào có chuyện một quản lý không biết đánh nhau và một người thở còn không nổi có thể hạ ông ta được.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Làm ơn dừng lại…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Ngay sau đó, Saude rút ra một khẩu súng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Cô ấy chĩa nòng súng vào mặt tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Tôi cần ngài… phải đứng yên…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Ngay khoảnh khắc ngài quay chiếc đồng hồ đấy, súng của tôi… sẽ cho nổ tung đầu ngài…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"<Saude…?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Xin đừng nhìn tôi… như thế… Tôi không thể nghe được lời ngài đâu. Nhưng, tôi có thể nói với ngài điều này.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Họ đã hứa… sẽ thả Effie đi… nếu tôi giúp trừ khử ngài…",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Ta đã để thời gian trôi nhiều rồi.",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Guido tiến đến bóp cổ tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"<Ặc, khực…>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Rồi ông ta bóp đầu của tôi bằng tay kia như muốn nghiền nát nó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"<Hự…>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Những tiếng nứt, vỡ, và rắc vang lên trong đầu tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Ngón tay của ông ta sắp sửa bóp nát đầu tôi khiến tôi sợ hãi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Kết thúc rồi sao? Đây là cách tôi sẽ chết ư?",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Liệu chuyện này… sẽ khác đi nếu như tôi là một quản lý tốt hơn?",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Tôi nhớ đến cái lần mà Heathcliff nói về việc mở đầu của tôi ra để xem có gì ở bên trong.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Xui ghê nhỉ Heathcliff.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Anh sắp sửa bỏ lỡ trò hay rồi đó…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":"Thwack",
+                "model":"\/\/효과음",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Tôi nghe thấy một âm thanh gì đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Tiếng của một thứ gì đó đang nứt vỡ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"May mắn cho tôi…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Khực…",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Nó không xuất phát từ đầu của tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Hự, ha… Hầy.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Guido choáng váng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Một cây đinh cắm thẳng vào lưng ông ta, và Sinclair đang thở hổn hển đằng sau.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Cậu ấy gần như đã bất tỉnh, nằm bất động một chỗ hồi nãy—việc cậu ấy vẫn có thể đứng dậy và làm chuyện này quả thật là một điều kỳ diệu.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Nhờ cậu ấy mà tôi mới có thể thoát khỏi vòng tay của Guido…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Nhưng Guido vẫn đứng vững mặc cho nỗ lực của Sinclair; ông ta hít một hơi rồi chầm chậm quay người lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"…Ta hiểu rồi.",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Ngươi cũng là tên dị giáo ghê tởm…",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Bọn mày… đều điên… đều mất trí hết rồi…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Người Nắm Giữ từng bảo rằng…",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Ngươi cũng có thể trở thành Người ấy.",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Thật đáng tiếc…",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Ngươi cầm sai hướng rồi.",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"<Sinclair… chạy đi… tôi không thể… cứu cậu được…>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Không… Tôi sẽ không trốn chạy nữa.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"…Tôi thích câu trả lời đó đấy, Sinclair.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":null,
+                "model":"탕!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Tiếng súng nổ vang lên bên tai.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Nhưng viên đạn lại găm vào đầu của Guido.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"……",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Các ngươi, những kẻ tự gieo lấy án tử…",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Cây Búa sẽ tiếp tục truy lùng các ngươi…",
+                "model":"피묻은귀도",
+                "teller":"Guido",
+                "title":"Nagel und Hammer"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Sau khi cất lên những lời đó…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Guido ngã gục xuống, nằm bất động.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Và trong sự lặng im đó…",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Tôi nghe thấy tiếng khẩu súng của cô ấy rơi xuống đất.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"<…Saude.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Effie, anh… anh ấy chết rồi, đúng không?",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Các người nói dối tệ lắm. Ít ra hãy nói sao nghe thuyết phục hơn đi chứ.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"…Nào Saude, cùng ra khỏi đây thôi. Cô sẽ không sao đâu… Chỉ cần chặn máu chảy, rồi… khâu vài mũi là xong ấy mà.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Phải. Để tôi lấy đồ cầm máu cho…",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Đừng ngu ngốc thế. Tôi còn chẳng thể nhấc tay mình lên đây này.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Với lại, những tên Phán Quan đấy vẫn đang đến gần, đúng chứ? Mọi người cần phải tiếp tục di chuyển xuống dưới.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Tôi sẽ giữ chúng ở đây. Mọi người nên đi đi.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"Chị không thể—Chị không thể làm thế được…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Chính cô cũng vừa nói là đến ngón tay còn không nhấc nổi còn gì. Tôi không thể để cô coi chừng cho chúng tôi với bộ dạng thảm thương như thế được… Xin cô đấy, được không?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Mấy người biết không… vào những lúc như này… lẽ ra mọi người nên chỉ gật đầu đáp lại và bỏ mặc tôi mà đi tiếp.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Sao mấy người lại lo lắng cho người tự nguyện ở lại nhỉ?",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Chị không… Chị không thể cứ…",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Ôi… Cậu làm tình huống khó xử quá, biết không vậy? Tôi cứ nghĩ mình sẽ có lời vĩnh biệt thật ngầu rồi cơ.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Faust, hãy đưa những tên ngốc này ra khỏi đây đi.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Tôi sẽ gửi lời hỏi thăm của cô tới Vergilius.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Không cần đâu.",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"…Chỉ cần bảo ngài ấy ghé thăm và gửi lời chào một ngày nào đấy. Cô hiểu ý tôi chứ?",
+                "model":"제복소드",
+                "teller":"Saude",
+                "title":"LCCB"
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"…….",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"Đương nhiên.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"Chúng tôi tiến đến khu vực tiếp theo, bỏ mặc Saude lại phía sau.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"Tất cả chúng tôi sau đó đều không nói một lời nào cả.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

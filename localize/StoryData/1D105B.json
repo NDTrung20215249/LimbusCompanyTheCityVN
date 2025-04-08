@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
       "model": "로쟈",
-      "content": "Ah~ That felt real good."
+      "content": "À~ Sảng khoái quá."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<I’m dying here…>"
+      "content": "<Tôi đang sắp chết đây này...>"
     },
     {
       "id": 2,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "What an amazing clock you’ve got~ I haven’t seen that technology anywhere."
+      "title": "Fixer Cấp 8",
+      "content": "Đồng hồ của cậu tuyệt ghê~ Tui chưa từng thấy công nghệ nào như vậy cả. "
     },
     {
       "id": 3,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "That has to be on the level of a S-Singularity… What Wing could be responsible…"
+      "title": "Fixer Cấp 8",
+      "content": "Cái đấy phải thuộc tầm cỡ D-Dị Biến... Wing nào lại có thể làm được chuyện này..."
     },
     {
       "id": 4,
-      "content": "Hopkins greedily stared at my head."
+      "content": "Hopkins nhìn đầu tôi tham lam."
     },
     {
       "id": 5,
-      "content": "I really tried to ignore it, but looking at his stuffed pockets again…"
+      "content": "Tôi cố gắng lơ nó đi, nhưng nhìn lại bên túi đầy ấp của anh ta..."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Dante? Why are you clutching your head like that?"
+      "content": "Dante? Sao ngài cứ ôm cái đầu như thế vậy?"
     },
     {
       "id": 7,
       "model": "단테",
-      "content": "<I—It’s nothing.>"
+      "content": "<K—Không có gì cả.>"
     },
     {
       "id": 8,
       "model": "이상",
-      "content": "Miss Faust, can our manager not restore the lives of our guides using the clock’s power?"
+      "content": "Cô Faust, quản lý của chúng ta không thể hồi sinh lại mạng sống của các hướng dẫn viên bằng sức mạnh đồng hồ đó sao?"
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "The clock will only work for us Sinners."
+      "content": "Nó chỉ áp dụng cho chúng ta."
     },
     {
       "id": 10,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Aw, gee~ I s’pose that’s for the better."
+      "title": "Fixer Cấp 8",
+      "content": "Âu, trời~ Tui nghĩ điều đó cũng tốt."
     },
     {
       "id": 11,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Imagine you’re dragged right back to life with a gaping hole in your stomach. Wouldn’t that suck?"
+      "title": "Fixer Cấp 8",
+      "content": "Thử nghĩ được hồi sinh lại với một cái lỗ siêu bự ngay trước bụng. Chẳng phải điều đó tệ lắm sao?"
     },
     {
       "id": 12,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Nah, y’know what, you’re lucky if a hole is punched in your gut. You’d be a goner in seconds―"
+      "title": "Fixer Cấp 8",
+      "content": "À quên đi, mọi người biết gì không? Mọi người sẽ rất may mắn nếu bị thủng một lỗ xuyên ruột đấy. Mọi người sẽ chết ngay tức-"
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<Huh…? Wait―!>"
+      "content": "<Hả...? Đợi đã—!>"
     },
     {
       "id": 14,
       "model": "쓰러진아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Ah."
+      "title": "Fixer Cấp 8",
+      "content": "A."
     },
     {
       "id": 15,
-      "content": "A hard tentacle erupts from the wall and penetrates Aya’s abdomen in an instant."
+      "content": "Một cái xúc tu cứng cáp trồi ra từ bên trong tường và đâm xuyên bụng Aya ngay lập tức."
     },
     {
       "id": 16,
       "model": "오티스",
-      "content": "All units, prepare for battle."
+      "content": "Tất cả đơn vị, sẵn sàng chiến đấu."
     },
     {
       "id": 17,
       "model": "쓰러진아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "…What’d I tell you?"
+      "title": "Fixer Cấp 8",
+      "content": "...Tui đã nói gì nào?"
     },
     {
       "id": 18,
       "model": "쓰러진아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "I’ve always… been a… lucky girl…"
+      "title": "Fixer Cấp 8",
+      "content": "Tui đã luôn... là một cô gái... may mắn..."
     },
     {
       "id": 19,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Cấp 8",
       "content": "AYA!!"
     },
     {
       "id": 20,
       "model": "이상",
-      "content": "Her life has departed."
+      "content": "Cô ấy từ trần rồi."
     },
     {
       "id": 21,
@@ -129,84 +129,84 @@
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Come, now... You’ll have to keep it together, especially in times like these, yeah?"
+      "content": "Đi thôi nào... Càng vào những thời khắc cam go như này thì ta càng phải giữ bình tĩnh mà, đúng chứ?"
     },
     {
       "id": 23,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "B-But…"
+      "title": "Fixer Cấp 8",
+      "content": "N-nhưng..."
     },
     {
       "id": 24,
       "model": "파우스트",
-      "content": "The attack is under an unusual form. It’s likely that we are facing an Abnormality."
+      "content": "Đợt tấn công này có chút khác thường. Có vẻ như chúng ta sẽ đấu với Dị Thể."
     },
     {
       "id": 25,
       "model": "오티스",
-      "content": "Manager. Your command, please."
+      "content": "Quản Lý. Xin hãy cho chúng tôi chỉ thị của ngài."
     },
     {
       "id": 26,
-      "content": "I felt pity for Yuri; she looked at Aya’s corpse and then back to us with tears. Nevertheless…"
+      "content": "Tôi thấy thương cho Yuri; cô ấy chỉ đứng nhìn xác Aya rồi quay về phía chúng tôi với hai hàng nước mắt trên má. Tuy nhiên..."
     },
     {
       "id": 27,
       "model": "단테",
-      "content": "<…Yuri, Hopkins, and Aya. Those three I can’t revive.>"
+      "content": "<...Yuri, Hopkins, và Aya. Ba người tôi không thể hồi sinh.>"
     },
     {
       "id": 28,
       "model": "단테",
-      "content": "<We have to fight now if we don’t want any more casualties.>"
+      "content": "<Chúng ta phải chiến đấu ngay nếu như không muốn có thêm bất kỳ thương vong nào nữa.>"
     },
     {
       "id": 29,
       "model": "오티스",
-      "content": "A wise decision, Manager."
+      "content": "Lựa chọn sáng suốt, thưa Quản Lý."
     },
     {
       "id": 30,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "You can make sense of that ticking…?"
+      "title": "Fixer Cấp 8",
+      "content": "Cô hiểu được mấy tiếng tích tắc đó à...?"
     },
     {
       "id": 31,
-      "content": "Outis gave Hopkins a fiery glare, but soon reminded herself of her priorities and breathed in to shout."
+      "content": "Outis nhìn về Hopkins với ánh mắt dữ tợn, nhưng cũng sớm giữ bình tĩnh lại, hít một hơi rồi hét lớn."
     },
     {
       "id": 32,
       "model": "오티스",
-      "content": "…It’s the manager’s order, lackeys!"
+      "content": "...Là mệnh lệnh của Quản Lý, nghe cho rõ vào, tụi tôi tớ!"
     },
     {
       "id": 33,
       "model": "오티스",
-      "content": "You will surround the enemy in formation. The target is the Uniform ahead!"
+      "content": "Ngươi sẽ bao quanh kẻ địch theo đội hình. Mục tiêu là tụi Dị Vật phía trước!"
     },
     {
       "id": 34,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…Okay."
+      "title": "Fixer Cấp 8",
+      "content": "...Được rồi."
     },
     {
       "id": 35,
       "model": "그레고르",
-      "content": "To be honest… I’m not sure if you can say that thing has a “form”."
+      "content": "Thú thật thì... Tôi không nghĩ thứ đó có “hình dạng” để có thể gọi là dị đâu."
     },
     {
       "id": 36,
-      "content": "Slowly encroaching vines, followed by the shadow of a figure that looks to be several times taller than a human."
+      "content": "Mấy cái dây leo chậm rãi lấn chiếm, theo sau bởi mấy cái bóng hình nhìn lớn hơn rất nhiều người bình thường."
     },
     {
       "id": 37,
-      "content": "It… was approaching, begetting fright unlike any foe we’ve faced up until now."
+      "content": "Nó... đang đến. Bầu không khí quanh nó toát ra một cảm giác đáng sợ khiến chúng tôi sởn cả da gà. Thứ này chắc chắn không giống với những kẻ chúng tôi đã gặp trước đó."
     }
   ]
 }

@@ -1,348 +1,590 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "The sun is almost set, leaving the bus to be shrouded in dusk."
-    },
-    {
-      "id": 1,
-      "model": "카론",
-      "content": "… … ……"
-    },
-    {
-      "id": 2,
-      "content": "Charon’s humming a song while driving."
-    },
-    {
-      "id": 3,
-      "content": "I found myself singing along in my head to that strangely familiar tune."
-    },
-    {
-      "id": 4,
-      "model": "베르길리우스",
-      "content": "The most beautiful of performances are born from broken and ruined things. Ironic, the way the world works."
-    },
-    {
-      "id": 5,
-      "content": "Vergilius spoke, having noticed that I was looking at the driver’s seat."
-    },
-    {
-      "id": 6,
-      "model": "베르길리우스",
-      "content": "Alas, they have not the privilege to fully appreciate the glee of their own music… Oh, how unjust that is."
-    },
-    {
-      "id": 7,
-      "model": "단테",
-      "content": "<……>"
-    },
-    {
-      "id": 8,
-      "model": "베르길리우스",
-      "content": "Charon, you look like you’re in a good mood today."
-    },
-    {
-      "id": 9,
-      "content": "Charon nodded."
-    },
-    {
-      "id": 10,
-      "model": "카론",
-      "content": "Mhm, joy brings out singing."
-    },
-    {
-      "id": 11,
-      "model": "베르길리우스",
-      "content": "I see."
-    },
-    {
-      "id": 12,
-      "model": "베르길리우스",
-      "content": "Although…"
-    },
-    {
-      "id": 13,
-      "model": "베르길리우스",
-      "content": "As far as I remember, you would often hum that song when you felt down."
-    },
-    {
-      "id": 14,
-      "model": "카론",
-      "content": "Charon has no such memories."
-    },
-    {
-      "id": 15,
-      "model": "카론",
-      "content": "Charon sings when she’s happy."
-    },
-    {
-      "id": 16,
-      "content": "Vergilius’s eyes seemed to well with a subdued shade of dark."
-    },
-    {
-      "id": 17,
-      "content": "The kind of hue that would be picked right away if one wanted to express solitude as a color."
-    },
-    {
-      "id": 18,
-      "content": "But it only lasted for a brief moment…"
-    },
-    {
-      "id": 19,
-      "content": "So I decided to dismiss it as the vivid sunset playing tricks with the light."
-    },
-    {
-      "id": 20,
-      "model": "베르길리우스",
-      "content": "…The world Charon hums now is one that lacks sound and color."
-    },
-    {
-      "id": 21,
-      "model": "베르길리우스",
-      "content": "She’s going through a long tunnel with no exit in sight."
-    },
-    {
-      "id": 22,
-      "content": "I’m sure that, just like the history of my own life that I’ve forgotten…"
-    },
-    {
-      "id": 23,
-      "content": "Charon and Vergilius must have their own threads of cruel reminders."
-    },
-    {
-      "id": 24,
-      "model": "베르길리우스",
-      "content": "Ah, pardon me. I believe that’s enough of personal stories, Dante."
-    },
-    {
-      "id": 25,
-      "model": "베르길리우스",
-      "content": "Your work is to manage your crew, not befriend this old guide."
-    },
-    {
-      "id": 26,
-      "content": "When I looked at his face again, that momentary hint of sadness had fleeted, replaced with a faint smile."
-    },
-    {
-      "id": 27,
-      "content": "I gave him a few nods, then turned around to check on the Sinners."
-    },
-    {
-      "id": 28,
-      "content": "Our bus passengers have had lifted spirits for a while now."
-    },
-    {
-      "id": 29,
-      "content": "It helped that they did what they were assembled for and secured a Golden Bough for the first time."
-    },
-    {
-      "id": 30,
-      "content": "All the Sinners were busy talking about their exploits in J Corp’s District."
-    },
-    {
-      "id": 31,
-      "model": "로쟈",
-      "content": "You should’ve seen me show that card right there. Seriously, that was a real highlight~"
-    },
-    {
-      "id": 32,
-      "model": "그레고르",
-      "content": "…I’m starting to get sick of hearing the same story for the seventh time in a row, so let me change the subject: Where are we going this time?"
-    },
-    {
-      "id": 33,
-      "model": "베르길리우스",
-      "content": "This time… we’re headed to K Corp’s Nest."
-    },
-    {
-      "id": 34,
-      "model": "히스클리프",
-      "content": "District 11, eh? Job’s taking me to all sorts of places I’d never have thought to visit."
-    },
-    {
-      "id": 35,
-      "model": "돈키호테",
-      "content": "‘Tis home to another great individual! And you are certain to find a souvenir shop there! I’ve always yearned for a limited-edition figurine set!"
-    },
-    {
-      "id": 36,
-      "model": "로쟈",
-      "content": "Ooo~ Didn’t it also have a restaurant chain famous for its hamburg steak?"
-    },
-    {
-      "id": 37,
-      "model": "오티스",
-      "content": "Huff… Life has gotten much easier these days, hasn’t it? Back in my marching days, all I had was a pinch of salt in my mouth."
-    },
-    {
-      "id": 38,
-      "model": "이스마엘",
-      "content": "I know, right? The only food I could swallow during my voyage was canned soup that tasted like iron."
-    },
-    {
-      "id": 39,
-      "model": "로쟈",
-      "content": "…C-Can’t wait to try the steak~ Right, Ryōshū?"
-    },
-    {
-      "id": 40,
-      "model": "료슈",
-      "content": "Well, imagining the variances in blood-color by region does make me salivate."
-    },
-    {
-      "id": 41,
-      "model": "로쟈",
-      "content": "Ugh… Can’t discuss anything with you. Hey, kiddo! What do you wanna eat?"
-    },
-    {
-      "id": 42,
-      "model": "싱클레어",
-      "content": "……"
-    },
-    {
-      "id": 43,
-      "content": "Looking for someone to share tales with and have a sensible conversation, Rodya naturally turned to Sinclair."
-    },
-    {
-      "id": 44,
-      "content": "However…"
-    },
-    {
-      "id": 45,
-      "model": "로쟈",
-      "content": "Sinclair?"
-    },
-    {
-      "id": 46,
-      "model": "로쟈",
-      "content": "Wha—?! Gosh, golly what’s wrong?"
-    },
-    {
-      "id": 47,
-      "model": "뫼르소",
-      "content": "He’s turned pale. He’s also suffering from hyperventilation and tremors."
-    },
-    {
-      "id": 48,
-      "model": "단테",
-      "content": "<H—How long has he been like this?>"
-    },
-    {
-      "id": 49,
-      "model": "뫼르소",
-      "content": "Ever since Mister Vergilius mentioned K Corp."
-    },
-    {
-      "id": 50,
-      "model": "단테",
-      "content": "<Why didn’t you tell me earlier?>"
-    },
-    {
-      "id": 51,
-      "model": "뫼르소",
-      "content": "…Because you did not order me to do so."
-    },
-    {
-      "id": 52,
-      "content": "Meursault stared at me like I was at fault for not doing the obvious."
-    },
-    {
-      "id": 53,
-      "model": "싱클레어",
-      "content": "I… I just got an upset stomach. Sorry."
-    },
-    {
-      "id": 54,
-      "model": "로쟈",
-      "content": "Really sure you’re okay…?"
-    },
-    {
-      "id": 55,
-      "model": "단테",
-      "content": "<Now that I think about it…>"
-    },
-    {
-      "id": 56,
-      "model": "단테",
-      "content": "<Faust, I’m noticing a trend where one of us has visceral reactions to the destinations that Vergilius reveals.>"
-    },
-    {
-      "id": 57,
-      "model": "단테",
-      "content": "<Additionally, when we arrive, it turns out that the place does have a history with the person in question.>"
-    },
-    {
-      "id": 58,
-      "model": "단테",
-      "content": "<Does that have something to do with the reason we joined the company?>"
-    },
-    {
-      "id": 59,
-      "model": "파우스트",
-      "content": "…You just referred to the team as “we”."
-    },
-    {
-      "id": 60,
-      "model": "단테",
-      "content": "<Huh?>"
-    },
-    {
-      "id": 61,
-      "model": "파우스트",
-      "content": "It’s a part of my mission to detect the slightest of changes."
-    },
-    {
-      "id": 62,
-      "model": "파우스트",
-      "content": "As for your question, while I can’t tell you the reasons for recruiting the Sinners in detail…"
-    },
-    {
-      "id": 63,
-      "model": "파우스트",
-      "content": "There’d be no point in denying that our destinations and the backgrounds of each Sinner are indeed related to a degree."
-    },
-    {
-      "id": 64,
-      "model": "히스클리프",
-      "content": "…Do all uppish snobs have some condition that makes them yap on and on about things that can be answered with a plain yes or no?"
-    },
-    {
-      "id": 65,
-      "model": "파우스트",
-      "content": "Hysteron proteron isn’t always correct. Faust simply adopts the most effective mode of communication for the given situation."
-    },
-    {
-      "id": 66,
-      "model": "히스클리프",
-      "content": "Hyst… Hysterowhat?"
-    },
-    {
-      "id": 67,
-      "model": "파우스트",
-      "content": "…It means that you’re struggling to understand Faust because you’re too uneducated, not that Faust is overeducated."
-    },
-    {
-      "id": 68,
-      "model": "히스클리프",
-      "content": "Why you…!"
-    },
-    {
-      "id": 69,
-      "model": "싱클레어",
-      "content": "Euhgk…"
-    },
-    {
-      "id": 70,
-      "content": "Just as Heathcliff approached Faust with his bat shaking in fury…"
-    },
-    {
-      "id": 71,
-      "content": "Sinclair suddenly started throwing up on the floor."
-    },
-    {
-      "id": 72,
-      "content": "The bus finally quieted down after that."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Mặt trời đang lặn, chiếc xe buýt chìm dần vào màn đêm u tối."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"카론",
+                "teller":"Charon",
+                "title":null,
+                "content":"… … ……"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Charon đang ngân nga một bài hát trong khi đang lái xe."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi chợt nhận ra mình cũng đang cất lên khúc nhạc quen thuộc đến lạ thường ấy trong đầu."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Buổi trình diễn tuyệt đẹp nhất lại được sinh ra từ những thứ đã vụn vỡ và tàn phai. Trớ trêu thay, ấy cũng là cách mà thế giới này vận hành."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vergilius lên tiếng, dường như nhận ra ánh mắt của tôi đang hướng về phía ghế lái."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Suy cho cùng, họ còn không được tận hưởng niềm vui từ chính bài ca của mình… Ôi, thật bất công làm sao."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<……>"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Nay tâm trạng con tốt nhỉ, Charon?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Charon gật đầu."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"카론",
+                "teller":"Charon",
+                "title":null,
+                "content":"Ừm hứm, vui đến muốn ngâm nga câu ca."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Thế à."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Vậy mà…"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Nếu ta nhớ không lầm, con hay hát giai điệu đấy mỗi khi buồn nhỉ?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"카론",
+                "teller":"Charon",
+                "title":null,
+                "content":"Charon không có ký ức gì về nó cả."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"카론",
+                "teller":"Charon",
+                "title":null,
+                "content":"Charon ngâm nga câu ca khi hân hoan."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ánh mắt của Vergilius dường như tối sầm lại."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thứ sắc màu được dùng để bộc lộ sự cô độc."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nhưng nó cũng chỉ là một khoảnh khắc thoáng qua…"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thế nên tôi quyết định không màng đến chuyện đó và cứ cho là ánh hoàng hôn đang chơi đùa với ánh sáng phản chiếu trong đôi mắt của tôi."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"…Cái thế giới trong bài ca Charon ngâm nga là nơi không có sắc màu hay âm thanh nào cả."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Con bé hiện đang đi qua con đường hầm dài không có lấy một lối thoát nào trong tầm mắt nó cả."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi khá chắc là quá khứ của mình cũng như thế, nhưng tôi đã quên mất rồi…"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cả Charon và Vergilius chắc chắn cũng đã trải quả những ký ức nghiệt ngã của riêng họ."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"À, xin thứ lỗi. Bấy nhiêu chuyện đời tư là đủ rồi, Dante à."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Công việc của cậu là quản lý các Tội Nhân, chứ không phải đi bầu bạn với người dẫn đường già này."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Khi tôi nhìn lại gương mặt của ông ta, sự u buồn thoáng chốc đã biến mất và được thay thế bởi một nụ cười nhạt nhoà."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi gật đầu vài cái, rồi quay lại kiểm tra tình hình của các Tội Nhân."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tâm trạng của bọn họ đã phấn chấn hơn được một khoảng thời gian rồi."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thật tốt khi biết rằng bọn họ đã thành công thu hồi được Cành Vàng đầu tiên trong chuyến hành trình này."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tất cả Tội Nhân đều đang nói về những gì mà họ thó được tại Quận 10."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"Anh nên xem lúc tôi lật cái lá bài lên ấy! Thề, cú đó quá đỉnh luôn~"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"그레고르",
+                "teller":"Gregor",
+                "title":null,
+                "content":"…Tôi bắt đầu thấy ngán việc nghe đi nghe lại một câu chuyện tận bảy lần liền rồi, vậy nên ta chuyển chủ đề đi: Lần này chúng ta sẽ đi đâu vậy?"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"베르길리우스",
+                "teller":"Vergilius",
+                "title":null,
+                "content":"Điểm đến tiếp theo của chúng ta… sẽ là Nest của Tập Đoàn K."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Quận 11 á? Công việc dẫn tao đến đủ thứ nơi tao chưa từng thấy luôn chứ."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"돈키호테",
+                "teller":"Don Quixote",
+                "title":null,
+                "content":"Nơi đây cũng là quê nhà của một vĩ nhân khác nữa! Và chắc chắn rằng ở đó sẽ có một quầy lưu niệm! Ta đã luôn khao khát sở hữu bộ mô hình phiên bản giới hạn!"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"Ồ~ Hình như ở đó có chuỗi bít tết hamburg nổi tiếng lắm phải không?"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"오티스",
+                "teller":"Outis",
+                "title":null,
+                "content":"Hừm… Ngày nay cuộc sống đã trở nên dễ dàng, phải không? Những ngày hành quân xưa, ta chỉ có đúng nhúm muối để nuốt cầm hơi đấy."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "teller":"Ishmael",
+                "title":null,
+                "content":"Nhỉ? Hồi còn đi biển bữa nào tôi cũng chỉ được húp lon súp lót dạ, mà vị ăn tanh như gỉ sắt ấy."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"…M-muốn thử miếng bít tết ở đó quá~ Đúng không, Ryōshū?"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"료슈",
+                "teller":"Ryoshu",
+                "title":null,
+                "content":"Ừ, tưởng tượng đến những sắc màu khác nhau trong máu của bọn chúng cũng đủ khiến ta thèm thuồng rồi."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"Ựa… Tôi chả biết nên nói gì với cô cả. Này, nhóc! Muốn ăn gì thế?"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"……"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cố gắng tìm một người có thể sẻ chia và tâm sự cùng, Rodya gọi tên Sinclair theo lẽ tự nhiên."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tuy nhiên…"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"Sinclair?"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"Hả—?! Ôi trời, sao thế?"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"뫼르소",
+                "teller":"Meursault",
+                "title":null,
+                "content":"Mặt cậu ta tái mét rồi. Có vẻ là bị khó thở và bủn rủn chân tay."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<C—Cậu ấy đã bị như thế bao lâu rồi?>"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"뫼르소",
+                "teller":"Meursault",
+                "title":null,
+                "content":"Từ lúc Ngài Vergillius nhắc tới Tập Đoàn K."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Tại sao anh lại không nói cho tôi biết sớm hơn chứ?>"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"뫼르소",
+                "teller":"Meursault",
+                "title":null,
+                "content":"….Vì ngài không ra lệnh cho tôi làm vậy."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Meursault nhìn tôi như thể tôi mới là người có lỗi vì đã không thực hiện điều vô cùng hiển nhiên đó."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Tôi… Tôi chỉ hơi đau bụng xíu thôi. Xin lỗi."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"로쟈",
+                "teller":"Rodion",
+                "title":null,
+                "content":"Có chắc là cưng ổn không đấy?"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Giờ tôi mới nhớ ra…>"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Faust, tôi để ý mỗi khi Vergilius tiết lộ điểm đến mới thì một trong số chúng ta đều sẽ luôn bộc lộ cảm xúc gay gắt.>"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Đồng thời, khi chúng ta đến nơi, thì hoá ra địa điểm đấy lại có liên kết đến quá khứ của người đó.>"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Chuyện này có liên quan đến lý do chúng ta gia nhập công ty không thế?>"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"…Ngài vừa xưng nhóm là 'chúng ta'."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"단테",
+                "teller":"Dante",
+                "title":null,
+                "content":"<Hả?>"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Một trong các nhiệm vụ của tôi là phát hiện sự thay đổi dù là nhỏ nhất."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Về câu hỏi của ngài, tuy tôi không thể nói chi tiết lý do tuyển mộ các Tội Nhân đó là gì…"
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Nhưng không có nghĩa là tôi phủ nhận điểm đến của chúng ta và hoàn cảnh của mỗi Tội Nhân là không liên quan."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"…Bộ bọn thượng đẳng đứa nào cũng có bệnh lải nhải cho cố chỉ để trả lời mấy câu hỏi có không à?"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"Hysteron proteron không phải lúc nào cũng đúng. Faust chỉ đơn thuần là lựa cách nói hiệu quả nhất cho vấn đề được giao."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Hyst…Hystero gì?"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"파우스트",
+                "teller":"Faust",
+                "title":null,
+                "content":"…Nó có nghĩa là việc cậu gặp khó khăn để hiểu lời Faust là vì cậu không được giáo dục, chứ không phải là do Faust quá hiểu biết."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"히스클리프",
+                "teller":"Heathcliff",
+                "title":null,
+                "content":"Mẹ mày…!"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"싱클레어",
+                "teller":"Sinclair",
+                "title":null,
+                "content":"Ọe…"
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ngay khi Heathcliff tiếp cận Faust cùng chiếc gậy bóng chày đang rung lên trong sự phẫn nộ…"
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sinclair bỗng nôn thốc nôn tháo hết ra sàn."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chiếc xe buýt cũng yên tĩnh trở lại sau chuyện đó."
+            }
+        ]
     }
-  ]
-}
+

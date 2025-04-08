@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Umm, sorry to ask…"
+      "title": "Fixer Cấp 8",
+      "content": "Ừm... thứ lỗi vì đã hỏi..."
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "But if I have the map, how do you know what roads to take?"
+      "title": "Fixer Cấp 8",
+      "content": "Nhưng mà nếu chị đang giữ bản đồ rồi, thì làm sao em lại biết đường đi được?"
     },
     {
       "id": 2,
-      "content": "Answerless, the bus keeps speeding anyway."
+      "content": "Không một lời đáp lại, chiếc xe buýt vẫn tiếp tục tăng tốc."
     },
     {
       "id": 3,
       "model": "카론",
-      "content": "We do have something to lead us…"
+      "content": "Chúng ta có thứ dẫn đường tốt nhất..."
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "Intuition. Charon’s intuition."
+      "content": "Chính là trực giác. Trực giác nhạy bén của Charon."
     },
     {
       "id": 5,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Whaaat?!"
+      "title": "Fixer Cấp 8",
+      "content": "Hả?!"
     },
     {
       "id": 6,
       "model": "카론",
-      "content": "Pinky-hair, explain why you keep rubbing that odd paper in Charon’s face."
+      "content": "Chị gái tóc hồng, chị giải thích tại sao chị cứ phải dí cái tờ giấy cũ kỹ đó vào mặt Charon đi."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Because you keep going in weird directions! Take a look at this map. Our destination is to the southeast of here…"
+      "title": "Fixer Cấp 8",
+      "content": "Bởi vì em cứ đi theo mấy lối đi kì lạ ấy! Hãy thử nhìn vào tấm bản đồ này đi. Điểm đến của chúng ta ở tận phía đông nam này cơ mà..."
     },
     {
       "id": 8,
-      "content": "Charon reluctantly gives the map a cursory glance, as she couldn’t ignore the thing right in front of her eyes."
+      "content": "Charon miễn cưỡng liếc nhanh qua tấm bản đồ, như thể cô bé không thể phớt lờ đi được thứ trước mắt mình."
     },
     {
       "id": 9,
       "model": "카론",
-      "content": "Follow the heart. That’s where the true path lies."
+      "content": "Cứ đi theo tiếng gọi con tim. Đó mới chính là con đường chân chính."
     },
     {
       "id": 10,
       "model": "돈키호테",
-      "content": "Hear, hear! We all must follow as our hearts lead!"
+      "content": "Đúng, đúng! Tất cả chúng ta phải nghe theo hướng con tim dẫn lối!"
     },
     {
       "id": 11,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…You’re just admitting that you can’t read a map."
+      "title": "Fixer Cấp 8",
+      "content": "...Em chỉ đang thừa nhận việc bản thân không thể đọc bản đồ thôi."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "You took the words right out of my mouth."
+      "content": "Nói đúng ý tôi rồi đấy."
     },
     {
       "id": 13,
-      "content": "Yuri and Ishmael put a palm over their respective faces at the same time, almost like they were in sync."
+      "content": "Yuri và Ishmael cùng lúc đặt tay lên mặt một cách ngao ngán, như thể họ đều cùng đều chung một nhịp."
     },
     {
       "id": 14,
       "model": "로쟈",
-      "content": "Ooh! Did our driver make a new friend?"
+      "content": "Ồ! Nay em tài xế kiếm được bạn à?"
     },
     {
       "id": 15,
       "model": "카론",
-      "content": "Pinky keeps on blabbing. I know the way."
+      "content": "Chị tóc hồng cứ lải nhải hoài. Em biết đường đi."
     },
     {
       "id": 16,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, I mean, you’re going the wrong direction…"
+      "title": "Fixer Cấp 8",
+      "content": "Không, ý chị là, em đã đi sai đường rồi..."
     },
     {
       "id": 17,
       "model": "카론",
-      "content": "Look ahead, more obstacles. Do I vroom-vroom?"
+      "content": "Phía trước, có nhiều vật cản. Cháu có nên Vờ-rùm-vờ-rùm qua hông?"
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "No, Charon. Wait one second."
+      "content": "Không, Charon. Đợi tí đã."
     },
     {
       "id": 19,
-      "teller": "Famished Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "Lookie! Nice bus you got there! Why don’tcha gimme a ride!"
+      "teller": "Du côn Đói bụng đi",
+      "title": "Backstreet Quận 4",
+      "content": "Xem kìa! Xe buýt đẹp đấy mấy cưng! Cho bọn anh quá giang nhé!"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…I guess Mephistopheles could use a helping of dessert."
+      "content": "...Chú nghĩ là Mephistopheles cũng nên thưởng cho mình phần tráng miệng."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Get on down… It needs to be fed just a bit more."
+      "content": "Mấy cô cậu xuống xe nào... Xe cần ăn nhẹ thêm chút nữa."
     }
   ]
 }

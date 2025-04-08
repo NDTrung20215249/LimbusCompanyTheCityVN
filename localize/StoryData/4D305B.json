@@ -1,240 +1,286 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "So it comes down to this. I'll probably die soon."
-        },
-        {
-            "id": 1,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "In such a peaceful place..."
-        },
-        {
-            "id": 2
-        },
-        {
-            "id": 3,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "...What."
-        },
-        {
-            "id": 4,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ha, haha..."
-        },
-        {
-            "id": 5,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You're right, it doesn't recognize me."
-        },
-        {
-            "id": 6,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I may be filled with husks right now, but I know..."
-        },
-        {
-            "id": 7,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I'm almost there. Soon... I'll make my own technology to fill myself up."
-        },
-        {
-            "id": 8,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I'll gather a team again... hire another secretary... There'll be a lot to do."
-        },
-        {
-            "id": 9,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "So... I don't think I'll need you anymore."
-        },
-        {
-            "id": 10,
-            "place": "K Corp. Laboratory",
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "...Dongrang? I wonder how long will you keep me waiting."
-        },
-        {
-            "id": 11,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, sorry for the delay. I was reminded of something I left in my hometown..."
-        },
-        {
-            "id": 12,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "But I've realized that now is the time to be thinking about what I'll gain from now on instead of what I left behind."
-        },
-        {
-            "id": 13,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "Anyone can have a moment of foolishness."
-        },
-        {
-            "id": 14,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "Right, so... You know about a way to generate an endless stream of tears, do you?"
-        },
-        {
-            "id": 15,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "To reach a certain quota, people are tortured... then cured using the tears... then tortured again..."
-        },
-        {
-            "id": 16,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's such a waste to keep spending a portion of tears on that."
-        },
-        {
-            "id": 17,
-            "model": "알폰소",
-            "teller": "Alfonso",
-            "title": "K Corp.",
-            "content": "True, so we're importing footage from a variety of Wings and Backstreets Syndicates as a substitute."
-        },
-        {
-            "id": 18,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "They're asking higher and higher prices for the audiovisual feed, aren't they?"
-        },
-        {
-            "id": 19,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Other factions are starting to notice that we're in evident need of it, albeit faintly. Even if they don't know what exactly it's used for in K Corp."
-        },
-        {
-            "id": 20,
-            "teller": "Deranged Employee",
-            "title": "K Corp.",
-            "content": "Hee... huhee... huhnh..."
-        },
-        {
-            "id": 21,
-            "teller": "Deranged Employee",
-            "title": "K Corp.",
-            "content": "Could you please... break a finger now?"
-        },
-        {
-            "id": 22,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "See. Your subordinate tied to this chair seems to have lost it, too."
-        },
-        {
-            "id": 23,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "……."
-        },
-        {
-            "id": 24,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I shouldn't close my eyes."
-        },
-        {
-            "id": 25,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Miss Carmen... I believe that's not exactly the case. The path hasn't ended, and I finally see clearly where I should go."
-        },
-        {
-            "id": 26,
-            "model": "이상",
-            "content": "Dongrang... after coming such a long way 'round... have you at last returned to this path?"
-        },
-        {
-            "id": 27,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "When I look into the eye... I don't feel the sympathy I used to feel anymore."
-        },
-        {
-            "id": 28,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Instead... Do you see that? A pale imitation of the League's renowned glass window, made by leeching off it... It's now become the flag that raised the esteem of K Corp's Singularity high."
-        },
-        {
-            "id": 29,
-            "model": "이상",
-            "content": "...Yes, I can see it well."
-        },
-        {
-            "id": 30,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Brother Young-ji has left, Dongbaek has returned to the bed of flowers..."
-        },
-        {
-            "id": 31,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "All that's left is a parasitic mutation of Young-ji's glass..."
-        },
-        {
-            "id": 32,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "My shoddy copy of the glass, which didn't manage to be anything."
-        },
-        {
-            "id": 33,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "What use is technology that can't change the world?"
-        },
-        {
-            "id": 34,
-            "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, Who Denies All",
-            "title": "Effloresced E.G.O::Farmwatch",
-            "content": "So I want you to stop caring like I have. Let it cry for our agony and sorrow in our stead."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Vậy là mọi chuyện đã thành ra như này. Mình có lẽ sẽ sớm chết thôi.",
+                "place":null
+            },
+            {
+                "id":1,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Trong không gian bình yên này...",
+                "place":null
+            },
+            {
+                "id":2,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null,
+                "place":null
+            },
+            {
+                "id":3,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"...Gì cơ.",
+                "place":null
+            },
+            {
+                "id":4,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Ha, ha ha...",
+                "place":null
+            },
+            {
+                "id":5,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cô nói đúng, nó không hề nhận ra tôi.",
+                "place":null
+            },
+            {
+                "id":6,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi có thể lấp đầy những khoảng trống này ngay bây giờ, nhưng tôi biết rằng...",
+                "place":null
+            },
+            {
+                "id":7,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi sắp đến nơi rồi. Sắp rồi... Tôi sẽ tự tạo ra công nghệ của riêng mình để lấp đi chính mình.",
+                "place":null
+            },
+            {
+                "id":8,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi sẽ tập hợp lại một nhóm mới...thuê một trợ lý khác... Sẽ có rất nhiều thứ để làm.",
+                "place":null
+            },
+            {
+                "id":9,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cho nên... Tôi không nghĩ là tôi sẽ cần các người nữa.",
+                "place":null
+            },
+            {
+                "id":10,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"...Dongrang à? Ta tự hỏi cậu sẽ phải khiến ta chờ đợi trong bao lâu nữa đây.",
+                "place":"Phòng Thí Nghiệm T.Đoàn K"
+            },
+            {
+                "id":11,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"A, thứ lỗi cho sự trì trệ của tôi. Tôi chỉ đang nhớ về một thứ mà tôi đã bỏ quên ở quê nhà thôi...",
+                "place":null
+            },
+            {
+                "id":12,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Nhưng tôi đã nhận ra rằng bây giờ chính là lúc để nghĩ về những thứ mà tôi có thể đạt được từ lúc này thay vì thứ mà tôi đã bỏ lại phía sau.",
+                "place":null
+            },
+            {
+                "id":13,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Ai rồi cũng sẽ có giây phút ngốc nghếch cả.",
+                "place":null
+            },
+            {
+                "id":14,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Quên mất, vậy... cậu biết cách để sản xuất dòng suối nước mắt vô hạn?",
+                "place":null
+            },
+            {
+                "id":15,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Để có thể đạt được hạn ngạch nhất định, con người phải bị tra tấn...và rồi chữa trị bằng nước mắt...rồi lại tiếp tục tra tấn...",
+                "place":null
+            },
+            {
+                "id":16,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Thật là lãng phí khi cứ tiếp tục tiêu tốn một lượng nước mắt như thế.",
+                "place":null
+            },
+            {
+                "id":17,
+                "model":"알폰소",
+                "teller":"Alfonso",
+                "title":"Tập Đoàn K",
+                "content":"Đúng, vì thế mà chúng ta mới nhập vào cảnh quay từ vô số Wing và các Băng Đảng Backstreet như giải pháp thay thế.",
+                "place":null
+            },
+            {
+                "id":18,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Họ đang yêu cầu giá cả ngày càng cao hơn cho những đoạn dữ liệu nghe nhìn, đúng không?",
+                "place":null
+            },
+            {
+                "id":19,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Các tổ chức và phe phái khác đã bắt đầu nhận ra chúng ta thật sự cần chúng. Thậm chí nếu như bọn họ không biết chính xác nó được dùng cho mục đích gì trong Tập Đoàn K.",
+                "place":null
+            },
+            {
+                "id":20,
+                "model":null,
+                "teller":"Nhân Viên Cuồng Dại",
+                "title":"Tập Đoàn K",
+                "content":"He... hu he... hung...",
+                "place":null
+            },
+            {
+                "id":21,
+                "model":null,
+                "teller":"Nhân Viên Cuồng Dại",
+                "title":"Tập Đoàn K",
+                "content":"Làm ơn có thể... bẻ gãy ngón tay bây giờ được không?",
+                "place":null
+            },
+            {
+                "id":22,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cô thấy không. Cấp dưới của cô bị trói vào chiếc ghế này dường như cũng đã mất trí rồi.",
+                "place":null
+            },
+            {
+                "id":23,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"......",
+                "place":null
+            },
+            {
+                "id":24,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi không nên nhắm mắt lại.",
+                "place":null
+            },
+            {
+                "id":25,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Cô Carmen... Tôi tin rằng đó không phải chính xác trường hợp của tôi lúc này đâu. Con đường vẫn chưa kết thúc, và cuối cùng thì tôi cũng đã có thể nhìn rõ được nơi tôi nên đi rồi.",
+                "place":null
+            },
+            {
+                "id":26,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Dongrang... sau khi đi xa như vậy rồi... cuối cùng cậu cũng đã quay lại đây sao?",
+                "place":null
+            },
+            {
+                "id":27,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Khi tôi nhìn vào con mắt... Tôi không cảm nhận được sự cảm thông như trước đây nữa.",
+                "place":null
+            },
+            {
+                "id":28,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Thay vào đó... Cậu có nhìn thấy nó không? Một sự bắt chước nhếch nhách của cửa sổ kính lừng lẫy của Hội, được tạo ra bằng cách chôm chỉa đi kiến thức của bản gốc... Giờ đây nó đã là ngọn cờ tung hô niềm kiêu hãnh và lòng tự trọng cho Dị Biến của Tập Đoàn K.",
+                "place":null
+            },
+            {
+                "id":29,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"...Có, tôi thấy rõ nó.",
+                "place":null
+            },
+            {
+                "id":30,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đàn anh Young-ji đã rời đi, Dongbaek cũng trở về với mộ hoa...",
+                "place":null
+            },
+            {
+                "id":31,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Những gì còn sót lại bây giờ chỉ là thứ ký sinh đột biến từ chiếc kính của anh Young-ji...",
+                "place":null
+            },
+            {
+                "id":32,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Phiên bản kính nửa vời kém chất lượng của tôi, chẳng thể trở thành bất kỳ thứ gì hết.",
+                "place":null
+            },
+            {
+                "id":33,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Công nghệ có nghĩa lý gì khi nó còn chẳng thể thay đổi được cả thế giới?",
+                "place":null
+            },
+            {
+                "id":34,
+                "model":"뒤틀린다친동랑",
+                "teller":"Dongrang, Kẻ Phủ Nhận Mọi Thứ",
+                "title":"E.G.O Nảy Lộc: Điền Chủ",
+                "content":"Thế nên tôi muốn cậu đừng quan tâm như cách tôi đã làm vậy. Cứ để cho nỗi đau và u sầu cất lên tiếng khóc than thay cho chúng ta đi nào.",
+                "place":null
+            }
+        ]
+    }
+

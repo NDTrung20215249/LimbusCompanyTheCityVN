@@ -1,427 +1,510 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Pallid Whale's Right Atrium",
-            "model": "히스클리프",
-            "content": "Oi, your headband...!"
-        },
-        {
-            "id": 1,
-            "model": "히스클리프",
-            "content": "It's all mucked up with blood. Now that's a right terrifyin' look, innit...?"
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "Nothing a quick wash in the water can't fix."
-        },
-        {
-            "id": 3,
-            "model": "퀴케그",
-            "content": "Your headband. Familiar."
-        },
-        {
-            "id": 4,
-            "model": "퀴케그",
-            "content": "Familiar knot. Desperate's Knot."
-        },
-        {
-            "id": 5,
-            "model": "이스마엘",
-            "content": "Queequeg... I survived by hanging onto the ropes you tied to your coffin."
-        },
-        {
-            "id": 6,
-            "model": "이스마엘",
-            "content": "The ropes that you could have held... Instead, I held onto it with my dear life..."
-        },
-        {
-            "id": 7,
-            "model": "퀴케그",
-            "content": "That rope..."
-        },
-        {
-            "id": 8,
-            "model": "퀴케그",
-            "content": "... also for you."
-        },
-        {
-            "id": 9,
-            "place": "The Pequod",
-            "model": "이스마엘과거",
-            "content": "You want me to... bucket out oil from in there?"
-        },
-        {
-            "id": 10,
-            "model": "스타벅과거",
-            "content": "Yep. It's not as hard as it looks, though."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘과거",
-            "content": "The cadaver of a Whale hung from a hook and swayed from side to side. Its stench was awful."
-        },
-        {
-            "id": 12,
-            "model": "스타벅과거",
-            "content": "The smaller and more nimble you are, the easier it will be."
-        },
-        {
-            "id": 13,
-            "model": "이스마엘과거",
-            "content": "I'm not that small, though..."
-        },
-        {
-            "id": 14,
-            "model": "스텁",
-            "content": "It's a job for greenhorns anyway! Less talk, more oil-bucketing. Get on with it, will ya?"
-        },
-        {
-            "id": 15,
-            "model": "이스마엘과거",
-            "content": "A Whaler's toil does not end with killing the Whale."
-        },
-        {
-            "id": 16,
-            "model": "이스마엘과거",
-            "content": "Whalers also had to bucket and carry the inordinate amount of oil from the dead Whale."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘과거",
-            "content": "I mean... How the hell do I know what's in there...?"
-        },
-        {
-            "id": 18,
-            "model": "스텁",
-            "content": "Well, whaddaya think? Whale oil! It feeds us, it keeps us warm..."
-        },
-        {
-            "id": 19,
-            "model": "이스마엘과거",
-            "content": "Aboard the Pequod was a man named Stubb, the second mate. He was a man of irritable disposition."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘과거",
-            "content": "I..."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘과거",
-            "content": "I can't. Into that abyss, on nothing but a rope that looks like it'll snap from a slight breeze? I can't..."
-        },
-        {
-            "id": 22,
-            "model": "이스마엘과거",
-            "content": "... Those words nearly escaped my mouth, when..."
-        },
-        {
-            "id": 23,
-            "model": "퀴케그과거",
-            "content": "……."
-        },
-        {
-            "id": 24,
-            "model": "이스마엘과거",
-            "content": "What... are you doing?"
-        },
-        {
-            "id": 25,
-            "model": "퀴케그과거",
-            "content": "Your rope. Tie it to my waist."
-        },
-        {
-            "id": 26,
-            "model": "이스마엘과거",
-            "content": "B-but why?"
-        },
-        {
-            "id": 27,
-            "model": "퀴케그과거",
-            "content": "Tethered like so. Now if you fall, I fall."
-        },
-        {
-            "id": 28,
-            "model": "퀴케그과거",
-            "content": "You. Me. Together."
-        },
-        {
-            "id": 29,
-            "model": "이스마엘과거",
-            "content": "Her sentences were stuttering and incomplete. But there was something there that oddly soothed me."
-        },
-        {
-            "id": 30,
-            "model": "이스마엘과거",
-            "content": "Together..."
-        },
-        {
-            "id": 31,
-            "model": "이스마엘과거",
-            "content": "Someone to catch me if I fell."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘과거",
-            "content": "Someone to watch over me if I fell."
-        },
-        {
-            "id": 33,
-            "model": "이스마엘과거",
-            "content": "So I tied one end of the rope to Queequeg's waist, and the other on mine."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘과거",
-            "content": "Ah... Huh...?"
-        },
-        {
-            "id": 35,
-            "model": "이스마엘과거",
-            "content": "Funny I should mention that."
-        },
-        {
-            "id": 36,
-            "model": "이스마엘과거",
-            "content": "The rope was too short, too flimsy. It immediately snapped..."
-        },
-        {
-            "id": 37,
-            "model": "이스마엘과거",
-            "content": "And I was sent hurtling down into the lard-filled belly of the Whale."
-        },
-        {
-            "id": 38,
-            "model": "이스마엘과거",
-            "content": "Kah! Gaah..."
-        },
-        {
-            "id": 39,
-            "model": "이스마엘과거",
-            "content": "What was harder to bear than the entrails, the viscera, the oil, and various other things I didn't want to think about... was the pitch-black darkness."
-        },
-        {
-            "id": 40,
-            "model": "이스마엘과거",
-            "content": "Mmph! Mmrph!"
-        },
-        {
-            "id": 41,
-            "model": "이스마엘과거",
-            "content": "Whale oil makes a sound as it quivers and reverberates."
-        },
-        {
-            "id": 42,
-            "model": "이스마엘과거",
-            "content": "The reverberating oil tries to become one with everything it touches."
-        },
-        {
-            "id": 43,
-            "model": "이스마엘과거",
-            "content": "Some City folk talk about this phenomenon using big words like ultravibro-fusion, oscillation frequency... How such elements are used to produce the resonance tuning forks, their wavelengths and fuel..."
-        },
-        {
-            "id": 44,
-            "model": "이스마엘과거",
-            "content": "But the point is, a Whale's oil covers and devours anyone it comes in contact with."
-        },
-        {
-            "id": 45,
-            "model": "이스마엘과거",
-            "content": "And when you're devoured by a living Whale's oil, you become a mermaid."
-        },
-        {
-            "id": 46,
-            "model": "이스마엘과거",
-            "content": "And when you're devoured by a dead Whale's oil, your sense of self slowly scatters, until there is nothing of you left."
-        },
-        {
-            "id": 47,
-            "model": "이스마엘과거",
-            "content": "... Ha, ha... Haah..."
-        },
-        {
-            "id": 48,
-            "model": "이스마엘과거",
-            "content": "That's when I..."
-        },
-        {
-            "id": 49,
-            "model": "이스마엘과거",
-            "content": "... realized how tiny and fragile I was. How insignificant of a thing I was."
-        },
-        {
-            "id": 50,
-            "model": "이스마엘과거",
-            "content": "Maybe the Whales were just lonely."
-        },
-        {
-            "id": 51,
-            "model": "이스마엘과거",
-            "content": "And that's why they carried within them the oil that had the power to turn others just like them."
-        },
-        {
-            "id": 52,
-            "model": "이스마엘과거",
-            "content": "Maybe, people are the same..."
-        },
-        {
-            "id": 53,
-            "model": "이스마엘과거",
-            "content": "Out of loneliness, we want to make something, someone ours. To paint them just like us, to fill them with things that make us."
-        },
-        {
-            "id": 54,
-            "model": "이스마엘과거",
-            "content": "I don't even know what makes me. How could I possibly paint others like me... if even I don't know what I am?"
-        },
-        {
-            "id": 55,
-            "model": "이스마엘과거",
-            "content": "Maybe I'm shallower than a Whale."
-        },
-        {
-            "id": 56,
-            "model": "이스마엘과거",
-            "content": "I, who boarded the Pequod just because I wanted to live a life unlike those of others. Just because living a humdrum life was too boring for me..."
-        },
-        {
-            "id": 57,
-            "model": "이스마엘과거",
-            "content": "I..."
-        },
-        {
-            "id": 58,
-            "model": "이스마엘과거",
-            "content": "What do I even want?"
-        },
-        {
-            "id": 59,
-            "model": "이스마엘과거",
-            "content": "In the dark, where the distinction of all things begin to blur..."
-        },
-        {
-            "id": 60,
-            "model": "이스마엘과거",
-            "content": "I saw light."
-        },
-        {
-            "id": 61,
-            "model": "이스마엘과거",
-            "content": "A ray of light scattered through an opening. I saw a rope drop from there. A rope lowered from the heavens into this dark, lonely abyss."
-        },
-        {
-            "id": 62,
-            "model": "이스마엘과거",
-            "content": "This rope. I wanted to hold onto this rope and live."
-        },
-        {
-            "id": 63,
-            "model": "이스마엘과거",
-            "content": "Because it was there, right before me."
-        },
-        {
-            "id": 64,
-            "model": "퀴케그과거",
-            "content": "Ishmael!"
-        },
-        {
-            "id": 65,
-            "model": "퀴케그과거",
-            "content": "Rope, hold tight!"
-        },
-        {
-            "id": 66,
-            "model": "이스마엘과거",
-            "content": "Ah..."
-        },
-        {
-            "id": 67,
-            "model": "스타벅과거",
-            "content": "Man... Dying in that oil... Now that would've left nothin' for nobody to remember."
-        },
-        {
-            "id": 68,
-            "model": "이스마엘과거",
-            "content": "Yeah. Guess I almost died one of the most meaningless deaths in the City..."
-        },
-        {
-            "id": 69,
-            "model": "이스마엘과거",
-            "content": "I was born again that day, maybe."
-        },
-        {
-            "id": 70,
-            "model": "이스마엘과거",
-            "content": "The rope I held onto that day... was a rope that could never be severed."
-        },
-        {
-            "id": 71,
-            "place": "The Pallid Whale's Right Atrium",
-            "model": "퀴케그",
-            "content": "That rope. It snapped."
-        },
-        {
-            "id": 72,
-            "model": "이스마엘",
-            "content": "No, no. It can... We can make it whole again. We'll tie another knot. As long as we can make it to the heart..."
-        },
-        {
-            "id": 73,
-            "model": "이스마엘",
-            "content": "... you'll be free."
-        },
-        {
-            "id": 74,
-            "model": "퀴케그",
-            "content": "Once we, trapped here..."
-        },
-        {
-            "id": 75,
-            "model": "퀴케그",
-            "content": "We had to think one thing. One thing only. To not become Mermaids."
-        },
-        {
-            "id": 76,
-            "model": "퀴케그",
-            "content": "Doubting. Hesitating. And pale begin to grow on skin."
-        },
-        {
-            "id": 77,
-            "model": "퀴케그",
-            "content": "You know. Like Whale oil."
-        },
-        {
-            "id": 78,
-            "model": "퀴케그",
-            "content": "I thought one thing. To meet you again, to go on a new adventure with you, I have to escape. Have to kill the Whale."
-        },
-        {
-            "id": 79,
-            "model": "퀴케그",
-            "content": "But to do that, I had to cut... the rope."
-        },
-        {
-            "id": 80,
-            "model": "퀴케그",
-            "content": "To not become a Mermaid, I think that one thought. I think that one thought again and again. And suddenly..."
-        },
-        {
-            "id": 81,
-            "model": "퀴케그",
-            "content": "I, buried you."
-        },
-        {
-            "id": 82,
-            "model": "퀴케그",
-            "content": "The Whale-heart. To kill it..."
-        },
-        {
-            "id": 83,
-            "model": "퀴케그",
-            "content": "I put my heart to sleep."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lối Vào Tâm Nhĩ Phải của Cá Voi Trắng",
+                "model":"히스클리프",
+                "content":"Ê, băng đô của mày...!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nhuốm máu me tùm lum rồi. Giờ nhìn mày ác ôn vãi ra ấy?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Lấy nước rửa qua là được ấy mà."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Băng đầu cậu. Quen thuộc."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Nút thắt quen thuộc. Nút Thắt Liều Lĩnh."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Queequeg... Tớ đã sống sót nhờ bám vào dây buộc quan tài của cậu."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Sợi dây mà đáng lẽ ra đã có thể cứu cậu.... Cuối cùng người níu chặt nó đến giây phút cuối cùng lại là tớ..."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Sợi dây đấy..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"퀴케그",
+                "content":"... cũng là cho cậu."
+            },
+            {
+                "id":9,
+                "place":"Đoàn Pequod",
+                "model":"이스마엘과거",
+                "content":"Anh bảo tôi... xuống đó múc dầu ra ư?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Đúng. Trông không khó như cô nghĩ đâu."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Xác của một con cá voi đang bị treo lên chiếc móc lớn, đung đưa qua lại. Mùi hôi tanh bốc ra nồng nặc đến buồn nôn."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Công việc sẽ dễ dàng nếu cô thấp bé và linh hoạt."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi đâu có thấp đến mức đó chứ..."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"스텁",
+                "content":"Dù gì đó cũng là công việc cho mấy đứa trẻ người non dạ! nói ít thôi, tập trung múc dầu đi. Nhanh nhanh cái tay lên, có biết không?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Chỉ săn Cá Voi thôi thì vẫn chưa xong."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Thợ săn Cá Voi còn phải múc từng xô cho bằng hết đống dầu tưởng như vô tận từ xác của chúng."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Ý tôi là... Làm sao mà tôi lường được ở dưới đó có gì...?"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"스텁",
+                "content":"Sao, cô nghĩ nó là gì? Là dầu Cá Voi đấy! Nó nuôi sống chúng ta, giữ ấm cho chúng ta..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Người đàn ông lên tàu Pequod cùng với chúng tôi đây là Stubb, phó hai của tàu. Anh ta là một người khó tính và hay cáu kỉnh."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi không làm đâu. Leo xuống cái hũ nút tối om đó bằng sợi dây mỏng như sợi chỉ này ư? Sao mà tôi có thể..."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Suýt nữa thì những lời ấy buột ra khỏi miệng tôi, đúng lúc đó..."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"……."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Cô... đang làm gì thế?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Dây thừng của cậu. Buộc vào eo tôi."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nh-Nhưng để làm gì?"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Buộc như thế. Nếu cậu ngã, tôi ngã."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Cậu. Tôi. Cùng nhau."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Những câu từ vấp váp và chắp vá. Ấy thế mà sao tôi lại cảm thấy an tâm đến lạ."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Cùng nhau..."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Ai đó sẽ đỡ lấy khi tôi ngã."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Ai đó sẽ trông chừng khi tôi sảy chân."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Thế là tôi buộc một đầu dây quanh eo Queequeg, đầu còn lại buộc vào người mình."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Á... Hơ...?"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nực cười thay khi mà tôi nhận ra."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Sợi dây quá ngắn và lỏng lẻo. Nên nó đã đứt ngay lập tức..."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Và thế là tôi rơi cái vèo xuống bụng Cá Voi lõng bõng đầy dầu mỡ."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Khặc! Gự..."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Kinh tởm hơn cả ruột rà, lục phủ ngũ tạng, dầu cá và hằng ha sa số những thứ ớn họng khác mà tôi không muốn nghĩ tới... chính là bóng tối vô tận."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Ưm! Ưm!"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Dầu Cá Voi rung động, phát ra những tiếng ù ù vang vọng."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Âm thanh ấy lan tỏa mọi ngõ ngách hòng đánh tan mọi thứ mà nó chạm vào."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Đôi khi người ta mô tả hiện tượng này bằng những từ ngữ đao to búa lớn như là hợp nhất siêu rung, dao động tần số... Rồi thì những cơ chế đó được ứng dụng vào sản xuất âm thoa cộng hưởng như thế nào, bước sóng với nhiên liệu ra sao..."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nhưng nói chung là, dầu Cá Voi sẽ hòa tan và nuốt chửng mọi thứ mà nó chạm vào."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Khi bị dầu của một con Cá Voi sống tiêu hóa thì người ta sẽ biến thành người cá."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Còn nếu đó là một con Cá Voi đã chết thì nạn nhân sẽ từ từ mất dần nhận thức, cho đến khi tâm trí trống rỗng không còn gì nữa."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... Ha, ha... Haaa..."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Đó là lúc mà tôi..."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"... nhận ra bản thân nhỏ bé và yếu đuối tới nhường nào. Rằng tôi chẳng là cái thá gì cả."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Có lẽ lũ Cá Voi cũng cô đơn đấy."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Thế nên chúng mới mang trong mình thứ dầu có thể biến kẻ khác trở thành một sinh vật giống mình."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Có lẽ mọi người, ai cũng vậy cả thôi..."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Vì cô đơn mà muốn biến thứ gì đó, biến ai đó thành của mình. Đong đầy và đồng hóa họ bằng những giá trị của chính mình."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi thậm chí chẳng biết giá trị của mình là gì. Không biết mình là ai... thì lấy gì mà đồng hóa được người khác?"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Có khi tôi còn nông cạn hơn cả một con Cá Voi."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi, kẻ lên tàu Pequod chỉ để sống một cuộc đời đặc biệt hơn người. Chỉ vì cuộc đời bằng phằng trước kia quá nhàm chán..."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi..."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Rốt cuộc tôi muốn cái gì?"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Trong đêm tối, nơi lằn ranh vạn vật bắt đầu trở nên mờ nhòa..."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tôi đã thấy ánh sáng."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Tia sáng ấy len lỏi qua kẽ hở. Có sợi dây thừng được thả qua chỗ ấy. Một sợi dây được thả xuống từ thiên đường, rẽ lối vào vực thẳm u tối, cô độc."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Thứ mà tôi đã muốn nắm lấy để sống tiếp. Chính là chiếc dây này."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Nó đã xuất hiện ở đó, ngay trước mắt tôi."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Ishmael!"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"퀴케그과거",
+                "content":"Dây thừng, bám chặt!"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"A..."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"스타벅과거",
+                "content":"Trời... chết trong dầu đấy... Sẽ không còn gì cho ai tưởng nhớ."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Phải. Suýt nữa là tôi đã đón nhận cái chết lãng xẹt nhất City này rồi đấy, chắc vậy..."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Hẳn là tôi đã được tái sinh kể từ ngày ấy."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"이스마엘과거",
+                "content":"Sợi dây mà tôi nắm chặt lấy ngày hôm đó... là sợi dây vĩnh viễn không bao giờ đứt."
+            },
+            {
+                "id":71,
+                "place":"Lối Vào Tâm Nhĩ Phải của Cá Voi Trắng",
+                "model":"퀴케그",
+                "content":"Dây đấy. Nó đứt."
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không. Nó vẫn còn... Chúng mình vẫn nối lại được. Chỉ cần thắt thêm một nút nữa. Chỉ cần tới được chỗ quả tim..."
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... thì cậu sẽ được tự do."
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Một khi chúng ta, mắc kẹt ở đây..."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Chúng ta phải nghĩ một thứ. Duy nhất một thứ. Không được trở thành Người Cá."
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Nghi ngờ. Do dự. Và da sẽ trở nên trắng đi."
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Cậu biết. Như dầu Cá Voi."
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Tôi nghĩ một điều. Để gặp lại cậu, để đi phiêu lưu với cậu, tôi phải thoát. Phải giết Cá Voi."
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Nhưng để làm được, tôi phải cắt... sợi dây."
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Để không trở thành Người Cá, tôi cứ nghĩ suy nghĩ đấy. Nghĩ đi nghĩ lại. Và bỗng dưng..."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Tôi, đã chôn cậu."
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Tim Cá Voi. Để giết nó..."
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"퀴케그",
+                "content":"Tôi để tim mình ngủ yên."
+            }
+        ]
+    }
+

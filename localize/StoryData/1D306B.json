@@ -2,59 +2,59 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
       "model": "파우스트",
-      "content": "Dante, something about this containment unit seems different from the others, does it not?"
+      "content": "Dante, có gì đó về phòng lưu trữ này khác so với những chỗ còn lại, đúng không?"
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<Yeah, it really does… Wait, is this―?>"
+      "content": "<Ừa, đúng là vậy... Khoan đã, đây có phải—?>"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "Yes, that is most likely where we can find the Abnormality in which the Golden Bough has taken root."
+      "content": "Đúng thế, đây là nơi chúng ta có thể tìm thấy Dị Thể với Cành Vàng bén rễ."
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "Haah… We did manage to come this far, huh."
+      "content": "Hầy... Chúng ta tới được tận đây rồi ha."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Say, Gregor…"
+      "title": "Fixer Cấp 8",
+      "content": "Nhân tiện, Gregor này..."
     },
     {
       "id": 5,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…When we go back to the bus, can I teach Charon how to use a map?"
+      "title": "Fixer Cấp 8",
+      "content": "...Nếu chúng ta quay trở lại xe buýt, tôi có thể dạy Charon cách sử dụng bản đồ không?"
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "…Yeah, sounds good. I’m sure she’ll like it."
+      "content": "...Được chứ, nghe có vẻ ổn đó. Con bé hẳn sẽ thích lắm."
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "I doubt that…"
+      "content": "Tôi lại không nghĩ thế..."
     },
     {
       "id": 8,
-      "content": "Sinclair shook his head, then dry-retched afterward."
+      "content": "Sinclair lắc đầu, rồi ủ rũ sau đó."
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Huhu, it’s nice to have a place to go back to."
+      "title": "Fixer Cấp 8",
+      "content": "Hi hi, thật tốt khi có nơi để trở về."
     }
   ]
 }

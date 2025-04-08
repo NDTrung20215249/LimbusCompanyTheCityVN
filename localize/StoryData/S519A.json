@@ -1,134 +1,202 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "인어",
-            "teller": "Whale of the Porous Hand Mermaid",
-            "title": "The Great Lake of U Corp.",
-            "content": "… Screech!"
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "Huff... Huff..."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "How... many... left...?"
-        },
-        {
-            "id": 3,
-            "model": "오티스",
-            "content": "None."
-        },
-        {
-            "id": 4,
-            "model": "이스마엘",
-            "content": "Then this is the last one."
-        },
-        {
-            "id": 5,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 6,
-            "content": "There was something off about those... 'Mermaids' that crawled out of that Whale."
-        },
-        {
-            "id": 7,
-            "content": "A feeling not so different from looking at an Abnormality or a Distortion."
-        },
-        {
-            "id": 8,
-            "model": "단테2",
-            "content": "<Mermaids... were they human, once?>"
-        },
-        {
-            "id": 9,
-            "model": "이스마엘",
-            "content": "I guess I should've explained better..."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "Not every creature that lives in the depths of the Great Lake are called 'Whales'. Whales specifically refer to..."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘",
-            "content": "... everything in the Great Lake that can parasitize humans."
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "And Whales give birth to 'Mermaids'."
-        },
-        {
-            "id": 13,
-            "model": "단테2",
-            "content": "<… And where do the Mermaids come from?>"
-        },
-        {
-            "id": 14,
-            "model": "이스마엘",
-            "content": "They're people devoured by Whales that came with the Waves. There's no guarantee that we won't meet the same fate."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "See? Now you know why you could turn the clock all day and fail to bring us back."
-        },
-        {
-            "id": 16,
-            "content": "I see now."
-        },
-        {
-            "id": 17,
-            "content": "The Waves will be unrelenting, unabating..."
-        },
-        {
-            "id": 18,
-            "content": "And Ishmael, who'd already weathered and braved these endless, crashing Waves…"
-        },
-        {
-            "id": 19,
-            "content": "... Was starting to snap, strand by strand."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "I have... a mission that I can't fail..."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘",
-            "content": "And I'll kill everything that stands in my way..."
-        },
-        {
-            "id": 22,
-            "model": "이스마엘",
-            "content": "Even if I were to stumble, even if every part of me were to fall apart... I'll see it through to the end."
-        },
-        {
-            "id": 23,
-            "model": "오티스",
-            "content": "Determined and ferocious. Both good attitudes to have when setting sail on an adventure."
-        },
-        {
-            "id": 24,
-            "model": "오티스",
-            "content": "Because our voyage is just getting started."
-        },
-        {
-            "id": 25
-        },
-        {
-            "id": 26
-        },
-        {
-            "id": 27
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"인어",
+                "teller":"Whale of the Porous Hand Mermaid",
+                "title":"Hồ Lớn T.Đoàn U",
+                "content":"...ÉÉÉÉÉ!"
+            },
+            {
+                "id":1,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Hộc... Hộc..."
+            },
+            {
+                "id":2,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Còn... bao nhiêu... nữa...?"
+            },
+            {
+                "id":3,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Số 0 tròn trĩnh."
+            },
+            {
+                "id":4,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Vậy đây là con cuối cùng."
+            },
+            {
+                "id":5,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":6,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Có thứ gì đó kì lạ về những... con 'Người Cá' bò ra khỏi con Cá Voi đó."
+            },
+            {
+                "id":7,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một cảm giác không khác biệt mấy khi nhìn một Dị Thể hoặc một Biến Dị."
+            },
+            {
+                "id":8,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<Người Cá... có phải chúng từng là con người không?>"
+            },
+            {
+                "id":9,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Chắc là tôi phải giải thích rõ hơn thôi..."
+            },
+            {
+                "id":10,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Không phải con gì sinh sống dưới vùng nước sâu của Hồ Lớn cũng được gọi là \"Cá Voi\". Cá Voi là cách gọi đặc trưng cho..."
+            },
+            {
+                "id":11,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... tất cả những thứ có thể kí sinh hóa con người trên Hồ Lớn."
+            },
+            {
+                "id":12,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Đó là cách \"Người Cá\" ra đời."
+            },
+            {
+                "id":13,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<...Và rồi Người Cá có nguồn gốc từ đâu?>"
+            },
+            {
+                "id":14,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Họ là những nạn nhân bị nuốt bởi Cá Voi từ những Con Sóng. Không gì đảm bảo là chúng ta sẽ không gặp chung số phận đó cả."
+            },
+            {
+                "id":15,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thấy chưa? Giờ thì ngài hiểu cái viễn cảnh dù có vặn đồng hồ cả ngày cũng chẳng hồi sinh ai được rồi đấy."
+            },
+            {
+                "id":16,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Giờ thì tôi hiểu rồi."
+            },
+            {
+                "id":17,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Những Con Sóng sẽ ập đến không ngừng nghỉ..."
+            },
+            {
+                "id":18,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và Ishmael, người đã đối mặt và trải qua những Con Sóng dồn dập vô tận này..."
+            },
+            {
+                "id":19,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"...Đã bắt đầu mất đi lý trí, từng chút một."
+            },
+            {
+                "id":20,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi... có một nhiệm vụ không được phép thất bại..."
+            },
+            {
+                "id":21,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Vậy nên bất kỳ kẻ nào cản đường tôi đều phải chết..."
+            },
+            {
+                "id":22,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Kể cả khi tôi có gục ngã, kể cả khi xác thịt này có rụng rời thành từng mảnh vụn... tôi sẽ không dừng lại."
+            },
+            {
+                "id":23,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Lòng quyết tâm pha với tính cách tàn bạo. Cả hai đều là thái độ tốt khi ta dong buồm ra khơi."
+            },
+            {
+                "id":24,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Bởi cuộc hành trình này chỉ mới bắt đầu."
+            },
+            {
+                "id":25,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":26,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            },
+            {
+                "id":27,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":null
+            }
+        ]
+    }
+

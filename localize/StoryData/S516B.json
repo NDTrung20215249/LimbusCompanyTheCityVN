@@ -1,169 +1,216 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Aboard Mephistopheles's Deck",
-            "model": "그레고르",
-            "content": "So uh, Ishmael... This Lobotomy Corp. Branch is still a ways away. Why don't you rest up for a bit while you can? That's what we always do, anyway."
-        },
-        {
-            "id": 1,
-            "model": "그레고르",
-            "content": "Or at least let me take the next shift. I've done my fair share of night... yawn... watches."
-        },
-        {
-            "id": 2,
-            "content": "Gregor's yawn betrayed his confidence. Ishmael didn't care—she wasn't going to move from her station anyway."
-        },
-        {
-            "id": 3,
-            "model": "이스마엘",
-            "content": "......"
-        },
-        {
-            "id": 4,
-            "content": "Ishmael looked like she was waiting for something to happen. Or maybe she was deathly afraid of something..."
-        },
-        {
-            "id": 5,
-            "content": "She did not, not even for a second, leave the telescope(courtesy of Rain, most likely) installed on the modified Mephistopheles."
-        },
-        {
-            "id": 6,
-            "model": "오티스",
-            "content": "That's a good attitude, swabbie. It has been my long-held belief that letting your guard down is to let your comrades down."
-        },
-        {
-            "id": 7,
-            "content": "I asked Outis her thoughts out of curiosity, but she simply replied that Vergilius had already acted upon the matter. If the Executive Manager would not take action, then that was that."
-        },
-        {
-            "id": 8,
-            "content": "She also explained that while she would not hesitate to clash with Ishmael again should the need arise, she would not continue this pointless tussle that only lowered the team's morale."
-        },
-        {
-            "id": 9,
-            "model": "단테2",
-            "content": "<I guess that's good enough...>"
-        },
-        {
-            "id": 10,
-            "model": "그레고르",
-            "content": "Hmm... But we're in the middle of a Lake..."
-        },
-        {
-            "id": 11,
-            "model": "그레고르",
-            "content": "And as long as we stick to the, uh, the laws of the Great Lake, I don't see us getting—"
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "...!"
-        },
-        {
-            "id": 13,
-            "model": "이스마엘",
-            "content": "There, ahead..."
-        },
-        {
-            "id": 14,
-            "place": "Cabins of Mephistopheles",
-            "content": "Ishmael suddenly got up and hurried into the cabins as though she noticed something through the telescope."
-        },
-        {
-            "id": 15,
-            "model": "그레고르",
-            "content": "—attacked by anything. My bad."
-        },
-        {
-            "id": 16,
-            "model": "카론",
-            "content": "Time to drift again, redhead?"
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "It's too late to change course. That trick won't help us here."
-        },
-        {
-            "id": 18,
-            "model": "이스마엘",
-            "content": "They went through the trouble of hiding themselves in an artificial fog of war... We're obviously their target."
-        },
-        {
-            "id": 19,
-            "model": "베르길리우스",
-            "content": "It's a matter of time before they catch up with this ship, now that they know our location."
-        },
-        {
-            "id": 20,
-            "model": "베르길리우스",
-            "content": "Deal with them as you will."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘",
-            "content": "Manager, permit us to board their ship."
-        },
-        {
-            "id": 22,
-            "model": "단테2",
-            "content": "<Are you sure that boarding their ship is the best course of action if we want to save our ship?>"
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "According to my experience, yes."
-        },
-        {
-            "id": 24,
-            "model": "단테2",
-            "content": "<... Okay. I'll leave it to you, then.>"
-        },
-        {
-            "id": 25,
-            "model": "이스마엘",
-            "content": "... I hope you'll continue to make wise choices like that."
-        },
-        {
-            "id": 26,
-            "content": "I sighed with relief, as she seemed to be going along with me for now..."
-        },
-        {
-            "id": 27,
-            "content": "With that, I took a few steps behind the other Sinners and watched her."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "We'll hook their ship with harpoons, force them into a melee range! Somebody grab the helm and turn it on my signal!"
-        },
-        {
-            "id": 29,
-            "model": "오티스",
-            "content": "Hm. Then someone should be on standby, ready to shut the engine off at the right moment."
-        },
-        {
-            "id": 30,
-            "model": "오티스",
-            "content": "Hey, you! Bring some extra rope. You! Wait for her signal inside the wheelhouse!"
-        },
-        {
-            "id": 31,
-            "content": "Ishmael's explanations were rapid and confident. Outis nodded along affirmatively. The other Sinners were quick to follow their instructions."
-        },
-        {
-            "id": 32,
-            "content": "Watching Ishmael throw her razor-sharp harpoon toward the pirate ship... I started to feel... that something was off."
-        },
-        {
-            "id": 33,
-            "content": "There they were, the Sinners... working so well together like clockwork. But underneath all that, maybe all that mattered to them was... their own goals."
-        },
-        {
-            "id": 34,
-            "content": "I was wondering if all the times I've spent thinking, hoping, and contemplating about our futures together were... pointless.\n... This thought lingered for a while in my head."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Boong Thuyền Buýt Mephistopheles",
+                "model":"그레고르",
+                "content":"Vậy ờm, Ishmael này... Chi Nhánh Tập Đoàn Lobotomy này vẫn còn cách chúng ta một đoạn dài cơ. Nên là cô nhớ nghỉ ngơi được chứ? Ta vẫn luôn làm vậy mà."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hoặc ít nhất thì cũng để tôi đảm nhận ca tiếp theo. Tôi đã đi gác... hơoooo... đêm nhiều rồi."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Cơn ngáp của Gregor phủ nhận toàn bộ vẻ tự tin của anh ấy. Ishmael không hề quan tâm—cô ấy sẽ không xê dịch khỏi vị trí đó đâu."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이스마엘",
+                "content":"......"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Ishmael trông như đang đợi chờ điều gì đó xảy ra. Hoặc có thể là cô ấy đang khiếp sợ thứ gì đó..."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy đã không, dù chỉ là trông chốc lát, buông bỏ cái ống nhòm (nhờ ơn của Rain hết) được lắp đặt trên chiếc Mephistopheles đã được tu sửa lại."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"오티스",
+                "content":"Thái độ tốt đấy, con nhóc lau dọn. Từ lâu ta đã luôn tin rằng để bản thân lơ là cảnh giác cũng đồng nghĩa với việc giết chết đồng đội."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Tôi tò mò hỏi Outis về suy nghĩ của cô ấy, nhưng cô ấy chỉ đáp lại rằng Vergilius đã giải quyết xong xuôi vấn đề. Nếu như Quản Lý Điều Hành không hành động, thì coi như mọi thứ đã kết thúc rồi."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy cũng giải thích rằng cô ấy sẽ không ngần ngại đấu khẩu với Ishmael một lần nữa nếu như có chuyện bất trắc xảy ra, nhưng cô ấy không muốn tiếp tục cuộc tranh cãi vô nghĩa này vì nó sẽ chỉ làm giảm tinh thần của cả đội thôi."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"단테2",
+                "content":"<Tôi nghĩ như thế đủ tốt rồi...>"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hừm... Nhưng ta đang ở giữa một Hồ mà..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"그레고르",
+                "content":"Và miễn là ta vẫn còn tuân theo, ờm, luật lệ của Hồ Lớn, thì tôi không nghĩ là ta sẽ—"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...!"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Kìa, phía trước..."
+            },
+            {
+                "id":14,
+                "place":"Cabin của Mephistopheles",
+                "model":null,
+                "content":"Ishmael bỗng dưng bật dậy và nhanh chóng chạy vào trong khoang tàu như thể cô ấy để ý thấy thứ gì đó qua chiếc ống nhòm."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"그레고르",
+                "content":"—bị tấn công. Lỗi tôi."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"카론",
+                "content":"Tới giờ quay tàu nữa hở, chị tóc cam?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Quá muộn để chuyển hướng rồi. Không làm lại trò đó được đâu."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng vất vả giấu mình trong màn sương mù nhân tạo đó rồi đột ngột xuất hiện... rõ ràng là đang nhắm vào chúng ta."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Giờ vị trí chúng ta bị lộ rồi thì sớm muộn gì chúng cũng đuổi kịp ta thôi."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Cứ tuỳ ý xử lý bọn chúng."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Quản Lý, cho phép đổ bộ tàu địch."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테2",
+                "content":"<Cô có chắc lên tàu của bọn chúng là hành động tốt nhất nếu chúng ta muốn cứu con tàu này không?>"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Dựa vào kinh nghiệm cá nhân, vâng, chắc chắn."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Được rồi. Thế thì tôi sẽ để cho cô giải quyết mọi chuyện.>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Hi vọng là ngài sẽ tiếp tục đưa ra các lựa chọn khôn ngoan như vậy trong tương lai."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Tôi thở dài một cách đầy nhẹ nhõm, như cách cô ấy có vẻ đồng tình với quyết định của tôi lúc này đây..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"Và rồi, tôi lùi lại vài bước sau các Tội Nhân khác và quan sát cô ấy."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ta sẽ phóng lao móc vào tàu của địch, ép bọn chúng phải đánh cận chiến! Ai đó túc trực bên bánh lái và chờ tôi ra hiệu đi!"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"오티스",
+                "content":"Hừm. Vậy ai đó nên sẵn sàng đợi lệnh, chuẩn bị để tắt động cơ bất cứ lúc nào."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"오티스",
+                "content":"Này, ngươi! Đem thêm dây thừng. Ngươi! Đợi tín hiệu cô ta ở buồng lái!"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"Lời giải thích của Ishmael rất nhanh và đầy tự tin. Outis cũng gật đầu đồng ý. Các Tội Nhân khác nhanh chóng nghe theo chỉ dẫn của họ."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Nhìn Ishmael ném cây lao móc sắc bén của cô ấy vào thuyền hải tặc... Tôi bắt đầu cảm thấy... có điều gì đó không đúng lắm."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"Tất cả bọn họ, các Tội Nhân... đều làm việc rât ăn ý với nhau. Nhưng ẩn đằng sau vẻ bề ngoài đó, tất cả những gì mà họ quan tâm đến nhất... chính là mục đích riêng của chính bọn họ."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Tôi đã tự hỏi liệu suốt quãng thời gian qua tôi luôn băn khoăn, mong mỏi, và ngẫm nghĩ về tương lai của tất cả chúng ta cùng nhau đều... thật vô nghĩa. ...Suy nghĩ đó đã vương vẩn trong tâm trí tôi một thời gian dài rồi."
+            }
+        ]
+    }
+

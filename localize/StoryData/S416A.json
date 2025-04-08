@@ -1,154 +1,206 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K - LC Branch Interior",
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I don't see any terrorists."
-        },
-        {
-            "id": 1,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "Relax. I've brought plenty of regeneration ampules, so those murder machines can rampage all they want."
-        },
-        {
-            "id": 2,
-            "content": "An ominous noise buzzed from the stopped machines."
-        },
-        {
-            "id": 3,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "Alright, all... You hear me?"
-        },
-        {
-            "id": 4,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "I got pretty mad thinking you might have thought we ran off, so I'm sending you a message verbally."
-        },
-        {
-            "id": 5,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "I'm about to tell you something real important, so listen up."
-        },
-        {
-            "id": 6,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "……"
-        },
-        {
-            "id": 7,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "A pause to rouse tension... Good."
-        },
-        {
-            "id": 8,
-            "model": "단테",
-            "content": "<……>"
-        },
-        {
-            "id": 9,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "It's that you are..."
-        },
-        {
-            "id": 10,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "You are a bunch of worthless worms."
-        },
-        {
-            "id": 11,
-            "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Technology Liberation Alliance",
-            "content": "Yeah, that's right. You're just worms!"
-        },
-        {
-            "id": 12,
-            "model": "그레고르",
-            "content": "Gimme a break. I was all ears for this load of nonsense."
-        },
-        {
-            "id": 13,
-            "content": "Gregor approached the speaker with a grumble, scratching the back of his head."
-        },
-        {
-            "id": 14,
-            "model": "단테",
-            "content": "<Wait, Gregor!>"
-        },
-        {
-            "id": 15,
-            "content": "After playing the voice, the machine suddenly starts to heat up and inflate."
-        },
-        {
-            "id": 16,
-            "model": "파우스트",
-            "content": "The machine is heating to unnatural degrees, its components expanding."
-        },
-        {
-            "id": 17,
-            "model": "니코",
-            "teller": "Niko",
-            "title": "Rosespanner Workshop",
-            "content": "Oh my, it really is. That's a telltale sign of an imminent explosion."
-        },
-        {
-            "id": 18,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Indeed, and that means..."
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "Wait a moment! Get away from that damned machine!"
-        },
-        {
-            "id": 20,
-            "content": "Heathcliff kicked Gregor away from the machine."
-        },
-        {
-            "id": 21,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Hmm... They must've used what little time they had to place traps like this."
-        },
-        {
-            "id": 22,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Their dedication is admirable. I'm raring to see the mastermind behind this."
-        },
-        {
-            "id": 23,
-            "model": "단테",
-            "content": "<Are all researchers like that? This really doesn't feel like the time for admirations.>"
-        },
-        {
-            "id": 24,
-            "model": "파우스트",
-            "content": "Such is our fate."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nest K - Nội Bộ Chi nhánh LC",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Tôi không thấy bất kỳ tên khủng bố nào cả."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K",
+                "content":"Thoải mái đi. Tôi mang theo một mớ huyết thanh rồi nên là cứ kệ xác đám máy móc chém giết đó đi cho rồi."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một âm thanh ghê rợn vang lên từ những cỗ máy đã ngừng hoạt động."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Êy, a lô... Mọi người có nghe rõ không?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Tôi hơi bị điên tiết lên khi mấy người nghĩ rằng bọn tôi đã chạy trốn đấy nhá, thế nên tôi phải trực tiếp gửi tới lời nhắn cho mấy người đây."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Vì là tôi sắp nói một điều cực quan trọng nên cố mà nghe kĩ đây."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"......"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Ồ... Khoảng lặng căng thẳng... tốt lắm nha."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<......>"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Sự thật thì..."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Đám mấy người toàn là lũ sâu bọ vô giá trị."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"기술해방연합기계",
+                "teller":"Cỗ Máy Tan Chảy",
+                "title":"Liên Minh Giải Phóng Công Nghệ",
+                "content":"Ừ, đúng rồi đấy. Lũ các người chỉ là sâu bọ thôi!"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Tha cho tôi đi. Nãy giờ cứ phải nghe mấy thứ vô nghĩa này."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Gregor gãi đầu, cậu ấy tiếp cận cái loa với vẻ càu nhàu."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Đợi đã, Gregor!>"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sau khi chạy lời nhắn, cỗ máy đột nhiên bắt đầu nóng lên và căng phồng ra."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Chiếc máy đang phát nhiệt một cách không tự nhiên, và các bộ phận của nó đang nở rộng."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"니코",
+                "teller":"Niko",
+                "title":"Xưởng Chế Roespanner",
+                "content":"À, ra đây là dấu hiệu của một vụ nổ sắp xảy ra."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Đúng thật, và điều đó có nghĩa là..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Ê này! Tránh ra khỏi cái máy chết bầm đó!"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Heathcliff đá Gregor khỏi chỗ cỗ máy."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Hửm... Bọn họ hẳn đã sử dụng chút thời gian ít ỏi còn lại để đặt những cái bẫy như thế này."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K",
+                "content":"Sự cống hiến của bọn họ thật đáng ngưỡng mộ. Tôi rất muốn gặp kẻ chủ mưu đằng sau chuyện này đấy."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Bộ mọi nhà nghiên cứu đều như thế sao? Đây thật sự không phải là lúc để ngưỡng mộ đâu.>"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null,
+                "content":"Đấy là số phận của chúng tôi."
+            }
+        ]
+    }
+

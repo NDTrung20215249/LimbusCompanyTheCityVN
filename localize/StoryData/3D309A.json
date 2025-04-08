@@ -1,571 +1,902 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Unending Hill of Corpses",
-      "model": "싱클레어",
-      "content": "D… Demian…"
-    },
-    {
-      "id": 1,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "You’ve changed your own fate, Sinclair."
-    },
-    {
-      "id": 2,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Right now, you’re neither a coward nor a hero. But you’ve still yet to let go of your fears completely."
-    },
-    {
-      "id": 3,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "I’ve said it before, haven’t I? “When you fear someone…”"
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "“That’s because… you gave them the power to have control over you…”"
-    },
-    {
-      "id": 5,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "That’s right. And I… don’t want anyone else to domineer over you."
-    },
-    {
-      "id": 6,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Which is why I got rid of that Kromer."
-    },
-    {
-      "id": 7,
-      "content": "The man referred to as Demian then started to walk. He took airy steps as though he were embarking on a light trip."
-    },
-    {
-      "id": 8,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "The world is about to head for a new birth. And, only a few individuals can get there."
-    },
-    {
-      "id": 9,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Sinclair, you’re one of them."
-    },
-    {
-      "id": 10,
-      "content": "Sinclair fainted before he could answer…"
-    },
-    {
-      "id": 11,
-      "content": "Demian slowly made his way over to me."
-    },
-    {
-      "id": 12,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Kromer… attempted to become a god, like those which people of the past were said to believe in. Sinclair almost became her stepping stone."
-    },
-    {
-      "id": 13,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "In the end, though, one has to break an egg on their own."
-    },
-    {
-      "id": 14,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Kromer put in quite a bit of effort, doing this and that to create a throwback to the time when Sinclair lost his first coin."
-    },
-    {
-      "id": 15,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Irregardless of the fact that Christmas is still a while away…"
-    },
-    {
-      "id": 16,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "It’s ironic that they resorted to creating false imagery, something they loathed so deeply. Don’t you think so?"
-    },
-    {
-      "id": 17,
-      "model": "단테",
-      "content": "<What are you talking about? Who are you?>"
-    },
-    {
-      "id": 18,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "A pleasure to meet you, Dante."
-    },
-    {
-      "id": 19,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "So, you’re the adult who will condition Sinclair at the moment."
-    },
-    {
-      "id": 20,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "As for who I am…"
-    },
-    {
-      "id": 21,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "And for what I was talking about; you’ll see in due time."
-    },
-    {
-      "id": 22,
-      "model": "단테",
-      "content": "<…?!>"
-    },
-    {
-      "id": 23,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "When Sinclair takes flight with unshakable faith in the power of the heart…"
-    },
-    {
-      "id": 24,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Right. When he becomes one with beautiful stars…"
-    },
-    {
-      "id": 25,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "…That is when I’ll return."
-    },
-    {
-      "id": 26,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "Take good care of Sinclair until then, Dante."
-    },
-    {
-      "id": 27,
-      "model": "단테",
-      "content": "<You… You can hear me?>"
-    },
-    {
-      "id": 28,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "I can hear all sorts of chirps and trills, Dante. It’s only natural that I hear your voice."
-    },
-    {
-      "id": 29,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "As always…"
-    },
-    {
-      "id": 30,
-      "model": "데미안",
-      "teller": "Demian",
-      "title": "???",
-      "content": "What matters most is something you can’t see or hear."
-    },
-    {
-      "id": 31,
-      "content": "The boy with a blue scarf vanished without notice…"
-    },
-    {
-      "id": 32,
-      "content": "After that, the mounds began to melt away."
-    },
-    {
-      "id": 33,
-      "content": "They dissolve into mixtures of flesh and mud."
-    },
-    {
-      "id": 34,
-      "content": "With them gone, a single Golden Bough appeared before me, spreading its warm light."
-    },
-    {
-      "id": 35,
-      "content": "Sinclair’s world was gradually melting with the hills."
-    },
-    {
-      "id": 36,
-      "content": "I excruciatingly drag what’s left of my upper body across the floor to reach Sinclair."
-    },
-    {
-      "id": 37,
-      "model": "싱클레어",
-      "content": "……"
-    },
-    {
-      "id": 38,
-      "content": "He was still breathing."
-    },
-    {
-      "id": 39,
-      "content": "And so was I; I figured I should still be able to turn the clock."
-    },
-    {
-      "id": 40,
-      "content": "Thus, that means I’m still their manager, and I should act like one."
-    },
-    {
-      "id": 41,
-      "content": "Plus, as I learned in my dying moments…"
-    },
-    {
-      "id": 42,
-      "content": "I have to strive to become a more sensible manager."
-    },
-    {
-      "id": 43,
-      "content": "With all that, I need to tell him…"
-    },
-    {
-      "id": 44,
-      "model": "단테",
-      "content": "<It might have been your fault, Sinclair.>"
-    },
-    {
-      "id": 45,
-      "model": "단테",
-      "content": "<But that’s okay, really… It’s one small mistake—one anyone could make.>"
-    },
-    {
-      "id": 46,
-      "model": "단테",
-      "content": "<Don’t beat yourself up so much about it.>"
-    },
-    {
-      "id": 47,
-      "content": "I pat him on the back with my half-melted right arm."
-    },
-    {
-      "id": 48,
-      "content": "Sinclair doesn’t reply."
-    },
-    {
-      "id": 49,
-      "content": "To be truthful, trying to identify someone to blame all this on would be a never-ending endeavor."
-    },
-    {
-      "id": 50,
-      "content": "From each of us going and carrying our sins onto the bus."
-    },
-    {
-      "id": 51,
-      "content": "To my loss of head and memory, accompanied by an involuntary appointment as the executive manager."
-    },
-    {
-      "id": 52,
-      "content": "…At the root of all this, I might find no one but myself to blame."
-    },
-    {
-      "id": 53,
-      "content": "Staying bound by that fact, though, will only keep us from taking our next steps."
-    },
-    {
-      "id": 54,
-      "teller": "???",
-      "title": "???",
-      "content": "…We found ‘em!"
-    },
-    {
-      "id": 55,
-      "content": "I can hear multiple footsteps approaching our horribly incapacitated team."
-    },
-    {
-      "id": 56,
-      "content": "…Vergilius must’ve figured we’d get into a mess and called the After Team to scoop us off the ground."
-    },
-    {
-      "id": 57,
-      "teller": "???",
-      "title": "LCCA",
-      "content": "This looks like the individual we seek. Do I inject it now?"
-    },
-    {
-      "id": 58,
-      "teller": "???",
-      "title": "LCCA",
-      "content": "The others can be revived as long as this one lives. Focus all resources on restoring their body."
-    },
-    {
-      "id": 59,
-      "model": "단테",
-      "content": "<Hrk…?!>"
-    },
-    {
-      "id": 60,
-      "content": "I felt a jab in my shoulder, and then a strange sensation enveloped the parts of my body that had melted off."
-    },
-    {
-      "id": 61,
-      "teller": "???",
-      "title": "LCCA",
-      "content": "We were provided three HP ampules. Do I use all three on them?"
-    },
-    {
-      "id": 62,
-      "teller": "???",
-      "title": "LCCA",
-      "content": "Keep an eye on the regeneration progress and use them at your discretion."
-    },
-    {
-      "id": 63,
-      "teller": "???",
-      "title": "LCCA",
-      "content": "Lucky straphangers… They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too…"
-    },
-    {
-      "id": 64,
-      "teller": "???",
-      "title": "LCCA",
-      "content": "…ction …firmed. Addi…"
-    },
-    {
-      "id": 65,
-      "content": "The voices around me start to fade."
-    },
-    {
-      "id": 66,
-      "content": "Sinclair’s bawling lamentation dimly rings through the emptiness."
-    },
-    {
-      "id": 67,
-      "content": "Our third mission marked its sober end in dismal defeat."
-    },
-    {
-      "id": 68
-    },
-    {
-      "id": 69,
-      "place": "Aboard Mephistopheles",
-      "content": "Even though we recovered the Golden Bough, we lost."
-    },
-    {
-      "id": 70,
-      "content": "On the other hand, the bus was more vibrant than usual, possibly out of everyone’s attempts to disregard the depressing outcome."
-    },
-    {
-      "id": 71,
-      "model": "베르길리우스",
-      "content": "I bought enough chicken kebabs for all of you to have one, so if anyone didn’t get theirs, go and put your detective caps on by yourselves."
-    },
-    {
-      "id": 72,
-      "model": "홍루",
-      "content": "Such curious cuisine. What is the intention of skewering chicken meat with a stick?"
-    },
-    {
-      "id": 73,
-      "model": "이상",
-      "content": "I may be familiar with this kind of dish… a kkochi of the dak variety."
-    },
-    {
-      "id": 74,
-      "model": "카론",
-      "content": "A sweet smell. The kind Mephi likes."
-    },
-    {
-      "id": 75,
-      "content": "Stimulated, Charon revved the engine."
-    },
-    {
-      "id": 76,
-      "content": "Charon was humming another familiar tune. I could recognize the song this time."
-    },
-    {
-      "id": 77,
-      "model": "그레고르",
-      "content": "Charon, isn’t Christmas still a long ways off?"
-    },
-    {
-      "id": 78,
-      "model": "카론",
-      "content": "Don’t put a damper on Charon’s fun, Bug Guy."
-    },
-    {
-      "id": 79,
-      "model": "카론",
-      "content": "If Charon feels like it’s Christmas, then that’s that."
-    },
-    {
-      "id": 80,
-      "model": "그레고르",
-      "content": "Bu— C’mon, I called you by your name for once!"
-    },
-    {
-      "id": 81,
-      "model": "로쟈",
-      "content": "Well, why don’tcha settle the score by giving her a “bus girlie” then~ Y’know, tit-for-tat and all that?"
-    },
-    {
-      "id": 82,
-      "model": "그레고르",
-      "content": "Grrr…"
-    },
-    {
-      "id": 83,
-      "model": "베르길리우스",
-      "content": "……"
-    },
-    {
-      "id": 84,
-      "content": "Vergilius was watching the scene unfold, leaving his food to cool and hardly taking a bite even though he was the one who bought it all."
-    },
-    {
-      "id": 85,
-      "content": "Perhaps he’s gone quiet because of Charon’s song."
-    },
-    {
-      "id": 86,
-      "content": "It does come to mind that he said she was going through a tunnel."
-    },
-    {
-      "id": 87,
-      "content": "And then…"
-    },
-    {
-      "id": 88,
-      "content": "I turned my gaze to Sinclair, who was awkwardly laughing amongst the other Sinners."
-    },
-    {
-      "id": 89,
-      "model": "단테",
-      "content": "<If we’re going through a long tunnel…>"
-    },
-    {
-      "id": 90,
-      "model": "단테",
-      "content": "<Then what we do is wait for the morning to arrive, right?>"
-    },
-    {
-      "id": 91,
-      "model": "베르길리우스",
-      "content": "……"
-    },
-    {
-      "id": 92,
-      "model": "로쟈",
-      "content": "Ahahaha! What was that about, Dante? Drop the goofy poetry and have a kebab! C’mon! Say aah~"
-    },
-    {
-      "id": 93,
-      "model": "뫼르소",
-      "content": "Our manager has no mouth."
-    },
-    {
-      "id": 94,
-      "model": "오티스",
-      "content": "The executive manager has no need for a mouth as they’re perfectly capable of commanding us without a word. Do keep that in mind."
-    },
-    {
-      "id": 95,
-      "model": "이스마엘",
-      "content": "Golly… Don’t you ever get tired of licking their boot so clean, Outis?"
-    },
-    {
-      "id": 96,
-      "model": "히스클리프",
-      "content": "Oi! …Got more of this scran? It’s peak."
-    },
-    {
-      "id": 97,
-      "model": "료슈",
-      "content": "Heyo, BG. Gimme a light."
-    },
-    {
-      "id": 98,
-      "model": "그레고르",
-      "content": "…Thought I wouldn’t know what that’s short for?"
-    },
-    {
-      "id": 99,
-      "content": "I thought about giving a speech to the Sinners about how this fruitful yet unsuccessful mission changed my mindset…"
-    },
-    {
-      "id": 100,
-      "content": "But I soon shelved the idea."
-    },
-    {
-      "id": 101,
-      "content": "I told Sinclair to not let a failure of the moment bind him, after all."
-    },
-    {
-      "id": 102,
-      "content": "Instead, I’ve resolved to make up for this less than ideal outcome on our next mission."
-    },
-    {
-      "id": 103,
-      "model": "돈키호테",
-      "content": "May I… have thine attention, Red— I mean, Sir Vergilius."
-    },
-    {
-      "id": 104,
-      "model": "베르길리우스",
-      "content": "What."
-    },
-    {
-      "id": 105,
-      "model": "돈키호테",
-      "content": "I do believe I have acted with sufficient caution as you so hath warned…"
-    },
-    {
-      "id": 106,
-      "model": "돈키호테",
-      "content": "Thusly… if I may, would you allow me to lay claim upon a skewer?"
-    },
-    {
-      "id": 107,
-      "model": "베르길리우스",
-      "content": "…Go right ahead."
-    },
-    {
-      "id": 108,
-      "content": "As Don Quixote’s excited jubilation adds a layer of vigor to the already lively bus…"
-    },
-    {
-      "id": 109,
-      "content": "The message I couldn’t speak—but one I’m sure has been conveyed in one way or another—spreads between us."
-    },
-    {
-      "id": 110,
-      "content": "…And so the morning came."
-    },
-    {
-      "id": 111
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đồi Xác Bất Tận",
+                "model":"싱클레어",
+                "content":"D… Demian…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"데미안",
+                "content":"Cậu đã thay đổi số phận của mình, Sinclair.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"데미안",
+                "content":"Bây giờ, cậu không phải anh hùng hay kẻ hèn. Nhưng cậu vẫn chưa buông bỏ đi nỗi sợ của mình.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"데미안",
+                "content":"Tôi đã nói rồi, đúng không? \"Khi cậu sợ ai đó…\"",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"싱클레어",
+                "content":"\"Đó là bởi… cậu đã đưa cho người đó sức mạnh để chi phối cậu…\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"데미안",
+                "content":"Đúng vậy. Và tôi… không muốn ai khác thống trị cậu hết.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"데미안",
+                "content":"Đấy là lý do vì sao tôi khử Kromer đấy.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Cái người được gọi là Demian đó bắt đầu bước đi. Cậu ta bước trên không như thể đang thong thả đi dạo vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"데미안",
+                "content":"Thế giới đang hướng đến kỷ nguyên mới. Và, chỉ có vài cá nhân có thể chạm đến được.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"데미안",
+                "content":"Sinclair, cậu là một trong số họ.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"Sinclair ngất đi trước khi cậu ấy kịp trả lời lại…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Demian chậm rãi tiến đến tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"데미안",
+                "content":"Kromer… đã cố gắng trở thành một vị thần, như những thứ người xưa từng tin vào. Sinclair đã xém trở thành bàn đạp cho cô ta.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"데미안",
+                "content":"Cho đến cuối cùng thì, một người phải tự phá bỏ vỏ bọc của mình.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"데미안",
+                "content":"Kromer đã rất nỗ lực, làm đủ thứ việc để tạo vật cản vào thời điểm Sinclair mất đi đồng xu đầu tiên của cậu ấy.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"데미안",
+                "content":"Bất chấp sự thật là Giáng Sinh vẫn còn xa vời…",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"데미안",
+                "content":"Thật trớ trêu làm sao khi họ tạo hình ảnh sai lệch, thứ mà họ ghê tởm vô cùng. Người có nghĩ thế không?",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테",
+                "content":"<Cậu đang nói cái gì thế? Cậu là ai?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"데미안",
+                "content":"Hân hạnh được gặp mặt, Dante.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"데미안",
+                "content":"Vậy, người là giám hộ cho Sinclair vào lúc này.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"데미안",
+                "content":"Còn việc tôi là ai…",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"데미안",
+                "content":"Và thứ tôi đang nói về; người sẽ thấy sớm thôi.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테",
+                "content":"<…?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"데미안",
+                "content":"Khi Sinclair cất cánh với niềm tin bất diệt vào con tim cậu ấy…",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"데미안",
+                "content":"Đúng vậy. Khi cậu ấy làm một với những vì sao tuyệt đẹp ấy…",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"데미안",
+                "content":"…Chính là lúc tôi sẽ trở lại.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"데미안",
+                "content":"Hãy chăm sóc Sinclair cho đến lúc đấy nhé, Dante.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"단테",
+                "content":"<Cậu… Cậu có thể nghe thấy tôi nói sao?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"데미안",
+                "content":"Tôi có thể nghe nhiều loại ríu rít và âm vang, Dante à. Đương nhiên tôi có thể nghe thấy tiếng của người.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"데미안",
+                "content":"Như mọi khi…",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"데미안",
+                "content":"Điều quan trọng nhất luôn là thứ cậu không thể nhìn hay nghe thấy.",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"Cậu trai với chiếc khăn choàng cổ màu xanh lam biến mất ngay tức khắc…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Sau đó, các mô đất gò đất cũng bắt đầu tan chảy đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"Chúng phân rã thành hỗn hợp của da thịt và bùn đất trộn lẫn vào nhau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Khi chúng biến mất, một Cành Vàng hiện ra trước mắt tôi, toả ra hơi ấm của nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Thế giới của Sinclair cũng dần tan chảy với những ngọn đồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Tôi đau đớn kéo lê những gì còn sót lại của nửa phần thân trên của mình tiến đến chỗ Sinclair.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"싱클레어",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"Cậu ấy vẫn còn thở.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"Và tôi cũng thế; tôi nhận ra tôi vẫn có thể quay mặt kim đồng hồ lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "content":"Do đó, có nghĩa tôi vẫn còn là quản lý của họ, và tôi nên hành xử đúng chuẩn như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "content":"Với lại, tôi đã học được một điều trong thời khắc sinh tử của mình…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":null,
+                "content":"Tôi phải trở thành một quản lý có ý thức hơn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Với những chuyện đã xảy ra, tôi cần phải nói với cậu ấy…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테",
+                "content":"<Đó có thể đã là lỗi của cậu đấy, Sinclair>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"단테",
+                "content":"<Nhưng ổn cả thôi, thật đấy… Chỉ là một sai lầm nhỏ — mà bất kỳ ai có thể phạm phải.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"단테",
+                "content":"<Đừng tự dằn vặt và khiển trách bản thân mình nhiều như thế nữa.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "content":"Tôi vỗ về lưng cậu ấy bằng cánh tay phải vẫn chưa tan chảy hết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "content":"Sinclair không phản hồi gì cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":null,
+                "content":"Thành thực mà nói, cố gắng để tìm ra người để trách cứ cho toàn bộ những chuyện đã xảy ra sẽ là một vòng lặp không có hồi kết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "content":"Từ việc mỗi người chúng tôi phải gánh vác tội lỗi của bản thân trên chuyến xe buýt này đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":null,
+                "content":"Cho đến chuyện mất đầu và lẫn ký ức của tôi, kèm theo sự bổ nhiệm miễn cưỡng trở thành một quản lý điều hành.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":null,
+                "content":"…Và nguồn cơn của mọi chuyện này, tôi chỉ có thể trách bản thân mình mà thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "content":"Nếu để sự thật đó kìm hãi chúng tôi lại, thì sẽ chỉ khiến chúng tôi không thể tiếp tục bước tiếp thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":null,
+                "content":"…Đã tìm thấy họ!",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "content":"Tôi có thể nghe thấy vô số tiếng bước chân chạy đến chỗ tàn dư của chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":null,
+                "content":"…Vergilius hẳn đã đoán ra chúng tôi sẽ vướng phải một mớ bòng bong và gọi cho Đội Hậu Tuyến để tiếp viện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "content":"Đây có vẻ là cá nhân chúng ta tìm kiếm. Tôi tiêm vào không?",
+                "teller":"???",
+                "title":"LCCA"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"Những tên khác có thể được hồi sinh miễn là người này sống. Tập trung tất cả tài nguyên hồi phục cho người này.",
+                "teller":"???",
+                "title":"LCCA"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"단테",
+                "content":"<Hự…?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":null,
+                "content":"Một cú đâm vào vai tôi, rồi một cảm giác kỳ lạ lan toả khắp các bộ phận đã tan chảy trong cơ thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":null,
+                "content":"Chúng ta được cung cấp ba lọ thuốc HP. Tôi có nên dùng hết không?",
+                "teller":"???",
+                "title":"LCCA"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Để mắt đến tiền trình phục hồi và sử dụng một cách cẩn trọng.",
+                "teller":"???",
+                "title":"LCCA"
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"Lũ khốn may mắn… Chúng được lăn lộn trong sự xa hoa nhờ có một Color trong nhóm chúng—lại còn là ngươi có quan hệ với Tập đoàn K nữa chứ…",
+                "teller":"???",
+                "title":"LCCA"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":null,
+                "content":"…ộng …hận. Ch…",
+                "teller":"???",
+                "title":"LCCA"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Những giọng nói quanh tôi dần nhỏ đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "content":"Những tiếng rên rỉ của Sinclair vang lên xuyên suốt khoảng thời gian đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":null,
+                "content":"Nhiệm vụ thứ ba của chúng tôi kết thúc với một thất bại đầy thảm hại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":null,
+                "content":"Mặc dù chúng tôi đã khôi phục được Cành Vàng, nhưng chúng tôi đã thua.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":null,
+                "content":"Mặt khác, chiếc xe buýt trở nên sôi động hơn ngày thường, có thể là bởi vì mọi người đều đang cố gắng không để tâm đến kết quả đáng buồn ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Ta mua đủ xiên gà nướng cho từng người rồi, cô cậu mà chưa có phần mình thì tự đi mà điều tra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"홍루",
+                "content":"Òa, món ăn trông kỳ lạ thật đó. Sao lại phải xiên thịt vào que thế ạ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"이상",
+                "content":"Tôi có biết món ăn này… một dạng gà xiên que.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"카론",
+                "content":"Mùi thơm. Cái loại mùi mà Mephi thích.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":null,
+                "content":"Cảm thấy thích thú, Charon rồ ga động cơ lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"Charon đang ngân nga một giai điệu quen thuộc khác. Lần này tôi có thể nhận ra bài hát đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"그레고르",
+                "content":"Charon này, chẳng phải còn một khoảng thời gian dài nữa mới tới Lễ Giáng Sinh à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"카론",
+                "content":"Chú đừng đi phá trò vui của Charon, chú bọ ơi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"카론",
+                "content":"Nếu Charon nói nó là Giáng Sinh thì nó là Giáng Sinh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"그레고르",
+                "content":"Nh- Thôi nào, Tôi gọi đúng tên nhóc rồi mà!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nào, sao ta không hòa giải bằng cách gọi cô ta là 'Nàng xe buýt' nè~ Biết không, này có đó rồi thế vậy đấy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hừ…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":null,
+                "content":"Vergilius đang quan sát khung cảnh bày ra trước mắt, để mặc cho đồ ăn nguội lạnh đi và không thèm cắn một miếng dù ông ấy là người đã mua chúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":null,
+                "content":"Có lẽ ông ấy yên lặng đi bởi vì bài hát của Charon.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":null,
+                "content":"Tôi nhớ là ông ta đã nói cô ấy đang đi qua một chiếc đường hầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":null,
+                "content":"Và rồi…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":null,
+                "content":"Tôi quay lại nhìn Sinclair, người đang cười một cách gượng gạo giữa những Tội Nhân khác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"단테",
+                "content":"<Nếu chúng ta đang đi qua một đường hầm thật dài…>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"단테",
+                "content":"<Thì việc chúng ta cần làm là đợi trời sáng lại thôi, nhỉ?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"……",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"로쟈",
+                "content":"A ha ha ha! Thế này là sao, Dante? Bớt ngôn tình lại rồi ăn miếng kebab nè! Thôi nào! Nói aaa coi~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Quản lý của chúng ta đâu có miệng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"오티스",
+                "content":"Quản lý điều hành không cần miệng bởi ngài vốn đã dư sức để chỉ huy ta mà không cần nói câu nào. Nhớ cho kĩ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cha mạ ơi… Lúc nào cô cũng liếm giày người ta sạch bong vậy mà không biết mệt luôn à hả Outis?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ê!… Còn miếng nào không? Vị đỉnh vãi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"료슈",
+                "content":"Ê yo, TB. Xin miếng lửa cái.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"그레고르",
+                "content":"…Cô tưởng tôi không biết đó là cách nói tắt của từ gì à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":null,
+                "content":"Tôi nghĩ đến việc sẽ phát biểu với các Tội Nhân về nhiệm vụ không mấy thành công nhưng mang lại thành quả xứng đáng này đã thay đổi tư duy của tôi ra sao…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":null,
+                "content":"Nhưng tôi sớm gạt bỏ ý nghĩ đó đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":null,
+                "content":"Suy cho cùng thì tôi cũng đã nói với Sinclair rằng đừng để một thất bại nhất thời trói buộc cậu ấy lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":null,
+                "content":"Thay vào đó, tôi đã quyết tâm sẽ bù đắp lại kết quả không mấy lý tưởng này trong nhiệm vụ tiếp theo của chúng ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Liệu ta… có thể làm phiền ngài một tí không, Xích— Ý ta là, ngài Vergilius.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta tin rằng mình đã hành xử đủ cẩn trọng như ngài đã cảnh cáo…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy nên… nếu ta được phép, liệu ngài có thể cho ta lấy một thanh xiên que được không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"…Thôi được, cứ lấy đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":null,
+                "content":"Như niềm hân hoan vui sướng của Don Quixote tô điểm thêm bầu không khí vui tươi của xe buýt…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":null,
+                "content":"Thông điệp mà tôi không thể nói ra—nhưng một điều tôi chắc chắn đã được truyền tải theo cách này hoặc cách khác—lan toả giữa chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":null,
+                "content":"...Và rồi trời cũng đã sáng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

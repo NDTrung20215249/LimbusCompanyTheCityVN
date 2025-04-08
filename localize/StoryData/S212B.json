@@ -1,151 +1,206 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Casino 2F",
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "GAAH!!! NOT AGAIN!!!"
-    },
-    {
-      "id": 1,
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "I lost once again, damn! When will this end?"
-    },
-    {
-      "id": 2,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Oye, espera, time out! Our dear customer here needs a little care!"
-    },
-    {
-      "id": 3,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Dear Customer, I hope you haven’t forgotten our rule, have you?"
-    },
-    {
-      "id": 4,
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "B-But… That was all the money I had…"
-    },
-    {
-      "id": 5,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "If you keep dampening the mood of the table, we might throw a pañata party out of you."
-    },
-    {
-      "id": 6,
-      "model": "그레고르",
-      "content": "(Uh, what’s a pañata party?)"
-    },
-    {
-      "id": 7,
-      "model": "단테",
-      "content": "<I don’t think I want to know…>"
-    },
-    {
-      "id": 8,
-      "content": "Pressured by gentle intimidation, the weeping guest stood up from their seat."
-    },
-    {
-      "id": 9,
-      "content": "And then, being handed a pair of maracas from the staff, they…"
-    },
-    {
-      "id": 10,
-      "content": "…Started dancing, sobbing all the way…"
-    },
-    {
-      "id": 11,
-      "model": "히스클리프",
-      "content": "What’s this now…?"
-    },
-    {
-      "id": 12,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "There’s a rule every visitor to this floor must follow—una tradición mariachi, if you will."
-    },
-    {
-      "id": 13,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Gambling is entertainment, an activity done purely for fun; thus, all the sadness and pain brought to you must be sublimated into dance."
-    },
-    {
-      "id": 14,
-      "model": "돈키호테",
-      "content": "Allow this knight to demonstrate what dancing is about!"
-    },
-    {
-      "id": 15,
-      "content": "Alas, they were harsher judges than they seemed."
-    },
-    {
-      "id": 16,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "This one won’t do."
-    },
-    {
-      "id": 17,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Her movement is insincere."
-    },
-    {
-      "id": 18,
-      "model": "돈키호테",
-      "content": "What on earth do you mean?!"
-    },
-    {
-      "id": 19,
-      "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Dance is a window to the heart."
-    },
-    {
-      "id": 20,
-      "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Without a clear and pure heart, it loses all meaning."
-    },
-    {
-      "id": 21,
-      "model": "돈키호테",
-      "content": "……"
-    },
-    {
-      "id": 22,
-      "model": "돈키호테",
-      "content": "…I find thine assessment rather disgracious."
-    },
-    {
-      "id": 23,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "This is getting further out of hand… What are you doing, Saude?"
-    },
-    {
-      "id": 24,
-      "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Oh, I was writing our letter of apology in advance."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sòng Bạc (T.2)",
+                "teller":"Mấy con bạc gào khóc",
+                "title":"Sòng Bạc Quận J",
+                "content":"GAAH!!! LẠI NỮA À!!!",
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "teller":"Mấy con bạc gào khóc",
+                "title":"Sòng Bạc Quận J",
+                "content":"Tôi lại thua nữa rồi, chết tiệt! Chừng nào chuyện này mới kết thúc đây?",
+                "model":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis",
+                "content":"Này, khoan đã nào, dừng lại một chút! Vị khách quý của chúng ta đây cần được chăm sóc đặc biệt đấy!",
+                "model":"흥겨운마리아치조직원"
+            },
+            {
+                "id":3,
+                "place":null,
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis",
+                "content":"Thưa Quý khách, tôi hy vọng ngài không quên luật của chúng tôi đâu, đúng chứ?",
+                "model":"흥겨운마리아치조직원"
+            },
+            {
+                "id":4,
+                "place":null,
+                "teller":"Mấy con bạc gào khóc",
+                "title":"Sòng Bạc Quận J",
+                "content":"N-Nhưng... Đấy là tất cả tiền tôi có...",
+                "model":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis",
+                "content":"Nếu ngài tiếp tục làm vấy bẩn bầu không khí của bàn cược, chúng tôi buộc phải đánh ngài như cách đánh pañata đấy.",
+                "model":"흥겨운마리아치조직원"
+            },
+            {
+                "id":6,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"(Ờ, pañata là gì vậy?)",
+                "model":"그레고르"
+            },
+            {
+                "id":7,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"<Tôi không nghĩ là tôi muốn biết đâu...>",
+                "model":"단테"
+            },
+            {
+                "id":8,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"Áp lực từ mấy cái nhìn lịch thiệp nhưng đầy hăm dọa, dãy khách kia đồng loạt đứng lên khỏi ghế của họ.",
+                "model":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"Và kế đó, cầm trên tay là cặp lục lạc từ nhân viên đưa tới, họ...",
+                "model":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"...Bắt đầu nhảy múa, khóc nức nở...",
+                "model":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"Gì nữa đây...?",
+                "model":"히스클리프"
+            },
+            {
+                "id":12,
+                "place":null,
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis",
+                "content":"Có một điều luật mà tất cả các vị khách ở tầng này phải luôn tuân theo—ấy là truyền thống Mariachi.",
+                "model":"경쾌한마리아치조직원"
+            },
+            {
+                "id":13,
+                "place":null,
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis",
+                "content":"Đánh bạc là một trò giải trí, một hành vi để mua vui; thế nên, mọi u buồn và nỗi đau của bản thân phải được giải phóng thông qua việc chuyển hóa nó thành điệu nhảy.",
+                "model":"경쾌한마리아치조직원"
+            },
+            {
+                "id":14,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"Cho phép vị hiệp sĩ này chứng minh cho mọi người thế nào mới là khiêu vũ!",
+                "model":"돈키호테"
+            },
+            {
+                "id":15,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"Ôi trời ạ, họ là những giám khảo khắt khe hơn vẻ bề ngoài nữa.",
+                "model":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis",
+                "content":"Vị này không được rồi.",
+                "model":"흥겨운마리아치조직원"
+            },
+            {
+                "id":17,
+                "place":null,
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis",
+                "content":"Chuyển động của cô ấy thật giả dối.",
+                "model":"경쾌한마리아치조직원"
+            },
+            {
+                "id":18,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"Các người nói thế là có ý gì?!",
+                "model":"돈키호테"
+            },
+            {
+                "id":19,
+                "place":null,
+                "teller":"Mariachi Vui vẻ",
+                "title":"Los Mariachis",
+                "content":"Khiêu vũ là cánh cửa vào trái tim.",
+                "model":"흥겨운마리아치조직원"
+            },
+            {
+                "id":20,
+                "place":null,
+                "teller":"Mariachi Năng động",
+                "title":"Los Mariachis",
+                "content":"Đối với kẻ không có trái tim trong sáng và thuần khiết, khiêu vũ chỉ rõ vô nghĩa mà thôi.",
+                "model":"경쾌한마리아치조직원"
+            },
+            {
+                "id":21,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"......",
+                "model":"돈키호테"
+            },
+            {
+                "id":22,
+                "place":null,
+                "teller":null,
+                "title":null,
+                "content":"...Ta nhận thấy lời đánh giá của các ngươi thật đáng hổ thẹn.",
+                "model":"돈키호테"
+            },
+            {
+                "id":23,
+                "place":null,
+                "teller":"Effie",
+                "title":"LCCB",
+                "content":"Mọi việc dần mất kiểm soát hơn nữa rồi... Cô đang làm gì vậy, Saude?",
+                "model":"에피"
+            },
+            {
+                "id":24,
+                "place":null,
+                "teller":"Saude",
+                "title":"LCCB",
+                "content":"À, tôi chỉ đang viết thư xin lỗi tới cấp trên để phòng hờ thôi.",
+                "model":"소드"
+            }
+        ]
     }
-  ]
-}
+

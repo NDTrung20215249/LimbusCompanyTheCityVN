@@ -2,100 +2,100 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "Another veteran appeared in the dark, carrying a depressed aura."
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
+      "content": "Một cựu chiến binh khác xuất hiện từ trong bóng tối, mang trên mình một bầu không khí nặng nề."
     },
     {
       "id": 1,
-      "content": "His sparkling old badge seemed to signify a high rank once held."
+      "content": "Chiếc huy chương cũ của anh ta sáng chói dường như biểu thị rằng chỉ những người có chức vị cao sở hữu."
     },
     {
       "id": 2,
       "model": "G사부장",
       "teller": "???",
       "title": "???",
-      "content": "…Manager Gregor?"
+      "content": "...Quản lý Gregor?"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "I think I remember that face of yours. But why?"
+      "content": "Tôi nghĩ là tôi có nhớ mặt ông. Nhưng mà tại sao?"
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "…I was the head manager of your team."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "...Ta từng là quản lý trưởng trong đội của cậu."
     },
     {
       "id": 5,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Not only did you desert us, you now have the audacity to take the lives of your old comrades—my subordinates."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Không những cậu rời bỏ bọn ta, bây giờ cậu còn cả gan cướp đi mạng sống của những người đồng đội cũ - cũng là cấp dưới của ta."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "Look, the war ended a decade ago. But, I guess some folks still haven’t let go of their obsolete ranks, huh?"
+      "content": "Này, cuộc chiến đó kết thúc được một thập kỉ rồi mà. Nhưng mà, có vẻ như vài kẻ vẫn chưa chịu bỏ đi mấy thứ cấp bậc vô nghĩa đó nhỉ?"
     },
     {
       "id": 7,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Ended? Nothing has ended."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Kết thúc? Không thứ gì kết thúc hết."
     },
     {
       "id": 8,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Nothing… has ended… dammit…"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Không... thứ gì... kết thúc... chết tiệt..."
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "The war may have been over for you when you deserted G Corp…"
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Chiến tranh có thể đã chấm dứt đối với cậu khi cậu rời bỏ Tập đoàn G..."
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "But we’re fighting for our lives on the battlefield to this day."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Nhưng bọn ta vẫn chiến đấu vì tính mạng của mình trên chiến trường cho đến tận ngày hôm nay."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "As much as I didn’t want to relate to you this way…"
+      "content": "Mặc dù tôi không muốn đồng cảm với ông theo cách này..."
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "I’m not really that different here."
+      "content": "Nhưng mà tôi cũng có khác gì đâu."
     },
     {
       "id": 13,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Then you ought to understand, Gregor."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Vậy cậu cũng đã thừa hiểu, Gregor."
     },
     {
       "id": 14,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "There is only one verdict that awaits deserters."
+      "teller": "Q.lý trưởng T.đ G già nua",
+      "title": "Tàn Dư của Công ty G",
+      "content": "Chỉ có một phán quyết chờ đợi những kẻ đào ngũ."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "You say that like it means something… But it’s against company policy to carry out summary execution for personal revenge, my Head Manager."
+      "content": "Ông nói như thể việc này long trọng lắm ấy... Nhưng mà việc phán quyết xử tử ai đó vì tư thù cá nhân là vi phạm quy định của tập đoàn đấy, Quản Lý Trưởng."
     }
   ]
 }

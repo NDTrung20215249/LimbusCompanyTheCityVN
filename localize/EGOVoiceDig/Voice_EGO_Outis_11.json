@@ -1,139 +1,139 @@
 {
   "dataList": [
-    {
+   {
       "id": "battle_erosion_21102_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Just a little more…"
+      "dlg": "Chỉ một chút nữa thôi…"
     },
     {
       "id": "battle_awaken_21101_1",
       "desc": "E.G.O Activation",
-      "dlg": "The odyssey had a purpose…"
+      "dlg": "Cuộc hành trình vốn đã có mục đích của nó…"
     },
     {
       "id": "battle_awaken_21102_1",
       "desc": "E.G.O Activation",
-      "dlg": "If this is to seize victory…"
+      "dlg": "Nếu việc này là để dành lấy chiến thắng…"
     },
     {
       "id": "battle_awaken_21103_1",
       "desc": "E.G.O Activation",
-      "dlg": "Karma shall find its way back to you, and rest atop your head."
+      "dlg": "Nghiệp báo sẽ luôn tìm tới và giáng xuống đầu ngươi."
     },
     {
       "id": "battle_erosion_21103_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Fall silent… As if there were no suffering in the first place…"
+      "dlg": "Hãy thanh tịnh… Như thể đau khổ vốn không hề tồn tại…"
     },
     {
       "id": "battle_awaken_21104_1",
       "desc": "E.G.O Activation",
-      "dlg": "I don't need... any pointless attention!"
+      "dlg": "Em chỉ cần... mình anh thôi!"
     },
     {
       "id": "battle_erosion_21104_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Don't—leave me this time..."
+      "dlg": "Chỉ lần này thôi xin đừng—bỏ rơi ta..."
     },
     {
       "id": "battle_awaken_21105_1",
       "desc": "E.G.O Activation",
-      "dlg": "I'll stuff your futile wrath in this gift sack... and hurl it right back at your face."
+      "dlg": "Ta sẽ nén cơn thịnh nô vô nghĩa của ngươi vào túi quà này… và ném thẳng vào mặt ngươi."
     },
     {
       "id": "battle_erosion_21105_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Even crying, pouting kids... got the presents...!"
+      "dlg": "Ngay cả đứa những đứa trẻ mít ướt, hờn dỗi… cũng sẽ có quà…!"
     },
     {
       "id": "battle_awaken_21106_1",
       "desc": "E.G.O Activation",
-      "dlg": "How insipid... Must I deal with it myself?"
+      "dlg": "Ê đít ngoại già quá... Rồi sao cái lào gì cũng tôn?"
     },
     {
       "id": "battle_erosion_21106_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "You dare... challenge my authority?!"
+      "dlg": "Ngươi dám... thách thức quyền lực của ta?!"
     },
     {
       "id": "battle_awaken_21107_1",
       "desc": "E.G.O Activation",
-      "dlg": "Do not avert your eyes even for a moment, lest you be ensnared in an eternal wandering."
+      "dlg": "Đừng ngoảnh mặt đi dù chỉ là một khoảnh khắc,\nnếu không ngươi sẽ bị kẹt và lang thang trong vô định."
     },
     {
       "id": "battle_erosion_21107_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "It's not there... not behind any of these doors... My path remains in shadows... my path is...!"
+      "dlg": "Nó không ở đó... không ở sau bất kì cánh cửa nào trong số này...\nCon đường ta vĩnh viễn chìm trong bóng tối... con đường của ta là…!"
     },
     {
       "id": "battle_awaken_21108_1",
       "desc": "E.G.O Activation",
-      "dlg": "It really is as you say; this is a magic bullet that will never miss."
+      "dlg": "Đúng như ngươi nói; đây là viên đạn bách phá bách trúng"
     },
     {
       "id": "battle_awaken_21108_2",
       "desc": "E.G.O Activation",
-      "dlg": "My bullet inevitably flies in the same direction, its trajectory preordained.\nThere are no coincidences."
+      "dlg": "Đạn của ta luôn bay thẳng vào một hướng, một quỹ đạo đã được định sẵn. \nKhông có sự trùng hợp nào ở đây."
     },
     {
       "id": "battle_awaken_21108_3",
       "desc": "E.G.O Activation",
-      "dlg": "There's no going back when I've already come this far by firing the bullet.\nEven if this road I walk is an inevitable path to inferno."
+      "dlg": "Ta vốn đã không còn có thể quay đầu lại khi đã khai hỏa đến tận đây. \nDù cho trước mắt ta có là một con dốc thẳng xuống hỏa ngục đi nữa."
     },
     {
       "id": "battle_awaken_21108_4",
       "desc": "E.G.O Activation",
-      "dlg": "Do not seek my mercy, for only desolation awaits\nthose who stand in my path."
+      "dlg": "Đừng mong chờ sự nhân từ, bởi sự diệt vong sẽ là thứ duy nhất \nđáp lại những kẻ dám ngáng đường ta."
     },
     {
       "id": "battle_awaken_21108_5",
       "desc": "E.G.O Activation",
-      "dlg": "Remain unshaken. Grant silence to all that stands before you.\nFollow the land horizon."
+      "dlg": "Không lay động. Hãy làm tất cả những kẻ đứng trước ngươi phải câm nín. \nĐi thẳng tới chân trời kia."
     },
     {
       "id": "battle_awaken_21108_6",
       "desc": "E.G.O Activation",
-      "dlg": "The despairing heart is burnt black, never to fade away.\nOnly the shearing cold floods within."
+      "dlg": "Trái tim tuyệt vọng này cháy đen, chứ không bao giờ phai tàn. \nChỉ có cái lạnh buốt giá ngự trị trong đấy."
     },
     {
       "id": "battle_awaken_21108_7",
       "desc": "E.G.O Activation",
-      "dlg": "Though it was despair that I sought, the bullet's trajectory...\n... is predetermined!"
+      "dlg": "Dù sự tuyệt vọng là thứ ta tìm kiếm, nhưng quỹ đạo của viên đạn... \n... đã được xác định!"
     },
     {
       "id": "battle_erosion_21108_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "A bullet was fired, a magic bullet that will never miss."
+      "dlg": "Một viên đạn đã được khai hỏa, thứ ma đạn không bao giờ bỏ lỡ con mồi."
     },
     {
       "id": "battle_erosion_21108_2",
       "desc": "E.G.O Corrosion",
-      "dlg": "Welcome this fate, for this bullet's flight will always strike true."
+      "dlg": "Hãy đón nhận số phận, bởi đường bay viên đạn sẽ luôn trúng đích."
     },
     {
       "id": "battle_erosion_21108_3",
       "desc": "E.G.O Corrosion",
-      "dlg": "As long as this bullet has been in my possession,\nI have been overcome with an extreme sense of omnipotence."
+      "dlg": "Khi ta còn sở hữu thứ ma đạn này trong tay, sự toàn năng luôn tràn ngập trong cơ thể ta."
     },
     {
       "id": "battle_erosion_21108_4",
       "desc": "E.G.O Corrosion",
-      "dlg": "No justice, no malice. Only a finger that pulls the trigger."
+      "dlg": "Không có công lý, cũng không có cái ác. Chỉ ngón tay bóp cò là thứ độc tôn."
     },
     {
       "id": "battle_erosion_21108_5",
       "desc": "E.G.O Corrosion",
-      "dlg": "Remain immutable. Follow the sea horizon;\nweave the bullet through them all."
+      "dlg": "Giữ tâm bất biến. Đi theo đường chân trời trên mặt biển; \nvà bắn viên đạn xuyên qua bọn chúng."
     },
     {
       "id": "battle_erosion_21108_6",
       "desc": "E.G.O Corrosion",
-      "dlg": "I'll be left alone in this inferno at the end of the road."
+      "dlg": "Sẽ không còn ai bên cạnh khi ta đến được hỏa ngục ở cuối con đường."
     },
     {
       "id": "battle_erosion_21108_7",
       "desc": "E.G.O Corrosion",
-      "dlg": "Though I may lack the will to move forward...\n... the bullet's forward-momentum cannot be stopped."
+      "dlg": " Dù ý chí của ta không đủ để bước tiếp...\n... quỹ đạo của viên đạn sẽ không bao giờ bị cản phá."
     }
   ]
 }

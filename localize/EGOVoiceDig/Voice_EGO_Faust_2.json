@@ -3,32 +3,32 @@
     {
       "id": "battle_awaken_20201_1",
       "desc": "E.G.O Activation",
-      "dlg": "Faust knows all outcomes."
+      "dlg": "Faust biết mọi kết quả."
     },
     {
       "id": "battle_awaken_20202_1",
       "desc": "E.G.O Activation",
-      "dlg": "This battle will conclude with victory."
+      "dlg": "Trận chiến này sẽ kết thúc với thắng lợi."
     },
     {
       "id": "battle_awaken_20203_1",
       "desc": "E.G.O Activation",
-      "dlg": "Pierce… to the profundities of the heart…"
+      "dlg": "Xuyên thủng… ghim vào nơi sâu thẳm của trái tim…"
     },
     {
       "id": "battle_erosion_20202_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Even if I must disgorge everything…"
+      "dlg": "Kể cả khi ta phải nôn ra mọi thứ…"
     },
     {
       "id": "battle_erosion_20203_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Come here… I’ll hug you tight…"
+      "dlg": "Lại đây… Ta sẽ ôm ngươi thật chặt…"
     },
     {
       "id": "battle_awaken_20204_1",
       "desc": "E.G.O Activation",
-      "dlg": "Lightning: Fully charged."
+      "dlg": "Sấm Sét: Đã Sạc Đầy."
     },
     {
       "id": "battle_erosion_20204_1",
@@ -38,42 +38,32 @@
     {
       "id": "battle_awaken_20205_1",
       "desc": "E.G.O Activation",
-      "dlg": "It is now written. All that remains... is to set you free."
+      "dlg": "Mọi thứ đã được ghi chép. Tất cả những gì cần làm còn lại... là giải thoát cho ngươi."
     },
     {
       "id": "battle_erosion_20205_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Truth, the truth is right before me... Heheh, Eheheheh, heheh!!!"
+      "dlg": "Sự thật, sự thật đang bày ra ngay trước mắt ta... Heheh, Eheheheh, heheh!!!"
     },
     {
       "id": "battle_awaken_20206_1",
       "desc": "E.G.O Activation",
-      "dlg": "How does it appear, my form in your eyes?\nPerhaps within the clockwork of time the answer lies?"
+      "dlg": "Nhìn chị mà thèm lên cơn\nVú to nhà chị, lại vờn xuýt xoa."
     },
     {
       "id": "battle_erosion_20206_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Thus. You cease to move. Trapped in the stopped time. For eternity."
+      "dlg": "Vì thế. Ngươi đứng yên. Kẹt trong khoảng thời gian ngưng đọng này. Đến tận vĩnh hằng."
     },
     {
       "id": "battle_awaken_20207_1",
       "desc": "E.G.O Activation",
-      "dlg": "Follow the predetermined path of the tale.\nBe ensnared, for that is only right."
+      "dlg": "Hãy bước theo con đường mà câu chuyện vạch sẵn cho ngươi. \nRồi sập bẫy như đã được định phận."
     },
     {
       "id": "battle_erosion_20207_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Get lost...! The apple, the apple...! Where did you hide it?!"
-    },
-    {
-      "id": "battle_awaken_20208_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Do you recall the moment when you could breathe free for the first time?\nFor me... that moment is now."
-    },
-    {
-      "id": "battle_erosion_20208_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Take a deep breath... For it will be your last."
+      "dlg": "Biến đi...! Quả táo, quả táo...! Ngươi giấu nó ở đâu?!"
     }
   ]
 }

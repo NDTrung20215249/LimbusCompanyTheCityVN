@@ -1,363 +1,558 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Lobotomy Corp. Drilling Ship Entrance",
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Good, good! You nicked my sunglasses!"
-        },
-        {
-            "id": 1,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Too bad~ You'll have to try again!"
-        },
-        {
-            "id": 2,
-            "model": "다친이스마엘",
-            "content": "... Damn it...!"
-        },
-        {
-            "id": 3,
-            "model": "다친이스마엘",
-            "content": "I... didn't face... all those Waves just to...!"
-        },
-        {
-            "id": 4,
-            "model": "다친이스마엘",
-            "content": "As long as I can keep trying, I can...!"
-        },
-        {
-            "id": 5,
-            "content": "The mist thickens."
-        },
-        {
-            "id": 6,
-            "content": "It expands, devouring everything—our futures, our hopes, and any slim chance of victory we had."
-        },
-        {
-            "id": 7,
-            "content": "And so does the fog of my sight, of my mind."
-        },
-        {
-            "id": 8,
-            "content": "Will this continue until... either Ishmael gives up..."
-        },
-        {
-            "id": 9,
-            "content": "Or until he gets tired of this little game?"
-        },
-        {
-            "id": 10,
-            "content": "Until he simply walks over and crushes my clock?"
-        },
-        {
-            "id": 11,
-            "content": "Could Vergilius piece my shattered clock back?"
-        },
-        {
-            "id": 12,
-            "content": "Is that even possible?"
-        },
-        {
-            "id": 13,
-            "content": "If... I did as Faust told me to and blew up my head..."
-        },
-        {
-            "id": 14,
-            "content": "Not even a shred of me would be..."
-        },
-        {
-            "id": 15,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "... Your repertoire's starting to get old."
-        },
-        {
-            "id": 16,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "How about we just zoom right past that and to the main event? I call this clock bashing~!"
-        },
-        {
-            "id": 17,
-            "model": "단테2",
-            "content": "<…!>"
-        },
-        {
-            "id": 18,
-            "model": "이스마엘",
-            "content": "No...! Dante! Run! Get out of here!"
-        },
-        {
-            "id": 19,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "That clock fella's gotta be someone so very precious to you, hmm? Just look at her, hanging onto my leg... after all that beating."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "Not the manager... No...! Not Dante...! Not Dante...!"
-        },
-        {
-            "id": 21,
-            "content": "Should I... press the button?"
-        },
-        {
-            "id": 22,
-            "content": "Is that really going to be my last ever thought?"
-        },
-        {
-            "id": 23,
-            "content": "There was a distant sound. Like an answer to my question."
-        },
-        {
-            "id": 24,
-            "content": "That solemn sound tolled clearly through the blinding fog."
-        },
-        {
-            "id": 25,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "……."
-        },
-        {
-            "id": 26,
-            "content": "It was a skiff. One much smaller, much more modest than ours."
-        },
-        {
-            "id": 27,
-            "content": "From beyond the misty veil, the skiff slowly glided across the water in our direction. On it was a solitary figure holding an oar. A giant harpoon was attached to the bow of the ship."
-        },
-        {
-            "id": 28,
-            "model": "작은형님발광",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "But why...?"
-        },
-        {
-            "id": 29,
-            "content": "The Big Brother of the Middle..."
-        },
-        {
-            "id": 30,
-            "content": "Who could probably break that puny skiff in half with his bare hands..."
-        },
-        {
-            "id": 31,
-            "content": "... stares at it in stunned silence."
-        },
-        {
-            "id": 32,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 33,
-            "content": "It became clear that the skiff didn't float here by accident..."
-        },
-        {
-            "id": 34,
-            "content": "... when the figure on the boat began gently rowing in our direction."
-        },
-        {
-            "id": 35,
-            "content": "Through the mist, we saw something flash atop the skiff."
-        },
-        {
-            "id": 36,
-            "content": "The figure hurled something in our general direction. It flew so fast that no human eye could catch it."
-        },
-        {
-            "id": 37,
-            "content": "I didn't even have the time to register that something was thrown... before I noticed that something was piercing the Big Brother's left shoulder."
-        },
-        {
-            "id": 38,
-            "content": "Then, a powerful shockwave, far mightier than anything the pirates had fired earlier struck us. The air itself quaked."
-        },
-        {
-            "id": 39,
-            "content": "It was not a distance that most people would even think about jumping across, but..."
-        },
-        {
-            "id": 40,
-            "content": "... the figure leaped over from the skiff to the Lobotomy Corp. Branch gracefully and with agility."
-        },
-        {
-            "id": 41,
-            "content": "The man from the Middle, who so far had appeared unassailable... stumbled, and fell to his knees. His shoulder was skewered."
-        },
-        {
-            "id": 42,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Haah... You...!"
-        },
-        {
-            "id": 43,
-            "content": "That's when I finally noticed that what the figure had thrown... was a harpoon."
-        },
-        {
-            "id": 44,
-            "content": "A harpoon too immense to be thrown by a mere person, let alone at such a blinding speed."
-        },
-        {
-            "id": 45,
-            "content": "The hooded figure's arm was wreathed in a familiar light."
-        },
-        {
-            "id": 46,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "You old geezer..."
-        },
-        {
-            "id": 47,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Thought you were out there, fishing... What, you think you're some hot shit now that they made you a Color? Just because you hunted the Marlin Whale? Are you challenging the Middle to a hunt like we're some Whale? That it?"
-        },
-        {
-            "id": 48,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "You're not the kind of idiot that would attack me without knowing the consequences."
-        },
-        {
-            "id": 49,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "The Middle is no different from a Whale, hm. But that's not why I am here."
-        },
-        {
-            "id": 50,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "I'm just after a fish that got away."
-        },
-        {
-            "id": 51,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Ha... ha ha... 'Course you are... I'm sure there's no need for me to remind you that the Middle never forgets."
-        },
-        {
-            "id": 52,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "Feel free to write me down in the remaining margins of that nasty little book, if you wish."
-        },
-        {
-            "id": 53,
-            "content": "The old man tugs the harpoon lodged in the Big Brother's shoulder."
-        },
-        {
-            "id": 54,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "Hngh..."
-        },
-        {
-            "id": 55,
-            "content": "The 'Big Brother' tried to hold his ground against the harpoon's pull... Until there was a crunch."
-        },
-        {
-            "id": 56,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "Those that do not bend... break."
-        },
-        {
-            "id": 57,
-            "content": "The harpoon tore off his entire shoulder with it."
-        },
-        {
-            "id": 58,
-            "content": "... It was a force that would have turned most people into tattered meat."
-        },
-        {
-            "id": 59,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "Not bad."
-        },
-        {
-            "id": 60,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "Would you like to give it another try?"
-        },
-        {
-            "id": 61,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "... Fine, fine! I'll leave for now. But... don't you forget."
-        },
-        {
-            "id": 62,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "The Middle remembers. It doesn't matter what I did here; the Middle will remember everyone and everything that dared to turn their back on it."
-        },
-        {
-            "id": 63,
-            "model": "작은형님다침",
-            "teller": "Ricardo",
-            "title": "The Middle's Big Brother",
-            "content": "And the Middle always pays its debts. In whichever form…"
-        },
-        {
-            "id": 64,
-            "model": "다친이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 65,
-            "content": "Ishmael and I had no choice but to watch in silent awe as the old man approached us."
-        },
-        {
-            "id": 66,
-            "content": "The harpoon was still in his hand, and if he wished to strike us with it... we could never hope to get out of its way."
-        },
-        {
-            "id": 67,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "I'm looking for the fish that consumed this structure."
-        },
-        {
-            "id": 68,
-            "model": "쪽빛노인후드",
-            "teller": "???",
-            "title": "???",
-            "content": "Are you two also here to fish?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lối Vào Tàu Khoan Của T.Đoàn Lobotomy",
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Tốt, tốt! Ngươi làm nứt kính râm của ta rồi!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Quá tệ~ Ngươi phải thử lại lần nữa!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"다친이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Mẹ nó...!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"다친이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Tôi... không... vượt qua ngần ấy Con Sóng... để rồi phải...!"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"다친이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Chừng nào còn cố gắng được, chừng đó tôi sẽ...!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sương mù dày đặc hơn."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nó lan rộng, nuốt chửng tất cả mọi thứ—tương lai của chúng tôi, hy vọng của chúng tôi, và bất kỳ cơ hội mong manh nào về thắng lợi của chúng tôi."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Và cả tầm nhìn của tôi, tâm trí của tôi."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Liệu chuyện này sẽ tiếp diễn cho đến khi... hoặc là Ishmael bỏ cuộc..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Hoặc là hắn ta chán ngấy cái trò chơi này?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Đến khi hắn bước quay đây và phá nát đồng hồ của tôi?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Liệu Vergilius có thể ghép chiếc đồng hồ đã vỡ của tôi lại không?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Điều đó thậm chí có khả thi không?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nếu... tôi làm như Faust dặn tôi và cho nổ tung đầu của mình..."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Không một vết tích nào của tôi sẽ..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"...Tiết mục của các ngươi bất đầu chán ngắt rồi."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Sao chúng ta không bỏ qua nó và đi thẳng vào sự kiện chính đi nhỉ? Ta gọi đây là đập vỡ đồng hồ~!"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테2",
+                "teller":null,
+                "title":null,
+                "content":"<...!>"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Không...! Dante! Chạy đi! Rời khỏi đó ngay!"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Cái tên đồng hồ đó phải là người rất quan trọng với ngươi, nhỉ? Nhìn cô ta đi, bám víu lấy chân ta... sau khi ăn những trận đòn đó."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Không được động vào quản lý... Đừng...! Đừng giết...! Đừng giết Dante...!"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi có nên... bấm nút không?"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Liệu đây thật sự sẽ là suy nghĩ cuối cùng của tôi sao?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Có một âm thanh vang vọng từ đằng xa. Như một câu trả lời cho câu hỏi của tôi."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Âm thanh nghiêm trang đó vang vọng xuyên qua màn sương mù dày đặc."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"……."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Là một chiếc thuyền. Nó nhỏ hơn, và tối giản hơn rất nhiều so với cái của chúng tôi."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Từ phía bên kia của làn sương mù, chiếc thuyền chầm chậm trôi đến hướng của chúng tôi. Trên đó là một hình bóng đơn độc đang cầm mái chèo. Một chiếc lao móc khổng lồ được gắn vào đầu tàu."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"작은형님발광",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Nhưng tại sao...?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên Anh Lớn của Băng Middle..."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Người có thể phá chiếc thuyền nhỏ bé đó làm đôi bằng tay không..."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... lại nhìn chăm chằm vào đó trong sự kinh ngạc."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"……."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Có thể thấy rõ rằng chiếc thuyền đó không trôi đến đây một cách tình cờ..."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... khi hình bóng trên thuyền bắt đầu chèo thuyền một cách chậm rãi về hướng của chúng tôi."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Qua màn sương, chúng tôi nhìn thấy thứ gì đó phát sáng trên chiếc thuyền."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bóng người đó phóng thứ gì đó về hướng của chúng tôi. Nó bay tới quá nhanh đến nỗi không mắt người thường không thể nhìn thấy kịp."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tôi thậm chí không có thời gian để nhận biết được thứ gì đó được phóng ra... trước khi tôi để ý thấy có gì đó đã đâm xuyên bả vai trái của tên Anh Lớn."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Rồi, một xung chấn mãnh liệt, mạnh hơn bất kỳ thứ gì mà đám cướp biển bắn đến chúng tôi. Bầu không khí xung quanh lay chuyển dữ dội."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Khoảng cách mà hầu hết tất cả mọi người không nghĩ là sẽ có thể nhảy qua, nhưng..."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... bóng người đó nhảy từ con thuyền đến Chi Nhánh Tập Đoàn Lobotomy một cách nhanh nhẹn."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cái gã Băng Middle, người gần như không thể bị tấn công... sẩy chân, và khuỵu gối xuống. Vai của hắn ta đã bị xiên."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Haaa... Lão...!"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Đó là lúc tôi cuối cùng cũng nhận ra thứ mà bóng người đó đã phóng... chính là một cây lao móc."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Một cây lao quá cỡ để một người thường có thể phóng đi, chứ đừng nói đến là phóng đi với một tốc độ chóng mặt như vậy."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cánh tay của bóng người trùm đầu ấy bao phủ trong thứ ánh sáng quen thuộc."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Lão già gàn dở..."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Cứ tưởng lão ở ngoài đó đánh cá rồi... Sao, giờ lão muốn làm gì thì làm khi chúng tôn lão lên làm một Color à? Chỉ bởi vì lão săn được con Cá Voi Marlin ư? Giờ thì lão đang xem nguyên cái băng này là Cá Voi chứ gì? Lại bảo sai?"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Lão có phải đồ ngu đâu mà chưa cân nhắc thiệt hơn đã gây gổ với ta."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Băng Middle và một con Cá Voi chả khác gì nhau cả. Nhưng đấy không phải lý do lão ở đây."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Lão chỉ đến để bắt con cá đã thoát lồng."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Ha...ha ha... Tất nhiên là vậy rồi... Ta chắc không cần phải nhắc lại cho lão biết rằng Băng Middle sẽ không bao giờ quên."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Cứ việc viết tên lão vào cuốn sách rách nát đó đi."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ông lão giật cây lao đang cắm vào bên vai của tên Anh Lớn."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Hự..."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên 'Anh Lớn' cố gắng chống cự lại cú kéo của cây lao... Cho đến khi có một tiếng bẻ."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Ngươi còn chống cự là nó sẽ gãy đấy."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cây lao xé toạc cả phần vai của hắn cùng với nó."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"...Đó là một sức mạnh có thể biến hầu hết tất cả mọi người thành thịt vụn."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Không tệ."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Ngươi muốn một nhát nữa không?"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"...Rồi, rồi! Ta sẽ rời đi bây giờ. Nhưng... lão đừng có quên."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Băng Đảng Middle sẽ ghi nhớ. Không quan trọng việc ta làm ở đây là gì; Băng Middle sẽ nhớ tất cả mọi người và tất cả mọi thứ dám quay lưng lại với nó."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"작은형님다침",
+                "teller":"Ricardo",
+                "title":"Anh Lớn B.Đảng Middle",
+                "content":"Và Băng Đảng Middle sẽ luôn luôn trả món nợ đó. Bằng bất kỳ hình thức nào có thể..."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"다친이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ishmael và tôi không có sự lựa chọn nào ngoài việc quan sát trong im lặng khi ông lão tiếp cận chúng tôi."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cây lao vẫn còn trên tay ông ấy, và nếu như ông ấy muốn tấn công chúng tôi bằng thứ đó... chúng tôi không bao giờ có thể hy vọng sẽ tránh được nó."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Lão đang tìm con cá đã nuốt chửng nơi này."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"쪽빛노인후드",
+                "teller":"???",
+                "title":"???",
+                "content":"Các cô cậu cũng bắt cá sao?"
+            }
+        ]
+    }
+

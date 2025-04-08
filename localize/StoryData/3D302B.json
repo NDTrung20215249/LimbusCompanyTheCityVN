@@ -1,169 +1,246 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "model": "싱클레어",
-      "content": "As a household rule, my family used to have breakfast at the same table every morning."
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "It was a pleasant time when our whole family would share stories and encouraging words."
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "I liked those mornings, that rule was ever so kind and gentle to my heart."
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "A natural and unchanging world that belonged to me. My world."
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "That world began to feel alienating one day…"
-    },
-    {
-      "id": 5,
-      "model": "싱클레어",
-      "content": "The day when my sister sat at that table after her prosthetic transformation was complete."
-    },
-    {
-      "id": 6,
-      "model": "싱클레어",
-      "content": "My world had begun to change when my father’s head was replaced with an unfamiliar contraption of steel, circuits, and wires."
-    },
-    {
-      "id": 7,
-      "model": "싱클레어",
-      "content": "Our family breakfast no longer provided warmth and connection. It became an occasion of detachment where I talked less and less."
-    },
-    {
-      "id": 8,
-      "model": "싱클레어",
-      "content": "Ah… I had started to feel an inherent abhorrence for prostheses."
-    },
-    {
-      "id": 9,
-      "model": "싱클레어",
-      "content": "“That’s filthy…”"
-    },
-    {
-      "id": 10,
-      "model": "싱클레어",
-      "content": "My heart couldn’t accept the idea of replacing one’s flesh and bones with something else, let alone the need for it."
-    },
-    {
-      "id": 11,
-      "model": "싱클레어",
-      "content": "Why do we use prosthetic bodies?"
-    },
-    {
-      "id": 12,
-      "model": "싱클레어",
-      "content": "I carefully asked for an explanation, and the reply was simple."
-    },
-    {
-      "id": 13,
-      "model": "싱클레어",
-      "content": "The human body, in its unmodified state, is too “old-fashioned”."
-    },
-    {
-      "id": 14,
-      "model": "싱클레어",
-      "content": "It needs to be sustained with food, revitalized with sleep lest it should fail from fatigue, and injuries take a long time to heal."
-    },
-    {
-      "id": 15,
-      "model": "싱클레어",
-      "content": "All this makes the human body incredibly inefficient."
-    },
-    {
-      "id": 16,
-      "model": "싱클레어",
-      "content": "He concluded that prostheses will grow more commonplace as time goes on, and ultimately become a regular part of our daily lives."
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "I thought to myself:"
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "“Why don’t I just fall behind the times then if that’s what the mainstream will be?”"
-    },
-    {
-      "id": 19,
-      "model": "싱클레어",
-      "content": "…Though that wasn’t an argument rooted in logic."
-    },
-    {
-      "id": 20,
-      "place": "Classroom",
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Yo, Sinclair… You don’t actually wanna take the replacement procedure, do you?"
-    },
-    {
-      "id": 21,
-      "model": "싱클레어",
-      "content": "I nodded without a word."
-    },
-    {
-      "id": 22,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "But your parents sure wouldn’t like it if you confessed that."
-    },
-    {
-      "id": 23,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "Isn’t it frustrating that there’s nothing you can do about it?"
-    },
-    {
-      "id": 24,
-      "model": "싱클레어",
-      "content": "I nod again."
-    },
-    {
-      "id": 25,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "What if I helped you out? You could live a free life with no worries about any of that junk."
-    },
-    {
-      "id": 26,
-      "model": "싱클레어",
-      "content": "B-But, how?"
-    },
-    {
-      "id": 27,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "That, you’ll find out next time."
-    },
-    {
-      "id": 28,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "In exchange…"
-    },
-    {
-      "id": 29,
-      "model": "학생크로머",
-      "teller": "Kromer",
-      "title": "Student",
-      "content": "In return for helping you with your problem, you’ll help me deal with a grudge of my own too."
+        "dataList":[
+            {
+                "id":0,
+                "model":"싱클레어",
+                "content":"Như một quy tắc trong gia đình, cả nhà tôi thường ăn sáng cùng nhau mỗi ngày.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"싱클레어",
+                "content":"Đó là một quãng thời gian hạnh phúc khi gia đình tôi ngồi lại quanh một cái bàn, sẽ chia những câu chuyện của bản thân và dành cho nhau những lời động viên hay những câu nói đùa.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"싱클레어",
+                "content":"Tôi yêu những buổi sáng ấy, và quy tắc ấy như một liều thuốc xoa dịu trái tim tôi vậy.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "model":"싱클레어",
+                "content":"Một thế giới thật hiển nhiên với tôi, không bao giờ thay đổi được. Thế giới của tôi.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "model":"싱클레어",
+                "content":"Thế giới ấy bắt đầu trở nên xa lạ vào một ngày…",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "model":"싱클레어",
+                "content":"Cái ngày mà chị tôi ngồi vào bàn ăn sau khi đã phẩu thuật cấy ghép bộ phận nhân tạo.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "model":"싱클레어",
+                "content":"Thế giới của tôi dần thay đổi khi đầu của cha tôi bị thay thế bằng một tổ hộp sắt, cầu chì, và dây dẫn lạ lẫm.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "model":"싱클레어",
+                "content":"Những bữa sáng bên gia đình đã không còn là một thế giới ấm áp và tươi sáng nữa. Nó chỉ là một sự kiện khó chịu khi tôi ngày một ít nói lại.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "model":"싱클레어",
+                "content":"A… Tôi đã bắt đầu cảm thấy ghê tởm những bộ phận nhân tạo.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "model":"싱클레어",
+                "content":"\"Thật dơ bẩn…\"",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "model":"싱클레어",
+                "content":"Thâm tâm tôi không tài nào chịu nổi cái chấp niệm rằng cơ thể mình nên được thay thế bởi một thứ gì đó khác mà không phải xác thịt và xương cốt.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "model":"싱클레어",
+                "content":"Tại sao ta lại dùng cơ thể nhân tạo?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "model":"싱클레어",
+                "content":"Tôi thận trọng hỏi lý do, và câu trả lời tôi nhận được rất ngắn gọn và súc tích.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "model":"싱클레어",
+                "content":"Cơ thể con người, trong trạng thái chưa được tái tạo, là quá \"lỗi thời\".",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "model":"싱클레어",
+                "content":"Không ăn thì sẽ đói, không ngủ thì sẽ mệt, bị thương thì mất nhiều thời gian hồi phục.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "model":"싱클레어",
+                "content":"Tất cả những điều này khiến cơ thể con người vô cùng kém hiệu quả.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "model":"싱클레어",
+                "content":"Ông ấy kết luận rằng cơ thể nhân tạo sẽ ngày càng phát triển theo thời gian, cuối cùng trở thành một phần không thể thiếu trong đời sống thường ngày của chúng ta.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "model":"싱클레어",
+                "content":"Tôi thầm nghĩ:",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "model":"싱클레어",
+                "content":"\"Nếu vậy, thà chặt hết các chi đi còn hơn ấy.\"",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "model":"싱클레어",
+                "content":"…Dù đó không phải là một lập luận mang tính logic lắm.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "model":"학생크로머",
+                "content":"Này, Sinclair… cậu thực sự không muốn làm phẫu thuật cấy ghép đấy đúng chứ?",
+                "place":"Lớp Học",
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            },
+            {
+                "id":21,
+                "model":"싱클레어",
+                "content":"Tôi gật đầu mà không nói lời nào.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "model":"학생크로머",
+                "content":"Nhưng cha mẹ cậu chắc chắn sẽ không vui nếu cậu nói ra điều đấy.",
+                "place":null,
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            },
+            {
+                "id":23,
+                "model":"학생크로머",
+                "content":"Cậu không cảm thấy bức bối khi bản thân không thể làm bất cứ điều gì sao?",
+                "place":null,
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            },
+            {
+                "id":24,
+                "model":"싱클레어",
+                "content":"Tôi gật đầu lần nữa.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "model":"학생크로머",
+                "content":"Nếu tớ giúp cậu một tay thì sao? Cậu có thể sống một cuộc đời vô lo, không cần phải lo lắng về những chuyện cỏn con ấy nữa.",
+                "place":null,
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            },
+            {
+                "id":26,
+                "model":"싱클레어",
+                "content":"Nh-Nhưng, làm thế nào?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "model":"학생크로머",
+                "content":"Về chuyện đó, cậu sẽ biết sớm thôi.",
+                "place":null,
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            },
+            {
+                "id":28,
+                "model":"학생크로머",
+                "content":"Đổi lại…",
+                "place":null,
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            },
+            {
+                "id":29,
+                "model":"학생크로머",
+                "content":"Tớ giúp cậu giải quyết vấn đề, cậu sẽ giải quyết một vài chuyện cá nhân của tớ.",
+                "place":null,
+                "teller":"Kromer",
+                "title":"Học Sinh"
+            }
+        ]
     }
-  ]
-}
+

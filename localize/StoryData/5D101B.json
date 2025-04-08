@@ -1,252 +1,406 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "???",
-            "content": "The immediate sensation upon waking up was that it was moist and cold, yet oddly warm in some places."
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<Where... are we?>"
-        },
-        {
-            "id": 2,
-            "model": "홍루",
-            "content": "Mm... There's this long river-like thing. If we follow it, maybe..."
-        },
-        {
-            "id": 3,
-            "model": "홍루",
-            "content": "... there'll be something at the end of it?"
-        },
-        {
-            "id": 4,
-            "model": "싱클레어",
-            "content": "Hong Lu... How can you always be so calm about everything?"
-        },
-        {
-            "id": 5,
-            "model": "그레고르",
-            "content": "Is he...? I think that's just how that fella is with pretty much everything."
-        },
-        {
-            "id": 6,
-            "model": "싱클레어",
-            "content": "No... That's not what I'm..."
-        },
-        {
-            "id": 7,
-            "model": "싱클레어",
-            "content": "I mean, where do you guys think this is...?"
-        },
-        {
-            "id": 8,
-            "model": "싱클레어",
-            "content": "We just..."
-        },
-        {
-            "id": 9,
-            "model": "오티스",
-            "content": "I am well aware."
-        },
-        {
-            "id": 10,
-            "model": "오티스",
-            "content": "We rowed into the maws of the beast. Of our own volition."
-        },
-        {
-            "id": 12,
-            "content": "Not long ago..."
-        },
-        {
-            "id": 13,
-            "place": "Cabins of Mephistopheles",
-            "model": "이스마엘",
-            "content": "I'm proposing that we... enter the stomach of the Whale that devoured the Golden Bough."
-        },
-        {
-            "id": 14,
-            "model": "히스클리프",
-            "content": "... You're mad. All that thrashing's finally sent you off the deep end."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "I'm just going there for my mission. And the Golden Bough just happens to be in the way."
-        },
-        {
-            "id": 16,
-            "model": "이스마엘",
-            "content": "I'll leave it up to you. Well, to the manager, since their decision matters the most."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "This Company, me... We're both just trying to find a way to reach our goals. That's all this is."
-        },
-        {
-            "id": 18,
-            "model": "쪽빛노인",
-            "teller": "The Indigo Elder",
-            "title": "???",
-            "content": "……."
-        },
-        {
-            "id": 19,
-            "model": "이스마엘",
-            "content": "Besides, does anyone have a better idea?"
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "If that thing swallowed the Golden Bough... and if that Golden Bough really counteracts that damned Pallid Whale's Pallidification effects, then..."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘",
-            "content": "... We just might be able to survive without getting affected by it."
-        },
-        {
-            "id": 22,
-            "model": "로쟈",
-            "content": "That's a gamble, Ishy. There's just..."
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "Yeah. You should know. It's one of your favorite things."
-        },
-        {
-            "id": 24,
-            "model": "이스마엘",
-            "content": "What do you think, manager?"
-        },
-        {
-            "id": 25,
-            "content": "Ishmael looked at me with expectant eyes as though she knew I had no choice but to agree to this plan."
-        },
-        {
-            "id": 26,
-            "content": "Her eyes were telling me: 'You came this far for the Golden Bough. You're not going to go back empty-handed now, are you?'"
-        },
-        {
-            "id": 27,
-            "model": "베르길리우스",
-            "content": "……."
-        },
-        {
-            "id": 28,
-            "model": "베르길리우스",
-            "content": "Six hours."
-        },
-        {
-            "id": 29,
-            "model": "베르길리우스",
-            "content": "If I don't hear anything from you in six hours, LCA will be taking over the rest of this mission."
-        },
-        {
-            "id": 30,
-            "model": "그레고르",
-            "content": "Okay, LCA takes over the mission, then... what?"
-        },
-        {
-            "id": 31,
-            "model": "베르길리우스",
-            "content": "Well. If they hear the very unfortunate news that all of you decided to row into the Whale's belly and got yourselves trapped..."
-        },
-        {
-            "id": 32,
-            "model": "베르길리우스",
-            "content": "They'll be having a long internal discussion about how they could blow that Pallid Whale apart."
-        },
-        {
-            "id": 33,
-            "model": "베르길리우스",
-            "content": "Then a very lengthy battle will ensue."
-        },
-        {
-            "id": 34,
-            "model": "단테",
-            "content": "<Okay, so let me get this straight... If we fail to find the Golden Bough stuck somewhere inside the Whale's stomach in six hours, you won't hesitate blowing us to smithereens along with the Whale? Did I get that right?>"
-        },
-        {
-            "id": 35,
-            "model": "파우스트",
-            "content": "I will not relay that comment."
-        },
-        {
-            "id": 36,
-            "model": "베르길리우스",
-            "content": "……."
-        },
-        {
-            "id": 37,
-            "model": "단테",
-            "content": "<Faust, what do you think of our odds?>"
-        },
-        {
-            "id": 38,
-            "model": "파우스트",
-            "content": "Our odds are non-zero. But it may as well be nil."
-        },
-        {
-            "id": 39,
-            "model": "파우스트",
-            "content": "At least with the currently known variables."
-        },
-        {
-            "id": 40,
-            "model": "이스마엘",
-            "content": "So we *have* a chance."
-        },
-        {
-            "id": 41,
-            "model": "단테",
-            "content": "<... Do you have any other ideas that might get us the Golden Bough?>"
-        },
-        {
-            "id": 42,
-            "model": "파우스트",
-            "content": "No, not at this moment."
-        },
-        {
-            "id": 43,
-            "model": "파우스트",
-            "content": "What I can tell you, however, is that we have a history of dramatically completing missions with a veritably low chance of success."
-        },
-        {
-            "id": 44,
-            "model": "단테",
-            "content": "<Okay, then. Let's get this done.>"
-        },
-        {
-            "id": 45,
-            "place": "Inside the Pallid Whale",
-            "model": "파우스트",
-            "content": "... Indeed. The lack of plan becomes the plan itself."
-        },
-        {
-            "id": 46,
-            "model": "파우스트",
-            "content": "This solidifies the veracity of my new theory even further."
-        },
-        {
-            "id": 47,
-            "content": "Luckily, we didn't lose any Sinners on the way down. All 12 of them made it down here, just as we planned."
-        },
-        {
-            "id": 48,
-            "content": "But..."
-        },
-        {
-            "id": 49,
-            "model": "단테",
-            "content": "<Guys, where's—where's the boat?>"
-        },
-        {
-            "id": 50,
-            "content": "The boat was nowhere to be seen."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"???",
+                "content":"Cảm giác đầu tiên cảm nhận được ngay khi tỉnh giấc chính là sự ẩm ướt và giá lạnh, nhưng lại ấm ở vài chỗ một cách kỳ lạ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"<Chúng ta...đang ở đâu?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Ư... Ơ, ở đây có dòng nước chảy dài như sông này. Nếu chúng ta đi ngược dòng lên...",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"...biết đâu lại tìm thấy gì đó ở đoạn cuối nhỉ?",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Anh Hong Lu à... Làm sao mà lúc nào anh cũng giữ bình tĩnh được vậy?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Vậy hả...? Tôi tưởng cái tên đó lúc nào cũng tỉnh bơ như thế chứ.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Không phải... Đó không phải ý tôi đang nói.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Mọi người... nghĩ chúng ta đang ở đâu?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Chúng ta vừa mới...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Ta biết rõ.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Là ta đã chèo vào miệng quái thú. Như ý ta.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Không lâu trước đó...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":"Cabin của Mephistopheles",
+                "content":"Ý tôi đang muốn đề đạt là... chúng ta sẽ chui vào bụng con Cá Voi đã nuốt Cành Vàng đó.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"... Mày điên thật rồi. Ăn đập riết mày tẩu hoả nhập ma rồi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Tôi chỉ tới đó làm nhiệm vụ của mình thôi. Và tình cờ thay chiếc Cành Vàng cũng ở đó.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Theo hay không tùy mấy người. Đúng hơn là, tùy vào quản lý, vì ngài ấy là người duy nhất có quyền quyết định ở đây mà.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Cái Công ty này, bản thân tôi,... Chúng ta chỉ đang tìm đường phục vụ cho lợi ích của riêng mình. Có thế thôi.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"…….",
+                "model":"쪽빛노인",
+                "teller":"Lão Chàm",
+                "title":"???"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Không thì ai có ý tưởng nào hay hơn à?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Nếu thứ đó đã nuốt Cành Vàng rồi... và nếu Cành Vàng thực sự đảo ngược được hiệu ứng Bạch Hóa chết tiệt đó thì...",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"... Chúng ta cũng có khả năng sống sót mà không bị ảnh hưởng.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Đó là chơi cá cược đấy Ishy. Không thể nào mà...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Phải. Biết thế là tốt. Trò tủ của cô đấy còn gì.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Ngài nghĩ sao, thưa quản lý?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Ishmael nhìn tôi với ánh mắt mong đợi như thể cô ấy biết rằng tôi không có lựa chọn nào khác ngoài việc đồng tình với kế hoạch này.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Đôi mắt của cô ấy như đang nói với tôi rằng: 'Ngài đã tiến xa đến mức này vì Cành Vàng rồi. Ngài sẽ không quay về tay không như thế này đâu, đúng chứ?'",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"…….",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Sáu tiếng.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Nếu ta không nghe thấy tin tức nào từ các cô cậu trong sáu tiếng, thì đội LCA sẽ tiếp quản nhiệm vụ từ đây.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Được rồi, vậy là bên LCA sẽ tiếp quản nhiệm vụ, sau đó thì... sao nữa?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Ờ thì. Nếu họ nghe được tin đáng buồn là các cô cậu đều quyết định chèo thuyền vào bụng con Cá Voi và mắc kẹt trong đó...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Họ sẽ có một cuộc họp nội bộ rất lâu về việc nên cho nổ tung con Cá Voi Trắng đó như thế nào.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Và một cuộc chiến dài đằng đẵng chắc chắn sẽ xảy ra.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"<Được rồi, để tôi nói thẳng ra những gì tôi hiểu được... Nếu chúng tôi thất bại trong việc tìm Cành Vàng mắc kẹt đâu đó trong bụng con Cá Voi trong sáu tiếng đồng hồ, ông sẽ không ngần ngại cho nổ tung chúng tôi thành tro tàn cùng với con Cá Voi đúng không? Tôi nói có đúng không?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Tôi sẽ không truyền đạt lại câu vừa nãy.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"…….",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"<Faust, cô nghĩ cơ may chúng ta thành công là bao nhiêu?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Có thể thành công, cũng có thể là không.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Ít nhất là với các biến số hiện tại.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Vậy là chúng ta *có* cơ hội.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"<...Cô còn bất kỳ ý tưởng nào khác có thể giúp chúng ta lấy được Cành Vàng không?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Hiện tại là không.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Nhưng tôi có thể nói với ngài rằng ta có tiền sử hoàn thành nhiệm vụ một cách sát sao với cơ hội thành công cực kỳ nhỏ.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"<Được rồi, vậy thì. Làm cho xong việc nào.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":"Bên Trong Cá Voi Trắng",
+                "content":"... Đúng vậy. Không có kế hoạch chính là kế hoạch.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Và điều này càng củng cố thêm giả thuyết mới của tôi.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"May mắn thay, chúng tôi không hề mất đi Tội Nhân nào trên đường xuống đây. Toàn bộ 12 Tội Nhân đều đã xuống được dưới này, đúng như chúng tôi dự tính.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Nhưng...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"<Mọi người, con—con thuyền của chúng ta đâu rồi?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Không thấy con thuyền ở đâu nữa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

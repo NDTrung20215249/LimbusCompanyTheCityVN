@@ -2,235 +2,235 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "로쟈",
-      "content": "Bweh… Greg, you know those pals?"
+      "content": "Ọe... Anh Greg, anh biết bọn kia á?"
     },
     {
       "id": 1,
       "model": "그레고르",
-      "content": "Huh? Gimme a break… There’s no way I’d know someone in this corner of the Backstreets―"
+      "content": "Hả? Tha cho tôi đi... Làm gì có chuyện tôi quen ai ở cái xó Backstreets này-"
     },
     {
       "id": 2,
-      "content": "Gregor’s face goes dark the moment he looks out the window."
+      "content": "Khuôn mặt Gregor tối sầm lại vào khoảng khắc anh ấy nhìn ra ngoài cửa sổ."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<…Bug heads?>"
+      "content": "<... Đầu bọ sao?>"
     },
     {
       "id": 4,
-      "content": "Unlike the other miscreants we’ve run into, they were part insectoid."
+      "content": "Khác với những tên tội phạm chúng tôi gặp phải trước đó, họ có một phần cơ thể giống côn trùng."
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Gosh… Dante, thank goodness your head’s shaped like a clock. I would’ve gagged if my manager was a huge bug."
+      "content": "Ôi... Dante, ơn trời là đầu ngài làm bằng cái đồng hồ. Không là tôi đã nôn cả ruột gan ra nếu ngài là một con bọ to đùng ấy..."
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Isn’t that… the same type of augmentation you have, Gregor?"
+      "content": "Hình như... đấy là cùng một kiểu cấy ghép với anh sao hả Gregor?"
     },
     {
       "id": 7,
       "model": "히스클리프",
-      "content": "They stitch disgusting insect heads to their necks on purpose?"
+      "content": "Bọn nó tự mình gắn mấy cái đầu côn trùng tởm lợm lên à?"
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "You’d better stay away. Wouldn’t want to catch the pest, ‘ne?"
+      "content": "Tốt nhất là nên tránh xa chúng ra. Kẻo bị chấy rận bâu vào người đó."
     },
     {
       "id": 9,
       "model": "싱클레어",
-      "content": "Eek, is that true?!"
+      "content": "Éc, anh nói thật sao?!"
     },
     {
       "id": 10,
       "model": "그레고르",
-      "content": "Just a joke… Does my sense of humor not fly with kids your age?"
+      "content": "Nói đùa thôi... Khiếu hài hước của tôi lỗi thời vậy à?"
     },
     {
       "id": 11,
-      "content": "While Gregor was left scratching his head, the bus made a languishing sound and came to a slow, deflating halt."
+      "content": "Khi Gregor bối rối gãi đầu, chiếc xe phát ra tiếng động mỏi mệt và đi chậm dần, xả khói rồi dừng lại."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "In the past, G Corp. had procedures on most employees to give them biomimetic weapons like the one Gregor has."
+      "content": "Trong quá khứ, Tập Đoàn G. có phương sách lên hầu hết nhân viên để cấy cho họ vũ khí sinh học như của Gregor."
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "You used to work for the old G Corp, Gregor? That company must’ve been…"
+      "content": "Anh từng làm cho Tập Đoàn G tiền nhiệm sao, Gregor? Công ty đó hẳn là đã..."
     },
     {
       "id": 14,
-      "content": "Ishmael frowned as if she remembered something unpleasant, but didn’t speak further."
+      "content": "Ishmael nheo mày như đang cố gắng nhớ về việc gì đó khó chịu, nhưng rồi lại không nói gì thêm."
     },
     {
       "id": 15,
-      "content": "Gregor wore a smile on his mouth, but his hardened eyes were resting downcast, just as a moment ago."
+      "content": "Gregor vẫn luôn nở một nụ cười trên môi, nhưng đôi mắt của anh ấy giờ cứng ngắc một cách chán nản kể từ trước đó."
     },
     {
       "id": 16,
       "model": "홍루",
-      "content": "I wonder, where do people like them sleep at night?"
+      "content": "Những người như bọn họ, bình thường buổi đêm đi ngủ thế nào nhỉ?"
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "For many, the sky is the roof over their head, and the stars are their firelight."
+      "content": "Với nhiều người, màn trời trên đầu họ là mái nhà, và những vì sao kia là ánh lửa của họ. "
     },
     {
       "id": 18,
       "model": "홍루",
-      "content": "Aha, so they’re the poetic sort!"
+      "content": "À, vậy thì họ là kiểu người phong lưu rồi ha!"
     },
     {
       "id": 19,
       "model": "단테",
-      "content": "<I don’t think that’s what he meant…>"
+      "content": "<Tôi không nghĩ đó là ý ông ấy muốn nói đâu...>"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "And, unless my eyes deceive me, they’re intent on obstructing our journey."
+      "content": "Và trừ khi đôi mắt này đã già rồi, có vẻ như họ đang có ý định chặn công cuộc hành trình của chúng ta."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Aren’t you going to get off, Gregor?"
+      "content": "Cậu không định xuống sao, Gregor?"
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Care to explain why you’re calling my name specifically?"
+      "content": "Muốn giải thích tại sao ông lại gọi thẳng tên tôi không?"
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "Who knows. I don’t feel like rambling about someone else’s past with my own tongue."
+      "content": "Ai mà biết được. Ta không muốn tự càm ràm về quá khứ của người khác bằng miệng lưỡi của mình."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "Take the lead, Gregor. You know the reason."
+      "content": "Dẫn đường đi, Gregor. Cậu biết lí do vì sao mà."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "…You’re one nasty fellow."
+      "content": "...Ông đúng là độc ác thật."
     },
     {
       "id": 26,
-      "place": "Some Backstreets of District 4",
-      "content": "A group of soldiers with the heads of insects gathered near the bus."
+      "place": "Backstreet đâu đó ở Quận 4",
+      "content": "Một nhóm lính với phần đầu côn trùng tụ tập xung quanh xe."
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "Bah… I’m not too fond of being in the vanguard."
+      "content": "Hà... Tôi chả muốn đứng tiên phong chút nào."
     },
     {
       "id": 28,
       "model": "화난패잔병",
-      "teller": "Fiery Veteran",
+      "teller": " Cựu binh Sôi nổi",
       "title": "???",
-      "content": "What are you? Why does your arm look like ours?"
+      "content": "Ngươi là thứ gì vậy? Sao cánh tay của ngươi lại giống của bọn ta?"
     },
     {
       "id": 29,
       "model": "의아한패잔병",
-      "teller": "Puzzled Veteran",
+      "teller": "Cựu binh Lúng túng",
       "title": "???",
-      "content": "Hold on… I’ve seen that face before."
+      "content": "Đợi đã... Ta từng thấy khuôn mặt đó ở đâu rồi."
     },
     {
       "id": 30,
       "model": "그레고르",
-      "content": "…Mostly on flyers and magazine covers, I’d bet."
+      "content": "...Hẳn là thấy trên các tờ rơi và bìa tạp chí đấy."
     },
     {
       "id": 31,
       "model": "단테",
-      "content": "<Gregor? Do you know them from somewhere?>"
+      "content": "<Gregor? Anh biết bọn họ từ nơi nào đó sao?>"
     },
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "…Not really important right now, Manager. Don’t think we have the time for reminiscing."
+      "content": "...Hiện tại thì chuyện đó không đáng để tâm đâu, Quản Lý. Chúng ta đâu có thời gian để mà hàn huyên tâm sự."
     },
     {
       "id": 33,
       "model": "화난패잔병",
-      "teller": "Fiery Veteran",
+      "teller": " Cựu binh Sôi nổi",
       "title": "???",
-      "content": "That arm bothers me… But, whatever. Point is, I can’t let you through."
+      "content": "Cánh tay đấy khiến ta bận tâm... Nhưng kệ đi. Điều quan trọng hơn là ta không thể để các ngươi qua."
     },
     {
       "id": 34,
       "model": "단테",
-      "content": "<Is that so. I suppose we can’t talk this out…>"
+      "content": "<Vậy sao. Tôi đoán là chúng ta không thể thương lượng được rồi...>"
     },
     {
       "id": 35,
       "model": "로쟈",
-      "content": "Why are they showing their buggy sides out in the open, anyway?"
+      "content": "Sao bọn họ có thể hiên ngang phô ra những phần cơ thể côn trùng như thế chứ?"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "They’d make kids cry. Really ought to take some concealing lessons from our Greg over here, right?"
+      "content": "Làm vậy chắc lũ trẻ khóc mất. Đáng lẽ họ nên học cách giấu chúng đi như Greg của chúng ta đây này, đúng chứ?"
     },
     {
       "id": 37,
       "model": "그레고르",
-      "content": "I’m a special case. The procedure makes those “buggy” parts grow on the head most of the time."
+      "content": "Tôi là một trường hợp đặc biệt. Quá trình biến đổi thường sẽ khiến cho những cái phần “bọ” đó mọc ra ở phần đầu."
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "Although… I’m not sure if I’d consider myself lucky."
+      "content": "Mặc dù... Tôi cũng chả biết mình có phải là may mắn hay không nữa."
     },
     {
       "id": 39,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "It feels like they’re trying to stop us from getting to the branch facility for some reason."
+      "title": "Fixer Cấp 8",
+      "content": "Hình như bọn họ đang ngăn cản chúng ta đi về phía nhánh cơ sở vì nguyên do nào đó."
     },
     {
       "id": 40,
       "model": "로쟈",
-      "content": "Are they after the Golden Bough too?"
+      "content": "Chả lẽ họ cũng đang muốn chiếm đoạt Cành Vàng?"
     },
     {
       "id": 41,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "content": "Maybe so."
+      "content": "Có thể là vậy."
     },
     {
       "id": 42,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "content": "There ought to be many that are after the essence."
+      "content": "Cũng có nhiều kẻ đang nhắm tới tinh hoa từ nó mà."
     },
     {
       "id": 43,
       "model": "베르길리우스2",
       "teller": "Vergilius",
-      "content": "…And I’m sure each has their own wishes. Isn’t that true?"
+      "content": "...Và ta đoán rằng những kẻ đó cũng có ước vọng của riêng mình. Có phải không?"
     },
     {
       "id": 44,
       "model": "그레고르",
-      "content": "What’s that look for? I haven’t got a clue, either."
+      "content": "Nhìn tôi làm gì thế? Tôi cũng có biết gì đâu mà."
     }
   ]
 }

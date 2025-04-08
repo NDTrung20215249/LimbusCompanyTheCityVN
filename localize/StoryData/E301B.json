@@ -1,248 +1,366 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K Downtown Alley",
-            "model": "파우스트",
-            "content": "Off the bus, everyone. This is where we’re supposed to meet the client for our next mission."
-        },
-        {
-            "id": 1,
-            "model": "히스클리프",
-            "content": "Gimme a break. Now we’re taking requests like we’re frou-frou errand boys?"
-        },
-        {
-            "id": 2,
-            "model": "그레고르",
-            "content": "Hm? Say, what’s that over there? It’s got a long line in front of it."
-        },
-        {
-            "id": 3,
-            "model": "로쟈",
-            "content": "Ahh~ Can’t you recognize this stirring scent? It’s fried chicken, Greg!! Deep fried chicken brought to a crisp in expensive oil!"
-        },
-        {
-            "id": 4,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "It seems you haven’t seen much of Nest K if you have yet to learn of Bodhisattva Chicken, the hottest trend around these parts."
-        },
-        {
-            "id": 5,
-            "content": "A man with a fastidious impression suddenly cut in on the Sinners’ conversation as if he belonged to our group."
-        },
-        {
-            "id": 6,
-            "model": "홍루",
-            "content": "Oho… Bodhisattva Chicken, is it? What is that?"
-        },
-        {
-            "id": 7,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "Permit me… to answer."
-        },
-        {
-            "id": 8,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "Bodhisattva Chicken is a highly renowned restaurant known for its six-legged, eight-winged poultry whose blissful tastes and gracious quantities really make you feel great compassion."
-        },
-        {
-            "id": 9,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "What’s more, they’re prepared for every preference. The buzzworthy biddy with the right amount of tenderness, the chubby capon with plentiful flesh to dig into, the chewy cockerel that’s perfectly al dente, and more. Now tell me, what do you want?"
-        },
-        {
-            "id": 10,
-            "model": "이상",
-            "content": "…I may have heard of it erst."
-        },
-        {
-            "id": 11,
-            "model": "로쟈",
-            "content": "Isn’t this a surprise~ Our Yi Sang of all people is keeping up with the fads from under his rock?"
-        },
-        {
-            "id": 12,
-            "model": "히스클리프",
-            "content": "…So what’re you supposed to be?"
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "Can hazard a guess you don’t know who we are either, seeing as you brazenly shoved yourself in while we’re talking."
-        },
-        {
-            "id": 14,
-            "model": "이스마엘",
-            "content": "…Can you even explain who we are?"
-        },
-        {
-            "id": 15,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "Gracious, what could those things roaming around the restaurant possibly be? They don’t appear very normal to me."
-        },
-        {
-            "id": 16,
-            "content": "Turning around, I spotted rather strange-looking people with just as strange behavior."
-        },
-        {
-            "id": 17,
-            "model": "단테",
-            "content": "<I–Isn’t that K Corp’s staff…? What are they doing?>"
-        },
-        {
-            "id": 18,
-            "model": "뫼르소",
-            "content": "I see individuals covering their heads with strange masks."
-        },
-        {
-            "id": 19,
-            "model": "싱클레어",
-            "content": "M—Maybe they’re some kind of mascot? It could be pretty cute when we look up close…"
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "Those “mascots” have people running and screaming, though?"
-        },
-        {
-            "id": 21,
-            "model": "그레고르",
-            "content": "Seems a bit off, but let’s leave ‘em be. Doesn’t look like they’re coming this way, and I don’t particularly feel like getting wrapped up in something bothersome—"
-        },
-        {
-            "id": 22,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "You’re right. They aren’t necessarily approaching us."
-        },
-        {
-            "id": 23,
-            "model": "그레고르",
-            "content": "And just what are you up to with that rock from the roadside, mysterious fella?"
-        },
-        {
-            "id": 24,
-            "model": "뒤틀린손님2",
-            "teller": "Chicken-headed K Corp. Security",
-            "title": "Distorted Thing",
-            "content": "!"
-        },
-        {
-            "id": 25,
-            "model": "단테",
-            "content": "<What in the world did you do?!>"
-        },
-        {
-            "id": 26,
-            "content": "Hit by the rock, it started looking around…"
-        },
-        {
-            "id": 27,
-            "content": "Then, it began to slowly shamble in our direction."
-        },
-        {
-            "id": 28,
-            "model": "뒤틀린손님2",
-            "teller": "Chicken-headed K Corp. Security",
-            "title": "Distorted Thing",
-            "content": "Giiiii… Giiii…"
-        },
-        {
-            "id": 29,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "Yikes, I’ve made such a clumsy mistake. What will we do?"
-        },
-        {
-            "id": 30,
-            "model": "로쟈",
-            "content": "Likely story, kozyol… You aimed straight for its head…"
-        },
-        {
-            "id": 31,
-            "model": "홍루",
-            "content": "Wow~ Your form was impressively stable."
-        },
-        {
-            "id": 32,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "Why thank you. I once aspired to be a big-City baseball player."
-        },
-        {
-            "id": 33,
-            "model": "료슈",
-            "content": "I’ll play ball with you alright. Stay right there so I can knock your noggin outta the park."
-        },
-        {
-            "id": 34,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "They’re approaching faster now. Shouldn’t you deal with them first before working up a slugger with my head?"
-        },
-        {
-            "id": 35,
-            "content": "As Ryōshū furiously reached for her sheath, those things came right for us…"
-        },
-        {
-            "id": 36,
-            "model": "파우스트",
-            "content": "They have chicken heads."
-        },
-        {
-            "id": 37,
-            "model": "로쟈",
-            "content": "Yup, whole chickens."
-        },
-        {
-            "id": 38,
-            "model": "이스마엘",
-            "content": "Raw ones at that, too."
-        },
-        {
-            "id": 39,
-            "model": "그레고르",
-            "content": "It’s like the ghosts of dead chickens’re clucking back from hell for revenge…"
-        },
-        {
-            "id": 40,
-            "model": "그레고르",
-            "content": "So, uh… You guys think it’s because Sinclair left a chicken wing uneaten that one time since it was a hassle to get the meat off? Can’t think of anything else we might’ve done to call up hen havoc…"
-        },
-        {
-            "id": 41,
-            "model": "싱클레어",
-            "content": "Teasing like that won’t get to me anymore, you know… Besides, Rodya licked that one clean anyways…"
-        },
-        {
-            "id": 42,
-            "model": "삼조",
-            "teller": "???",
-            "title": "???",
-            "content": "Hm, it appears that combat is going to be our sole recourse."
-        },
-        {
-            "id": 43,
-            "model": "단테",
-            "content": "<So why is this guy taking cover behind me then?>"
-        },
-        {
-            "id": 44,
-            "content": "Before I could complain further, the chicken-headed crowd attacked us."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Hẻm Dưới Nest K",
+                "model":"파우스트",
+                "content":"Mọi người, xin hãy xuống xe. Đây là nơi chúng ta sẽ gặp người uỷ thác cho nhiệm vụ kế tiếp.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tha tao cái. Giờ chúng ta phải nhận yêu cầu như lũ sai vặt à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hửm? Này, ở bên kia có mà gì mà lắm người xếp hàng thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"로쟈",
+                "content":"À~ Anh không nghe thấy mùi thơm hấp dẫn này sao? Là gà rán đấy anh Greg!! Mấy miếng gà giòn rụm được chiên ngập trong nồi dầu thượng hạng đó!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"삼조",
+                "content":"Nếu đã nhắc về Nest K mà chẳng mảy may biết gì về Gà Bồ Tát, thứ xu hướng đang làm mưa làm gió ở đây thì mấy người xem ra vẫn chưa biết gì quá nhiều về nơi này rồi.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Một cậu trai khó tính đột nhiên cắt ngang cuộc đối thoại của các Tội Nhân như thể anh ta là một phần trong nhóm chúng tôi vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"홍루",
+                "content":"Ồ… Gà Bồ Tát… Là gì thế ạ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"삼조",
+                "content":"Hãy để tôi… trả lời câu hỏi đó.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"삼조",
+                "content":"Nhà hàng Gà Bồ Tát là nơi nổi tiếng nhất nhì ở đây, được biết đến bởi các món ăn chế biến từ những con gà sáu chân, tám cánh, mang trên mình một hương vị tuyệt hảo và số lượng gà gần như trên trời. Khiến ai nấy cũng phải cảm nhận rõ sự từ bi từ Đức Phật.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"삼조",
+                "content":"Hơn hết, toàn bộ chúng được chế biến hoàn hảo để phù hợp khẩu vị từng thực khách. Từ thịt của những con mái tơ với độ mọng nước vừa đủ, đến những con trống thiến với lượng thịt béo ngậy chực chờ được thưởng thức, hay những con gà mái ghẹ với chất thịt săn chắc chạm tới độ tuyệt mĩ và còn nhiều hơn thế. Giờ thì, mấy người muốn ăn gì nào?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이상",
+                "content":"…Có thể tôi đã nghe về nó trong quá khứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "content":"Bất ngờ dữ ta~ Ai mà biết được trong đám này, thì anh Yi Sang sống ẩn dật lại đi bắt kịp xu hướng thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프",
+                "content":"…Rồi mày là ai?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao đoán chắc mày cũng không biết tụi tao là ai, nên mày mới to gan nhảy vào họng tụi tao khi tụi tao đang nói.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…Thế bản thân anh có biết không đã mà đòi đánh đố?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"삼조",
+                "content":"Lạy chúa, mấy cái thứ gì đang đi khắp nơi ngoài kia đấy? Bọn chúng nhìn chẳng bình thường gì cả.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Quay đầu lại nhìn, tôi thấy nhiều bóng người lạ thường hành động khá kỳ quái.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테",
+                "content":"<Đ-Đó chẳng phải là nhân viên của Tập Đoàn K sao…? Họ đang làm gì thế?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Họ xem ra đang đeo một thứ mặt nạ kỳ dị nào đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ch-Chắc họ là những người hoá trang linh vật hay sao đó? Nếu nhìn gần thì cũng có vẻ dễ thương mà…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cơ mà mấy ’người hóa trang linh vật’ đó đang dọa đuổi người ta ầm ĩ kìa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"그레고르",
+                "content":"Trông có hơi kỳ, nhưng mà cứ để chúng yên đi. Có vẻ như chúng cũng không quan tâm tới hướng này, và tôi không muốn phải vướng vào rắc—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"삼조",
+                "content":"Anh nói đúng. Bọn chúng không hẳn là đang tiến đến chỗ chúng ta.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"그레고르",
+                "content":"Cậu đang định làm gì với cục đá ven đường đó thế, cậu trai lạ mặt?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"뒤틀린손님2",
+                "content":"!",
+                "teller":"Nhân Viên Bảo An Đầu Gà T.Đoàn K",
+                "title":"Thứ Biến Dị"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"단테",
+                "content":"<Anh vừa làm cái quái gì thế?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Bị hòn đá ném trúng vào người, nó bắt đầu nhìn xung quanh…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"Rồi, nó bắt đầu chập chững từng bước tiến về hướng của chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"뒤틀린손님2",
+                "content":"Ghi ghì… ghi ghi ghi…",
+                "teller":"Nhân Viên Bảo An Đầu Gà T.Đoàn K",
+                "title":"Thứ Biến Dị"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"삼조",
+                "content":"Ái chà, tôi thật hồ đồ quá khi phạm lỗi ngớ ngẩn như vậy. Giờ chúng ta làm gì đây?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"로쟈",
+                "content":"Giả trân quá đấy thằng khốn!… Chú nhắm ngay vào đầu luôn còn gì…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"홍루",
+                "content":"Oa~ Tư thế ném của anh trông rất vững vàng nha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"삼조",
+                "content":"Thật vinh dự làm sao. Tôi từng có ước mơ được trở thành tay chơi bóng chày có tiếng ở chốn The City này đấy.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"료슈",
+                "content":"Thích chơi bóng thì chiều. Đứng yên đấy để ta đánh bay đầu ngươi một cú home run.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"삼조",
+                "content":"Bọn gà kia đang tiến tới đây nhanh quá. Không phải mấy người nên giải quyết bọn chúng đi sao? Coi chừng đến cái đầu tôi cũng sẽ bị gặm tới bây giờ.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Ngay khi Ryōshū với lấy vỏ kiếm trong sự giận dữ, những thứ đó lao đến chúng tôi…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"파우스트",
+                "content":"Họ có đầu gà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ừ, nguyên một con gà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Và là gà tươi sống nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"그레고르",
+                "content":"Cứ như thể hồn ma của chúng trồi lên từ địa ngục để trả thù chúng ta vậy…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"그레고르",
+                "content":"Vậy, ờm… Mọi người có nghĩ chuyện này là do có lần Sinclair bỏ ăn một chiếc cánh gà do ngại gỡ xương không? Chứ tôi chả nghĩ ra được chúng ta đã làm gì để giờ phải chịu cảnh này cả…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Giờ có chọc ghẹo như vậy cũng chẳng làm tôi giận nữa đâu… Với lại, lúc sau chị Rodya cũng ăn hết sạch nó mà…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"삼조",
+                "content":"Hừm, xem ra chiến đấu là giải pháp duy nhất rồi.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"단테",
+                "content":"<Thế thì tại sao gã này lại nấp sau lưng tôi vậy?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "content":"Trước khi tôi kịp phàn nàn thêm gì nữa, đám đầu gà đã tấn công chúng tôi rồi.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

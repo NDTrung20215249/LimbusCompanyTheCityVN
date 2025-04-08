@@ -1,705 +1,870 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Aboard Mephistopheles's Deck",
-            "model": "오티스",
-            "content": "Now, men! Clear orders and solidarity are of paramount importance in times like these!"
-        },
-        {
-            "id": 1,
-            "model": "오티스",
-            "content": "Right leg on 'HEAVE', left leg on 'HO'! Let's go!"
-        },
-        {
-            "id": 2,
-            "model": "오티스",
-            "content": "HEAVE!"
-        },
-        {
-            "id": 3,
-            "model": "돈키호테",
-            "content": "HO!"
-        },
-        {
-            "id": 4,
-            "model": "오티스",
-            "content": "HEAVE!"
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "... HEAVE HO HOW is it fair that you get to stand there barkin' orders at us while we're pedaling our bums off?"
-        },
-        {
-            "id": 6,
-            "model": "오티스",
-            "content": "A most dimwitted question. A Captain must preserve her strength, or risk putting her subordinates in danger."
-        },
-        {
-            "id": 7,
-            "model": "오티스",
-            "content": "That is precisely why I am refraining from partaking in this collaborative effort myself!"
-        },
-        {
-            "id": 8,
-            "model": "단테2",
-            "content": "<…….>"
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "... Since when were you our Commander?"
-        },
-        {
-            "id": 10,
-            "model": "단테2",
-            "content": "<Well, she did say she's the Captain, not the Commander...>"
-        },
-        {
-            "id": 11,
-            "model": "료슈",
-            "content": "……."
-        },
-        {
-            "id": 12,
-            "model": "료슈",
-            "content": "Those damn seagulls can flock off already."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "How 'bout we kidnap them seagulls and train them to pedal the generator?"
-        },
-        {
-            "id": 14,
-            "model": "히스클리프",
-            "content": "Oi, Faust! Smartarse! I thought you were a genius; make it so! That should be easy-peasy for your brilliant intellect, no?"
-        },
-        {
-            "id": 15,
-            "model": "파우스트",
-            "content": "I can make it happen, indeed. Yet I do not, as it is inefficient. Rudimentary toilet training will be the first step in making them viable as a consistent source of labor."
-        },
-        {
-            "id": 16,
-            "model": "카론",
-            "content": "Charon's bored. Charon wants to vroom-vroom."
-        },
-        {
-            "id": 17,
-            "model": "료슈",
-            "content": "I'm tagging out. You're the driver, so do your job. That should keep you occupied for a while."
-        },
-        {
-            "id": 18,
-            "model": "로쟈",
-            "content": "Oho, ya sure about that? Vergie's not gonna let that slide~ That's how ya get yourself a 'consultation', y'know?"
-        },
-        {
-            "id": 19,
-            "model": "그레고르",
-            "content": "Haah... Wait...! Let's think about this for a hot minute."
-        },
-        {
-            "id": 20,
-            "model": "그레고르",
-            "content": "Let's think about the actual reason we're sweating, pedaling the crap out of the generator, huh?"
-        },
-        {
-            "id": 21,
-            "model": "오티스",
-            "content": "... To nitpick and seek someone to take the fall for every little thing is... a stinking thought. All that happens on the road to success is merely a part of the process."
-        },
-        {
-            "id": 22,
-            "model": "그레고르",
-            "content": "Look, I'm not saying that we should play the blame game. I'm just wondering why we're pedaling so darn hard to begin with. It's not like there's something coming after us."
-        },
-        {
-            "id": 23,
-            "model": "그레고르",
-            "content": "We're headed toward one of the largest ports of U Corp., and we know exactly where that is and how to get there."
-        },
-        {
-            "id": 24,
-            "model": "그레고르",
-            "content": "It's not like the port's gonna sail away, right? Why all this urgency?"
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "……."
-        },
-        {
-            "id": 26,
-            "model": "그레고르",
-            "content": "I mean, am I wrong? The Great Lake has been very tranquil so far. It's not like some monster's going to suddenly appear out of nowhere and attack us, right?"
-        },
-        {
-            "id": 27,
-            "model": "파우스트",
-            "content": "It appears that your consolidated field experience has evolved into a form of intuition. Fascinating, Gregor."
-        },
-        {
-            "id": 28,
-            "model": "그레고르",
-            "content": "What...?"
-        },
-        {
-            "id": 29,
-            "model": "파우스트",
-            "content": "Faust finds this development optimistic."
-        },
-        {
-            "id": 30,
-            "model": "파우스트",
-            "content": "We must exit this area within the next 10 minutes. We are... falling somewhat behind the forecast of my predictions."
-        },
-        {
-            "id": 31,
-            "model": "그레고르",
-            "content": "Okay... that was ominous. Why precisely 10 minutes?"
-        },
-        {
-            "id": 32,
-            "model": "파우스트",
-            "content": "The 'laws of the Great Lake'."
-        },
-        {
-            "id": 33,
-            "model": "로쟈",
-            "content": "Ohh... I knew it! It's that darn law of the Great Lake again, huh?!"
-        },
-        {
-            "id": 34,
-            "model": "파우스트",
-            "content": "...?"
-        },
-        {
-            "id": 35,
-            "model": "파우스트",
-            "content": "Your foreknowledge of the laws of the Great Lake is an unexpected development, Rodion. Quite difficult to believe that, even with the consolidated experience, your intuition would—"
-        },
-        {
-            "id": 36,
-            "model": "로쟈",
-            "content": "Sorry, sorry~ I just wanted to look like I was in on it for once. Girl gets tired of asking every time, ya know."
-        },
-        {
-            "id": 37,
-            "model": "파우스트",
-            "content": "The Great Lake of U Corp. has laws that... must never be broken."
-        },
-        {
-            "id": 38,
-            "model": "파우스트",
-            "content": "And yes. The port can and will sail away, Gregor."
-        },
-        {
-            "id": 39,
-            "model": "히스클리프",
-            "content": "It's a bloody lake... What laws could it possibly have?"
-        },
-        {
-            "id": 40,
-            "model": "히스클리프",
-            "content": "What, are the Lake coppers going to come spank the bad boys with a stick for breaking class rules?"
-        },
-        {
-            "id": 41,
-            "model": "료슈",
-            "content": "There better be a law that lets me SYNC, whiny brat. My ears are starting to bleed."
-        },
-        {
-            "id": 42,
-            "content": "'Haah... Guys, knock it off.'"
-        },
-        {
-            "id": 43,
-            "content": "I could almost hear a well-timed sigh followed by honest but brutal, piercing words. It was like someone recorded her sigh and played it in my head."
-        },
-        {
-            "id": 44,
-            "content": "But Ishmael was nowhere to be seen on the deck."
-        },
-        {
-            "id": 45,
-            "model": "이스마엘",
-            "content": "So, if there's anything you want from me from now on, state it. Clearly."
-        },
-        {
-            "id": 46,
-            "content": "She wasn't kidding. Ishmael remained in her room, not a peep to be seen nor heard despite the commotion."
-        },
-        {
-            "id": 47,
-            "content": "Not appearing once through all that's happened since... the incident."
-        },
-        {
-            "id": 48,
-            "model": "파우스트",
-            "content": "As much as I would like to provide you with an explanation, leaving this zone takes precedence."
-        },
-        {
-            "id": 49,
-            "model": "파우스트",
-            "content": "According to my calculations, our last conversation left us with 7 minutes."
-        },
-        {
-            "id": 50,
-            "model": "뫼르소",
-            "content": "We are approximately 15km away from the edge of this zone as the crow flies."
-        },
-        {
-            "id": 51,
-            "model": "뫼르소",
-            "content": "Each person must pedal to generate enough energy to travel at least 10km per hour if we are to escape in time."
-        },
-        {
-            "id": 52,
-            "model": "베르길리우스",
-            "content": "Wonderful. I love to see some proper teamwork for once."
-        },
-        {
-            "id": 53,
-            "model": "돈키호테",
-            "content": "Hyaah! Rocinante! Our destination is nigh! Gallop on!"
-        },
-        {
-            "id": 54,
-            "model": "로쟈",
-            "content": "Where does... that girl... get her energy from... Ugh, augh..."
-        },
-        {
-            "id": 55,
-            "model": "그레고르",
-            "content": "Cough, cough... I think I'm done for... Just go on ahead without me..."
-        },
-        {
-            "id": 56,
-            "model": "싱클레어",
-            "content": "And leave you where... We're on... a ship... agh."
-        },
-        {
-            "id": 57,
-            "model": "뫼르소",
-            "content": "Hup. Hup. Hup. Hup."
-        },
-        {
-            "id": 58,
-            "model": "뫼르소",
-            "content": "Diaphragmatic breathing is conducive to maintaining consistent speed in an exercise of this intensity."
-        },
-        {
-            "id": 59,
-            "model": "파우스트",
-            "content": "Especially more so when each Sinner is responsible for about 10km per hour of energy output. Any higher and it would have required hyperpnea to maintain that speed."
-        },
-        {
-            "id": 60,
-            "model": "로쟈",
-            "content": "Do you ever get tired, girl?!"
-        },
-        {
-            "id": 61,
-            "model": "파우스트",
-            "content": "No. 3 minutes remaining, now."
-        },
-        {
-            "id": 62,
-            "model": "로쟈",
-            "content": "Aough... We don't even know what happens in 3 minutes! Why are we doing this?!"
-        },
-        {
-            "id": 63,
-            "model": "단테2",
-            "content": "<She said there's no time! Just step on it with your life!>"
-        },
-        {
-            "id": 64,
-            "model": "카론",
-            "content": "Charon wanted to vroom-vroom. This is squeak-squeak."
-        },
-        {
-            "id": 65,
-            "model": "카론",
-            "content": "Squeak-squeak. That's no fun."
-        },
-        {
-            "id": 66,
-            "model": "홍루",
-            "content": "Hm hm hm~ I didn't know how energizing work songs could be."
-        },
-        {
-            "id": 67,
-            "model": "로쟈",
-            "content": "Huuh?! How do you guys have so much energy left?"
-        },
-        {
-            "id": 68,
-            "model": "홍루",
-            "content": "This is not even a warm-up compared to the training my family forced me to do~"
-        },
-        {
-            "id": 69,
-            "model": "히스클리프",
-            "content": "Ach, you lot! Shut your gobs and pedal!"
-        },
-        {
-            "id": 70,
-            "model": "파우스트",
-            "content": "30 seconds remaining."
-        },
-        {
-            "id": 71,
-            "model": "싱클레어",
-            "content": "30... 30 seconds...!"
-        },
-        {
-            "id": 72,
-            "model": "돈키호테",
-            "content": "Khaaaa! Quite the thrill this is!!! Now this! Is true adventure!!!"
-        },
-        {
-            "id": 73,
-            "model": "돈키호테",
-            "content": "'Tis like charging an overwhelmingly colossal enemy, is it no— Ach?! Cough! Ack!"
-        },
-        {
-            "id": 74,
-            "model": "뫼르소",
-            "content": "Save your words. Your breathing. Remain. In the flow. Breathe in. Out. Breathe in. Out. Breathe in. Out. Breathe in. Out. Breathe in. Out."
-        },
-        {
-            "id": 75,
-            "model": "그레고르",
-            "content": "Huff... Huff... How... much... time..."
-        },
-        {
-            "id": 76,
-            "model": "파우스트",
-            "content": "10 seconds remaining."
-        },
-        {
-            "id": 77,
-            "model": "파우스트",
-            "content": "4 seconds."
-        },
-        {
-            "id": 78,
-            "model": "싱클레어",
-            "content": "4? Why are you not... doing this by multiples of 5...?!"
-        },
-        {
-            "id": 79,
-            "model": "오티스",
-            "content": "Look alive, deckhands! Put your back into it! Toil, men! Toil!"
-        },
-        {
-            "id": 80,
-            "content": "Somehow, we managed to escape the zone before Faust counted down to zero."
-        },
-        {
-            "id": 81,
-            "content": "Some Sinners immediately threw themselves to the deck of the ship like limp puppets, while some looked like they'd just taken a quick rest at a park bench."
-        },
-        {
-            "id": 82,
-            "model": "단테2",
-            "content": "<So... we made it somehow, but...>"
-        },
-        {
-            "id": 83,
-            "model": "그레고르",
-            "content": "I don't see any signs of those 'laws'... Am I missing something... Frau Faust?"
-        },
-        {
-            "id": 84,
-            "model": "히스클리프",
-            "content": "Agh... I swear, if all this 'law of the Great Lake' drivel was some hogwash you made up..."
-        },
-        {
-            "id": 85,
-            "model": "히스클리프",
-            "content": "... just to make this journey go just a tad faster, I'm going to seriously..."
-        },
-        {
-            "id": 86,
-            "content": "The tranquil Lake surface we just pedaled through... was gone, as though it was never even there."
-        },
-        {
-            "id": 87,
-            "content": "In its place was an immense... something. Its innumerable legs—or tentacles—writhed, rising above the Lake's surface. I couldn't even tell where the thing ended and where the Lake began."
-        },
-        {
-            "id": 88,
-            "content": "Did it burst from the Lake? Or..."
-        },
-        {
-            "id": 89,
-            "content": "Were we traveling unawares on its body this whole time?"
-        },
-        {
-            "id": 90,
-            "model": "돈키호테",
-            "content": "PHWAAAH?!"
-        },
-        {
-            "id": 91,
-            "content": "I couldn't even find the right word to describe the magnitude of that thing. Its appearance sent waves across the waters all the way to the zone we were in..."
-        },
-        {
-            "id": 92,
-            "content": "Mephistopheles shook violently as though it was about to capsize. It need not be said that the Sinners on the deck were given an untimely shower."
-        },
-        {
-            "id": 93,
-            "model": "로쟈",
-            "content": "Woah... That was too close! We were almost pancaked..."
-        },
-        {
-            "id": 94,
-            "model": "돈키호테",
-            "content": "W-well! No a-adventure is complete with uh, cough, cough... nar-nary a peril, of course..."
-        },
-        {
-            "id": 95,
-            "model": "료슈",
-            "content": "N.B. Now this is more like it."
-        },
-        {
-            "id": 96,
-            "model": "뫼르소",
-            "content": "We have no chance of weathering a single strike from one of its limbs."
-        },
-        {
-            "id": 97,
-            "model": "베르길리우스",
-            "content": "No. But 'it' will leave us alone as long as we are 'here'."
-        },
-        {
-            "id": 98,
-            "model": "베르길리우스",
-            "content": "That is the law of the Great Lake."
-        },
-        {
-            "id": 99,
-            "model": "파우스트",
-            "content": "Now we have time for my explanations."
-        },
-        {
-            "id": 100,
-            "model": "파우스트",
-            "content": "Though the laws of the Great Lake are numerous, I will relay only the pertinent information for now."
-        },
-        {
-            "id": 101,
-            "model": "파우스트",
-            "content": "Lingering longer than a predetermined amount of time in a single Lake will cause one to be struck by the 'Waves' of each Lake."
-        },
-        {
-            "id": 102,
-            "model": "그레고르",
-            "content": "'Waves'...? That didn't look like any waves I've seen before."
-        },
-        {
-            "id": 103,
-            "model": "파우스트",
-            "content": "There are also laws governing the time and direction in which ships are permitted to cross the borders between the Lakes."
-        },
-        {
-            "id": 104,
-            "model": "그레고르",
-            "content": "Wait up. So... if we ever just come to a stop for a bit, that... octopus tentacle-like thing'll whack us?"
-        },
-        {
-            "id": 105,
-            "model": "파우스트",
-            "content": "Precisely. Thus, it naturally follows that everything on the Great Lake is in a constant state of motion to position itself according to the laws."
-        },
-        {
-            "id": 106,
-            "model": "파우스트",
-            "content": "And the route toward our destination will also change accordingly."
-        },
-        {
-            "id": 107,
-            "model": "홍루",
-            "content": "Hmm... Can I get, like, a written list of these laws? My nanny used to stick a piece of paper with our family rules in my room. Not that I could follow them all, but…"
-        },
-        {
-            "id": 108,
-            "content": "That's when..."
-        },
-        {
-            "id": 109,
-            "content": "... I heard a door open. Whoever opened it did so with obvious irritation."
-        },
-        {
-            "id": 110,
-            "model": "이스마엘",
-            "content": "... The Waves finally hit, huh?"
-        },
-        {
-            "id": 111,
-            "model": "단테2",
-            "content": "<Ish... mael?>"
-        },
-        {
-            "id": 112,
-            "content": "After such a long period of isolation, Ishmael staggered out of her room at last."
-        },
-        {
-            "id": 113,
-            "model": "이스마엘",
-            "content": "You can't just scribble the laws of the Great Lake down on a notepad and call it a day. Each Lake has wildly different sets of laws, even though the overarching laws governing the Great Lake are pretty straightforward."
-        },
-        {
-            "id": 114,
-            "model": "이스마엘",
-            "content": "More importantly, you should know that unauthorized recording of their laws is one of U Corp's better-known taboos."
-        },
-        {
-            "id": 115,
-            "model": "료슈",
-            "content": "Then my body will remember it."
-        },
-        {
-            "id": 116,
-            "model": "파우스트",
-            "content": "... Tattooing them on your body, if that is what you are referring to, is also prohibited."
-        },
-        {
-            "id": 117,
-            "model": "파우스트",
-            "content": "Taboo Hunters of U Corp. have been sent in pursuit of individuals who have attempted precisely that. It is best that we do not produce any written records of their laws."
-        },
-        {
-            "id": 118,
-            "model": "단테2",
-            "content": "<… What have you been doing all this time, Ishmael?>"
-        },
-        {
-            "id": 119,
-            "model": "이스마엘",
-            "content": "Whetting my harpoon."
-        },
-        {
-            "id": 120,
-            "model": "단테2",
-            "content": "<Your harpoon? Why?>"
-        },
-        {
-            "id": 121,
-            "model": "이스마엘",
-            "content": "Because I need it to be sharper."
-        },
-        {
-            "id": 122,
-            "model": "이스마엘",
-            "content": "Because I'll give her the kind of pain that makes her wish she was dead. She'll feel it, even from the smallest cuts."
-        },
-        {
-            "id": 123,
-            "model": "히스클리프",
-            "content": "… Then why don't you spare us from your misery and crawl back into your hole."
-        },
-        {
-            "id": 124,
-            "model": "이스마엘",
-            "content": "I'm afraid that if I did, I'd later emerge to a deck littered with your melted, unrecognizable flesh."
-        },
-        {
-            "id": 125,
-            "model": "이스마엘",
-            "content": "And I'm not rearing to see a sight like that again."
-        },
-        {
-            "id": 126,
-            "model": "이스마엘",
-            "content": "Besides..."
-        },
-        {
-            "id": 127,
-            "model": "이스마엘",
-            "content": "Watching you landsmen waste time tinkering with a ship you don't even understand, wasting precious time... has been unbearable."
-        },
-        {
-            "id": 128,
-            "content": "Even though it's been a long time since the incident at the Boatworks, her biting yet anxious lectures have not dulled at all."
-        },
-        {
-            "id": 129,
-            "content": "I was afraid that she might stir up trouble among the Sinners again..."
-        },
-        {
-            "id": 130,
-            "model": "단테2",
-            "content": "<... Okay, fine.>"
-        },
-        {
-            "id": 131,
-            "content": "But she was out here with the rest of us, and I wanted to believe that that was more than enough. I decided not to question her further."
-        },
-        {
-            "id": 132,
-            "model": "이스마엘",
-            "content": "... Hm. I had a feeling this would happen."
-        },
-        {
-            "id": 133,
-            "content": "Ishmael walked up to the helm."
-        },
-        {
-            "id": 134,
-            "model": "오티스",
-            "content": "What are you doing? We are smooth sailing at the moment. A northbound breeze is pushing us along."
-        },
-        {
-            "id": 135,
-            "model": "이스마엘",
-            "content": "I guess it could look that way for some people. Simple, one-dimensional, predictable ground pounders like you."
-        },
-        {
-            "id": 136,
-            "model": "오티스",
-            "content": "You little... How dare you insult my—"
-        },
-        {
-            "id": 137,
-            "model": "단테2",
-            "content": "<Outis, let's hear her out.>"
-        },
-        {
-            "id": 138,
-            "model": "오티스",
-            "content": "... You got lucky, swabbie."
-        },
-        {
-            "id": 139,
-            "model": "단테2",
-            "content": "<Okay, Ishmael. Tell us... How are we not smooth-sailing? We've got the wind at our backs.>"
-        },
-        {
-            "id": 140,
-            "model": "이스마엘",
-            "content": "That's no wind."
-        },
-        {
-            "id": 141,
-            "model": "이스마엘",
-            "content": "We're getting dragged."
-        },
-        {
-            "id": 142,
-            "model": "단테2",
-            "content": "<Dragged? By what?>"
-        },
-        {
-            "id": 143,
-            "model": "이스마엘",
-            "content": "Those ships."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Boong Thuyền Buýt Mephistopheles",
+                "model":"오티스",
+                "content":"Nào, các anh em! Sự đoàn kết và những mệnh lệnh rõ ràng chính là chìa khóa quan trọng trong những giờ phút như này!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"오티스",
+                "content":"Chân phải ta 'Hò', chân trái ta 'Dô'! Tiến lên!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"오티스",
+                "content":"HÒ!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"돈키호테",
+                "content":"DÔ!"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"오티스",
+                "content":"HÒ!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... HÒ DÔ cái mõm chó của mày ấy, mày đứng đó hô lệnh trong khi tụi tao ngồi đạp hộc máu nhìn công bằng không?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"오티스",
+                "content":"Một câu hỏi rất chi là ngu dốt. Một Thuyền Trưởng phải giữ sức của mình, không là sẽ khiến tất cả phải bỏ mạng một cách oan uổng."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"오티스",
+                "content":"Đó chính xác là lý do sao ta không tham gia vào việc này!"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테2",
+                "content":"<......>"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Mày lên chức Chỉ Huy hồi nào?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"단테2",
+                "content":"<À thì, cô ấy có nói cô ấy là Thuyền Trưởng, không phải Chỉ Huy đâu...>"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"료슈",
+                "content":"……."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"료슈",
+                "content":"Đám hải âu chết tiệt nên chim cút đi là vừa."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hay là ta bắt mấy con hải âu ấy rồi huấn luyện nó đạp hộ nhỉ?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ê, Faust! Con khôn! Chứng tỏ cái tư cách thiên tài của mày đi! Mày giỏi thế thì làm dễ như ăn bánh mà, đúng không?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đúng, tôi có thể làm điều đó. Nhưng tôi sẽ không làm vậy vì việc đó thật thiếu hiệu quả. Vì bước đầu tiên để lũ hải âu trở thành một lực lượng lao động ổn định là đào tạo chúng việc vệ sinh cơ bản."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"카론",
+                "content":"Charon chán. Charon muốn vờ-rùm-vờ-rùm."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"료슈",
+                "content":"Ta không làm nữa. Ngươi là tài xế, thì đi mà làm việc của ngươi đi. Trông ngươi cũng rảnh rỗi gớm, mà trùng hợp thay vừa có việc cần đổi ca này. Lại hợp lý quá còn gì."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ồ hố, bà chắc không đó? Ông Vergie sẽ không bỏ qua đâu nha~ Làm vậy là bà sẽ được cùng ông ta \"trò chuyện\" cho đấy, nhớ không đó?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ấy... Chờ chút đã...! Dành chút thời gian ra để nghĩ đã nào."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ta nghĩ về lý do mà tất cả phải nai lưng ra đạp tới gãy cả chân để cấp điện cho máy phát được không?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"오티스",
+                "content":"...Việc soi mói và đổ lỗi cho kẻ khác vì thất bại của chính mình là... một suy nghĩ thối nát. Tất cả mọi thứ xảy ra trên con đường ta đi đều là một phần của quá trình."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"그레고르",
+                "content":"Này, tôi không có nói là ta nên đổ lỗi cho nhau đâu. Tôi chỉ đang thắc mắc là tại sao chúng ta lại phải đạp khổ sở tới vậy thôi. Đâu có thứ gì đuổi theo ta đâu."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chúng ta đang hướng tới một trong những bến cảng lớn nhất của Tập Đoàn U, và ta biết rõ vị trí cũng như cách để tới được đó."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"그레고르",
+                "content":"Để yên thì cái cảng cũng đâu tự trôi đi chỗ khác đâu? Sao mà ta phải gấp gáp vậy?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "content":"……."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi nói có gì sai sao? Hồ Lớn từ nãy tới giờ vẫn chưa có động tĩnh nào. Chẳng lẽ tự dưng lại có một con quái vật từ đâu tới tấn công chúng ta?"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có vẻ như kinh nghiệm trên chiến trường của anh đã trở thành một dạng trực giác. Đáng khen thật đấy, Gregor."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"그레고르",
+                "content":"Gì cơ...?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"파우스트",
+                "content":"Faust thấy rằng sự phát triển này mang tính tích cực."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"파우스트",
+                "content":"Ta phải đi khỏi khu vực này trong vòng mười phút tới. Có vẻ chúng ta... đang thụt lùi so với những dự đoán của tôi."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"그레고르",
+                "content":"Được rồi... nghe có vẻ bí hiểm đấy. Tại sao ta phải rời đi trong đúng mười phút tới?"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"파우스트",
+                "content":"Vì đấy là 'luật của Hồ Lớn'."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"로쟈",
+                "content":"À... Biết ngay mà! Lại là mấy cái luật lệ khỉ khô của Hồ Lớn đó nữa sao?!"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"파우스트",
+                "content":"...?"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"파우스트",
+                "content":"Những hiểu biết của cô về luật của Hồ Lớn là một bước phát triển đầy bất ngờ đấy cô Rodion. Thật khó tin là cho ngay cả với kinh nghiệm được củng cố, thì trực giác của cô vẫn—"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"로쟈",
+                "content":"Xin lũi, xin lũi~ Tôi chỉ muốn thể hiện xíu thôi ấy mà. Mình cứ đi hỏi hoài cũng oải lắm chứ, cô hiểu mừ."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"파우스트",
+                "content":"Hồ Lớn của Tập Đoàn U có những luật... không được vi phạm."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"파우스트",
+                "content":"Và tất nhiên. Gregor, cảng có thể và sẽ rời đi."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Con mẹ... cái hồ nước mà cũng có luật nữa à?"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Rồi như nào, làm trái luật thì công an Hồ ra đánh dân à?"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"료슈",
+                "content":"Tốt nhất nên có luật cho phép ta C.C. ngươi, thằng nhãi lắm mồm. Tai ta ứa máu ra rồi."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":null,
+                "content":"‘Hàà... Mọi người, thôi ngay đi.‘"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Tôi gần như có thể nghe thấy tiếng thở dài đúng chuẩn theo sau những lời nói chân thành nhưng cay nghiệt. Cứ như thể ai đó đã ghi âm lại tiếng thở dài của cô ấy và phát nó trong đầu tôi vậy."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "content":"Nhưng Ishmael hiện giờ không hề có mặt ở bất kì đâu trên boong tàu."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Vậy nên từ giờ trở đi, nếu ngài muốn tôi làm bất cứ điều gì thì cứ trình bày ra. Rõ ràng vào."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy không hề nói đùa. Ishmael vẫn ở yên trong phòng của cô ấy, không hó hé ra ngoài mặc cho sự huyên náo diễn ra ngoài đây."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "content":"Không xuất hiện lấy một lần xuyên suốt mọi chuyện đã xảy ra kể từ... sự cố lần đó."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"파우스트",
+                "content":"Mặc dù tôi muốn giải thích cặn kẽ hơn, nhưng rời khỏi khu vực này hiện là ưu tiên hàng đầu."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chúng ta còn 7 phút sau cuộc trò chuyện ban nãy theo tính toán của tôi."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Chúng ta đang ở xa tầm 15 cây số theo đường chim bay."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Mỗi người phải đạp nhằm phát đủ năng lượng để di chuyển tiếp ít nhất 10 cây mỗi giờ nếu ta muốn thoát kịp thời."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Thật tuyệt vời. Ta rất mong chờ được nhìn cả lũ ngựa hoang lần đầu chạy chung bầy."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Tiến lên! Rocinante! Đích đến của chúng ta ở ngay phía trước rồi! Phi nước đại thôi!"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"로쟈",
+                "content":"Con bé đó... lấy đâu ra... sức mà... Ặc, ựa..."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"그레고르",
+                "content":"Khặc, khặc... Tôi không xong rồi... Cứ bỏ lại tôi mà đi tiếp đi..."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Rồi để anh lại ở đâu... Chúng ta đang ở... trên một con thuyền... ặc."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Hộc. Hộc. Hộc. Hộc."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Hô hấp bằng cơ hoành sẽ duy trì tốc độ tương đối ổn định khi tập luyện ở cường độ cao."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đặc biệt hơn là mỗi Tội Nhân có trách nhiệm sản sinh năng lượng đủ cho tốc độ khoảng 10km\/h. Nếu muốn đi với tốc độ nhanh hơn thì sẽ cần thở dốc để duy trì nó."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"로쟈",
+                "content":"Gái không biết mệt là gì hả?!"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"파우스트",
+                "content":"Không. Và ta còn 3 phút, tính từ giờ."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ặc... Ta còn chưa biết trong 3 phút tiếp theo sẽ xảy ra chuyện gì cả! Mà làm cái này để làm chi thế?!"
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"단테2",
+                "content":"<Cô ấy nói không còn thời gian nữa đâu! Mau dùng hết sức bình sinh mà đạp đi, như thể tính mạng của chúng ta phụ thuộc vào nó vậy!>"
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"카론",
+                "content":"Charon muốn vờ-rùm-vờ-rùm. Cái này là cót két cót két thôi."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"카론",
+                "content":"Cót két cót két. Nghe hổng có vui."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"홍루",
+                "content":"Hừm hưm~ Ngâm nga vài khúc ca khi lao động hóa ra lại tạo động lực ghê ha."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hả?! Sao mấy người còn năng động dữ vậy?"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"홍루",
+                "content":"So với chế độ tập luyện mà gia đình ép tôi phải theo thì chừng này có đáng kể gì đâu ạ~"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ặc, tụi mày! Đạp đi nói ít thôi!"
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"파우스트",
+                "content":"Còn 30 giây."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"싱클레어",
+                "content":"30... 30 giây...!"
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Khàààà! Thật hào hứng làm sao!!! Quả thật! Đây mới là phiêu lưu!!!"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Thực như lao thẳng vào một kẻ thù siêu khổng lồ, phải ch— Á?! Khặc! Khụ... oẹẹẹ!"
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Đừng nói nhiều. Phải. Cố gắng. Thở đều. Hít vào. Thở ra. Hít vào. Thở ra. Hít vào. Thở ra. Hít vào. Thở ra. Hít vào. Thở ra."
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"그레고르",
+                "content":"Phì... Phò... Còn... bao lâu... nữa..."
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"파우스트",
+                "content":"Còn 10 giây."
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"파우스트",
+                "content":"4 giây."
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Thường thì... không phải người ta hay đếm ngược theo cấp số cộng của 5 sao...?!"
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"오티스",
+                "content":"Nhìn tươi tỉnh đấy, lũ thuyền viên! Dồn hết tâm huyết vào đi! Khổ trước! Sướng sau!"
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "content":"Bằng một cách thần kì, chúng tôi đã thoát ra khỏi khu vực đó trước khi Faust đếm xuống số không."
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Một vài Tội Nhân ngay lập tức ngã nhào xuống boong tàu như những con rối bất động, trong khi một vài người trông như thể bọn họ vừa mới ra công viên hóng mát vậy."
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"단테2",
+                "content":"<Bằng một cách nào đó... chúng ta vượt qua rồi, nhưng...>"
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi chả thấy dấu hiệu nào của mấy cái \"luật\" này sất... Tôi có đang quên điều gì không... Thưa Cô Faust?"
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"히스클리프",
+                "content":"A... Tao thề, nếu mà nguyên cái đống \"luật của Hồ Lớn\" này thứ tụi mày bịa ra..."
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... chỉ để giết thời gian ngoài này thôi, tao cũng sẽ..."
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":null,
+                "content":"Mặt Hồ tĩnh lặng chúng tôi vừa mới đạp hết sức qua... đã biến mất, như thể nó chưa bao giờ tồn tại ở đó."
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":null,
+                "content":"Sâu bên dưới là một thứ... khổng lồ. Vô vàn cái chân—hoặc là xúc tu—ngọ nguậy, vươn lên khỏi mặt Hồ. Tôi thậm chí còn không phân biệt được đâu là Hồ, đâu là nó nữa."
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":null,
+                "content":"Nó vừa trồi lên từ cái Hồ sao? Hay là..."
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":null,
+                "content":"Phăi chăng chúng tôi đã đi trên bề mặt cơ thể của nó mà không hay biết điều gì suốt quãng thời gian qua sao?"
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"돈키호테",
+                "content":"OÁÁÁÁÁÁ?!"
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":null,
+                "content":"Tôi thậm chí còn không thể tìm được bất kì từ ngữ nào để miêu tả độ lớn của thứ đó. Sự xuất hiện của nó mang tới những gợn sóng loang lổ khắp mặt nước và dạt đến chỗ khu vực chúng tôi đang toạ lạc..."
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":null,
+                "content":"Mephistopheles rung lắc dữ dội như thể nó sắp sửa bị lật úp lại. Và các Tội Nhân trên boong tàu đều được tắm biển ướt hết người luôn."
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chà... Nãy hên đấy! Không là thành bánh kẹp rồi..."
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"돈키호테",
+                "content":"T-thì! Quả thực, chẳng cuộc p-phiêu lưu nào là trọn vẹn, khụ, oẹ... mà th-thiếu đi hiểm nguy cả..."
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"료슈",
+                "content":"K.T. Giờ thì đúng ý ta muốn rồi."
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Ta không có cách đỡ để được bất cứ đòn nào từ những chi của đối tượng."
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Không. Tuy nhiên 'nó' sẽ để chúng ta yên miễn là chúng ta còn ở 'đây'."
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Ấy chính là quy luật của Hồ Lớn."
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"파우스트",
+                "content":"Giờ ta đã có thời gian để tôi giải thích."
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"파우스트",
+                "content":"Dù luật của Hồ Lớn là vô số, nhưng tạm thời tôi sẽ dựa vào những thông tin có liên quan."
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"파우스트",
+                "content":"Ở quá lâu trong một khu vực của một Hồ sẽ khiến ta bị 'Sóng' đánh."
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"그레고르",
+                "content":"‘Sóng‘ á...? Trước giờ tôi chưa từng thấy con sóng nào như thế cả."
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"파우스트",
+                "content":"Ngoài ra còn có luật lệ quy định thời gian và hướng tàu thuyền được phép đi qua biên giới giữa các Hồ."
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chờ chút. Vậy là... chỉ cần ta dừng di chuyển một lúc thôi thì, cái thứ... xúc tu bạch tuộc gì gì đó đấy sẽ quật chúng ta à?"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"파우스트",
+                "content":"Chính xác. Do đó, là lẽ tự nhiên khi mọi thứ trong Hồ Lớn đều luôn ở trạng thái di chuyển dựa theo các luật."
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"파우스트",
+                "content":"Kéo theo tuyến đường của chúng ta cũng sẽ thay đổi."
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"홍루",
+                "content":"Hừm... Có thể sắp xếp những quy luật đó lại thành một danh sách không nhỉ? Trước đây nhũ mẫu cũng từng dán giấy chép gia quy khắp phòng riêng của tôi luôn đó. Cơ mà để tuân thủ trọn vẹn thì chẳng dễ dàng gì..."
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":null,
+                "content":"Đó là lúc..."
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":null,
+                "content":"...tôi nghe thấy tiếng mở cửa. Người mở nó ra làm vậy với sự khó chịu thấy rõ."
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...Cuối cùng Sóng cũng ập đến rồi hử?"
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ish... mael?>"
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":null,
+                "content":"Sau khoảng thời gian dài tự cô lập bản thân, Ishmael cuối cùng cũng khập khiễng bước ra khỏi phòng của mình."
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không phải cứ ghi hết luật của Hồ Lớn ra một tờ giấy là xong đâu. Mỗi vùng có cả một bộ luật riêng không bộ nào giống bộ nào, dù các điều khoản chính áp dụng lên toàn bộ Hồ đều khá dễ hiểu."
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Vả lại quan trọng hơn, mọi người nên biết là việc lưu trữ luật của Tập Đoàn U mà chưa được thông qua là điều cấm kỵ."
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"료슈",
+                "content":"Thế thì cơ thể ta sẽ ghi nhớ chúng."
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nếu cô đang đề cập việc xăm chúng lên cơ thể thì... nó cũng bị cấm."
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"파우스트",
+                "content":"Những Thợ Săn Phạm Kỵ của Tập Đoàn U đã được cử đến để săn lùng những cá nhân cố thử điều đó. Thế nên tốt nhất là ta đừng ghi chép lại các điều luật."
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Cô đã làm gì suốt thời gian qua thế, Ishmael?>"
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mài lao móc của mình."
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"단테2",
+                "content":"<Lao móc của cô ư? Tại sao?>"
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Vì tôi muốn nó phải bén hơn nữa."
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Vì tôi sẽ tặng bà ta cơn đau thống thiết tới mức thà chết đi còn hơn. Con mụ ấy sẽ phải quằn quại chỉ vì vết cắt nhỏ nhất."
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Thế sao mày không chui vào lỗ của mày lại đi để tụi tao đỡ phải nghe mày than đời."
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"이스마엘",
+                "content":"E là nếu làm vậy thì tối nay tôi sẽ phải đặt chân lên một boong tàu be bét xác thịt của mấy người."
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mà tôi thì chẳng còn mấy tâm trạng để thấy cảnh ấy nữa đâu."
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Với cả..."
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhìn một đám người đất liền chẳng hiểu cái đinh gì về con tàu này xong đi táy máy lung tung... thực sự quá chướng mắt."
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":null,
+                "content":"Mặc dù đã trôi qua một khoảng thời gian rất dài kể từ sự cố ở Xưởng Tàu, những lời lẽ đâm chọt và bất an của cô ấy vẫn không hề thuyên giảm đi."
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":null,
+                "content":"Tôi đã sợ rằng cô ấy có thể sẽ gây thêm rắc rối giữa các Tội Nhân một lần nữa..."
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Được thôi.>"
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":null,
+                "content":"Nhưng cô ấy đã ra đây với tất cả chúng tôi, và tôi muốn tin rằng như vậy là quá đủ rồi. Tôi quyết định không hỏi cô ấy thêm gì nữa."
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...Hừm. Biết ngay là sẽ thế này mà."
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":null,
+                "content":"Ishmael bước đến chỗ bánh lái."
+            },
+            {
+                "id":134,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngươi làm gì đấy? Chúng ta đang thuận buồm xuôi gió đây. Một cơn gió bắc đang đẩy chúng ta đi nãy giờ."
+            },
+            {
+                "id":135,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ừ. Đoán là nó trông như thế với vài người thật. Nhất là với kiểu người đất liền tư duy nông cạn, tủn mủn và phẳng lì như cô."
+            },
+            {
+                "id":136,
+                "place":null,
+                "model":"오티스",
+                "content":"Con nhóc... Ngươi dám sỉ nhục—"
+            },
+            {
+                "id":137,
+                "place":null,
+                "model":"단테2",
+                "content":"<Outis, hãy nghe cô ấy nói hết đi.>"
+            },
+            {
+                "id":138,
+                "place":null,
+                "model":"오티스",
+                "content":"...Ngươi may đấy, con lau dọn."
+            },
+            {
+                "id":139,
+                "place":null,
+                "model":"단테2",
+                "content":"<Được rồi, Ishmael. Hãy nói cho chúng tôi biết... Sao chúng ta lại không thuận buồm xuôi gió thế? Chúng ta có gió biển trợ lực mà.>"
+            },
+            {
+                "id":140,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Không phải do gió đâu."
+            },
+            {
+                "id":141,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chúng ta đang bị kéo đi."
+            },
+            {
+                "id":142,
+                "place":null,
+                "model":"단테2",
+                "content":"<Bị kéo ư? Bởi thứ gì cơ?>"
+            },
+            {
+                "id":143,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mấy con tàu đó."
+            }
+        ]
+    }
+

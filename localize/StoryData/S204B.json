@@ -1,142 +1,214 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Pawn Avenue",
-      "content": "As Saude predicted, all the pawnbrokers were busy closing their street entrances to avoid trouble."
-    },
-    {
-      "id": 1,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ey you pricks!! Stop right where you’re standin’!"
-    },
-    {
-      "id": 2,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ya think you can get away with messing with our family, tiny fave?"
-    },
-    {
-      "id": 3,
-      "model": "이스마엘",
-      "content": "What’s with brutish Syndicates and their pretend families? Is that the only thing they can think of to bond with each other?"
-    },
-    {
-      "id": 4,
-      "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Look at the bump you made on our precious young’un’s head!"
-    },
-    {
-      "id": 5,
-      "model": "이스마엘",
-      "content": "……"
-    },
-    {
-      "id": 6,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Good gracious… This was not part of the plan…"
-    },
-    {
-      "id": 7,
-      "content": "Effie clutches his forehead as if it were aching."
-    },
-    {
-      "id": 8,
-      "content": "I thought about goading him to keep some headache pills at hand if this was enough to cause him pain, but I refrained."
-    },
-    {
-      "id": 9,
-      "content": "My lack of a head would’ve made the message far less impactful, anyway."
-    },
-    {
-      "id": 10,
-      "model": "오티스",
-      "content": "You two, you thought we were worthless scum until now, didn’t you?"
-    },
-    {
-      "id": 11,
-      "model": "오티스",
-      "content": "I know you’ve been seeing our group as sewage full of waste!"
-    },
-    {
-      "id": 12,
-      "model": "그레고르",
-      "content": "I don’t think anyone spoke of us that harshly, Outis…"
-    },
-    {
-      "id": 13,
-      "model": "오티스",
-      "content": "Have you not wondered why we have been charged with the momentous mission of claiming Golden Boughs despite that?"
-    },
-    {
-      "id": 14,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Wh, why is… that?"
-    },
-    {
-      "id": 15,
-      "content": "Even Effie seemed to be taken aback by Outis’s imposing attitude."
-    },
-    {
-      "id": 16,
-      "model": "오티스",
-      "content": "Although I won’t disagree that the others are rubbishes drenched in foul water…"
-    },
-    {
-      "id": 17,
-      "model": "그레고르",
-      "content": "No, seriously, you’re the only one who says that…"
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "O-Oh, that’s what Ms. Outis had been thinking all this time…"
-    },
-    {
-      "id": 19,
-      "model": "오티스",
-      "content": "I have remained undefeated, and our manager is capable of resuscitating us, making us practically incapable of death."
-    },
-    {
-      "id": 20,
-      "model": "오티스",
-      "content": "In fact, just the two of us should be sufficient. Though that weasel Vergilius seems to disagree…"
-    },
-    {
-      "id": 21,
-      "model": "오티스",
-      "content": "The point is, these detrites won’t be scrapped even after countless battles. They will come back as the exact same piles of trash they were before death."
-    },
-    {
-      "id": 22,
-      "model": "그레고르",
-      "content": "…Sigh."
-    },
-    {
-      "id": 23,
-      "model": "이스마엘",
-      "content": "That was a very inspiring way of reaffirming that we’re living, breathing garbage to you."
-    },
-    {
-      "id": 24,
-      "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "…Morons."
-    },
-    {
-      "id": 25,
-      "model": "오티스",
-      "content": "Enemies are approaching. Are you prepared, Manager?"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phố Cầm Đồ",
+                "content":"Như Saude dự đoán trước, toàn bộ các chủ tiệm cầm đồ đã vội vã đóng cửa để tránh vướng vào phiền phức.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Êi mấy thằng khốn!! Dừng ngay đấy!",
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Bọn mày nghĩ có thể rời khỏi đây sau khi động vào gia đình của tao sao, lũ nhãi ranh?",
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Một nhóm đầu trộm đuôi cướp chơi trò gia đình với nhau, bọn này bị gì vậy? Chẳng lẽ đấy là cách gắn kết duy nhất mà chúng nó biết à?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Nhìn vào chỗ sưng vù mà bọn bây đánh vào đầu thằng nhỏ yêu dấu của bọn ta đi!",
+                "model":"세보이고싶었던콩콩파조직원",
+                "teller":"Tên Tingtang\nTự mãn",
+                "title":"Băng Tình Tang"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":".......",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Ôi lạy chúa... Điều này không có nằm trong kế hoạch...",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Effie ấn mạnh vào thái dương như thể nó đang nhói lên.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Tôi đã nghĩ tới việc nên giục cậu ta giữ sẵn vài viên thuốc đau đầu nếu chuyện này đủ khiến bản thân cậu ta cảm thấy quá sức chịu đựng, nhưng tôi cản bản thân lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Dù gì việc tôi thiếu một cái đầu là thông điệp đủ sâu rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Hai ngươi, các ngươi coi tụi ta như những tên cặn bã vô giá trị từ đầu đến giờ, nghĩ thế là hay à?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Ta biết tỏng các ngươi coi nhóm tụi ta như đống rác trôi trên biển!",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Tôi không nghĩ là có ai coi thường chúng ta thậm tệ vậy đâu, Outis...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Ngươi biết tại sao chúng ta được giao cho cái nhiệm vụ quan trọng là giành lấy Cành Vàng sau những chuyện đấy không?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Tạ, tại sao lại... thế?",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Kể cả Effie cũng bị thái độ mạnh mẽ của Outis làm cho bất ngờ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Ừ thì ta không phủ nhận việc những kẻ kia chỉ như rác thải trôi lềnh bềnh trên sông...",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Không có đâu, thật đấy, chỉ có mỗi cô nói vậy thôi...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Ô-Ồ, thì ra đó là những gì mà cô Outis đã luôn nghĩ từ trước tới giờ...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Ta đã luôn bất bại, và quản lý của chúng ta có khả năng hồi sinh khiến cả lũ gần như không thể gặp mặt tử thần.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Hay nói thẳng ra, chỉ cần có ta và quản lý là đã đủ rồi. Mặc dù con chồn hôi Vergilius kia có vẻ như không đồng ý...",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Nhưng cái vấn đề là, những cái vụn phế thải kia sẽ không bị tiêu hủy kể cả sau vô số trận chiến. Chúng sẽ trở lại và phế vật như trước khi chết.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"...Hầy.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Một cách nói khá là hoành tráng để nhấn mạnh việc chúng tôi đang sống và bốc mùi rác rến đối với cô đấy.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"...Bọn đần.",
+                "model":"에피",
+                "teller":"Effie",
+                "title":"LCCB"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Kẻ địch đang ập tới. Ngài sẵn sàng chưa, thưa Quản Lý?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

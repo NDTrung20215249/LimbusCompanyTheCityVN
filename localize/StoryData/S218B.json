@@ -1,105 +1,142 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Private Room",
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Uh… What are you supposed to be…?"
-    },
-    {
-      "id": 1,
-      "model": "단테",
-      "content": "<Rodya, how did it go?!>"
-    },
-    {
-      "id": 2,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "Made new friends in the meantime, have you, Rodya?"
-    },
-    {
-      "id": 3,
-      "content": "Sonya laid his hand of cards open on the table."
-    },
-    {
-      "id": 4,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "The game is over."
-    },
-    {
-      "id": 5,
-      "model": "소냐",
-      "teller": "Sonya",
-      "title": "Yurodivy",
-      "content": "You win, Rodion. I have no objections."
-    },
-    {
-      "id": 6,
-      "content": "He then left through the door and didn’t return."
-    },
-    {
-      "id": 7,
-      "content": "Instead, a deafeningly hollow clap suddenly filled the room."
-    },
-    {
-      "id": 8,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Haha, caramba… I enjoyed the spectacle, but…"
-    },
-    {
-      "id": 9,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "I’m not as cool as Sonya."
-    },
-    {
-      "id": 10,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Since you brought your friends, why don’t I introduce some of mine as well?"
-    },
-    {
-      "id": 11,
-      "model": "그레고르",
-      "content": "…Y’know, uh, I’m pretty sure I heard a member of your Syndicate say that gambling was purely entertainment for you."
-    },
-    {
-      "id": 12,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Mhm. So isn’t this more entertaining than accepting defeat right away?"
-    },
-    {
-      "id": 13,
-      "model": "로쟈",
-      "content": "You were gonna push on with force regardless of who won, weren’t you?"
-    },
-    {
-      "id": 14,
-      "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "Pfh. Think about it. I have strength and manpower, so why would I give up on the Golden Bough ‘cause a round or three of a game said so?"
-    },
-    {
-      "id": 15,
-      "model": "로쟈",
-      "content": "Aight, then. I’m actually glad you’re a rebel."
-    },
-    {
-      "id": 16,
-      "model": "로쟈",
-      "content": "I was starting to get bored of sitting around too."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Riêng",
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Ờ... Các ngươi là ai...?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Rodya, mọi chuyện sao rồi?!>"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Quen được bạn mới à, Rodya?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Sonya ngửa bài lên bàn."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Ván bài kết thúc."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"소냐",
+                "teller":"Sonya",
+                "title":"Yurodivy",
+                "content":"Cô thắng rồi đấy, Rodion. Tôi không có phản đối gì hết."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cậu ta rời đi từ cửa và không hề có ý quay trở lại."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thay vì thế, một tràng vỗ tay lặng thing đột nhiên vang khắp phòng."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Haha, chúc mừng... Dù ta rất thích cảnh tượng này, nhưng..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Ta không ngầu như Sonya được."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Bởi vì cô đã vác theo bạn của mình tới đây, nên tại sao không để ta giới thiệu một vài người bạn của ta nốt nhỉ?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"...Cô biết đó, ờm, tôi khá chắc là có một thành viên từ Băng Đảng của cô từng nói là việc đánh bạc với mấy người chỉ là trò giải trí thôi mà."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Ừmm. Vậy thì điều này không phải thú vị hơn việc đơn giản là ta chấp nhận thất bại ngay và luôn sao?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Hẳn ngươi đã chuẩn bị vũ lực cho dù ai thắng hay thua, đúng không?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"아이드",
+                "teller":"Aida",
+                "title":"Los Mariachis",
+                "content":"Phụt... ha ha. Nghĩ cho kỹ nào. Ta có sức mạnh lẫn cả nhân lực, vậy thì vì cớ gì mà ta lại từ bỏ Cành Vàng chỉ vì một hay ba ván bài kia chứ?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Thế thì. Ta mừng vì ngươi đúng là kẻ nổi loạn thiệt."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Mà ta cũng sắp phát chán với việc ngồi một chỗ rồi."
+            }
+        ]
     }
-  ]
-}
+

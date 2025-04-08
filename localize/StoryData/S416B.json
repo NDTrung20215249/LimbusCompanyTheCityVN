@@ -1,96 +1,134 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Nest K - LC Branch Interior",
-            "content": "...The group remained consistently noisy until the moment we arrived."
-        },
-        {
-            "id": 1,
-            "model": "료슈",
-            "content": "Only in tranquility can art bloom in its full grace..."
-        },
-        {
-            "id": 2,
-            "model": "슈렌느",
-            "teller": "Shrenne",
-            "title": "K Corp. Laboratory",
-            "content": "There's always gonna be a snobby jerk on any team."
-        },
-        {
-            "id": 3,
-            "model": "오티스",
-            "content": "I must agree. I can't tell if they're here to handle a request or hang out... They loosen up too easily..."
-        },
-        {
-            "id": 4,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "If there's one fortunate thing, however, it's that we won't encounter any Abnormalities here."
-        },
-        {
-            "id": 6,
-            "model": "단테",
-            "content": "<Why does this person keep talking to me?>"
-        },
-        {
-            "id": 7,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "To tell you the truth, the first encounter with Abnormalities was a series of shocking revelations."
-        },
-        {
-            "id": 8,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It was hybrid, so to speak. I wouldn't have been able to conceive such a concept as developing a new source of energy from the human subconscious."
-        },
-        {
-            "id": 9,
-            "model": "단테",
-            "content": "<Hmm…>"
-        },
-        {
-            "id": 10,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "I believe that the so widespread and standard, hm, what was it again... right, the age of humanity is coming to an end. Now is the age of the superior minds. Not too many have realized this with their hearts yet."
-        },
-        {
-            "id": 11,
-            "model": "단테",
-            "content": "<What's an \"age of humanity\"?>"
-        },
-        {
-            "id": 12,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "You have no idea how glad I was to have you on board."
-        },
-        {
-            "id": 13,
-            "model": "단테",
-            "content": "<...Some one-sided conversation that was... Much worse than the ones I have with Vergilius.>"
-        },
-        {
-            "id": 14,
-            "content": "Was it even a conversation if one of us never communicated their thoughts to the other?"
-        },
-        {
-            "id": 15,
-            "model": "동랑",
-            "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Shh. I hear some movement."
-        },
-        {
-            "id": 16,
-            "content": "I think you're the only one here who has to keep his mouth shut."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nest K - Nội Bộ Chi nhánh LC",
+                "content":"...Cả nhóm vẫn huyên náo cho đến tận lúc chúng tôi đến nơi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Chỉ trong tĩnh lặng thì nghệ thuật mới nở rộ rực rỡ được...",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Quả nhiên ở cái đội nào cũng có vài kẻ kiêu căng mà.",
+                "model":"슈렌느",
+                "teller":"Shrenne",
+                "title":"Phòng Thí Nghiệm T.Đoàn K"
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Ta không phản đối. Nhìn bọn chúng, ta cũng không biết chúng đang đi làm hay đi chơi... Chúng thả lỏng bản thân quá sớm...",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Thôi thì chúng ta sẽ không gặp chúng ta sẽ không gặp bất kỳ một Dị Thể nào trong đây cả.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"<Tại sao người này cứ liên tục nói chuyện với tôi thế?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Thật lòng mà nói, lần đầu tiên đụng độ với Dị Thể đã mang lại cho chúng tôi những phát hiện chấn động vậy.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Nó như là một sự kết hợp. Tôi sẽ không thể nào có thể tưởng tượng ra khái niệm của việc phát triển một nguồn năng lượng mới từ tiềm thức của con người được.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"<Hừm...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Tôi tin rằng đó là điều hiển nhiên, hừm, nó là gì ấy nhỉ... à đúng rồi, thời đại của con người đang dần tiến đến hồi kết. Bây giờ là thời đại của những bộ óc siêu việt. Không mấy người có thể nhận thức được điều này trong thâm tâm của họ đâu.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"<\"Thời đại của con người\" là cái gì cơ?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Mọi người không biết là tôi mừng đến cỡ nào khi có sự trợ giúp của mọi người đâu.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"<...Đúng là đối thoại một chiều mà... Còn tệ hơn những lần tôi nói chuyện với Vergilius nữa.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Liệu nó có được xem là đối thoại không nếu như một trong hai không thể nói ra suy nghĩ của bản thân cho người kia nghe hiểu được?",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Suỵt. Tôi nghe thấy có tiếng động.",
+                "model":"동랑",
+                "teller":"Dongrang",
+                "title":"Phòng Ban P.Triển T.Nguyên Thực Phẩm T.Đoàn K"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Tôi nghĩ anh là người duy nhất ở đây nên giữ im lặng đấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

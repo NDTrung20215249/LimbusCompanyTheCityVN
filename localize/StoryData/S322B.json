@@ -1,157 +1,206 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "District 11 - LC Branch Interior",
-      "content": "The branch facility we entered was not as well-preserved as the one we had visited in District 4."
-    },
-    {
-      "id": 1,
-      "content": "It seems N Corp’s Inquisitors have been using this place as their base for a while; various torture devices and bits of flesh and machinery like those we saw in town came into my sight."
-    },
-    {
-      "id": 2,
-      "teller": "Tortured Prosthesis",
-      "title": "Calw Townsfolk",
-      "content": "Please stop… It hurts… It hurts so much…!"
-    },
-    {
-      "id": 3,
-      "model": "N사심문관1",
-      "teller": "Scourging Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Hah. This one speaks of suffering."
-    },
-    {
-      "id": 4,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "It must be a false cry. Pay it no mind."
-    },
-    {
-      "id": 5,
-      "teller": "Tortured Prosthesis",
-      "title": "Calw Townsfolk",
-      "content": "No… The pain… It’s real, I swear…"
-    },
-    {
-      "id": 6,
-      "model": "N사심문관1",
-      "teller": "Scourging Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Did it not hurt to attach these impurities to your flesh? Did your conscience not scream as you rejected your humanity?"
-    },
-    {
-      "id": 7,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Enough. This one is too far gone to repent."
-    },
-    {
-      "id": 8,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Does the absence of tears not say enough? This one is only pretending to confess."
-    },
-    {
-      "id": 9,
-      "teller": "Tortured Prosthesis",
-      "title": "Calw Townsfolk",
-      "content": "No, wait! I can… I can shed tears! So I beg you, please…"
-    },
-    {
-      "id": 10,
-      "model": "N사심문관1",
-      "teller": "Scourging Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "We can afford to verify, can we not?"
-    },
-    {
-      "id": 11,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "…Hm. Indeed, for a genuine effusion of sorrow suggests humanity."
-    },
-    {
-      "id": 12,
-      "teller": "Tortured Prosthesis",
-      "title": "Calw Townsfolk",
-      "content": "Thank you… Thank you so much…"
-    },
-    {
-      "id": 13,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Now, we shall lift your eye."
-    },
-    {
-      "id": 14,
-      "model": "N사심문관1",
-      "teller": "Scourging Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Their heretical depravity knows no bounds; they’ve gone so far as to make vile devices that mimic tear glands. We must see with our own true eyes that this isn’t the case."
-    },
-    {
-      "id": 15,
-      "model": "N사심문관1",
-      "teller": "Scourging Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "We will let you go if we can confirm that your eye socket is indeed of flesh and blood."
-    },
-    {
-      "id": 16,
-      "teller": "Tortured Prosthesis",
-      "title": "Calw Townsfolk",
-      "content": "Wha… No—stop!!!"
-    },
-    {
-      "id": 17,
-      "model": "로쟈",
-      "content": "…Huzzah!"
-    },
-    {
-      "id": -1,
-      "model": "//퍽"
-    },
-    {
-      "id": 18,
-      "model": "N사심문관1",
-      "teller": "Scourging Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Gah… Ngh…"
-    },
-    {
-      "id": -1,
-      "model": "//효과음",
-      "content": "털썩"
-    },
-    {
-      "id": 19,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "…You heretics truly are like pests."
-    },
-    {
-      "id": 20,
-      "model": "N사심문관2",
-      "teller": "Interrogative Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Never alone, with a habit of constantly obstructing our great task; you are kindred creatures indeed."
-    },
-    {
-      "id": 21,
-      "content": "Rodya shrugged when I looked back."
-    },
-    {
-      "id": 22,
-      "model": "로쟈",
-      "content": "What? I wanted to take charge for once."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Chi Nhánh Nội Bộ Công Ty L - Quận 11",
+                "content":"Nhánh cơ sở chúng tôi đi vào không được bảo quản tốt như nhánh ở Quận 4.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Có vẻ như các Phán Quan của Tập Đoàn N đã sử dụng nơi này như căn cứ của họ được một khoảng thời gian dài rồi; rất nhiều thiết bị tra tấn cùng những mảng thịt và máy móc giống cảnh tượng chúng tôi đã nhìn thấy trong thị trấn xuất hiện trong tầm mắt tôi.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Làm ơn dừng lại… Đau… Đau quá…!",
+                "teller":"Người Cấy Ghép bị Tra Tấn",
+                "title":"Người Dân Calw",
+                "model":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Hà. Hắn ta đang gào lên đau đớn.",
+                "teller":"Phán Quan Nghiêm Khắc",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관1"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Chỉ là tiếng khẩn khoản giả tạo mà thôi. Lơ nó đi.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Không… Cơn đau… là thật mà, tôi thề…",
+                "teller":"Người Cấy Ghép bị Tra Tấn",
+                "title":"Người Dân Calw",
+                "model":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Liệu việc cấy ghép mấy thứ bẩn tưởi đó lên người không khiến ngươi đau sao? Chẳng lẽ ngươi đã không thét lên tuyệt vọng khi đã vứt bỏ phần xác thịt của bản thân?",
+                "teller":"Phán Quan Nghiêm Khắc",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관1"
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Đủ rồi. Tên này đã không còn có thể hối cả được nữa.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Thiếu đi nước mắt còn chưa rõ ràng ư? Tên này chỉ đang giả vờ thú tội mà thôi.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Không, đợi đã! Tôi có thể… Tôi có thể khóc mà! Tôi cầu xin các người, làm ơn…",
+                "teller":"Người Cấy Ghép bị Tra Tấn",
+                "title":"Người Dân Calw",
+                "model":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Chúng ta có thể kiểm chứng điều này, không phải vậy sao?",
+                "teller":"Phán Quan Nghiêm Khắc",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관1"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"…Hừm. Quả thật, cho việc thể hiện thứ đau buồn sâu thẩm của con người.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Cảm ơn… Cảm ơn rất nhiều…",
+                "teller":"Người Cấy Ghép bị Tra Tấn",
+                "title":"Người Dân Calw",
+                "model":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Bây giờ, bọn ta sẽ móc mắt ngươi.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Sự sa đọa của chúng đã không còn giới hạn; chúng còn làm tới mức tạo ra thứ thiết bị giả mạo tuyến lệ đáng nguyền rủa này. Chúng ta cần phải xác thực việc này với chính đôi mắt phàm tục của mình.",
+                "teller":"Phán Quan Nghiêm Khắc",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관1"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Bọn ta sẽ thả ngươi đi nếu hốc mắt ấy được làm từ thịt và máu.",
+                "teller":"Phán Quan Nghiêm Khắc",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관1"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Gì cơ… Không—dừng lại!!!",
+                "teller":"Người Cấy Ghép bị Tra Tấn",
+                "title":"Người Dân Calw",
+                "model":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"…Hây da!",
+                "teller":null,
+                "title":null,
+                "model":"로쟈"
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":null,
+                "teller":null,
+                "title":null,
+                "model":"\/\/퍽"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Khục… Hự…",
+                "teller":"Phán Quan Nghiêm Khắc",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관1"
+            },
+            {
+                "id":-1,
+                "place":null,
+                "content":"털썩",
+                "teller":null,
+                "title":null,
+                "model":"\/\/효과음"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"…Bọn dị giáo các ngươi đều rặt một lũ sâu bọ.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Không bao giờ riêng lẻ, luôn tụ tập với nhau để cản trở sứ mệnh vĩ đại của chúng ta; lũ các ngươi quả thật đều chung một giuộc cả.",
+                "teller":"Phán Quan Tra Tấn",
+                "title":"Nagel und Hammer",
+                "model":"N사심문관2"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Rodya nhún vai khi tôi nhìn cô ấy.",
+                "teller":null,
+                "title":null,
+                "model":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Sao? Tôi chỉ muốn đảm nhiệm lần này thôi.",
+                "teller":null,
+                "title":null,
+                "model":"로쟈"
+            }
+        ]
     }
-  ]
-}
+

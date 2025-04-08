@@ -1,55 +1,62 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "content": "Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow."
-        },
-        {
-            "id": 1,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "So you've finally killed everyone. Didn't even leave a single one of them alive."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "Yeah. And you're the last one."
-        },
-        {
-            "id": 3,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "Hah..."
-        },
-        {
-            "id": 4,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "HA! HA! AHAHAHAHAHAHA!!!!"
-        },
-        {
-            "id": 5,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "YES! Now, we have become one and the same, Ishmael."
-        },
-        {
-            "id": 6,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "The paths to our destinations are both unclouded. Any sacrifice, any amount of death can be justified as long as we can see our missions through to their ends!"
-        },
-        {
-            "id": 7,
-            "model": "에이해브",
-            "teller": "Ahab",
-            "title": "Effloresced E.G.O::GasHarpoon",
-            "content": "As long as we kill that bastard, we will have nothing more to wish for in our lives!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "content":"Ishmael chầm chậm tiếp cận Ahab. Khuôn mặt cô ấy tối sầm lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "content":"Vậy là ngươi cuối cùng cũng đã giết chết tất cả mọi người. Không để lại bất kỳ một ai trong số chúng sống sót.",
+                "model":"에이해브",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":2,
+                "content":"Phải. Và người cuối cùng còn lại chính là bà.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "content":"Hah...",
+                "model":"에이해브",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":4,
+                "content":"HA! HA! AHAHAHAHAHAHA!!!!",
+                "model":"에이해브",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":5,
+                "content":"ĐÚNG RỒI! Giờ, chúng ta đã trở thành một và giống nhau hết, Ishmael.",
+                "model":"에이해브",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":6,
+                "content":"Con đường tới đích đến của chúng ta đều rất rõ ràng. Mọi sự hi sinh, mọi cái chết đều có thể được biện minh miễn là chúng ta có thể hoàn thành được sứ mệnh của chúng ta!",
+                "model":"에이해브",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            },
+            {
+                "id":7,
+                "content":"Miễn là chúng ta giết được tên khốn đó, chúng ta sẽ không bất kỳ điều gì để ước ao nữa trong cuộc đời của chúng ta!",
+                "model":"에이해브",
+                "teller":"Ahab",
+                "title":"E.G.O Nảy Lộc::Lao Móc Khí Ga"
+            }
+        ]
+    }
+

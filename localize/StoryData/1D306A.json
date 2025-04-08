@@ -2,626 +2,626 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "Yuri’s head stood motionless, facing Gregor. Her face was upright."
-    },
-    {
+      "place": "Chi Nhánh Nội Bộ Tập Đoàn L - Quận 4",
+      "content": "Đầu Yuri bất động, đối mặt Gregor. Gương mặt cô ấy ngẩng cao."
+  },
+  {
       "id": 1,
-      "content": "However, the Yuri we knew and accompanied was always hunched over."
-    },
-    {
+      "content": "Tuy nhiên, Yuri mà tôi biết và đồng hành luôn luôn khom lưng lại."
+  },
+  {
       "id": 2,
-      "content": "She slouched at all times, as though it were her sole-surviving obligation to carry the wills of her late colleagues."
-    },
-    {
+      "content": "Cô ấy bước đi lề mề mọi lúc, như thể nó là thứ nghĩa vụ duy nhất còn sót lại của cô ấy, để gánh vác trên vai hy vọng của toàn bộ đồng nghiệp của mình."
+  },
+  {
       "id": 3,
-      "content": "Given that, I can warn him with confidence."
-    },
-    {
+      "content": "Dựa vào những điều đó, tôi liền mạnh dạn cảnh báo anh ấy."
+  },
+  {
       "id": 4,
       "model": "단테",
-      "content": "<That isn’t Yuri, Gregor.>"
-    },
-    {
+      "content": "<Đó không phải Yuri đâu, Gregor.>"
+  },
+  {
       "id": 5,
       "model": "그레고르",
-      "content": "…Uh-huh. Yeah, I think you’re right."
-    },
-    {
+      "content": "...Ừ-ha. Ừ, tôi nghĩ ngài nói đúng."
+  },
+  {
       "id": 6,
-      "content": "Gregor accepts it calmly."
-    },
-    {
+      "content": "Gregor bình thản chấp nhận."
+  },
+  {
       "id": 7,
-      "content": "He then outstretches his arm, sending it flying toward “Yuri”."
-    },
-    {
+      "content": "Và rồi dang rộng cánh tay mình, vung thẳng về phía “Yuri”."
+  },
+  {
       "id": 8,
-      "content": "Yet, it soon stops traveling."
-    },
-    {
+      "content": "Thế nhưng, anh ấy sớm dừng lại."
+  },
+  {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I didn’t want to die."
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Tôi thực sự không muốn chết."
+  },
+  {
       "id": 10,
       "model": "그레고르",
-      "content": "……"
-    },
-    {
+      "content": "......"
+  },
+  {
       "id": 11,
       "model": "단테",
-      "content": "<Cut her down, Gregor.>"
-    },
-    {
+      "content": "<Chém cô ấy đi, Gregor.>"
+  },
+  {
       "id": 12,
-      "content": "I don’t know if this is the right thing to do as the manager."
-    },
-    {
+      "content": "Tôi không rõ là có nên làm vậy với tư cách quản lý không."
+  },
+  {
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "None of us wanted to die."
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Không ai trong chúng tôi muốn chết."
+  },
+  {
       "id": 14,
-      "content": "But I had to shout at Gregor now to stop him from being ruined."
-    },
-    {
+      "content": "Nhưng tôi buộc phải hét lên với Gregor ngay bây giờ nếu muốn anh ấy dừng hủy hoại bản thân lại."
+  },
+  {
       "id": 15,
       "model": "단테",
-      "content": "<Cut it now!>"
-    },
-    {
+      "content": "<Chém ngay đi!>"
+  },
+  {
       "id": 16,
       "model": "그레고르",
-      "content": "Gah, aaaaargh!!!"
-    },
-    {
+      "content": "GA, AAAAAA!!!"
+  },
+  {
       "id": 17,
-      "teller": "Kind Citizen",
-      "title": "Reminisced Person",
-      "content": "I—I don’t wanna die!"
-    },
-    {
+      "teller": "Công dân tốt bụng",
+      "title": "Người dân được hồi tưởng",
+      "content": "T-Tôi không muốn chết!"
+  },
+  {
       "id": 18,
       "model": "그레고르",
-      "content": "This… This is…"
-    },
-    {
+      "content": "Việc... việc này..."
+  },
+  {
       "id": 19,
-      "content": "The verminous arm stopped right before reaching the civilian’s throat."
-    },
-    {
+      "content": "Cánh tay kịch độc ngừng lại trước khi kịp chạm vào cổ của công dân nào đó."
+  },
+  {
       "id": 20,
-      "content": "I pulled against it with all my might, but it wouldn’t budge."
-    },
-    {
+      "content": "Tôi cố hết sức để kéo nó lại, nhưng nó vẫn không mảy may run chuyển."
+  },
+  {
       "id": 21,
       "model": "여자시민",
-      "teller": "Kind Citizen",
-      "title": "Reminisced Person",
-      "content": "P-Please spare me… I’ll give you all my money."
-    },
-    {
+      "teller": "Công dân tốt bụng",
+      "title": "Người dân được hồi tưởng",
+      "content": "L-Làm ơn tha cho tôi... Tôi sẽ đưa hết toàn bộ tiền mà."
+  },
+  {
       "id": 22,
-      "teller": "Security Guard",
-      "title": "Reminisced Person",
-      "content": "Let the woman go! Otherwise, I will stop you by force!"
-    },
-    {
+      "teller": "Nhân viên bảo vệ",
+      "title": "Người dân được hồi tưởng",
+      "content": "Thả người phụ nữ ra ngay! Nếu không, tôi buộc phải dùng vũ lực!"
+  },
+  {
       "id": 23,
       "model": "그레고르",
-      "content": "My arm… Cut off the arm! Now!"
-    },
-    {
+      "content": "Là tay tôi... Chặt đứt tay tôi đi! Nhanh lên!"
+  },
+  {
       "id": 24,
-      "teller": "Security Guard",
-      "title": "Reminisced Person",
-      "content": "This is your final warning. Release her now, or…"
-    },
-    {
+      "teller": "Nhân viên bảo vệ",
+      "title": "Người dân được hồi tưởng",
+      "content": "Đây là lời cảnh cáo cuối. Thả cô ấy ngay, nếu..."
+  },
+  {
       "id": 25,
       "model": "그레고르",
-      "content": "Just do it!"
-    },
-    {
+      "content": "Cứ chặt nó đi!"
+  },
+  {
       "id": 26,
-      "content": "As the dismembered arm falls to the ground, she slides down the wall, gasping."
-    },
-    {
+      "content": "Khi cánh tay bị cắt đứt rơi xuống đất, cô ấy trượt dài dọc tường, thở gấp."
+  },
+  {
       "id": 27,
-      "content": "However, peace doesn’t last long—the arm starts regenerating from its twitching stump."
-    },
-    {
+      "content": "Tuy nhiên, bình yên không tồn tại lâu- cánh tay dần hồi phục, co giật từ chỗ bị cắt đứt."
+  },
+  {
       "id": 28,
-      "teller": "Security Guard",
-      "title": "Reminisced Person",
-      "content": "Are you alright, sir?"
-    },
-    {
+      "teller": "Nhân viên bảo vệ",
+      "title": "Người dân được hồi tưởng",
+      "content": "Ngài có ổn không?"
+  },
+  {
       "id": 29,
       "model": "그레고르",
-      "content": "No, stay away from me! Don’t come any closer!"
-    },
-    {
+      "content": "Không, tránh xa tôi ra! Đừng có tới gần đây!"
+  },
+  {
       "id": 30,
-      "content": "The regrown arm rushes forward as if it remembered the pain it suffered mere moments ago."
-    },
-    {
+      "content": "Cánh tay mọc lại tức tốc đâm thẳng về trước như thể, nó đã ghi nhớ cơn đau mà nó hoảng sợ chỉ từ khoảng khắc trước đó."
+  },
+  {
       "id": 31,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "……"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "......"
+  },
+  {
       "id": 32,
       "teller": "???",
       "title": "???",
-      "content": "You have my utmost respect, Manager Gregor, sir!"
-    },
-    {
+      "content": "Thưa ngài, ngài xứng đáng nhận sự tôn trọng của tôi, Quản lý Gregor!"
+  },
+  {
       "id": 33,
       "model": "그레고르",
-      "content": "You really shouldn’t… I didn’t fight in the war because I wanted to…"
-    },
-    {
+      "content": "Cậu không cần phải vậy đâu... Tôi có tham gia cuộc chiến bởi vì tôi muốn thế đâu mà..."
+  },
+  {
       "id": 34,
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "……"
-    },
-    {
+      "teller": "???",
+      "title": "Fixer Cấp 8",
+      "content": "......"
+  },
+  {
       "id": 35,
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "What else am I supposed to do? Is it so wrong that I survived?"
-    },
-    {
+      "teller": "???",
+      "title": "Fixer Cấp 8",
+      "content": "Tôi phải làm gì đây? Việc tôi khao khát được sống là sai lầm sao?"
+  },
+  {
       "id": 36,
       "model": "그레고르",
-      "content": "Just live on, please… It’s not like we got ourselves into this mess voluntarily."
-    },
-    {
+      "content": "Hãy cứ sống tiếp đi, tôi xin cô đấy... Chúng ta có tình nguyện lao vào mớ hỗn độn này đâu mà."
+  },
+  {
       "id": 37,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Cấp 8",
       "content": "……"
-    },
-    {
+  },
+  {
       "id": 38,
       "teller": "???",
       "title": "???",
-      "content": "Having come to this end, only to be stopped just before your labor bears fruit. How regrettable."
-    },
-    {
+      "content": "Đã đến được tận đây, để rồi bị chặn lại trước khi có thể hưởng được thành quả của bản thân. Thật đáng tiếc làm sao."
+  },
+  {
       "id": 39,
       "teller": "???",
       "title": "???",
-      "content": "Well, we’ll take it. Opportunities left unclaimed will only become null and void."
-    },
-    {
+      "content": "Chà, chúng ta sẽ lấy nó thay cho các ngươi. Cơ hội mà để vuột mất thì trống rỗng và vô vị muôn phần."
+  },
+  {
       "id": 40,
-      "content": "Yuri’s head fell to the ground."
-    },
-    {
+      "content": "Đầu của Yuri rơi xuống đất."
+  },
+  {
       "id": 41,
-      "content": "It wasn’t Gregor’s doing."
-    },
-    {
+      "content": "Gregor không phải người làm việc đó."
+  },
+  {
       "id": 42,
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Nhh… Aah…"
-    },
-    {
+      "title": "Fixer Cấp 8",
+      "content": "Nhh... Aa..."
+  },
+  {
       "id": 43,
-      "content": "Yuri’s mouth opens and lets something out."
-    },
-    {
+      "content": "Yuri mở rộng miệng và để lộ ra một vật thể không rõ."
+  },
+  {
       "id": 44,
-      "content": "It was a tree branch radiating a bright golden glow."
-    },
-    {
+      "content": "Đó là một nhành cây tỏa ra màu vàng rực sáng."
+  },
+  {
       "id": 45,
       "teller": "???",
       "title": "???",
-      "content": "Seeking the Bough, were you?"
-    },
-    {
+      "content": "Tìm kiếm Cành Vàng à?"
+  },
+  {
       "id": 46,
       "model": "그레고르",
-      "content": "You…"
-    },
-    {
+      "content": "Bà..."
+  },
+  {
       "id": 47,
       "teller": "???",
       "title": "???",
-      "content": "A bit small, isn’t it?"
-    },
-    {
+      "content": "Hơi nhỏ, nhỉ?"
+  },
+  {
       "id": 48,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "I’m Hermann. We’ll be seeing each other often. The reason being…"
-    },
-    {
+      "content": "Ta là Hermann. Chúng ta sẽ gặp mặt nhau khá thường xuyên đấy. Lý do thì..."
+  },
+  {
       "id": 49,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "We—need those Boughs; and you—are capable of finding them."
-    },
-    {
+      "content": "Bọn ta—cần những Cành Vàng đó; và các người—có thể tìm được chúng."
+  },
+  {
       "id": 50,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "You—won’t die; but we—will kill you."
-    },
-    {
+      "content": "Các người—sẽ không chết; nhưng bọn ta—sẽ giết các người."
+  },
+  {
       "id": 51,
-      "content": "Hermann nudges Yuri’s head with her foot."
-    },
-    {
+      "content": "Hermann hất nhẹ đầu Yuri bằng chân bà ta."
+  },
+  {
       "id": 52,
       "model": "그레고르",
-      "content": "……"
-    },
-    {
+      "content": "......"
+  },
+  {
       "id": 53,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "It won’t be now, though."
-    },
-    {
+      "content": "Tuy nhiên, không phải là bây giờ."
+  },
+  {
       "id": 54,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "We’ll take good care of the Golden Bough you found."
-    },
-    {
+      "content": "Bọn ta sẽ chăm sóc tốt Cành Vàng mà các người vừa tìm được."
+  },
+  {
       "id": 55,
       "model": "이상",
-      "content": "Gubo… My dear compatriot. Is this the path you chose?"
-    },
-    {
+      "content": "Gubo... Đồng hương thân mến của tôi. Cậu chọn con đường này sao?"
+  },
+  {
       "id": 56,
       "model": "구보",
       "teller": "Gubo",
       "title": "???",
-      "content": "Indeed it is. Only few remain now."
-    },
-    {
+      "content": "Đúng thế. Chỉ có một vài người còn sót lại thôi."
+  },
+  {
       "id": 57,
       "model": "홍루",
-      "content": "…It’s been a while, Brother."
-    },
-    {
+      "content": "...Lâu rồi không gặp, huynh."
+  },
+  {
       "id": 58,
       "model": "가환",
       "teller": "Jia Huan",
       "title": "???",
-      "content": "Do you know how filthy your clothing smells? If only your family were here to see your state."
-    },
-    {
+      "content": "Đệ có biết quần áo của đệ bốc mùi kinh khủng lắm không? Giá như cả nhà có mặt ở đây để nhìn thấy cái bộ dạng lúc này của đệ."
+  },
+  {
       "id": 59,
       "model": "오티스",
-      "content": "Some reunion this has turned into."
-    },
-    {
+      "content": "Giờ tự nhiên mọi thứ lại thành một cuộc hội ngộ."
+  },
+  {
       "id": 60,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "How are you treating your present, my son?"
-    },
-    {
+      "content": "Quà ta trao cho con, con còn giữ gìn chứ, con trai?"
+  },
+  {
       "id": 61,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "I didn’t invest in you just to see you in such a mess."
-    },
-    {
+      "content": "Ta không đầu tư vào con chỉ để nhìn con vướng vào mớ rắc rối này đâu."
+  },
+  {
       "id": 62,
       "model": "그레고르",
-      "content": "I never asked for this… Not once…"
-    },
-    {
+      "content": "Tôi chưa từng muốn thế này... Chưa từng..."
+  },
+  {
       "id": 63,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "You should at least finish unwrapping what I gave you."
-    },
-    {
+      "content": "Ít nhất con cũng nên hoàn thành việc khui mở món quà mà ta đã đưa cho con chứ."
+  },
+  {
       "id": 64,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "That little arm isn’t all there is to it."
-    },
-    {
+      "content": "Cánh tay bé bỏng đó không phải là tất cả mọi thứ ta cho con đâu."
+  },
+  {
       "id": 65,
       "model": "가환",
       "teller": "Jia Huan",
       "title": "???",
-      "content": "Alright now. That’s enough greetings."
-    },
-    {
+      "content": "Được rồi. Hàn huyên đến thế thôi."
+  },
+  {
       "id": 66,
-      "content": "The man who introduced himself as Jia Huan clapped twice."
-    },
-    {
+      "content": "Người đàn ông giới thiệu anh ta là Jia Huan vỗ tay hai lần."
+  },
+  {
       "id": 67,
-      "content": "Then, everything went dark."
-    },
-    {
+      "content": "Sau đó, mọi thứ tối sầm lại."
+  },
+  {
       "id": 68,
-      "content": "Like waking from a long nightmare…"
-    },
-    {
+      "content": "Như là một cơn ác mộng dài..."
+  },
+  {
       "id": 69,
-      "content": "The early dawn greets you."
-    },
-    {
+      "content": "Bình minh ló rạng chào đón chúng tôi."
+  },
+  {
       "id": 70,
-      "content": "After some time passed…"
-    },
-    {
+      "content": "Sau một khoảng thời gian đã qua..."
+  },
+  {
       "id": 71,
-      "place": "Aboard Mephistopheles",
+      "place": "Ở trên chiếc Mephistopheles",
       "model": "베르길리우스",
-      "content": "And I thought this would be an easy enough mission for you."
-    },
-    {
+      "content": "Và ta cứ nghĩ đây là nhiệm vụ dễ dàng cho mấy anh chị."
+  },
+  {
       "id": 72,
       "model": "베르길리우스",
-      "content": "After allowing the Golden Bough to be taken before your very eyes, you had the gall to walk in with your faces up."
-    },
-    {
+      "content": "Không những làm mất cái Cành Vàng khỏi tay mình, mấy anh chị còn có gan vác cái xác mình về đây nữa."
+  },
+  {
       "id": 73,
       "model": "베르길리우스",
-      "content": "Have I overestimated you?"
-    },
-    {
+      "content": "Có khi nào ta kỳ vọng mấy anh chị quá rồi không?"
+  },
+  {
       "id": 74,
       "model": "단테",
-      "content": "<……>"
-    },
-    {
+      "content": "<......>"
+  },
+  {
       "id": 75,
       "model": "베르길리우스",
-      "content": "Why don’t you give me an excuse, Ms. Faust."
-    },
-    {
+      "content": "'Chị' có lời biện hộ nào cho ta không, 'chị' Faust?"
+  },
+  {
       "id": 76,
       "model": "파우스트",
-      "content": "As it turns out, immortality wasn’t the solution to everything."
-    },
-    {
+      "content": "Hóa ra, bất tử không phải là giải pháp cho mọi thứ."
+  },
+  {
       "id": 77,
       "model": "베르길리우스",
-      "content": "…Hm."
-    },
-    {
+      "content": "...Hừm."
+  },
+  {
       "id": 78,
       "model": "베르길리우스",
-      "content": "Anything to say for yourself, Dante?"
-    },
-    {
+      "content": "Còn cậu thì sao, Dante?"
+  },
+  {
       "id": 79,
       "model": "단테",
-      "content": "<There was another group going after the Golden Bough.>"
-    },
-    {
+      "content": "<Có một nhóm khác đang truy lùng Cành Vàng.>"
+  },
+  {
       "id": 80,
       "model": "단테",
-      "content": "<You had to have known this, so why didn’t you warn me?>"
-    },
-    {
+      "content": "<Ông chắc chắn đã biết trước chuyện này sẽ xảy ra, vậy tại sao ông lại không cảnh báo cho tôi trước?>"
+  },
+  {
       "id": 81,
       "model": "파우스트",
-      "content": "They’re asking about the other faction that sought the Golden Bough."
-    },
-    {
+      "content": "Người ấy hỏi về việc về một tổ chức khác cũng theo đuổi Cành Vàng."
+  },
+  {
       "id": 82,
-      "content": "Faust placidly relayed my words to Vergilius."
-    },
-    {
+      "content": "Faust điềm tĩnh thuật lại lời cho Vergilius."
+  },
+  {
       "id": 83,
       "model": "베르길리우스",
-      "content": "…Don’t tell me. Are you holding me responsible?"
-    },
-    {
+      "content": "...Đừng nói với ta là cậu đang đổ cái trách nhiệm ấy lên ta đấy chứ?"
+  },
+  {
       "id": 84,
       "model": "베르길리우스",
-      "content": "Tell me then, Dante. Why would we bother sending twelve whole combatants to a place with no threats?"
-    },
-    {
+      "content": "Vậy nói ta nghe thử xem, Dante. Hà cớ gì mà công ty phải gửi mười hai chiến sĩ tới một nơi không có cái tí gì là nguy hiểm cả?"
+  },
+  {
       "id": 85,
       "model": "베르길리우스",
-      "content": "After hiring Fixers to guide them, too."
-    },
-    {
+      "content": "Đó là chưa kể còn thuê cho họ Fixer để dẫn đường nữa."
+  },
+  {
       "id": 86,
       "model": "단테",
-      "content": "<That’s…>"
-    },
-    {
+      "content": "<Chuyện đó...>"
+  },
+  {
       "id": 87,
       "model": "그레고르",
-      "content": "Enough of that, Manager Bud."
-    },
-    {
+      "content": "Đủ rồi đấy, Cậu Quản Lý."
+  },
+  {
       "id": 88,
       "model": "그레고르",
-      "content": "It’s my fault. If you want someone to blame, I’m right here…"
-    },
-    {
+      "content": "Việc này là lỗi của tôi. Nếu ông muốn đổ lỗi cho ai, thì có tôi đây này..."
+  },
+  {
       "id": 89,
       "model": "베르길리우스",
-      "content": "How fascinating."
-    },
-    {
+      "content": "Hay thật nhỉ."
+  },
+  {
       "id": 90,
       "model": "베르길리우스",
-      "content": "Built a sense of camaraderie between you already."
-    },
-    {
+      "content": "Mấy anh chị bắt đầu có tình đồng chí rồi cơ đấy."
+  },
+  {
       "id": 91,
       "model": "베르길리우스",
-      "content": "Well, I do suppose it’s not too bad to cover up for each other since you’re all in the same bus…"
-    },
-    {
+      "content": "Thôi thì, các cô cậu bao che nhau bởi vì các cô cậu đều cùng trên chuyến xe này cũng không hẳn quá tệ..."
+  },
+  {
       "id": 92,
       "model": "베르길리우스",
-      "content": "Just know that sticking up for one another doesn’t make up for your incompetence."
-    },
-    {
+      "content": "Nhưng các cô cậu phải nhớ rằng, bao che nhau cũng không bù đắp nổi sự kém cỏi của bản thân mình."
+  },
+  {
       "id": 93,
       "model": "파우스트",
-      "content": "…We got a call. After Team’s Spec Ops Section 4 has just gone underground for their job."
-    },
-    {
+      "content": "...Chúng ta có điện. Đội Đặc Nhiệm Hậu Cần Nhánh 4 vừa xuống đó làm việc."
+  },
+  {
       "id": 94,
       "model": "베르길리우스",
-      "content": "That sounds about right. Someone has to salvage the E.G.O and Abnormalities left there."
-    },
-    {
+      "content": "Vậy là tốt rồi. Phải có ai đó ở lại vớt vát mấy E.G.O và Dị Thể còn sót lại nữa."
+  },
+  {
       "id": 95,
       "model": "베르길리우스",
-      "content": "…A real shame that the essence was lost, though."
-    },
-    {
+      "content": "...Chỉ tiếc rằng tinh hoa cũng bị lấy mất."
+  },
+  {
       "id": 96,
       "model": "오티스",
-      "content": "This is getting excessive."
-    },
-    {
+      "content": "Chuyện này quá mức rồi đấy."
+  },
+  {
       "id": 97,
       "model": "오티스",
-      "content": "Failure is a common thing on the battlefield. If an objective wasn’t met, you devise another plan and redeploy."
-    },
-    {
+      "content": "Thất bại là điều bình thường trên chiến trường. Nếu ta không đạt được mục tiêu thì ta đặt ra kế hoạch khác và bố trí lại."
+  },
+  {
       "id": 98,
       "model": "오티스",
-      "content": "Are you sure it wasn’t your expectations that were too high for our first mission? I will have you know that our manager’s performance was nothing short of outstanding."
-    },
-    {
+      "content": "Ngươi có chắc không phải do ta mới nhiệm vụ đầu mà đã đòi 'trèo cao' không? Ta nói cho ngươi biết, màn thể hiện của quản lý quá xuất chúng để ngươi có thể hiểu."
+  },
+  {
       "id": 99,
       "model": "베르길리우스",
       "content": "……"
-    },
-    {
+  },
+  {
       "id": 100,
       "model": "베르길리우스",
-      "content": "I suppose we’ll leave it at that. You’re not entirely wrong."
-    },
-    {
+      "content": "Ta cho rằng mình sẽ gác chuyện này lại. Các cô cậu cũng không có lỗi sai hoàn toàn."
+  },
+  {
       "id": 101,
       "model": "파우스트",
-      "content": "Certainly."
-    },
-    {
+      "content": "Chắc chắn."
+  },
+  {
       "id": 102,
-      "content": "There seemed to be an uncanny tension between Vergilius and Faust…"
-    },
-    {
+      "content": "Có vẻ đã có một sự căng thẳng kì lạ diễn ra giữa Vergilius và Faust..."
+  },
+  {
       "id": 103,
-      "content": "But right now, I had neither the energy nor the willpower left in me to get inquisitive."
-    },
-    {
+      "content": "Nhưng hiện tại, tôi không còn sức hay tinh thần để mà tò mò nữa."
+  },
+  {
       "id": 104,
-      "content": "The bus reeked of blood with all the stains and gore on our outfits, yet none of us tried to open the windows."
-    },
-    {
+      "content": "Chiếc xe nồng nặc mùi máu với vết chàm và máu me trên trang phục của chúng tôi, dẫu vậy thì không ai trong chúng tôi có ý định mở cửa sổ."
+  },
+  {
       "id": 105,
-      "content": "And no one had the urge to have a change of clothes."
-    },
-    {
+      "content": "Và chẳng ai muốn thay đồng phục trên người cả."
+  },
+  {
       "id": 106,
-      "content": "All of us just sat in place, dwelling on silence."
-    },
-    {
+      "content": "Chúng tôi chỉ ngồi đó, trầm mặc."
+  },
+  {
       "id": 107,
-      "content": "Gregor had the most defeated look of them all, staring out the window…"
-    },
-    {
+      "content": "Gregor là người có dáng vẻ thê thảm nhất trong toàn bộ, đăm chiêu nhìn ra ngoài cửa sổ..."
+  },
+  {
       "id": 108,
-      "content": "Then, he suddenly went to hang something from his pocket near the windshield of the bus."
-    },
-    {
+      "content": "Sau đó, anh ấy bỗng nhiên đi lấy một thứ gì đó từ túi áo mình rồi treo nó lên gần kính chắn gió của xe."
+  },
+  {
       "id": 109,
       "model": "카론",
-      "content": "Bug Guy. What did you put on Mephi’s head?"
-    },
-    {
+      "content": "Anh Bọ. Anh để gì trên đầu Mephi vậy?"
+  },
+  {
       "id": 110,
       "model": "그레고르",
-      "content": "…A memento."
-    },
-    {
+      "content": "...Một di vật."
+  },
+  {
       "id": 111,
       "model": "그레고르",
-      "content": "Something that belonged to the two."
-    },
-    {
+      "content": "Một vật đã từng thuộc về hai người."
+  },
+  {
       "id": 112,
       "model": "그레고르",
-      "content": "I had a sister, just about Yuri’s age."
-    },
-    {
+      "content": "Tôi có một người em gái, cũng tầm tuổi Yuri."
+  },
+  {
       "id": 113,
       "model": "그레고르",
-      "content": "That’s… all there is."
-    },
-    {
+      "content": "Chỉ... có vậy thôi."
+  },
+  {
       "id": 114,
-      "content": "I considered giving him a pep talk, but that quickly dissipated."
-    },
-    {
+      "content": "Tôi dự định sẽ động viên anh ấy, nhưng rồi ý định ấy lại trở nên quá phóng đãng."
+  },
+  {
       "id": 115,
-      "content": "Ishmael wore a grieving look, Sinclair was quietly weeping, and Rodya let out a distressed sigh; if they couldn’t offer him any encouragement, what good would I do?"
-    },
-    {
+      "content": "Ishmael mang trên mình một ánh nhìn đau buồn, Sinclair chỉ lặng im khóc lóc, còn Rodya thì thở dài khó chịu. Nếu họ còn không thể động viên anh ấy, vậy thì tôi có thể làm gì?"
+  },
+  {
       "id": 116,
       "model": "베르길리우스",
-      "content": "Charon, won’t this get in your way?"
-    },
-    {
+      "content": "Charon à, việc này có ảnh hưởng đến con không?"
+  },
+  {
       "id": 117,
       "model": "카론",
-      "content": "No, Charon’ll be fine."
-    },
-    {
+      "content": "Không, Charon sẽ ổn thôi."
+  },
+  {
       "id": 118,
       "model": "베르길리우스",
-      "content": "…Alright, let’s hit the road."
-    },
-    {
+      "content": "...Được rồi, lên đường nào."
+  },
+  {
       "id": 119,
       "model": "카론",
-      "content": "Vroom-vroom."
-    },
-    {
+      "content": "Vờ-rùm-vờ-rùm."
+  },
+  {
       "id": 120,
-      "content": "The bus slowly grumbled forward."
-    },
-    {
+      "content": "Xe buýt chậm rãi gầm gừ về phía trước."
+  },
+  {
       "id": 121,
-      "content": "The gas mask hanging by the windshield waved like an ornament."
-    },
-    {
+      "content": "Và chiếc mặt nạ treo lơ lửng trên kính chắn gió thì đang đung đưa như một món đồ trang trí."
+  },
+  {
       "id": 122
-    }
+  }
   ]
 }

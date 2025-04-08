@@ -1,265 +1,324 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Mephistopheles' Skiff",
-            "model": "히스클리프",
-            "content": "Right... I get it. I get it now. All of these 'rocks' were actually Whales. And I get that Mermaids pop out of those pores."
-        },
-        {
-            "id": 1,
-            "model": "히스클리프",
-            "content": "But I think it's a loony thing that... Why are we even drawing their ire, huh? We could've just gone around them!"
-        },
-        {
-            "id": 2,
-            "model": "히스클리프",
-            "content": "Looking to let off some steam? Hankerin' for a game of whack-a-mole all of a sudden? Is that it?"
-        },
-        {
-            "id": 3,
-            "model": "이스마엘",
-            "content": "Of course not."
-        },
-        {
-            "id": 4,
-            "model": "이스마엘",
-            "content": "This is just the only method I know."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "... You better be ready to explain what you're talking about."
-        },
-        {
-            "id": 6,
-            "content": "Heathcliff, furious... wasn't the only Sinner looking at Ishmael with expectant eyes."
-        },
-        {
-            "id": 7,
-            "content": "There were Outis and the other Sinners who all looked to her for some answers."
-        },
-        {
-            "id": 8,
-            "model": "단테2",
-            "content": "<Ishmael.>"
-        },
-        {
-            "id": 9,
-            "content": "And I was too, of course."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "Haah... I also didn't think I'd actually be doing this..."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘",
-            "content": "Well... so there's this legend-like tale."
-        },
-        {
-            "id": 12,
-            "model": "싱클레어",
-            "content": "Legend...?"
-        },
-        {
-            "id": 13,
-            "model": "이스마엘",
-            "content": "Each Lake of the Great Lake has its own culture, with many wandering and choosing to call those places their homes. So, naturally, there are as many tales as there are Lakes."
-        },
-        {
-            "id": 14,
-            "model": "이스마엘",
-            "content": "But there's that one tale of a certain Lake that is passed down orally from sailor to sailor. Just like the legends of old."
-        },
-        {
-            "id": 15,
-            "model": "이스마엘",
-            "content": "The legend of the 'Gloomy Grey Lake of Wafting and Rumbling'. Sailors sang the legend of that Lake, passing it down for years upon years."
-        },
-        {
-            "id": 16,
-            "model": "이스마엘",
-            "content": "Doom, and hew thy veiled path to misty seas."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "Begloom, and let Whales draw their pearls in search of pallid hue."
-        },
-        {
-            "id": 18,
-            "model": "이스마엘",
-            "content": "Toom, shall be thy mist-path, heeding the weeping Whales."
-        },
-        {
-            "id": 19,
-            "model": "돈키호테",
-            "content": "... Whatever does that mean?"
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "It's simple. Hit the Porous Whales to wake them, draw out and hunt their Mermaids, and the path to the Pallid Whale should clear of the mist."
-        },
-        {
-            "id": 21,
-            "model": "히스클리프",
-            "content": "Do you really believe that? You expect us to just... believe that hogwash?"
-        },
-        {
-            "id": 22,
-            "model": "히스클리프",
-            "content": "Blimey, didn't think I'd ever get to say these words before my deathbed, but..."
-        },
-        {
-            "id": 23,
-            "model": "히스클리프",
-            "content": "Are you stupid?"
-        },
-        {
-            "id": 24,
-            "model": "로쟈",
-            "content": "... Pfft."
-        },
-        {
-            "id": 25,
-            "model": "히스클리프",
-            "content": "Haah... Listen. What does waking these Whales up have anything to do with getting rid of that thick fog? It's got to make even a little bit of sense, no?"
-        },
-        {
-            "id": 26,
-            "model": "파우스트",
-            "content": "Heathcliff discusses the correlation between actions and consequences. This truly is a rare experience indeed."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프",
-            "content": "Shut up, smartarse... I'm serious."
-        },
-        {
-            "id": 28,
-            "model": "이스마엘",
-            "content": "... And you think the law that sends Waves after us if we don't cross the borders at the exact right moment makes sense?"
-        },
-        {
-            "id": 29,
-            "model": "히스클리프",
-            "content": "Huh?"
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "You think the law that makes us go in circles before reaching our destination, the law that doesn't let us go back the way we came from, makes any sense?"
-        },
-        {
-            "id": 31,
-            "model": "이스마엘",
-            "content": "I've been telling you this whole time. Common sense has no place in the Great Lake."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘",
-            "content": "That's just the way this place works, okay? Just... You just have to accept that."
-        },
-        {
-            "id": 33,
-            "model": "히스클리프",
-            "content": "... Fine. I'll give you that. But they're like the laws of the City. As outlandish as they are, they're still strict laws that can be calculated into those variable coordinates or whatnot. What you're blathering here is some vague old song. Am I supposed to believe something so absurd?"
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "Yes. Because I've seen it myself."
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "......"
-        },
-        {
-            "id": 36,
-            "model": "이스마엘",
-            "content": "Years ago, when a young, stupid, but motivated sailor boarded the ship, she had the most unfortunate opportunity of witnessing this very legend with her own eyes."
-        },
-        {
-            "id": 37,
-            "model": "이스마엘",
-            "content": "Because that's how she saw the Pallid Whale."
-        },
-        {
-            "id": 38,
-            "content": "Heathcliff fell silent, scratching his head. The rest of the Sinners also nodded and began whispering."
-        },
-        {
-            "id": 39,
-            "model": "히스클리프",
-            "content": "... I really don't like you."
-        },
-        {
-            "id": 40,
-            "model": "이스마엘",
-            "content": "Took the words right out of my mouth."
-        },
-        {
-            "id": 41,
-            "model": "히스클리프",
-            "content": "I don't like... any of this. But I know that you're not the kind of lass to lie or tell tall tales just to get the upper hand in a petty squabble."
-        },
-        {
-            "id": 42,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 43,
-            "model": "히스클리프",
-            "content": "Fine, let's go all the way to the end. I'll keep whacking those mole-like things with this club."
-        },
-        {
-            "id": 44,
-            "model": "오티스",
-            "content": "I can also accept your explanation. But... from now on, I would appreciate it if you could share your knowledge with us first before doing anything."
-        },
-        {
-            "id": 45,
-            "model": "이스마엘",
-            "content": "... I'll try."
-        },
-        {
-            "id": 46,
-            "model": "파우스트",
-            "content": "In a way, I am relieved that we now have a definite path forward."
-        },
-        {
-            "id": 47,
-            "model": "단테2",
-            "content": "<... Yeah. Well, let's go find our next Whale.>"
-        },
-        {
-            "id": 48,
-            "model": "오티스",
-            "content": "Yes, Executive Manager."
-        },
-        {
-            "id": 49,
-            "model": "오티스",
-            "content": "All aboard, men!"
-        },
-        {
-            "id": 50,
-            "model": "이상",
-            "content": "... Truly, the ocean mist is splitting as though a blade has hewn it in half."
-        },
-        {
-            "id": 51,
-            "content": "Once we eliminated the Mermaids of the last Whale singled out by Ishmael, the fog slowly began to fade. Behind it was a different Lake, beyond the grey sea."
-        },
-        {
-            "id": 52,
-            "model": "이스마엘",
-            "content": "Haah... Finally."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Thuyền Nhỏ Mephistopheles",
+                "model":"히스클리프",
+                "content":"Rồi... Tao hiểu. Tao hiểu rồi. Mấy 'tảng đá' đó thật ra là Cá Voi. Và Người Cá chui ra từ mấy cái lỗ đó."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nhưng mà tao thấy ngu ngu ở chỗ... Mắc gì mình chọc tức nó, hả? Né ra cái là xong còn gì!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Muốn xả căng thẳng hay gì? Rảnh quá muốn chơi đập chuột à? Phải vậy không?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tất nhiên là không."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chẳng qua đây là cách duy nhất tôi biết thôi."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Mày chuẩn bị giải thích đi là vừa."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff, rất phẫn nộ... anh ta không phải là Tội Nhân duy nhất nhìn Ishmael bằng ánh mắt đợi chờ."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Có Outis và các Tội Nhân khác đều chờ cô ấy trả lời."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테2",
+                "content":"<Ishmael.>"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Và tất nhiên, cả tôi nữa."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hầy... Tôi cũng không nghĩ có ngày mình lại thực sự làm theo đâu."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Chuyện là... đã từng có một truyền thuyết kể rằng thế này."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Truyền thuyết...?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mỗi một Hồ trong Hồ Lớn có bản sắc của riêng nó, cũng là nơi ẩn náu của vô số các thực thể lang bạt. Thế nên về cơ bản mà nói, trên đời này có bao nhiêu Hồ thì cũng tồn tại bấy nhiêu chuyện kể."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhưng riêng có một câu chuyện luôn được kể lại suốt nhiều thập kỉ. Tựa như một truyền thuyết cổ xưa."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Truyền thuyết về \"Hồ Xám Âm U Của Cơn Rung Chấn Và Trôi Nổi\". Thủy thủ hát vang về nó, truyền miệng lại qua từng thế hệ."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hỡi diệt vong, hãy mở đường rẽ lối trên biển cả mù sương."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hỡi đau thương, hãy xé toạc con tim ngự trong lòng Cá Voi u tịch."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hỡi tĩnh mịch, hãy nghênh đón bằng tiếng khóc than ai oán."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... Điều đó có nghĩa là gì vậy?"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đơn giản thôi. Tấn công lũ Cá Voi Xốp để đánh thức chúng, dụ đám Người Cá ra giao chiến và rồi sương mù sẽ tan đi, dẫn lối chúng ta tới Cá Voi Trắng."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Vậy mà mày cũng tin à? Mày nghĩ bọn tao... tin cái thứ xàm xí đó à?"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Má nó, không ngờ tao cũng được nói câu này trong đời, nhưng mà..."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày bị ngu à?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Phụt."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Haah... Nghe này. Đánh thức mấy con Cá Voi này thì liên quan gì cái vụ làm tan sương mù kia? Ít nhất phải có tí lập luận gì chứ?"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cậu Heathcliff đang nói về mối tương quan giữa hành động và hậu quả. Đây thực sự là một dịp hiếm thấy."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Im mồm, con khôn... Tao đang nghiêm túc."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Thế, không lẽ anh tin rằng cái luật cho Con Sóng truy đuổi nếu chúng ta không ra khỏi biên giới đúng thời hạn, là có sơ sở lập luận à?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hả?"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Bộ anh nghĩ rằng đống luật bắt anh phải đi lòng vòng mãi mới tới đích, cái thứ luật không cho phép anh quay lại con đường mình đã đi qua, có nghĩa lý gì sao?"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi đã nói mãi rồi. Ra Hồ Lớn thì vứt hết mớ thường thức trên đất liền đi là vừa."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nơi này vốn hoạt động như thế được chưa? Cứ... Nói chung là cứ thế thuận theo mà làm đi."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "content":"...Được. Cái đó thì tao công nhận. Nhưng mà thế thì khác gì luật của City. Dù có ảo ma cỡ nào thì chúng cũng đều là luật chính xác có thể tính ra đàng hoàng này nọ. Còn mấy cái mày nói nghe như mấy bài hát thời cổ đại vậy. Tao phải tin cái đống đó thật ấy à?"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thật. Vì tôi từng tận mắt thấy nó diễn ra rồi."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"히스클리프",
+                "content":"......."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhiều năm về trước, khi mà một thủy thủ trẻ tuổi, non nớt nhưng đầy nhiệt huyết ra khơi lần đầu, cô ta đã có một cơ hội chứng kiến từ đầu tới cuối cái khoảnh khắc khét tiếng trong huyền thoại ấy."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đó là cách mà cô ta đã nhìn thấy Cá Voi Trắng bằng xương bằng thịt đấy."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff rơi vào trầm lặng, gãi đầu. Các Tội Nhân còn lại cũng gật gù và bắt đầu thì thầm."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Tao thật sự không ưa mày nổi."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Câu đó phải để tôi nói mới đúng."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao không an tâm... với tất cả đống này. Nhưng tao biết mày không phải dạng nói láo hay phóng đại để đi cãi thắng người ta."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이스마엘",
+                "content":"……."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Được, giờ thì đi tới cuối đường nào. Để tao dùng chày đập mấy con chuột này."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"오티스",
+                "content":"Ta cũng có thể chấp nhận lời giải thích của ngươi. Nhưng... từ giờ, ta sẽ biết ơn hơn nếu ngươi có thể chia sẻ kiến thức của ngươi với chúng ta trước khi làm bất cứ thứ gì."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Tôi sẽ cố."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"파우스트",
+                "content":"Dù gì thì tôi cũng đã nhẹ nhõm hơn khi ta hiện có cùng mục tiêu."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"단테2",
+                "content":"<...Ừa. Giờ thì, đi tìm con Cá Voi tiếp theo của chúng ta nào.>"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"오티스",
+                "content":"Vâng, thưa Quản Lý Điều Hành."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"오티스",
+                "content":"Tất cả, lên tàu!"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이상",
+                "content":"... Đúng là, màn sương biển được vén lên như một lưỡi kiếm đã xẻ đôi nó vậy."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":null,
+                "content":"Một khi chúng tôi tiêu diệt xong đám Người Cá của con Cá Voi mà Ishmael đã chọn lúc trước, màn sương bắt đầu tan dần đi. Đằng sau nó là một cái Hồ khác, phía bên kia biển xám."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hừ... Cuối cùng thì."
+            }
+        ]
+    }
+

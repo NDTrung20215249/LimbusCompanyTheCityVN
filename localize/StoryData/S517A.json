@@ -1,154 +1,214 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "The Twinhook Pirate Ship",
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Ye crafty bastards, we were going to board yer ship first...!"
-        },
-        {
-            "id": 1,
-            "model": "로쟈",
-            "content": "We've got places to be, things to do~ Okay~?"
-        },
-        {
-            "id": 2,
-            "model": "히스클리프",
-            "content": "Now, answer my question. Lie or flap your gums meaninglessly, and I'll tear the lips off your mugs."
-        },
-        {
-            "id": 3,
-            "model": "히스클리프",
-            "content": "Speak. Who sent you plonkers after us?"
-        },
-        {
-            "id": 4,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "We can't let someone who dared to lay a finger on our first mate leave in one piece."
-        },
-        {
-            "id": 5,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Yer very breath brings shame to our Syndicate! By Captain Hook's orders, ye won't leave here alive!"
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "Heh, ain't that bloody marvelous. I like seeing a good camaraderie."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "... So what'd I say about flapping your gums meaninglessly?"
-        },
-        {
-            "id": 8,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Khaha! Think yer threats'll rattle us? We're no tenderfoots, ye stupid sons of bachelors!"
-        },
-        {
-            "id": 9,
-            "model": "로쟈",
-            "content": "What a clingy bunch... We spared their first mate's life, and this is the thanks we get?"
-        },
-        {
-            "id": 10,
-            "model": "싱클레어",
-            "content": "You think this is what Smee meant? That we'll regret it if we..."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘",
-            "content": "No."
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "Your juvenile whining... That's not from shame."
-        },
-        {
-            "id": 13,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Huh?"
-        },
-        {
-            "id": 14,
-            "model": "이스마엘",
-            "content": "When all of your mates lay dead, consumed, manipulated and led into a meat grinder by a collective insanity of a madwoman... when you are left in that endless void where the only sound is the beating of your heart..."
-        },
-        {
-            "id": 15,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "W-wait..."
-        },
-        {
-            "id": 16,
-            "model": "이스마엘",
-            "content": "And when you realize that... your heart continues to beat because it's still desperately, pathetically clinging onto life, despite all that..."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "That's... When you'll feel true shame."
-        },
-        {
-            "id": 18,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Wait, wait. Looking at the sorry state of yer boat, I can hazard ye have no clue what yer doin' out here..."
-        },
-        {
-            "id": 19,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Spare me and I'll tell ye what ye need to know. I'll even put in a good word to the bossman for ye."
-        },
-        {
-            "id": 20,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Nothing to lose here eh, lass? You won't have anyone to put in a good... word!... If you kill me."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘",
-            "content": "......"
-        },
-        {
-            "id": 22,
-            "model": "쌍갈고리파조직원2",
-            "teller": "Panicked Pirate",
-            "title": "Twinhook Pirates",
-            "content": "Haha...! Am I getting through to ye? Spare me, and ye just might sail out of this Lake with yer—"
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "... Haah. I'm tired of listening to these inane, meaningless pleas."
-        },
-        {
-            "id": 24,
-            "model": "이스마엘",
-            "content": "That was the last one, right? Let's go back to our ship."
-        },
-        {
-            "id": 25,
-            "content": "The ship was still as death. Its sails fluttered a forlorn dance in the winds."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"The Twinhook Pirate Ship",
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Lũ cáo già bọn bây, bọn tao đáng lí đã lên tàu bọn bây trước...!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Chúng tôi có chốn để đi, việc để làm~ Hiểu không~?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Giờ thì, trả lời giùm tao. Nói xạo hay nói xàm là tao xé mõm bọn mày luôn ấy."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nói. Ai ra lệnh bọn láo chúng mày đuổi theo tụi tao?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Bọn mày nghĩ tụi tao sẽ để lũ chúng mày toàn thây sau khi dám đụng tay đụng chân vào người thuyền phó à?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Chỉ cần mồm bọn mày còn thở thêm giây nào là Băng bọn tao còn thối ngày ấy! Theo lệnh Thuyền Trưởng Hook, bọn mày đéo sống lâu được đâu!"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Hê, ngon quá nhỉ? Có tình đồng chí luôn đấy."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... Rồi hồi nãy tao vừa nói gì về vụ nói xàm nhỉ?"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Kha ha! Bớt thói đời đi, thằng mồ côi! Mày nghĩ mày hù dọa ai, nói cho mà biết, bọn tao đéo phải lũ nhu nhược như mấy thằng trước đó đâu!"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Đúng là bọn cặn bã mà... Chúng ta đã tha con thuyền phó kia... mà giờ bả cám ơn chúng mình như vầy à?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Smee... Có phải đây là ý của cô ta không? Cô ta có nói rằng chúng ta sẽ phải hối hận nếu dám đụng tới cổ..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Không."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Mấy câu làu bàu ỉ ôi của chúng mày... không xuất phát từ lòng hổ thẹn."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Hở?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Khi mà tất cả bạn bè mày bị giết hại, bị nuốt trọn, bị thao túng rồi tự họ lao đầu vào chỗ chết chỉ vì một con mụ mất trí... khi mà mày bị bỏ lại một mình trong cái hố sâu đen ngòm không một âm thanh nào khác ngoài tiếng tim đập của chính mày..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"T-từ đã..."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Và khi mày nhận ra rằng... sau tất cả những chuyện đó, mày vẫn còn thở chỉ vì tuyệt vọng níu kéo sự sống một cách thảm hại...."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Thì đó... mới là khi mày hiểu được nỗi hổ thẹn thực sự."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Từ từ từ. Nhìn tình trạng thuyền thảm hại của bọn bây thì tao cũng đôi phần đoán được là tụi bây chả biết bản thân đang vướng vào cái gì đâu..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Tha tao đi rồi tao sẽ nói cho bọn bây những điều cần biết. Có khi tao còn sẽ lái thêm đôi lời tốt đẹp với sếp lớn cho bọn bây nữa cơ."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Có gì đâu mà mất, đúng không hở gái? Mày sẽ đéo còn ai để đi nịnh... nọt đâu!... Đó là nếu như mày giết tao."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"......"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"쌍갈고리파조직원2",
+                "teller":"Cướp Biển Hoảng Loạn",
+                "title":"Băng Hải Tặc Twinhook",
+                "content":"Ha ha...! Bị nhìn thấu rồi chứ gì? Tha tao đi rồi mày và lũ còn lại sẽ thuận buồm ra khơi ở cái Hồ---"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Ài. Tao phát ớn khi phải nghe những câu van lơn vô nghĩa này rồi."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Đứa cuối cùng rồi đúng chứ? Về tàu thôi."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Con tàu hoàn toàn lặng tiếng. Những cánh buồm đập lên vũ khúc theo cơn gió."
+            }
+        ]
+    }
+

@@ -1,63 +1,78 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Pequod Town",
-            "model": "이스마엘",
-            "content": "Not a lot of good men left, Ahab."
-        },
-        {
-            "id": 1,
-            "model": "이스마엘",
-            "content": "…!"
-        },
-        {
-            "id": 2,
-            "content": "Ishmael quickly leaped to the side, evading a harpoon that struck the spot she was just standing on."
-        },
-        {
-            "id": 3,
-            "model": "이스마엘",
-            "content": "Who's this now...?"
-        },
-        {
-            "id": 4,
-            "model": "에이해브",
-            "content": "My crew is nothing if not loyal. More so than anyone in the world."
-        },
-        {
-            "id": 5,
-            "model": "에이해브",
-            "content": "And this one here is second to none when it comes to harpooneering."
-        },
-        {
-            "id": 6,
-            "model": "에이해브",
-            "content": "So... do you still fail to see that to attack me here is to court death?"
-        },
-        {
-            "id": 7,
-            "model": "퀴케그가면",
-            "content": "……."
-        },
-        {
-            "id": 8,
-            "content": "A sailor wearing an odd-looking mask joined the fray."
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "Blimey... Look at the size of that harpoon."
-        },
-        {
-            "id": 10,
-            "model": "료슈",
-            "content": "A direct hit from that will turn your bones to dust. That one... That one's a real warrior. Huhu..."
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "Gah! Could you stop being so bloody creepy for one second? Givin' me the shivers outta nowhere..."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Làng Pequod",
+                "model":"이스마엘",
+                "content":"Sắp sửa rụng hết sạch tay sai rồi đấy, Ahab."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Ishmael nhanh chóng nhảy sang bên, né tránh một mũi lao đâm vào chỗ cô ấy vừa đứng."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Lại ai nữa...?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"에이해브",
+                "content":"Đoàn của ta sẽ không là gì nếu chẳng một lòng trung thành với ta. Hơn bất cứ ai trên thế giới này."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"에이해브",
+                "content":"Và đứa này đây không một ai sánh ngang hàng được trong việc sử dụng lao móc."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"에이해브",
+                "content":"Thế... ngươi vẫn không thể nhận ra việc tấn công ta tại đây chính là tự sát sao?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"퀴케그가면",
+                "content":"……."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Một thuỷ thủ đeo một chiếc mặt nạ kỳ lạ tiến vào trận chiến."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Vãi cả... Nhìn kích cỡ cái lao móc kia kìa."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"료슈",
+                "content":"Ăn một cú trực diện từ nó sẽ khiến ngươi tan xương nát thịt. Tên đó... Tên đó là một chiến binh đích thực. Hê Hê..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Má! Mày lúc nào cũng phải nói chuyện kinh dị thế à? Tự nhiên nổi da gà..."
+            }
+        ]
+    }
+

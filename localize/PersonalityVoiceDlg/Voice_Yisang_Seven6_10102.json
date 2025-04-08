@@ -3,122 +3,122 @@
     {
       "id": "get_10102_1",
       "desc": "Identity Acquisition",
-      "dlg": "You need not hide any secrets from me."
+      "dlg": "Ngài không cần phải giấu giếm điều gì khỏi tôi cả."
     },
     {
       "id": "lobby_morning_10102_1",
       "desc": "Morning Greeting",
-      "dlg": "Ruminate on your yesterday. It shall prove useful for extricating the present from woe."
+      "dlg": "Hãy suy ngẫm về ngày hôm qua của ngài. Nó rất hữu ích để xua tan đau khổ khỏi hôm nay."
     },
     {
       "id": "lobby_noon_10102_1",
       "desc": "Afternoon Greeting",
-      "dlg": "An infinite spectrum comprises the rays of light cast by the sun. Likewise, this world hides countless secrets."
+      "dlg": "Mặt trời rọi xuống nhân gian những tia nắng với muôn ngàn quang phổ. Tương tự vậy, thế giới này cũng ẩn giấu muôn vàn bí mật."
     },
     {
       "id": "lobby_night_10102_1",
       "desc": "Evening Greeting",
-      "dlg": "Furtive words are whispered in the dark. You must always have your ear to the ground."
+      "dlg": "Những lời bóng gió lén lút được thì thầm trong đêm đen. Ngài phải luôn cẩn trọng lắng nghe chúng."
     },
     {
       "id": "smalltalk_10102_1",
       "desc": "Chatter #1",
-      "dlg": "I would like to study your head if I get the chance one day."
+      "dlg": "Tôi rất muốn được nghiên cứu đầu ngài nếu một ngày có cơ hội."
     },
     {
       "id": "smalltalk_10102_2",
       "desc": "Chatter #2",
-      "dlg": "No man is without weakness. It is why no amount of extravagance and intimidation a move poses can threaten me."
+      "dlg": "Không kẻ nào là thiếu đi khuyết điểm. Nên dù kỹ thuật của ngươi có hào nhoáng hay thâm hiểm tới đâu cũng chẳng thể đe dọa được ta."
     },
     {
       "id": "smalltalk_10102_3",
       "desc": "Chatter #3",
-      "dlg": "A little bit of attention can bring in much information. For instance, you will know that now is not a good time to speak with Heathcliff."
+      "dlg": "Một chút chú tâm có thể đem lại rất nhiều thông tin. Ví dụ, ngài sẽ biết đây không phải lúc tốt để nói chuyện với Heathcliff."
     },
     {
       "id": "smalltalk_10102_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "If you ever yearn to know your past, merely give me a request. …You’d rather not, I see… Dante, you are such a bizarre and curious specimen."
+      "dlg": "Nếu ngài có bao giờ mong muốn được biết về quá khứ bản thân, hãy cho tôi biết… Ngài không muốn sao… Dante à, ngài thật sự là một kẻ kì lạ và thú vị đấy."
     },
     {
       "id": "smalltalk_10102_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "So far, I have yet to run out of curiosities to find here. The joy of discovery sates my hunger, and so do you."
+      "dlg": "Tới giờ, tôi vẫn chưa hết thứ để tìm tòi ở nơi này. Niềm vui khi được khám phá thỏa mãn khát vọng trong tôi, và cả ngài nữa."
     },
     {
       "id": "neglect_10102_1",
       "desc": "Idle",
-      "dlg": "Hmm… Silence can speak much, in a way."
+      "dlg": "Hừm… Sự im lặng cũng là một thông tin hữu ích."
     },
     {
       "id": "gacksung_10102_1",
       "desc": "Uptying",
-      "dlg": "It was as I expected."
+      "dlg": "Mọi thứ đúng như những gì tôi đã dự đoán."
     },
     {
       "id": "formation_10102_1",
       "desc": "Deployment",
-      "dlg": "It is time to enrich my knowledge."
+      "dlg": "Tới lúc tôi trau dồi kiến thức mình rồi."
     },
     {
       "id": "battleentry_10102_1",
       "desc": "Stage Entry",
-      "dlg": "What am I to study this time?"
+      "dlg": "Lần này tôi sẽ học thêm được điều gì mới mẻ đây?"
     },
     {
       "id": "battle_select_10102_1",
       "desc": "Viewed in Battle",
-      "dlg": "How about you examine that one?"
+      "dlg": "Hay ngài xem thử tên đó?"
     },
     {
       "id": "battle_endcommand_10102_1",
       "desc": "Commencing Attack",
-      "dlg": "I have finished my studies."
+      "dlg": "Tôi đã hoàn thành nghiên cứu."
     },
     {
       "id": "battle_enemy_break_10102_1",
       "desc": "Enemy Stagger",
-      "dlg": "That one has become vulnerable."
+      "dlg": "Tên đó đã yếu lắm rồi."
     },
     {
       "id": "battle_break_10102_1",
       "desc": "Staggered",
-      "dlg": "Oh…"
+      "dlg": "Ôi…"
     },
     {
       "id": "battle_kill_10102_1",
       "desc": "Enemy Killed",
-      "dlg": "Fallen into silence."
+      "dlg": "Chìm vào lặng thinh."
     },
     {
       "id": "battle_allydead_10102_1",
       "desc": "Ally Death",
-      "dlg": "Not the most flattering situation."
+      "dlg": "Không phải cảnh đẹp lắm."
     },
     {
       "id": "choice_success_p_10102_1",
       "desc": "Check Passed",
-      "dlg": "It is as predicted."
+      "dlg": "Như tôi dự đoán thôi."
     },
     {
       "id": "choice_fail_n_10102_1",
       "desc": "Check Failed",
-      "dlg": "This was unexpected…"
+      "dlg": "Chuyện này không như dự kiến…"
     },
     {
       "id": "battle_clear_10102_1",
       "desc": "Victory Cry",
-      "dlg": "I’ve successfully analyzed the enemy’s behavior."
+      "dlg": "Tôi đã thành công phân tích hành vi của địch."
     },
     {
       "id": "battle_clear_ex_10102_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "That was an effective exploitation of their weaknesses."
+      "dlg": "Điểm yếu của đối phương đã được khai thác rất triệt để."
     },
     {
       "id": "battle_defeat_10102_1",
       "desc": "Defeat Wail",
-      "dlg": "We ought to explore other modes…"
+      "dlg": "Chúng ta phải tìm hiểu chiến thuật khác…"
     }
   ]
 }
