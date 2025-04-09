@@ -166,3 +166,7 @@ path = "$.dataList.[*].teller"
 [[font_rules."StoryData/*.json"]]
 font = "mikodacs"
 path = "$.dataList.[*].title"
+
+[[font_rules."StoryData/*.json"]]
+font = "mikodacs"
+path = "$.dataList.[*].place"
