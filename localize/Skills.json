@@ -7636,7 +7636,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "P.C.",
+          "name": "C.B.V.B",
           "desc": "",
           "coinlist": [
             {
@@ -7649,7 +7649,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Appetite"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Thirst]"
                 }
               ]
             }
@@ -7657,7 +7657,7 @@
         },
         {
           "level": 2,
-          "name": "P.C.",
+          "name": "C.B.V.B",
           "desc": "",
           "coinlist": [
             {
@@ -7670,7 +7670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Appetite"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Thirst]"
                 }
               ]
             }
@@ -7678,7 +7678,7 @@
         },
         {
           "level": 4,
-          "name": "P.C.",
+          "name": "C.B.V.B",
           "desc": "",
           "coinlist": [
             {
@@ -7691,7 +7691,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Appetite"
+                  "desc": "[OnSucceedAttack] Nhận 2 [Thirst]"
                 }
               ]
             }
@@ -7704,13 +7704,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I.H.",
+          "name": "S.N.L.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] lượt kế"
                 }
               ]
             },
@@ -7724,7 +7724,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, inflict 1 HP Healing Down next turn"
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration] hay [Paralysis], gây 1 [TakeHpHealReduce] lượt kế"
                 }
               ]
             }
@@ -7732,13 +7732,13 @@
         },
         {
           "level": 2,
-          "name": "I.H.",
+          "name": "S.N.L.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] lượt kế"
                 }
               ]
             },
@@ -7752,7 +7752,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, inflict 3 HP Healing Down next turn"
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration] hay [Paralysis], gây 3 [TakeHpHealReduce] lượt kế"
                 }
               ]
             }
@@ -7760,13 +7760,13 @@
         },
         {
           "level": 4,
-          "name": "I.H.",
-          "desc": "[WhenUse] Gain 1 Appetite",
+          "name": "S.N.L.",
+          "desc": "[WhenUse] Nhận 1 [Thirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] lượt kế"
                 }
               ]
             },
@@ -7780,7 +7780,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, inflict 4 HP Healing Down next turn"
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration] hay [Paralysis], gây 4 [TakeHpHealReduce] lượt kế"
                 }
               ]
             }
@@ -7793,27 +7793,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "I Can Cook Anything",
-          "desc": "Boost damage by 5% of target’s missing HP (Max 20)",
+          "name": "Ta Có Thể Nấu Mọi Thứ",
+          "desc": "Gây thêm sát thương bằng 5% HP đã mất của mục tiêu (Tối đa 20)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% sát thương"
+                  "desc": "[OnSucceedAttackHead] Xu cuối gây thêm +10% sát thương"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +5% damage"
+                  "desc": "[OnSucceedAttackHead] Xu cuối gây thêm +5% sát thương"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +5% damage"
+                  "desc": "[OnSucceedAttackHead] Xu cuối gây thêm +5% sát thương"
                 }
               ]
             },
@@ -7827,7 +7827,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "F.I. in Sight",
+          "name": "N.L.N. Trong Tầm Mắt",
           "desc": "[OnSucceedEvade] Nhận 1 [Agility] lượt kế",
           "coinlist": [
             {}
@@ -7914,7 +7914,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]; Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]; Gây 1 [Binding] lượt kế"
                 }
               ]
             }
@@ -10803,7 +10803,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] Gây 1 [Binding] lượt kế"
                 }
               ]
             }
@@ -10818,7 +10818,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] Gây 1 [Binding] lượt kế"
                 }
               ]
             }
@@ -10833,7 +10833,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttack] Gây 1 [Binding] lượt kế"
                 }
               ]
             }
@@ -10853,7 +10853,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] lượt kế"
                 }
               ]
             }
@@ -10868,7 +10868,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] lượt kế"
                 }
               ]
             }
@@ -10883,7 +10883,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] lượt kế"
                 }
               ]
             }
